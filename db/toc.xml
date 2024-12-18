@@ -1,0 +1,1296 @@
+<TEI xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Werke- und Siglenverzeichnis zu Kant's gesammelte Schriften. Digitale Edition
+                    Abteilung I.</title>
+                <author>
+                    <persName>??</persName>
+                    <idno type="GND" xml:base="http://d-nb.info/gnd/"/>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <ab>
+                    <listBibl>
+                        <listBibl>
+                            <head>Kant's gesammelte Schriften</head>
+                            <listBibl>
+                                <head>Abteilung I</head>
+                                <bibl>
+                                    <bibl>Kant's gesammelte Schriften - Abteilung I, Hrsg. von
+                                        https://[], abgerufen am: [Datum des Abrufs]</bibl>
+                                    <availability>
+                                        <licence target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Alle im Rahmen des Projektes publizierten Inhalte der
+                                            Edition sind unter der Lizenz „CC-BY-ND-NC-4.0“
+                                            zugänglich. </licence>
+                                    </availability>
+                                </bibl>
+                            </listBibl>
+                            <listBibl>
+                                <head>Digitale Edition mit ediarum - Telota/BBAW</head>
+                                <bibl>Kant's gesammelte Schriften - Abteilung I. Digitale Edition.
+                                    Hrsg. https://, abgerufen am: [Datum des Abrufs]</bibl>
+                            </listBibl>
+                            <listBibl>
+                                <head>Publikationen im Verlag Walter de Gruyter</head>
+                                <listBibl>
+                                    <listBibl>
+                                        <head>Print-Edition</head>
+                                        <bibl>[] Berlin [in Vorbereitung]</bibl>
+                                    </listBibl>
+                                </listBibl>
+                            </listBibl>
+                        </listBibl>
+                    </listBibl>
+                </ab>
+            </publicationStmt>
+            <seriesStmt>
+                <ab/>
+            </seriesStmt>
+            <sourceDesc>
+                <ab/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <ab/>
+        </encodingDesc>
+        <revisionDesc>
+            <change status="final" when-iso="2024-01-05" who="#GN">final version 05.01.2024</change>
+            <change status="draft" when-iso="2021-08-31" who="#GN">version 31.08.2021 <note>Werke-
+                    und Siglenverzeichnis</note></change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <!-- Abteilung 1 -->
+            <listBibl n="1" type="Abteilung">
+                <!-- Band I -->
+                <listBibl n="1" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B01P01" corresp="B01P01">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Gedanken von der wahren Schätzung der lebendigen
+                                Kräfte und Beurtheilung der Beweise, derer sich Herr von Leibnitz
+                                und andere Mechaniker in dieser Streitsache bedienet haben, nebst
+                                einigen vorhergehenden Betrachtungen, welche die Kraft der Körper
+                                überhaupt betreffen, durch Immanuel Kant.</title>
+                            <title type="short">Wahre Schätzung</title>
+                            <date when="1746">1746; im Druck beendet 1749</date>
+                            <biblScope unit="page" from="1" to="158">S.1-158</biblScope>
+                            <list>
+                                <item>Vorrede.<ref>5</ref></item>
+                                <item>Erstes Hauptstück, von der Kraft der Körper überhaupt.<ref>13</ref></item>
+                                <item>Zweytes Hauptstück, Untersuchung der Lehr-Sätze der Leibnitzischen Parthey von den lebendigen Kräften.<ref>25</ref></item>
+                                <item>Drittes Hauptstück, Welches eine neue Schätzung der lebendigen Kräfte, als das wahre Kräftemaaß der Natur darleget.<ref>118</ref></item>
+                            </list>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="02" type="Werk">
+                        <bibl xml:id="B01P02" corresp="B01P02">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Untersuchung der Frage, <hi rend="italics">Ob die Erde in ihrer
+                                Umdrehung um die Achse, wodurch sie die Abwechselung des Tages und
+                                der Nacht hervorbringt, einige Veränderung seit den ersten Zeiten
+                                ihres Ursprungs erlitten habe und woraus man sich ihrer versichern
+                                könne,</hi> welche von der Königl. Academie der Wissenschaften zu Berlin
+                                zum Preise vor das jetztlaufende Jahr aufgegeben worden.</title>
+                            <title type="short">Umdrehung der Erde</title>
+                            <date when="1754">1754</date>
+                            <biblScope unit="page" from="159" to="166">S.159-166</biblScope>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="03" type="Werk">
+                        <bibl xml:id="B01P03" corresp="B01P03">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Die Frage: Ob die Erde veralte? Physikalisch erwogen.</title>
+                            <title type="short">Ob die Erde veralte</title>
+                            <date when="1754">1754</date>
+                            <biblScope unit="page" from="167" to="186">S.167-186</biblScope>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="04" type="Werk">
+                        <bibl xml:id="B01P04" corresp="B01P04">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Allgemeine Naturgeschichte und Theorie des Himmels,
+                                oder Versuch von der Verfassung und dem mechanischen Ursprunge des
+                                ganzen Weltgebäudes nach Newtonischen Grundsätzen
+                                abgehandelt.</title>
+                            <title type="short">Theorie des Himmels</title>
+                            <date when="1755">1755</date>
+                            <biblScope unit="page" from="187" to="325">S.187-325</biblScope>
+                            <list>
+                                <item>Vorrede.<ref>191</ref></item>
+                                <item>Innhalt des ganzen Werks.<ref>205</ref></item>
+                                <item>Erster Theil, Abriß einer systematischen Verfassung unter den Fixsternen, imgleichen von der Vielheit solcher Fixsternsystemen.<ref>213</ref></item>
+                                <item>Zweyter Theil, von dem ersten Zustande der Natur, der Bildung der Himmelskörper, den Ursachen ihrer Bewegung, und der systematischen Beziehung derselben, sowol in dem Planetengebäude insonderheit, als auch in Ansehung der ganzen Schöpfung.<ref>225</ref>
+                                <list>
+                                    <item>Erstes Hauptstück, von dem Ursprunge des planetischen Weltbaues überhaupt, und den Ursachen ihrer Bewegungen.<ref>227</ref></item>
+                                    <item>Zweytes Hauptstück, von der verschiedenen Dichtigkeit der Planeten, und dem Verhältnisse ihrer Massen.<ref>235</ref></item>
+                                    <item>Drittes Hauptstück, von der Eccentricität der Planetenkreise, und dem Ursprunge der Cometen.<ref>242</ref></item>
+                                    <item>Viertes Hauptstück, von dem Ursprunge der Monde, und den Bewegungen der Planeten um ihre Achse.<ref>247</ref></item>
+                                    <item>Fünftes Hauptstück, von dem Ursprunge des Ringes des Saturns, und Berechnung der täglichen Umdrehung dieses Planeten aus den Verhältnissen desselben.<ref>254</ref></item>
+                                    <item>Sechstes Hauptstück, von dem Zodiakallichte.<ref>266</ref></item>
+                                    <item>Siebendes Hauptstück, von der Schöpfung im ganzen Umfange ihrer Unendlichkeit, sowohl dem Raume, als der Zeit nach.<ref>268</ref></item>
+                                    <item>Achtes Hauptstück, Allgemeiner Beweis von der Richtigkeit einer mechanischen Lehrverfassung der Einrichtung des Weltbaues überhaupt, insonderheit von der Gewißheit der gegenwärtigen.<ref>291</ref></item>
+                                </list>
+                                </item>
+                                <item>Dritter Theil, Welcher einen Versuch einer auf die Analogien der Natur gegründeten Vergleichung, zwischen den Einwohnern verschiedener Planeten, in sich enthält.<ref>306</ref></item>
+                                <item>Beschluß.<ref>323</ref></item>
+                            </list>
+                            <note>Anonym veröffentlicht.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="05" type="Werk">
+                        <bibl xml:id="B01P05" corresp="B01P05">
+                            <author>Immanuel Kant</author>
+                            <title type="full">MEDITATIONUM QUARUNDAM DE IGNE SUCCINCTA DELINEATIO, QUAM SPECIMINIS CAUSA AMPLISSIMAE FACULTATI PHILOSOPHICAE, UT EXAMINI BENEVOLE ADMITTATUR, HUMILLIME OFFERT IMMANUEL KANT, REG. BOR. SCIENTIARUM PHIL. CULTOR. REGIOMONTI DIE XVII APRILIS ANNO MDCCLV. <hi rend="italics">mit einer Übersetzung:</hi> KURZGEFAßTE DARSTELLUNG EINIGER BETRACHTUNGEN ÜBER DAS FEUER</title>
+                            <title type="short">De igne</title>
+                            <date when="1744">1755</date>
+                            <biblScope unit="page" from="326" to="365">S.326-365</biblScope>
+                            <list>
+                                <item>INSTITUTI RATIO<ref>328</ref></item>
+                                <item>SECTIO I. De corporum durorum et fluidorum natura.<ref>330</ref></item>
+                                <item>SECTIO II. De materia ignis eiusque modificationibus, calore et frigore.<ref>342</ref></item>
+                            </list>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="05" type="Werk">
+                        <bibl xml:id="B01P06" corresp="B01P06">
+                            <author>Immanuel Kant</author>
+                            <title type="full">PRINCIPIORVM PRIMORVM COGNITIONIS METAPHYSICAE NOVA DILVCIDATIO QVAM CONSENSV AMPLISSIMAE FACVLTATIS PHILOSOPHICAE DISSERTATIONE PVBLICA IN AVDITORIO PHIL. DIE 27. SEPTEMBR. HORIS VIII-XII. HABENDA PRO RECEPTIONE IN EANDEM DEFENDET M. IMMANVEL KANT, REGIOM. RESPONDENTE CHRISTOPHORO ABRAHAMO BORCHARD, HEILIGENB. BOR. S. S. THEOL. CVLTORE, OPPONENTIBVS JOHANNE GODOFREDO MÖLLER, REG. S. S. THEOL. STVD. FRIDERICO HENRICO SAMVELE LYSIO, REGIOM. I. V. C. ET IOHANNE REINHOLDO GRVBE, REG. I. V. C. ANNO MDCCLV. <hi rend="italics">mit einer Übersetzung:</hi> NEUE ERKLÄRUNG DER ERSTEN GRUNDSÄTZE DER METAPHYSISCHEN ERKENNTNIß.</title>
+                            <title type="short">Nova dilucidatio</title>
+                            <date when="1755">1755</date>
+                            <biblScope unit="page" from="366" to="450">S.366-450</biblScope>
+                            <list>
+                                <item>RATIO INSTITVTI<ref>370</ref></item>
+                                <item>Sectio I. De principio Contradictionis.<ref>372</ref></item>
+                                <item>Sectio II. De principio rationis determinantis vulgo sufficientis.<ref>382</ref></item>
+                                <item>Sectio III. Bina principia cognitionis Metaphysicae, consectariorum feracissima aperiens, e principio rationis determinantis fluentia.<ref>430</ref></item>
+                            </list>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="06" type="Werk">
+                        <bibl xml:id="B01P07" corresp="B01P07">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Von den Ursachen der Erderschütterungen bey
+                                Gelegenheit des Unglücks, welches die westliche Länder von Europa
+                                gegen das Ende des vorigen Jahres betroffen hat.</title>
+                            <title type="short">Erdbeben</title>
+                            <date when="1756">1756</date>
+                            <biblScope unit="page" from="451" to="460">S.451-460</biblScope>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="07" type="Werk">
+                        <bibl xml:id="B01P08" corresp="B01P08">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Geschichte und Naturbeschreibung der merkwürdigsten
+                                Vorfälle des Erdbebens welches an dem Ende des 1755sten Jahres einen
+                                großen Theil der Erde erschüttert hat von M. Immanuel Kant.</title>
+                            <title type="short">Geschichte Erdbeben</title>
+                            <date when="1756">1756</date>
+                            <biblScope unit="page" from="461" to="492">S.461-492</biblScope>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="08" type="Werk">
+                        <bibl xml:id="B01P09" corresp="B01P09">
+                            <author>Immanuel Kant</author>
+                            <title type="full">M. Immanuel Kants Fortgesetzte Betrachtung der seit einiger Zeit
+                                wahrgenommenen Erderschütterungen.</title>
+                            <title type="short">Betrachtung Erdbeben</title>
+                            <date when="1756">1756</date>
+                            <biblScope unit="page" from="493" to="501">S.493-501</biblScope>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="09" type="Werk">
+                        <bibl xml:id="B01P10" corresp="B01P10">
+                            <author>Immanuel Kant</author>
+                            <title type="full">METAPHYSICAE CUM GEOMETRIA JUNCTAE USUS IN PHILOSOPHIA NATURALI, CUIUS <hi rend="smaller">SPECIMEN</hi> I. CONTINET MONADOLOGIAM PHYSICAM QVAM, CONSENTIENTE AMPLISSIMO PHILOSOPHORUM ORDINE DISSERTATIONE PUBLICA PRO LOCO HABENDA DIE X. APRILIS HORIS VIII-XII. IN AUDITORIO PHIL. DEFENDET M. IMMANUEL KANT, RESPONDENTE, LUCA DAVIDE VOGEL, REG. BOR. S. THEOL. CULTORE. OPPONENTIBUS ADOLESCENTIBUS INGENUIS AC PERPOLITIS LUDOVICO ERNESTO BOROWSKI, REGIOM. BOR. S. THEOL. CULTORE, GEORGIO LUDOVICO MUEHLENKAMPF, TREMPIA AD DARKEHMIAM BORUSSO THEOL. CULTORE, ET LUDOVICO JOANNE KRUSEMARCK, KYRIZENSI MARCHICO S. THEOL. CULTORE. ANNO MDCCLVI. <hi rend="italics">mit einer Übersetzung:</hi> NUTZEN DER VERBINDUNG DER METAPHYSIK MIT DER GEOMETRIE IN DER NATUR-PHILOSOPHIE, VON WELCHER DER ERSTE VERSUCH DIE PHYSISCHE MONADOLOGIE ENTHÄLT.</title>
+                            <title type="short">Monadologia physica</title>
+                            <date when="1756">1756</date>
+                            <biblScope unit="page" from="502" to="538">S.502-538</biblScope>
+                            <list>
+                                <item>PRAENOTANDA.<ref>500</ref></item>
+                                <item>Monadologiae Physicae Sectio I. Monadum Physicarum exitentiam Geometriae consentaneam declarans.<ref>510</ref></item>
+                                <item>Sectio II.<ref>524</ref></item>
+                            </list>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="10" type="Werk">
+                        <bibl xml:id="B01P11" corresp="B01P11">
+                            <author>Immanuel Kant</author>
+                            <title type="full">M. Immanuel Kants neue Anmerkungen zur Erläuterung
+                                der Theorie der Winde, wodurch er zugleich zu seinen Vorlesungen
+                                einladet.</title>
+                            <title type="short">Theorie der Winde</title>
+                            <date when="1756">1756</date>
+                            <biblScope unit="page" from="539" to="552">S.539-552</biblScope>
+                            <list>
+                                <item>Vorerinnerung.<ref>539</ref></item>
+                                <item>Erste Anmerkung.<ref>540</ref></item>
+                                <item>Zweyte Anmerkung.<ref>541</ref></item>
+                                <item>Dritte Anmerkung.<ref>542</ref></item>
+                                <item>Vierte Anmerkung.<ref>544</ref></item>
+                                <item>Fünfte Anmerkung.<ref>546</ref></item>
+                                <item>Beschluß.<ref>548</ref></item>
+                            </list>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band II -->
+                <listBibl n="2" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B02P01" corresp="B02P01">
+                            <author>Immanuel Kant</author>
+                            <title type="full">M. Immanuel Kants Entwurf und Ankündigung eines
+                                Collegii der physischen Geographie, nebst dem Anhange einer kurzen
+                                Betrachtung über die Frage: Ob die Westwinde in unsern Gegenden
+                                darum feucht seyn, weil sie über ein grosses Meer streichen.</title>
+                            <title type="short">Entwurf Geographie</title>
+                            <date when="1757">1757</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="02" type="Werk">
+                        <bibl xml:id="B02P02" corresp="B02P02">
+                            <author>Immanuel Kant</author>
+                            <title type="full">M. Immanuel Kants Neuer Lehrbegriff der Bewegung und
+                                Ruhe, und der damit verknüpften Folgerungen in den ersten Gründen
+                                der Naturwissenschaft, wodurch zugleich seine Vorlesungen in diesem
+                                halben Jahre angekündigt werden.</title>
+                            <title type="short">Lehrbegriff</title>
+                            <date when="1758">1758</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="03" type="Werk">
+                        <bibl xml:id="B02P03" corresp="B02P03">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Versuch einiger Betrachtungen über den Optimismus von
+                                M. Immanuel Kant, wodurch er zugleich seine Vorlesungen auf das
+                                bevorstehende halbe Jahr ankündigt.</title>
+                            <title type="short">Optimismus</title>
+                            <date when="1759">1759</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="04" type="Werk">
+                        <bibl xml:id="B02P04" corresp="B02P04">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Gedanken bey dem frühzeitigen Ableben des
+                                Hochwohlgebohrnen Herrn HERRN Johann Friedrich von Funk, in einem
+                                Sendschreiben an die Hochwohlgebohrne Frau FRAU Agnes Elisabeth verwitt.
+                                Frau Rittmeisterin von Funk gebohrne von Dorthösen, Erbfrau der Kaywenschen und Kahrenschen Güter in Curland, des seelig Verstorbenen Hochbetrübte Frau Mutter, von M.
+                                Immanuel Kant, Lehrer der Weltweißheit auf der Academie zu
+                                Königsberg.</title>
+                            <title type="short">Ableben Funk</title>
+                            <date when="1760">1760</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="05" type="Werk">
+                        <bibl xml:id="B02P05" corresp="B02P05">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Die falsche Spitzfindigkeit der vier syllogistischen
+                                Figuren erwiesen von M. Immanuel Kant.</title>
+                            <title type="short">Spitzfindigkeit</title>
+                            <date when="1762">1762</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="06" type="Werk">
+                        <bibl xml:id="B02P06" corresp="B02P06">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Der einzig mögliche Beweisgrund zu einer
+                                Demonstration des Daseyns Gottes, von M. Immanuel Kant.</title>
+                            <title type="short">Beweisgrund</title>
+                            <date when="1763">1763/<hi rend="bold">1770</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="07" type="Werk">
+                        <bibl xml:id="B02P07" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Versuch den Begriff der negativen Größen in die
+                                Weltweisheit einzuführen von M. Immanuel Kant.</title>
+                            <title type="short">Negative Größen</title>
+                            <date when="1763">1763</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="08" type="Werk">
+                        <bibl xml:id="B02P08" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Beobachtungen über das Gefühl des Schönen und
+                                Erhabenen. von M. Immanuel Kant.</title>
+                            <title type="short">Beobachtungen</title>
+                            <date when="1764">1764/1766/<hi rend="bold">1771</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="09" type="Werk">
+                        <bibl xml:id="B02P09" corresp="Ziegenprophet">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Ueber das Waldkind</hi></title>
+                            <title type="short">Waldkind</title>
+                            <date when="1764">1764</date>
+                            <note>Anonym veröffentlicht.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="10" type="Werk">
+                        <bibl xml:id="B02P10" corresp="B02P09">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Versuch über die Krankheiten des Kopfes.</title>
+                            <title type="short">Krankheiten</title>
+                            <date when="1764">1764</date>
+                            <note>Anonym veröffentlicht.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="11" type="Werk">
+                        <bibl xml:id="B02P11" corresp="B02P10">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Recension zu: Theorie der am
+                                23. Juli 1762 erschienenen Feuerkugel, abgehandelt von Johann Esaias
+                                Silberschlag.</hi></title>
+                            <title type="short">Rec. Silberschlag</title>
+                            <date when="1764">1764</date>
+                            <note>Anonym erschienen. - Kursiv gesetzt: für die AA konzipierter oder
+                                ergänzter Titel(passus).</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="12" type="Werk">
+                        <bibl xml:id="B02P12" corresp="B02P11">
+                            <!-- zweimal Motto in note ?? -->
+                            <author>Immanuel Kant</author>
+                            <title type="full">Untersuchung über die Deutlichkeit der Grundsätze der
+                                natürlichen Theologie und der Moral. Zur Beantwortung der Frage
+                                welche die Königl. Academie der Wissenschaften zu Berlin auf das
+                                Jahr 1763. aufgegeben hat.</title>
+                            <title type="short">Deutlichkeit</title>
+                            <date when="1764">1764</date>
+                            <note>Anonym veröffentlicht. Motto auf dem Titel: Motto: Verum animo
+                                satis haec vestigia parva sagaci /Sunt, per quae possis cognoscere
+                                caetera tute.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="13" type="Werk">
+                        <bibl xml:id="B02P13" corresp="B02P12">
+                            <author>Immanuel Kant</author>
+                            <title type="full">M. Immanuel Kants Nachricht von der Einrichtung
+                                seiner Vorlesungen in dem Winterhalbenjahre, von 1765-1766.</title>
+                            <title type="short">Nachricht Vorlesungen</title>
+                            <date when="1765">1765</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="14" type="Werk">
+                        <bibl xml:id="B02P14" corresp="B02P13">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Träume eines Geistersehers, erläutert durch Träume
+                                der Metaphysik.</title>
+                            <title type="short">Träume</title>
+                            <date when="1766">1766</date>
+                            <note>Anonym veröffentlicht. Motto auf dem Titel: velut aegri somnia,
+                                vanae /Finguntur species. /HORAT.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="15" type="Werk">
+                        <bibl xml:id="B02P15" corresp="B02P14">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Von dem ersten Grunde des Unterschiedes der Gegenden
+                                im Raume.</title>
+                            <title type="short">Gegenden</title>
+                            <date when="1768">1768/1783/<hi rend="bold">1800</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="16" type="Werk">
+                        <bibl xml:id="B02P16" corresp="B02P15">
+                            <author>Immanuel Kant</author>
+                            <title type="full">DE MVNDI SENSIBILIS ATQVE INTELLIGIBILIS FORMA ET PRINCIPIIS. DISSERTATIO PRO LOCO PROFESSIONIS LOG. ET METAPH. ORDINARIAE RITE SIBI VINDICANDO. QVAM EXIGENTIBVS STATVTIS ACADEMICIS, PVBLICE TVEBITVR IMMANVEL KANT. RESPONDENTIS MVNERE FVNGETVR MARCVS HERTZ, <hi rend="kapital">Berolinensis,Gente Ivdaevs, Medicinae et Philosophiae Cvltor</hi>. CONTRA OPPONENTES GEORGIVM WILHELMIVM SCHREIBER, REG. BOR. ART. STVD. IOHANNEM AVGVSTVM STEIN, REG. BOR. I. V. C. ET GEORGIVM DANIELEM SCHROETER, ELBING S. S. THEOL. C. IN AUDITORIO MAXIMO HORIS MATVTINIS ET POMERIDIANIS CONSVETIS DIE XX. AVG. A: MDCCLXX.</title>
+                            <title type="short">De forma</title>
+                            <date when="1770">1770</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="17" type="Werk">
+                        <bibl xml:id="B02P17" corresp="B02P16">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Recension von: Von dem
+                                Körperlichen wesentlichen Unterschiede zwischen der Structur der
+                                Thiere und Menschen. Eine akademische Rede, gehalten auf dem
+                                anatomischen Theater zu Pavia, von D. Peter Moscati.</hi></title>
+                            <title type="short">Rec. Moscati</title>
+                            <date when="1771">1771</date>
+                            <note>Anonym erschienen.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="18" type="Werk">
+                        <bibl xml:id="B02P18" corresp="B02P17">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Von den verschiedenen Racen der Menschen.</title>
+                            <title type="short">Racen</title>
+                            <date when="1777">1775/<hi rend="bold">1777</hi></date>
+                            <note>Wenn in der Neuedition eine zweite/spätere Auflage als Grundlage
+                                des Edierten Textes gewählt wird, ist die relevante Jahreszahl hier
+                                hervorgehoben.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="19" type="Werk">
+                        <bibl xml:id="B02P19" corresp="B02P18">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Anzeige zum
+                                Philanthropin; An das gemeine Wesen.</hi></title>
+                            <title type="short">Philanthropin</title>
+                            <date when="1776">1776;1777</date>
+                            <note>Anonym erschienen.</note>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band III -->
+                <listBibl n="3" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B03P01" corresp="B03P01">
+                            <!-- soll das Datum mit ausgegeben werden und welches ist das Standarddatum -->
+                            <author>Immanuel Kant</author>
+                            <title type="full">Critik der reinen Vernunft von Immanuel Kant
+                                Professor in Königsberg. <hi rend="italics">Mit:</hi> Critik der reinen Vernunft von Immanuel Kant
+                                Professor in Königsberg, der Königl. Academie der Wissenschaften in
+                                Berlin Mitglied. Zweyte hin und wieder verbesserte Auflage.</title>
+                            <title type="short">CrV</title>
+                            <date when="1781">1781 1787</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band IV -->
+                <listBibl n="4" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B04P01" corresp="B04P02">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Prolegomena zu einer jeden künftigen Metaphysik die
+                                als Wissenschaft wird auftreten können, von Immanuel Kant.</title>
+                            <title type="short">Prolegomena</title>
+                            <date when="1783">1783</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="02" type="Werk">
+                        <bibl xml:id="B04P02" corresp="B04P03">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Grundlegung zur Metaphysik der Sitten von Immanuel
+                                Kant.</title>
+                            <title type="short">GMS</title>
+                            <date when="1785">1785/<hi rend="bold">1786</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="03" type="Werk">
+                        <bibl xml:id="B04P03" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Metaphysische Anfangsgründe der Naturwissenschaft von
+                                Immanuel Kant.</title>
+                            <title type="short">MAN</title>
+                            <date when="1786">1786</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band V -->
+                <listBibl n="5" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B05P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Critik der practischen Vernunft von Immanuel
+                                Kant.</title>
+                            <title type="short">CpV</title>
+                            <date when="1788">1788</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="02" type="Werk">
+                        <bibl xml:id="B05P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Critik der Urtheilskraft von Immanuel Kant.</title>
+                            <title type="short">CU</title>
+                            <date when="1793">1790/<hi rend="bold">1793</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band VI -->
+                <listBibl n="6" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B06P01" corresp="B06P01">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Die Religion innerhalb der Grenzen der bloßen
+                                Vernunft. Vorgestellt von Immanuel Kant.</title>
+                            <title type="short">Religion</title>
+                            <date when="1793">1793/<hi rend="bold">1794</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="02" type="Werk">
+                        <bibl xml:id="B06P02" corresp="B06P02">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Die Metaphysik der Sitten. Abgefaßt von Immanuel
+                                Kant. Erster Theil. Metaphysische Anfangsgründe der
+                                Rechtslehre.</title>
+                            <title type="short">RL</title>
+                            <date when="1789">1797/<hi rend="bold">1798</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="03" type="Werk">
+                        <bibl xml:id="B06P03" corresp="B06P03">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Die Metaphysik der Sitten. Abgefaßt von Immanuel
+                                Kant. Zweyter Theil. Metaphysische Anfangsgründe der
+                                Tugendlehre.</title>
+                            <title type="short">TL</title>
+                            <date when="1803">1798/<hi rend="bold">1803</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    
+                </listBibl>
+                <!-- Band VII -->
+                <listBibl n="7" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B07P01" corresp="B07P01">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Der Streit der Facultäten in drey Abschnitten von
+                                Immanuel Kant.</title>
+                            <title type="short">Facultäten</title>
+                            <date when="1798">1798</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="02" type="Werk">
+                        <bibl xml:id="B07P02" corresp="B07P02">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Anthropologie in pragmatischer Hinsicht abgefaßt von
+                                Immanuel Kant.</title>
+                            <title type="short">Anthropologie</title>
+                            <date when="1798">1798/<hi rend="bold">1800</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band VIII -->
+                <listBibl n="8" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B08P01" corresp="B08P01">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Anzeige des Lambertschen Briefwechsels.</hi></title>
+                            <title type="short">Anzeige</title>
+                            <date when="1782">1782</date>
+                            <note>Anonym erschienen.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="02" type="Werk">
+                        <bibl xml:id="B08P02" corresp="B08P02">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Nachricht an Aerzte.</title>
+                            <title type="short">Nachricht Aerzte</title>
+                            <date when="1782">1782</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="03" type="Werk">
+                        <bibl xml:id="B08P03" corresp="">
+                            <!-- Fehlendes Leerzeichen zwischen "Anleitung" und "zur" -->
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Recension zu Johann Heinrich Schultz: Versuch einer
+                                Anleitung zur Sittenlehre für alle Menschen, ohne Unterschied der
+                                Religion, nebst einem Anhange von den Todesstrafen. Erster Theil.</hi></title>
+                            <title type="short">Rec. Schulz</title>
+                            <date when="1783">1783</date>
+                            <note>Anonym erschienen.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="04" type="Werk">
+                        <bibl xml:id="B08P04" corresp="B08P04">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Idee zu einer allgemeinen Geschichte in
+                                weltbürgerlicher Absicht.</title>
+                            <title type="short">Geschichte</title>
+                            <date when="1784">1784</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="05" type="Werk">
+                        <bibl xml:id="B08P05" corresp="B08P05">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Beantwortung der Frage: Was ist Aufklärung?</title>
+                            <title type="short">Aufklärung</title>
+                            <date when="1784">1784</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="06" type="Werk">
+                        <bibl xml:id="B08P06" corresp="B08P06">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Recensionen zu: Ideen zur
+                                Philosophie der Geschichte der Menschheit von Johann Gottfried
+                                Herder.</hi></title>
+                            <title type="short">Rec. Herder</title>
+                            <date when="1785">1785</date>
+                            <note>Anonym erschienen.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="07" type="Werk">
+                        <bibl xml:id="B08P07" corresp="B08P07">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Ueber die Vulkane im Monde.</title>
+                            <title type="short">Vulkane</title>
+                            <date when="1785">1785</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="08" type="Werk">
+                        <bibl xml:id="B08P08" corresp="B08P08">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Von der Unrechtmäßigkeit des Büchernachdruks.</title>
+                            <title type="short">Büchernachdruck</title>
+                            <date when="1785">1785</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="09" type="Werk">
+                        <bibl xml:id="B08P09" corresp="B08P09">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Bestimmung des Begrifs einer Menschenrace.</title>
+                            <title type="short">Menschenrace</title>
+                            <date when="1785">1785</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="10" type="Werk">
+                        <bibl xml:id="B08P10" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Muthmaßlicher Anfang der Menschengeschichte.</title>
+                            <title type="short">Muthmaßlicher Anfang</title>
+                            <date when="1786">1786</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="11" type="Werk">
+                        <bibl xml:id="B08P11" corresp="B08P11">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Recension zu: Versuch über
+                                den Grundsatz des Naturrechts. Nebst einem Anhange von Gottlieb
+                                Hufeland.</hi></title>
+                            <title type="short">Rec. Hufeland</title>
+                            <date when="1786">1786</date>
+                            <note>Anonym erschienen.</note>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="12" type="Werk">
+                        <bibl xml:id="B08P12" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Was heißt: sich im Denken orientiren?</title>
+                            <title type="short">Orientiren</title>
+                            <date when="1786">1786</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="13" type="Werk">
+                        <bibl xml:id="B08P13" corresp="B08P13">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Einige Bemerkungen von Herrn Professor Kant <hi rend="italics">zu</hi>: Prüfung der Mendelssohnschen Morgenstunden oder aller
+                                spekulativen Beweise für das Daseyn Gottes in Vorlesungen von Ludwig
+                                Heinrich Jakob Doktor der Philosophie in Halle. Nebst einer
+                                Abhandlung von Herrn Professor Kant.</title>
+                            <title type="short">Morgenstunden</title>
+                            <date when="1786">1786</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="14" type="Werk">
+                        <bibl xml:id="B08P14" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Ueber den Gebrauch teleologischer Principien in der
+                                Philosophie. von I. Kant.</title>
+                            <title type="short">Teleologische Principien</title>
+                            <date when="1788">1788</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="15" type="Werk">
+                        <bibl xml:id="B08P15" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Ueber eine Entdeckung nach der alle neue Critik der
+                                reinen Vernunft durch eine älterre entbehrlich gemacht werden soll,
+                                von Immanuel Kant.</title>
+                            <title type="short">Entdeckung</title>
+                            <date when="1790">1790/<hi rend="bold">1791</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="16" type="Werk">
+                        <bibl xml:id="B08P16" corresp="B08P16">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Ueber das Mißlingen aller philosophischen Versuche in
+                                der Theodicee.</title>
+                            <title type="short">Theodicee</title>
+                            <date when="1791">1791</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="17" type="Werk">
+                        <bibl xml:id="B08P17" corresp="B08P17">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Ueber den Gemeinspruch: Das mag in der Theorie
+                                richtig seyn, taugt aber nicht für die Praxis.</title>
+                            <title type="short">Gemeinspruch</title>
+                            <date when="1793">1793</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="18" type="Werk">
+                        <bibl xml:id="B08P18" corresp="B08P18">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Etwas über den Einfluß des Mondes auf die
+                                Witterung.</title>
+                            <title type="short">Einfluß des Mondes</title>
+                            <date when="1794">1794</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="19" type="Werk">
+                        <bibl xml:id="B08P19" corresp="B08P19">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Das Ende aller Dinge</title>
+                            <title type="short">Ende aller Dinge.</title>
+                            <date when="1794">1794</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="20" type="Werk">
+                        <bibl xml:id="B08P20" corresp="B08P20">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Zum ewigen Frieden. Ein philosophischer Entwurf von
+                                Immanuel Kant.</title>
+                            <title type="short">Frieden</title>
+                            <date when="1795">1795/<hi rend="bold">1796</hi></date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="21" type="Werk">
+                        <bibl xml:id="B08P21" corresp="organ_der_seele">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Anhang zu Samuel Sömmering:</hi> Sömmerring
+                                über das Organ der Seele.</title>
+                            <title type="short">Anhang Sömmerring</title>
+                            <date when="1796">1796</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="22" type="Werk">
+                        <bibl xml:id="B08P22" corresp="B08P21">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Von einem neuerdings erhobenen vornehmen Ton in der
+                                Philosophie.</title>
+                            <title type="short">Vornehmer Ton</title>
+                            <date when="1796">1796</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="23" type="Werk">
+                        <bibl xml:id="B08P23" corresp="B08P22">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Ausgleichung eines auf Mißverstand beruhenden
+                                mathematischen Streits.</title>
+                            <title type="short">Ausgleichung</title>
+                            <date when="1796">1796</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="24" type="Werk">
+                        <bibl xml:id="B08P24" corresp="B08P23">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Verkündigung des nahen Abschlusses eines Traktats zum
+                                ewigen Frieden in der Philosophie.</title>
+                            <title type="short">Verkündigung</title>
+                            <date when="1796">1796</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="25" type="Werk">
+                        <bibl xml:id="B08P25" corresp="B08P24">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Über ein vermeintes Recht aus Menschenliebe zu
+                                lügen.</title>
+                            <title type="short">Vermeintes Recht</title>
+                            <date when="1797">1797</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="26" type="Werk">
+                        <bibl xml:id="B08P26" corresp="B08P25">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Über die Buchmacherey. Zwey Briefe an Herrn Friedrich
+                                Nicolai von Immanuel Kant.</title>
+                            <title type="short">Buchmacherey</title>
+                            <date when="1798">1798</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="27" type="Werk">
+                        <bibl xml:id="B08P27" corresp="B08P26">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Prospectus zum inliegenden Werk, <hi rend="italics">in:</hi> Prüfung der Kantischen Religionsphilosophie in
+                                Hinsicht auf die ihr beygelegte Aehnlichkeit mit dem reinen
+                                Mystizism von Reinhold Bernhard Jachmann Prediger der evangelischen
+                                Gemeinde zu Marienburg. Mit einer Einleitung von Immanuel
+                                Kant.</title>
+                            <title type="short">Vorrede Jachmann</title>
+                            <date when="1800">1800</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="28" type="Werk">
+                        <bibl xml:id="B08P28" corresp="B08P27">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Nachschrift eines Freundes <hi rend="italics">zu:</hi> Littauisch-deutsches und Deutsch-littauisches
+                                Wörter-Buch, worinn das vom Pfarrer Ruhig zu Walterkehmen ehemals heraus gegebene zwar zum Grunde gelegt, aber mit sehr vielen Wörtern, Redens-Arten und Sprüchwörtern zur Hälfte vermehret und verbessert worden 
+                                von Christian Gottlieb Mielcke, Cantor in Pillckallen. Nebst einer Vorrede des Verfaßers, des Herrn Prediger
+                                Jenisch in Berlin und des Hrn. Krieges- und Domainen-Raths
+                                Heilsberg, auch einer Nachschrift des Herrn Professor Kant.</title>
+                            <title type="short">Nachschrift Mielcke</title>
+                            <date when="1800">1800</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band IX -->
+                <listBibl n="9" type="Band">
+                    <listBibl n="01" type="Werk">
+                        <bibl xml:id="B09P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="italics">Authentischer</hi> Auszug aus Kants allgemeiner Naturgeschichte und Theorie des Himmels.</title>
+                            <title type="short">Auszug</title>
+                            <date when="1800">1791</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="02" type="Werk">
+                        <bibl xml:id="B09P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Immanuel Kants Logik ein Handbuch zu
+                                Vorlesungen.</title>
+                            <title type="short">Logik</title>
+                            <date when="1800">1800</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="03" type="Werk">
+                        <bibl xml:id="B09P03" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Immanuel Kant’s physische Geographie. Auf Verlangen
+                                des Verfassers, aus seiner Handschrift herausgegeben und zum Theil
+                                bearbeitet von D. Friedrich Theodor Rink.</title>
+                            <title type="short">Physische Geographie</title>
+                            <date when="1802">1802</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="04" type="Werk">
+                        <bibl xml:id="B09P04" corresp="B09P04">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Immanuel Kant über Pädagogik. Herausgegeben von D.
+                                Friedrich Theodor Rink.</title>
+                            <title type="short">Pädagogik</title>
+                            <date when="1803">1803</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="05" type="Werk">
+                        <bibl xml:id="B09P05" corresp="B09P05">
+                            <author>Immanuel Kant</author>
+                            <title type="full">Immanuel Kant über die von der Königl. Akademie der
+                                Wissenschaften zu Berlin für das Jahr 1791 ausgesetzte Preisfrage:
+                                Welches sind die wirklichen Fortschritte, die die Metaphysik seit
+                                Leibnitzens und Wolf’s Zeiten in Deutschland gemacht hat?
+                                Herausgegeben von D. Friedrich Theodor Rink.</title>
+                            <title type="short">Fortschritte</title>
+                            <date when="1804">1804</date>
+                            <note/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+            </listBibl>
+            <!-- Abteilung II -->
+            <listBibl n="2" type="Abteilung">
+                <!-- Band X -->
+                <listBibl n="10" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B10P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 10:</hi> Kant’s Briefwechsel, Bd.
+                                1: 1747–1788.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XI -->
+                <listBibl n="11" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B11P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 11:</hi> Kant’s Briefwechsel,
+                                Bd. 2: 1789–1794.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XII -->
+                <listBibl n="12" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B12P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 12:</hi> Kant’s Briefwechsel,
+                                Bd. 3: 1795–1803. Nachträge und Anhang.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XIII -->
+                <listBibl n="13" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B13P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 13:</hi> Kant’s Briefwechsel,
+                                Bd. 4: Anmerkungen und Register.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+            </listBibl>
+            <!-- Abteilung III -->
+            <listBibl n="3" type="Abteilung">
+                <!-- Band XIV -->
+                <listBibl n="14" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B14P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 14:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 1: Mathematik – Physik und Chemie –
+                                Physische Geographie.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XV -->
+                <listBibl n="15" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B15P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 15.1:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 2,1: Anthropologie. Erste
+                                Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="2" type="Werk">
+                        <bibl xml:id="B15P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 15.2:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 2,1: Anthropologie. Zweite
+                                Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XVI -->
+                <listBibl n="16" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B16P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 16:</hi> Kant ’s
+                                handschriftlicher Nachlaß, Bd. 3: Logik.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XVII -->
+                <listBibl n="17" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B17P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 17:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 4: Metaphysik. Erster Theil.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XVIII -->
+                <listBibl n="18" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B18P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 18:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 5: Metaphysik. Zweyter Theil.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XIX -->
+                <listBibl n="19" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B19P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 19:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 6: Moralphilosophie,
+                                Rechtsphilosophie und Religionsphilosophie.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XX -->
+                <listBibl n="20" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B20P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 20:</hi> Kant ’s
+                                handschriftlicher Nachlaß, Bd. 7: Vorarbeiten und Nachträge.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XXI -->
+                <listBibl n="21" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B21P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 21:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 8: Opus postumum. Erste Hälfte
+                                (Convolut I bis VI).</title>
+                            <title type="short"/>
+                            <date/>
+                            <ref target="http://telota.bbaw.de/kant_op/">Externer Link</ref>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XXII -->
+                <listBibl n="22" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B22P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 22:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 9: Opus postumum. Zweite Hälfte
+                                (Convolut VII bis XIII).</title>
+                            <title type="short"/>
+                            <date/>
+                            <ref target="http://telota.bbaw.de/kant_op/">Externer Link</ref>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XXIII -->
+                <listBibl n="23" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B23P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 23:</hi> Kant’s
+                                handschriftlicher Nachlaß, Bd. 10: Vorarbeiten und
+                                Nachträge.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+            </listBibl>
+            <!-- Abteilung IV -->
+            <listBibl n="4" type="Abteilung">
+                <!-- Band XXIV -->
+                <listBibl n="24" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B24P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 24.1:</hi> Kant’s Vorlesungen,
+                                Bd. 1,1: Vorlesungen über Logik. Erste Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="2" type="Werk">
+                        <bibl xml:id="B24P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 24.2:</hi> Kant ’s
+                                Vorlesungen, Bd. 1,2: Vorlesungen über Logik. Zweite Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XXV -->
+                <listBibl n="25" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B25P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 25.1:</hi> Kant’s Vorlesungen,
+                                Bd. 2,1: Vorlesungen über Anthropologie. Erste Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                            <ref target="https://kant-digital.bbaw.de/Anthropologie/">Externer Link</ref>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="2" type="Werk">
+                        <bibl xml:id="B25P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 25.2:</hi> Kant’s Vorlesungen,
+                                Bd. 2,2: Vorlesungen über Anthropologie. Zweite Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XXVI -->
+                <listBibl n="26" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B26P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 26.1:</hi> Kant ’s
+                                Vorlesungen, Bd. 3,1: Vorlesungen über Physische Geographie. Erster
+                                Theil.</title>
+                            <title type="short"/>
+                            <date/>
+                            <ref target="https://kant-digital.bbaw.de/PhysGeo/">Externer Link</ref>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="2" type="Werk">
+                        <bibl xml:id="B26P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 26.2.1:</hi> Kant’s
+                                Vorlesungen, Bd. 3,2/1: Vorlesungen über Physische Geographie.
+                                Zweiter Teil, erste Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="3" type="Werk">
+                        <bibl xml:id="B26P03" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 27.2.2:</hi> Kant’s
+                                Vorlesungen, Bd. 3,2/2: Vorlesungen über Physische Geographie.
+                                Zweiter Teil, zweite Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XXVII -->
+                <listBibl n="27" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B27P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 27.1:</hi> Kant’s
+                                Vorlesungen, Bd. 4,1: Vorlesungen über Moralphilosophie. Erste
+                                Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="2" type="Werk">
+                        <bibl xml:id="B27P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 27.2.1:</hi> Kant ’s
+                                Vorlesungen, Bd. 4,2/1: Vorlesungen über Moralphilosophie. Zweite
+                                Hälfte, erster Teil.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="3" type="Werk">
+                        <bibl xml:id="B27P03" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 27.2.2:</hi> Kant’s
+                                Vorlesungen, Bd. 4,2/2: Vorlesungen über Moralphilosophie. Zweite
+                                Hälfte, zweiter Teil.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XXVIII -->
+                <listBibl n="28" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B28P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 28.1:</hi> Kant’s
+                                Vorlesungen, Bd. 5,1: Vorlesungen über Metaphysik und
+                                Rationaltheologie. Erste Hälfte.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="2" type="Werk">
+                        <bibl xml:id="B28P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 28.2.1:</hi> Kant ’s
+                                Vorlesungen, Bd. 5,2/1: Vorlesungen über Metaphysik und
+                                Rationaltheologie. Zweite Hälfte, erster Teil.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="3" type="Werk">
+                        <bibl xml:id="B28P03" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 28.2.2:</hi> Kant’s
+                                Vorlesungen, Bd. 5,2/2: Vorlesungen über Metaphysik und
+                                Rationaltheologie. Zweite Hälfte, zweiter Teil.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+                <!-- Band XXIX -->
+                <listBibl n="29" type="Band">
+                    <listBibl n="1" type="Werk">
+                        <bibl xml:id="B29P01" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 29.1.1:</hi> Kant’s
+                                Vorlesungen, Bd. 6,1/1: Kleinere Vorlesungen und Ergänzungen I.
+                                Erste Hälfte, erster Teil.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                    <listBibl n="2" type="Werk">
+                        <bibl xml:id="B29P02" corresp="">
+                            <author>Immanuel Kant</author>
+                            <title type="full"><hi rend="bold">Band 29.1.2:</hi> Kant’s
+                                Vorlesungen, Bd. 6,1/2: Ergänzungen II. Erste Hälfte, zweiter
+                                Teil.</title>
+                            <title type="short"/>
+                            <date/>
+                        </bibl>
+                    </listBibl>
+                </listBibl>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

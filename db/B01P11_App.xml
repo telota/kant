@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="11" subtype="criticalApparatus">
+               Theorie der Winde
+            </title>
+           <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0003-4081-401X">
+                  <surname>Hohenegger</surname>
+                  <forename>Hansmichael</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0001-5535-5894">
+                  <surname>Pozzo</surname>
+                  <forename>Riccardo</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+                            Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung I, „Werke“, der 
+                        Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Theorie der Winde</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">
+                     Kant's Werke
+                  </title>
+                  <title type="volume" n="1">Schriften 1747–1756</title>
+                  <title type="part" n="11">
+                     Theorie der Winde
+                  </title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0003-4081-401X">
+                        <surname>Hohenegger</surname>
+                        <forename>Hansmichael</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0001-5535-5894">
+                        <surname>Pozzo</surname>
+                        <forename>Riccardo</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">539–552</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482
+                  </idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">
+                     Erste Abteilung <lb/>Werke – Neuedition
+                  </biblScope>
+                  <biblScope unit="volume" n="1">
+                     Band 1
+                  </biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-04" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P11App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app49101">
+                  <lem>Vorerinnerung.</lem>
+                  <rdg wit="#B">
+                     <wit wit="#B">B</wit>:
+					<hi rend="italic">fehlt</hi>
+                  </rdg>
+               </app>
+               <app from="#app49210">
+                  <lem>schwächet. Daher</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: schwächet:
+						daher</rdg>
+                 </app>
+               <app from="#app49221">
+                  <lem>nöthigt</lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>:
+					nöthigte</rdg>
+               </app>
+               <app from="#app49331">
+                  <lem>vermehrte</lem>
+                  <rdg wit="#B #Ti #A">mit <wit wit="#B">B</wit>, <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+					vermehre</rdg>
+               </app>
+              <app from="#app49406">
+                  <lem><hi rend="spaced">andere</hi></lem>
+                  <rdg wit="#B #Ti #A">mit <wit wit="#B">B</wit>, <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="spaced">ander</hi></rdg>
+               </app>
+               <app from="#app49505">
+                  <lem>ob dieser</lem>
+                  <rdg wit="#Bu"><wit wit="#Bu">Bu</wit>:
+				ob dieses</rdg>
+               </app>
+               <app from="#app49602">
+                  <lem>zusammengesetzter</lem>
+                  <rdg wit="#B">
+                     <wit wit="#B">B</wit>:
+					zusammengesetztem</rdg>
+               </app>
+               <app from="#app49707">
+                  <lem>Umschwunge</lem>
+                  <rdg wit="#B">
+                     <wit wit="#B">B</wit>: Luftschwunge</rdg>
+               </app>
+               <app from="#app49709">
+                  <lem>muß</lem>
+                  <rdg wit="#B #Ti #A">mit
+                     <wit wit="#B">B</wit>, <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: müß</rdg>
+                </app>
+               <app from="#app49802">
+                  <lem>allen</lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: alle</rdg>
+               </app>
+               <app from="#app49918">
+                  <lem>entfernteren</lem>
+                  <rdg wit="#B">
+                     <wit wit="#B">B</wit>: entfernten</rdg>
+               </app>
+               <app from="#app50019">
+                  <lem>machen</lem>
+                  <rdg wit="#B"><wit wit="#B">B</wit>:
+					machen,</rdg>
+               </app>
+              <app from="#app50032">
+                  <lem>Nordwestwind</lem>
+                  <rdg wit="#Ra #A">mit <wit wit="#Ra">Ra</wit> zu <wit wit="#A">A</wit>:
+					Nordostwind</rdg>
+               </app>
+               <app from="#app50110">
+                  <lem>über welchem</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: über
+					welches</rdg>
+               </app>
+               <app from="#app50114">
+                  <lem>ausgebreiteten</lem>
+                  <rdg wit="#B #Ti #A">mit <wit wit="#B">B</wit>, <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: ausgebreitenden</rdg>
+               </app>
+               <app from="#app50122">
+                  <lem>wann</lem>
+                  <rdg wit="#Ti"><wit wit="#Ti">Ti</wit>:
+                     wenn</rdg>
+                 </app>
+               <app from="#app50127">
+                  <lem>zwischen Zeiten</lem>
+                  <rdg wit="#Ti"><wit wit="#Ti">Ti</wit>:
+					Zwischenzeiten</rdg>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>: Zwischenzeit</rdg>
+               </app>
+               <app from="#app50129">
+                  <lem>Zwischenzeit</lem>
+                  <rdg wit="#B">
+                     <wit wit="#B">B</wit>: Zwischenheit</rdg>
+               </app>
+               <app from="#app50130">
+                  <lem>Windstillen, Regen</lem>
+                  <rdg wit="#Ra #A">mit <wit wit="#Ra">Ra</wit> zu <wit wit="#A">A</wit>:
+					Windstillen Regen</rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: windstillem Regen</rdg>
+               </app>
+               <app from="#app50229">
+                  <lem>Der Raum … müsse</lem>
+                  <rdg wit="#B">
+                     <wit wit="#B">B</wit>:
+						<hi rend="italic">fehlt</hi>
+                  </rdg>
+               </app>
+              <app from="#app50232">
+                  <lem>eröfnen</lem>
+                  <rdg wit="#Ha2"><wit wit="#Ha2">Ha2</wit>: eröffne</rdg>
+               </app>
+               <app from="#app50301">
+                  <lem>die letztere</lem>
+                  <rdg wit="#Ra #A">mit <wit wit="#Ra">Ra</wit> zu <wit wit="#A">A</wit>: dis
+						letztere</rdg>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: diese letztere</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P11En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en49302">den 80sten Theil] Kant denkt hier an einen mit Luft
+               gefüllten Würfel (oder Parallelepipedon), dessen Grundfläche ein Quadrat von 4
+               Quadratmeilen ist. Entfernt man sich von der Oberfläche dieses Würfels um eine
+               Meile, so befindet man sich auf der Oberfläche eines Würfels mit doppelt so
+               großer Kante, also 8mal so großem räumlichen Inhalt, und wenn der erste Würfel
+               um ⅒
+               seines Volumens ausgedehnt wird, so macht dieses nur
+               ⅟<hi rend="sub">80</hi>
+               vom Volumen des zweiten aus.</note>
+            <note type="editorial" xml:id="en49322">die <hi rend="spaced">Jurin</hi> bey des
+               <hi rend="spaced">Varenius</hi> … beygefügt
+               hat] Bernhard
+               Varens (1622–1650/51)
+               <hi rend="italic">Geographia generalis</hi>, zuerst 1650 erschienen, wurde von
+               James Jurin mit einem Appendix im Jahre 1712 neu herausgebracht (<hi rend="smallCaps">Varen</hi>
+               1712).</note>
+            <note type="editorial" xml:id="en49323">
+               <hi rend="spaced">Musschenbröck</hi>] Vgl. <hi rend="smallCaps">Musschenbroek</hi> 1726 sowie
+               <hi rend="smallCaps">Musschenbroek</hi> 1739.</note>
+            <note type="editorial" xml:id="en49401">Campsin] Es handelt sich um einen in Ägypten aus Südwest wehenden heißen Wüstenwind,
+               welcher während der 50 Tage auftritt, die auf die Frühlings-Tag- und
+               Nachtgleiche folgen. Er wird auch ‚Chamsin‘ oder ‚Kamsin‘ genannt.</note>
+            <note type="editorial" xml:id="en49624">welcher 18 Fuß in einer Secunde durchstreicht] Die Geschwindigkeit des Nordwindes muss in
+               diesem Beispiel statt 18 Fuß 9 Fuß in der Sekunde gesetzt werden, damit unter
+               dem 18. Breitengrad ein Nordostwind entsteht. Bei 18 Fuß Geschwindigkeit würde
+               die resultierende Bewegung eine nordnordöstliche sein; man müsste dann
+               annehmen, dass der Wind auf seinem 75 Meilen langen Weg gerade die Hälfte seiner
+               Geschwindigkeit eingebüßt hätte, wovon aber Kant nichts erwähnt.</note>
+            <note type="editorial" xml:id="en50213">Mariotte] Vgl. <hi rend="smallCaps">Mariotte</hi> 1679, gesammelt in
+               der Werkausgabe <hi rend="smallCaps">Mariotte</hi> 1717. Die relevanten Stellen lauten daselbst:
+               „<foreign xml:lang="fr">Lorsque les vents du Nord et du Nord-Est cessent, l'Est règne souvent ensuite
+                  et le Sud et le Sud-Ouëst lui succèdent</foreign>“, und etwas später: „<foreign xml:lang="fr">Le Sud et le
+                     Sud-Ouëst succèdent ordinairement à l'Est dans les Zones tempérées et
+                     particulièrement en France</foreign>“ und „<foreign xml:lang="fr">Les vents en France passent ordinairement de
+                        l'Est au Sud et du Sud-Ouëst puis à l’Ouëst, au Nord et au Nord-Est et ils font
+                        très rarement un tour entier en un sens contraire.</foreign>“ (<hi rend="smallCaps">Mariotte</hi> 1717,
+               160 f.).</note>
+            <note type="editorial" xml:id="en50233">des Herrn <hi rend="spaced">D.
+               Eberhards</hi>] Gemeint ist der Arzt, Theologe,
+               Mathematiker und Physiker Johann Peter Eberhard (1727–1779). Vgl. <hi rend="smallCaps">Eberhard</hi> 1753.</note>
+            <note type="editorial" xml:id="en50305">
+               <hi rend="spaced">Meyerschen</hi>] Gemeint ist der Philosoph Georg Friedrich
+               Meier (1718–1777). Vgl.
+               <hi rend="smallCaps">Meier</hi> 1752a und <hi rend="smallCaps">Meier</hi> 1752b.</note>
+            <note type="editorial" xml:id="en50306">des Herrn Prof.
+               <hi rend="spaced">Baumgarten</hi>] Gemeint ist der Philosoph
+               Alexander Gottlieb Baumgarten (1714–1762).
+               Vgl. <hi rend="smallCaps">Baumgarten</hi> 1750.</note>
+            <note type="editorial" xml:id="en55232">wie ein sinnreicher Schriftsteller … müsse] Gemeint ist John
+               Dryden (1631–1700); die Verse entstammen dessen größtem Bühnenerfolg
+               <hi rend="italic">All for Love</hi> (<hi rend="smallCaps">Dryden</hi> 1678, Prolog). Vgl. auch: „<foreign xml:lang="en">This Mr. <hi rend="italic">Dryden</hi> has very
+                  agreeable remarked in those two celebrated lines; <hi rend="italic">Errors, like straws, upon
+                     the surface flow; He who would search for pearl, must dive below.</hi></foreign>“ (<hi rend="smallCaps">Anonymus</hi>
+               1712, 163) Vgl. auch: „Denn wie unser <hi rend="italic">Dryden</hi> sagt: ‚Die Fehler siehet
+               man, wie Stoppeln, oben fliessen. Wer <hi rend="italic">Perlen</hi> suchen will, wird in die Tiefe
+               müssen.‘“ (<hi rend="smallCaps">Schönaich</hi> 1754, 460)</note>
+         </div>
+      </body>
+   </text>
+</TEI>

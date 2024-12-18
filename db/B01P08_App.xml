@@ -1,0 +1,1143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="8" subtype="criticalApparatus">
+               Geschichte und Naturbeschreibung der merkwürdigsten Vorfälle des Erdbebens
+            </title>
+           <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0003-4081-401X">
+                  <surname>Hohenegger</surname>
+                  <forename>Hansmichael</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0001-5535-5894">
+                  <surname>Pozzo</surname>
+                  <forename>Riccardo</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+                            Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung I, „Werke“, der 
+                        Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Geschichte Erdbeben</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">
+                     Kant's Werke
+                  </title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="8">
+                     Geschichte und Naturbeschreibung der merkwürdigsten Vorfälle des Erdbebens
+                  </title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0003-4081-401X">
+                        <surname>Hohenegger</surname>
+                        <forename>Hansmichael</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0001-5535-5894">
+                        <surname>Pozzo</surname>
+                        <forename>Riccardo</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">461–492</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482
+                  </idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">
+                     Erste Abteilung <lb/>Werke – Neuedition
+                  </biblScope>
+                  <biblScope unit="volume" n="1">
+                     Band 1
+                  </biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-15" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P08App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app43206a">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app43206b">
+                  <lem>Klafter. D. i.</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Klafter; d. i.</rdg>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: Klafter,
+                     d. i.</rdg>
+               </app>
+               <app from="#app43215">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sey</rdg>
+               </app>
+               <app from="#app43217">
+                  <lem>hat; denn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: hat. Denn</rdg>
+               </app>
+               <app from="#app43224">
+                  <lem>allem diesem</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: allen diesem</rdg>
+                 </app>
+               <app from="#app43328">
+                  <lem>mit</lem>
+                  <rdg wit="#Web"><wit wit="#Web">Web</wit>:
+                     von</rdg>
+               </app>
+               <app from="#app43334">
+                  <lem>locken</lem>
+                  <rdg wit="#Bu"><abbr>V</abbr>(<wit wit="#Bu">Bu</wit>):
+					lockern</rdg>
+               </app>
+               <app from="#app43420">
+                  <lem>niederschlagen</lem>
+                  <rdg wit="#Web"><wit wit="#Web">Web</wit>: niederschlägt</rdg>
+               </app>
+               <app from="#app43431">
+                  <lem>in einen</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: in einem</rdg>
+               </app>
+               <app from="#app43506">
+                  <lem>Rohne</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Rhone</rdg>
+               </app>
+               <app from="#app43521">
+                  <lem>solte. Wenn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sollte; wenn</rdg>
+               </app>
+               <app from="#app43524">
+                  <lem>andere</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+					anderer</rdg>
+               </app>
+               <app from="#app43603">
+                  <lem>erhitzte</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: erhitzende</rdg>
+               </app>
+               <app from="#app43606">
+                  <lem>breitete</lem>
+                  <rdg wit="#Web #A">mit
+                     <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: breite</rdg>
+               </app>
+               <app from="#app43612">
+                  <lem>indem</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: in dem</rdg>
+               </app>
+               <app from="#app43613">
+                  <lem>seyn, diese</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: seyn. Diese</rdg>
+               </app>
+               <app from="#app43614">
+                  <lem>Minuten</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Minuten überein</rdg>
+               </app>
+               <app from="#app43616">
+                  <lem>auch welche</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: auch andere, welche</rdg>
+               </app>
+               <app from="#app43633">
+                  <lem>die nur</lem>
+                  <rdg><abbr>V</abbr>: nur die</rdg>
+               </app>
+               <app from="#app43707">
+                  <lem>
+                     <hi rend="spaced">Meinungen</hi>
+                  </lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="spaced">Meiningen</hi>
+                  </rdg>
+               </app>
+               <app from="#app43803">
+                  <lem>können. Entweder</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: können:
+					entweder</rdg>
+               </app>
+               <app from="#app43806">
+                  <lem>woher</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: warum</rdg>
+               </app>
+               <app from="#app43822">
+                  <lem>muste</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: müßte</rdg>
+               </app>
+               <app from="#app43823">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app43828">
+                  <lem>schon</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+               <app from="#app43832">
+                  <lem>dem</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+              <app from="#app43933">
+                  <lem>worden.</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: wurde?</rdg>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>:
+					worden?</rdg>
+               </app>
+               <app from="#app44010">
+                  <lem>vor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: für</rdg>
+               </app>
+               <app from="#app44017">
+                  <lem>Schwänkung</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>:
+						Schwankung</rdg>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>: Schwingung</rdg>
+               </app>
+               <app from="#app44023">
+                  <lem>gewackelt</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: gerüttelt</rdg>
+               </app>
+               <app from="#app44028">
+                  <lem>werden</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: haben</rdg>
+               </app>
+               <app from="#app44029">
+                  <lem>haben</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+               <app from="#app44032">
+                  <lem>ein</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: einen</rdg>
+               </app>
+               <app from="#app44108">
+                  <lem>versieget seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: versiegten
+                  </rdg>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>:
+                     versiegt sind</rdg>
+               </app>
+               <app from="#app44109">
+                  <lem>Meinungen</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>:
+					Meiningen</rdg>
+               </app>
+               <app from="#app44113">
+                  <lem>Cirnitzer</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+						<hi rend="spaced">Cirknitzer</hi>
+                  </rdg>
+               </app>
+               <app from="#app44120">
+                  <lem>vorhabenden</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: vorliegenden</rdg>
+               </app>
+               <app from="#app44122">
+                  <lem>und</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+               <app from="#app44124">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app44125">
+                  <lem>müssen</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+               <app from="#app44126">
+                  <lem>seyn</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: sind</rdg>
+               </app>
+               <app from="#app44129">
+                  <lem>Meinungen</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>:
+					Meiningen</rdg>
+               </app>
+               <app from="#app44131">
+                  <lem>dawieder</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: dawider</rdg>
+               </app>
+               <app from="#app44223">
+                  <lem>trift, und</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: trift. Und</rdg>
+               </app>
+               <app from="#app44225">
+                  <lem>beregten</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: bewegten</rdg>
+               </app>
+              <app from="#app44228">
+                  <lem>vermerkt</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: bemerkt</rdg>
+               </app>
+               <app from="#app44302">
+                  <lem>
+                     <hi rend="spaced">Setuval</hi>
+                  </lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>:
+						<hi rend="spaced">Satuval</hi>
+                  </rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+						<hi rend="spaced">Setubal</hi>
+                  </rdg>
+               </app>
+               <app from="#app44317">
+                  <lem>Yorkshirn</lem>
+                  <rdg wit="#Web"><wit wit="#Web">Web</wit>: Yorkshire</rdg>
+               </app>
+               <app from="#app44332">
+                  <lem>Hertford</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: Hetford</rdg>
+               </app>
+               <app from="#app44332a">
+                  <lem>bey einen</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: bey einem</rdg>
+               </app>
+               <app from="#app44416">
+                  <lem>daß in … zu verlassen ist.</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: daß man in … sich auf nichts
+					verlassen kann.</rdg>
+               </app>
+               <app from="#app44433">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app44503">
+                  <lem>an</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: von</rdg>
+               </app>
+               <app from="#app44510">
+                  <lem>bleiben, denn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: bleiben. Denn</rdg>
+               </app>
+               <app from="#app44511">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app44517">
+                  <lem>war</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: hatte</rdg>
+               </app>
+               <app from="#app44518">
+                  <lem>Gänge</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Gränze</rdg>
+               </app>
+               <app from="#app44529">
+                  <lem>kan</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>:
+                     könne</rdg>
+               </app>
+               <app from="#app44531">
+                  <lem>seyn</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>:
+						sind</rdg>
+               </app>
+               <app from="#app44534">
+                  <lem>fortzusetzen, denn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: fortzusetzen. Denn</rdg>
+               </app>
+               <app from="#app44609">
+                  <lem>erstreckte. Den</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>:
+					erstreckte; den</rdg>
+               </app>
+               <app from="#app44613">
+                  <lem>traf, und</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: traf. und</rdg>
+               </app>
+               <app from="#app44629">
+                  <lem>davor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: dafür</rdg>
+               </app>
+               <app from="#app44634">
+                  <lem>zwar</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+               <app from="#app44635">
+                  <lem>aus den</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: aus dem</rdg>
+               </app>
+               <app from="#app44714">
+                  <lem>auf, auf</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: auf. Auf</rdg>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: auf; auf</rdg>
+               </app>
+               <app from="#app44733">
+                  <lem>vor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: für</rdg>
+               </app>
+               <app from="#app44735a">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app44735b">
+                  <lem>verschaffet.</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: verschafft!</rdg>
+               </app>
+               <app from="#app44819">
+                  <lem>wiederstand</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: widerstand</rdg>
+               </app>
+               <app from="#app44829">
+                  <lem>diesen</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: diesem</rdg>
+               </app>
+               <app from="#app44907a">
+                  <lem>mit den Bimsteinen</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: mit dem Bimstein</rdg>
+               </app>
+               <app from="#app44912a">
+                  <lem>
+                     <hi rend="spaced">diejenige</hi></lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+               <app from="#app44912b">
+                  <lem><hi rend="spaced">gelegene</hi></lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: 
+                     <hi rend="spaced">liegen</hi></rdg>
+               </app>
+               <app from="#app44913">
+                  <lem>Richtigkeit: Laßt</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Richtigkeit. Laßt</rdg>
+               </app>
+               <app from="#app44915">
+                  <lem>wiederfahren</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: widerfahren</rdg>
+               </app>
+               <app from="#app44917">
+                  <lem>worden</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: werden</rdg>
+               </app>
+               <app from="#app44918">
+                  <lem>berichtet … entsetzliche</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: belehrt … von
+					entsetzlichen</rdg>
+               </app>
+               <app from="#app44935">
+                  <lem>da</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: wie</rdg>
+               </app>
+               <app from="#app45005">
+                  <lem>Erschütterung</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Erschütterungen</rdg>
+               </app>
+               <app from="#app45011">
+                  <lem>müsse</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: müßte</rdg>
+               </app>
+               <app from="#app45027">
+                  <lem>in dem</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: indem</rdg>
+               </app>
+               <app from="#app45107">
+                  <lem>hat; denn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: hat. Denn</rdg>
+               </app>
+               <app from="#app45111">
+                  <lem>seyn</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>: sind</rdg>
+               </app>
+               <app from="#app45119">
+                  <lem>dem Orte</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: an dem Orte</rdg>
+               </app>
+               <app from="#app45121">
+                  <lem>gehet; denn</lem>
+                  <rdg wit="#Web">
+                     geht. Denn
+                     </rdg>
+               </app>
+               <!-- Druckfehler im Druck 2023, 1. Auflage; korrigiert: -->
+               <!--  <app from="#app45121">
+                  <lem>gehet; denn</lem>
+                  <rdg wit="#Web"><choice>
+                     <sic>geht. Denn</sic>
+                     <corr><wit wit="#Web">Web</wit>: geht. Denn</corr>
+                  </choice>
+                  </rdg>
+               </app>-->
+               <app from="#app45134">
+                  <lem>Erdbeben</lem>
+                  <rdg wit="#Web #A">mit
+                     <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: Erdben</rdg>
+               </app>
+               <app from="#app45213">
+                  <lem>und die</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: die aber</rdg>
+               </app>
+               <app from="#app45220">
+                  <lem>vor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: für</rdg>
+               </app>
+               <app from="#app45231">
+                  <lem>worden, sondern auch</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: worden sind. Auch</rdg>
+               </app>
+               <app from="#app45304">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app45326">
+                  <lem>Auszug</lem>
+                  <rdg wit="#Web"><abbr>V</abbr>(<wit wit="#Web">Web</wit>): sc. Durchschnitt</rdg>
+               </app>
+              <app from="#app45403">
+                  <lem>vor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: für</rdg>
+               </app>
+               <app from="#app45417">
+                  <lem>Jahreszeit; denn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Jahreszeit. Denn</rdg>
+               </app>
+               <app from="#app45419">
+                  <lem>aus</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: an</rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: von</rdg>
+               </app>
+               <app from="#app45421">
+                  <lem>Herbst- und</lem>
+                  <rdg wit="#Web #A">mit
+						<wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: Herbst
+					und</rdg>
+               </app>
+               <app from="#app45423">
+                  <lem>Nord- oder</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: Nord oder
+					</rdg>
+               </app>
+               <app from="#app45507">
+                  <lem>ist, denn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: ist. Denn</rdg>
+               </app>
+               <app from="#app45522">
+                  <lem>geartet</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+               <app from="#app45523">
+                  <lem>wiederrechtlichen</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: widerrechtlichen</rdg>
+               </app>
+               <app from="#app45604">
+                  <lem>als die hier</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: als solche, die hier</rdg>
+               </app>
+               <app from="#app45606">
+                  <lem>allgemeinen</lem>
+                  <rdg wit="#Web #A">mit
+                     <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: allgemeinem</rdg>
+               </app>
+               <app from="#app45611">
+                  <lem>könne; aber</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: könne. Aber</rdg>
+               </app>
+              <app from="#app45616">
+                  <lem>seyn</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>: sind</rdg>
+               </app>
+               <app from="#app45619">
+                  <lem>vor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: für</rdg>
+               </app>
+               <app from="#app45627">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: seyen</rdg>
+               </app>
+               <app from="#app45632">
+                  <lem>sie</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: um sie</rdg>
+               </app>
+               <app from="#app45634">
+                  <lem>Veränderung</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Veränderungen</rdg>
+               </app>
+               <app from="#app45636">
+                  <lem>würden</lem>
+                  <rdg wit="#Schu #A">mit <wit wit="#Schu">Schu</wit> zu <wit wit="#A">A</wit>:
+					würde</rdg>
+               </app>
+              <app from="#app45711">
+                  <lem>aus, wer</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: aus. Wer</rdg>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: aus; wer</rdg>
+               </app>
+               <app from="#app45712">
+                  <lem>dieser</lem>
+                  <rdg wit="#Ra #A">mit <wit wit="#Ra">Ra</wit> zu <wit wit="#A">A</wit>:
+					diese</rdg>
+               </app>
+               <app from="#app45715">
+                  <lem>einen kräftigen</lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: ein kräftiger</rdg>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: einen
+					kräftigern</rdg>
+               </app>
+               <app from="#app45719">
+                  <lem>nur</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: je</rdg>
+               </app>
+               <app from="#app45735">
+                  <lem>obersten</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: oberste</rdg>
+               </app>
+               <app from="#app45802">
+                  <lem>Wärme</lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>:
+						Materien</rdg>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Materie</rdg>
+               </app>
+              <app from="#app45806">
+                  <lem>eine … andere</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: einen … andere</rdg>
+               </app>
+               <app from="#app45807">
+                  <lem>vor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: für</rdg>
+               </app>
+               <app from="#app45808">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app45814">
+                  <lem>verehrungs- und</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: verehrungs und</rdg>
+               </app>
+               <app from="#app45822">
+                  <lem>erschienen</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: erschien</rdg>
+               </app>
+               <app from="#app45827">
+                  <lem>worden</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: werden</rdg>
+               </app>
+               <app from="#app45914">
+                  <lem>Wiederlegung</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Widerlegung</rdg>
+               </app>
+               <app from="#app45918">
+                  <lem>seyn</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: sind</rdg>
+               </app>
+               <app from="#app45930">
+                  <lem>dawieder</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: dawider</rdg>
+               </app>
+               <app from="#app45934">
+                  <lem>Zornschalen</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: Zornstrafen</rdg>
+               </app>
+               <app from="#app46012">
+                  <lem>vor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: für</rdg>
+               </app>
+               <app from="#app46029">
+                  <lem>können?</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: können.</rdg>
+                  <rdg wit="#Ze">
+                     <wit wit="#Ze">Ze</wit>:
+					können!</rdg>
+               </app>
+               <app from="#app46106">
+                  <lem>drohet und</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: droht? und</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P08En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en43206">Klafter] Wird hier als
+               Längenmaß verwendet; 1 Klafter
+               entspricht etwa 1,88 m.</note>
+            <note type="editorial" xml:id="en43319">Hübners] Gemeint ist Johann
+               Hübner (1668–1731), Verfasser einer Reihe von genealogischen und geographischen
+               Lehrwerken, die vielfach aufgelegt wurden (vgl. z.B. <hi rend="smallCaps">Hübner</hi> 1731). Die Stelle, auf die Kant sich
+               bezieht, konnte nicht ermittelt werden (die Angabe in Ra, 571, ist nicht
+               zutreffend).</note>
+            <note type="editorial" xml:id="en46514">Banda und Amboina] Die Banda-Inseln sowie die Insel Amboina
+               (heute: Ambon) gehören zum Archipel der Molukken und liegen heute
+               in Indonesien. Da die Gewürznelke und der Muskatnussbaum früher nur
+               hier wuchsen, erging unter holländischer Herrschaft zur Sicherung des Monopols
+               ein Gesetz, das verbot, die beiden Pflanzen auf anderen Inseln zu
+               züchten.</note>
+            <note type="editorial" xml:id="en46519">Chili] Chile.</note>
+            <note type="editorial" xml:id="en43331">Fuß] Längenmaß;
+               1 Fuß entspricht etwa 31 cm.</note>
+            <note type="editorial" xml:id="en43435">Stunden] Gemeint ist das
+               schweizerische Flächenmaß ‚Geviert-Stunden‘, dem Kant hier die Entsprechung der
+               Flächenberechnung mittels deutscher Meilen gegenüberstellt. 1 deutsche Meile entspricht der geographischen Meile = dem
+               5400. Teil des Äquators, das sind etwas weniger als 7,5 km.</note>
+            <note type="editorial" xml:id="en43501">Zoll] Aus England stammendes
+               Längenmaß; 1 Zoll entspricht etwa 2,5 cm (1 Fuß =
+               12 Zoll).</note>
+            <note type="editorial" xml:id="en46631">Rohne] Die Rhône.</note>
+            <note type="editorial" xml:id="en43516">Scheuchzer zehlet beynah 20
+               Schlünde] Vgl. die Beschreibungen Johann Jacob Scheuchzers über Windlöcher in den Alpen
+               (<hi rend="smallCaps">Scheuchzer</hi> 1752, 122-124).</note>
+            <note type="editorial" xml:id="en43605">Erdpech] Bitumen.</note>
+            <note type="editorial" xml:id="en46811">Abo] Åbo ist der schwedische Name der finnischen Stadt
+               Turku.</note>
+            <note type="editorial" xml:id="en46813">1500 Meilen] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43435">466<hi rend="sup">24</hi></ref>.</note>
+            <note type="editorial" xml:id="en46828">See bey <hi rend="spaced">Neuschatel</hi> … der bey <hi rend="spaced">Meinungen</hi>] Die schweizerische
+               Stadt Neuchâtel liegt am Lac de Neuchâtel. In der Nähe von Meiningen
+               im südlichen Thüringen befindet sich unter anderem der Salzunger See.</note>
+            <note type="editorial" xml:id="en46831">Töplitz in Böhmen] Heute die tschechische Stadt Teplice.</note>
+            <note type="editorial" xml:id="en46838">Königreich Fez in Afrika] Fez ist der Name eines historischen
+               Königreichs auf dem Gebiet des heutigen Marokko.</note>
+            <note type="editorial" xml:id="en46902">Angouleme … Gemenox] Angoulême ist eine Stadt im Westen,
+               Gémenos im Südosten Frankreichs.</note>
+            <note type="editorial" xml:id="en46910">Korck in Irrland] Cork ist eine Stadt im Süden Irlands.</note>
+            <note type="editorial" xml:id="en46912">Mayland] Die italienische Stadt Mailand.</note>
+            <note type="editorial" xml:id="en47001">Sees bey Templin] Die brandenburgische Stadt Templin liegt am
+               Templiner See.</note>
+            <note type="editorial" xml:id="en43832">Büffon] Vgl. den Abschnitt zu
+               Vulkanen und Erdbeben (Bd. 1 der Naturgeschichte Buffons). Hier (<hi rend="smallCaps">Buffon</hi>
+               1749, 523 f.; <hi rend="smallCaps">Buffon</hi> 1750, 274) findet
+               sich das von Kant Zitierte: „<foreign xml:lang="fr">on voit que la force qui aura été assez grande pour
+                  déplacer 68000 lieues cubiques &amp; les pousser à une lieue, n’aura pas déplacé
+                  d’un pouce [Daumen; Zoll] le reste du globe</foreign>“ (524) bzw. in Übersetzung: „erkennt
+               man, daß diejenige Kraft, die groß genug gewesen, 68000 Quadratmeilen zu
+               verrücken, und eine Meile hoch zu heben, den übrigen Theil der Erdkugel keinen
+               Daumen breit aus seiner Lage gebracht haben würde“ (274).</note>
+            <note type="editorial" xml:id="en43906">Ich habe in den … Anzeigen] Vgl. <hi rend="italic">Ursachen
+               Erdbeben</hi>.</note>
+            <note type="editorial" xml:id="en43910">Cap St. Vincent und Cap
+               Finisterre] Das Cabo São Vicente, Portugal, findet sich im
+               äußersten Südwesten des europäischen Festlands. Das Cabo Fisterra liegt nördlich
+               davon, an der Westküste Galiciens, in Spanien.</note>
+            <note type="editorial" xml:id="en43919">Graf Marsigli hat … befunden] Gemeint ist der
+               italienische Offizier, Geologe und Entdeckungsreisende Luigi Ferdinando 
+               Marsigli oder Marsili (1658–1730), dessen Sekretär eine Zeit lang Johann Jacob
+               Scheuchzer war. In seinem naturhistorischen Werk über das Meer findet sich die
+               bei Kant angegebene konkrete Behauptung nicht; Marsigli erörtert dort aber
+               verschiedene Hypothesen bezüglich der unbekannten Tiefe des Meeres, etwa die
+               Frage, ob man sie in Analogie zu den Erhebungen der Berge erschließen könnte. Er
+               gibt dort die Vermutung wieder, das Mittelmeer könne so tief sein wie die Höhe
+               Maltas („<foreign xml:lang="fr">la hauteur de Malte</foreign>“; <hi rend="smallCaps">Marsigli</hi> 1725, 11).</note>
+            <note type="editorial" xml:id="en47041">Fuß] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43331">465<hi rend="sup">24</hi></ref>.</note>
+            <note type="editorial" xml:id="en47102">Fuß … Klafter] Siehe Sacherläuterungen zu <ref type="editorialNote" target="#en43206">464<hi rend="sup">4</hi></ref> und <ref type="editorialNote" target="#en43331">465<hi rend="sup">24</hi></ref>.</note>
+            <note type="editorial" xml:id="en47106a">Carthaune] Eine Kartaune ist ein Vorderlader-Geschütz.</note>
+            <note type="editorial" xml:id="en47606b">Klafter] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43206">464<hi rend="sup">4</hi></ref>.</note>
+            <note type="editorial" xml:id="en47136">Meyland] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en46912">469<hi rend="sup">12</hi></ref>.</note>
+            <note type="editorial" xml:id="en44022">Rheinl. Ruthen] Eine Rheinländische
+               Ruthe – trotz des Namens gleichwohl in Preußen
+               gebräuchlich – entspricht
+               12 Fuß und entsprechend ca.
+               3,5 m.</note>
+            <note type="editorial" xml:id="en47201">Ruthen] Siehe <ref type="editorialNote" target="#en44022">vorige Sacherläuterung</ref>.</note>
+            <note type="editorial" xml:id="en47202">Helfte eines Grans] „Gran“ ist für gewöhnlich eine Maßeinheit
+               der Masse, wird hier jedoch in der seltenen Bedeutung einer Einheit der
+               Länge verwendet, wie sie Christian Wolff in seinem <hi rend="italic">Mathematischen Lexicon</hi> definiert: 
+               „In der Geometrie ist er im <hi rend="italic">Längen-Maaß</hi> der zehende Theil eines
+               Zolles, der hunderte Theil eines Schuhes, und der tausende Theil einer Ruthe
+               […].“ (<hi rend="smallCaps">Wolff</hi> 1747, Sp. 601) Die Hälfte eines Grans entspricht somit etwa
+               0,18 Zentimetern.</note>
+            <note type="editorial" xml:id="en47206">deutsche Meilen] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43435">466<hi rend="sup">24</hi></ref>.</note>
+            <note type="editorial" xml:id="en47209">Zoll] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43501">466<hi rend="sup">26</hi></ref>.</note>
+            <note type="editorial" xml:id="en47222">See bey Neuchschatel, … Como … Meinungen] Die norditalienische
+               Stadt Como liegt am Lago di Como. Zu Neuchâtel und Meiningen
+               siehe die Sacherläuterung zu <ref type="editorialNote" target="#en46828">468<hi rend="sup">28-29</hi></ref>.</note>
+            <note type="editorial" xml:id="en47227">Cirnitzer See im Herzogthum Crain] Der Zirknitzer See liegt
+               im Südwesten des heutigen Sloweniens und heißt heute Cerkniško jezero.
+               Krain existierte als Herzogtum seit 1364, ging aber nach dem Ende des Ersten
+               Weltkriegs in Slowenien auf. Die heutige Hauptstadt Sloweniens, Ljubljana,
+               war früher die Hauptstadt Krains.</note> 
+            <note type="editorial" xml:id="en47229">um Jacobi] Der Jacobsmonat ist traditionell der Juli, der Jacobstag
+               der 25. Juli.</note>
+            <note type="editorial" xml:id="en44119">mit dem Diabetes der
+               Hydraulick] Schon Rahts führt aus: „Der in der Hydraulik bekannte
+               Heron’sche Doppel- oder Zauberbecher, dessen Inhalt sich, sobald er bis zu einer
+               bestimmten Höhe gefüllt ist, mittelst einer im Innern angebrachten
+               Hebevorrichtung von selbst entleert.“ (Ra, 571)</note>
+            <note type="editorial" xml:id="en47317">Töplitzer Brunn] Siehe die Sacherläuterung zu <ref type="editorialNote" target="#en46831">468<hi rend="sup">31</hi></ref>.</note>
+            <note type="editorial" xml:id="en47320">Königreiche Fetz] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en46838">468<hi rend="sup">38</hi></ref>.</note>
+            <note type="editorial" xml:id="en47338">Tagus] Der Tajo, der durch Spanien und Portugal fließt und
+               bei Lissabon in den Atlantik mündet.</note>
+            <note type="editorial" xml:id="en47412"><hi rend="spaced">Setuval</hi>] Die portugiesische Küstenstadt Setúbal, die bei dem
+               Erdbeben 1755 stark zerstört wurde.</note>
+            <note type="editorial" xml:id="en47429">Aqvapendente … della Grotta] Acquapendente und Grotte
+               di Castro sind zwei benachbarte Dörfer im nördlichen Latium.</note>
+            <note type="editorial" xml:id="en47435">Glowson … Grafschaft Hertford] Gemeint ist vermutlich Hereford
+               im westlichen England. Vgl. auch Seyfart 1756: „Zu Glowson, einem
+               in der Englischen Grafschaft Hertford belegenen Dorfe, ward am 18. November
+               um 9 Ur ein heftiger Stoß des Erdbebens verspüret. Man hörte dabei
+               ein entsetzliches unterirdisches Getöse“ (190).</note>
+            <note type="editorial" xml:id="en47507">deutsche Meilen] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43435">466<hi rend="sup">24</hi></ref>.</note>
+            <note type="editorial" xml:id="en44402">Varen] Bernhard Varens (1622
+               – ca. 1650) <hi rend="italic">Geographia generalis</hi>, zuerst 1650 erschienen, wurde
+               von James Jurin mit einem Appendix im Jahre 1712 neu herausgebracht
+               (<hi rend="smallCaps">Varen</hi> 1712).</note>
+            <note type="editorial" xml:id="en47510">Büffon] Georges-Louis Leclerc de Buffon (1707–1788) war der
+               Initiator und hauptsächliche Verfasser der zu seinen Lebzeiten 36bändigen,
+               ab 1749 erscheinenden, großen Naturgeschichte, die in viele Sprache übersetzt
+               wurde. Die erste deutsche Ausgabe beginnt 1752, eine weitere (Berliner)
+               Ausgabe kommt in den Siebzigerjahren heraus.</note>
+            <note type="editorial" xml:id="en44402a">Lulof] Johannes, auch: Johan
+               oder Jan Lulofs (1711–1768) war Jurist, Astronom, Mathematiker und Leiter der
+               Sternwarte in Leiden. Mit seinem Lehrwerk (<hi rend="smallCaps">Lulofs</hi> 1743; <hi rend="smallCaps">Lulofs</hi>
+               1755) bestritt Kant einen Teil seiner Vorlesungen über <hi rend="italic">Physische
+                  Geographie</hi>.</note>
+            <note type="editorial" xml:id="en44427">Raj] John Ray, auch: Wray,
+               (1627–1705) war ein englischer Theologe und Botaniker. Er schrieb eine
+               mehrbändige Naturgeschichte der Pflanzen und mehrere physikotheologische
+               Abhandlungen (vgl. <hi rend="smallCaps">Ray</hi> 1713, <hi rend="smallCaps">Ray</hi> 1732, <hi rend="smallCaps">Ray</hi> 1750).</note>
+            <note type="editorial" xml:id="en47629">Brabant … Picardie … Cleve] Brabant war zu Kants Zeiten ein
+               Herzogtum, das sich zwischen dem heutigen Belgien und den Niederlanden
+               erstreckte. Die Picardie ist eine historische Provinz im Norden Frankreichs.
+               Cleve war zu Kants Zeiten ein Herzogtum beidseits des Niederrheins.</note>
+            <note type="editorial" xml:id="en47730">Roußillon] Roussilon ist eine historische Provinz im Süden
+               Frankreichs, die an die Pyrenäen grenzt.</note>
+            <note type="editorial" xml:id="en47802">Herr Bouguer … nach Peru] Pierre Bouguer (1698–1758) war
+               ein französischer Astronom, Geodät und Physiker sowie Mitglied der Pariser
+               <hi rend="italic">Académie des Sciences</hi>. 1735 nahm er zusammen mit Louis Godin (1704–
+               1760) und Charles Marie de La Condamine (1701–1774) an einer von der
+               Pariser Akademie organisierten Forschungsexpedition nach Peru teil, die der
+               Erdvermessung galt. Seine Forschungsergebnisse veröffentlichte er gemeinsam
+               mit La Condamine 1749 in deren <hi rend="italic">La Figure de la Terre</hi> (<hi rend="smallCaps">Bouguer</hi> 1749).</note>
+            <note type="editorial" xml:id="en44701">Die Bemerkung, die Mariotte …
+               nachahmete] Der französische Physiker Edme Mariotte (ca. 1620–1684) beschreibt zunächst den Kalkofen, „<foreign xml:lang="fr">un fourneau
+                  où l’on faisoit de la chaux</foreign>“, und schildert dann: „<foreign xml:lang="fr">Il arrivoit que le feu étant
+                     grand, l’air enfermé se dilatoit extémement, &amp; qu’il sortoit en partie par
+                     la fenêtre avec beaucoup de vitesse: &amp; le feu s’étant alors diminué par le
+                     défaut de l’air, la chaleur de l’air enfermé diminuoit, &amp; devenant par
+                     conséquent moins rarefié, il en rentroit nécessairement par la fenêtre en forme
+                     de vent qui souffloit le feu &amp; le ralumoit; ce qui faisoit dilater l’air de
+                     nouveau par une augmentation de chaleur, &amp; le faisoit ressortir encore par
+                     la fenêtre. Cette vicissitude faisoit une espéce de respiration semblable à
+                     celle des animaux.</foreign>“ (<hi rend="smallCaps">Mariotte</hi> 1717, 346).</note>
+            <note type="editorial" xml:id="en47901">Meilen] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43435">466<hi rend="sup">24</hi></ref>.</note>
+            <note type="editorial" xml:id="en44832">Insel St. Michael] São Miguel ist die
+               größte Insel der Azoren. Vgl. zu dem Vorfall, auf den Kant sich bezieht, den
+               Bericht Moros (in Übersetzung): „Anno 1721. in der Nacht zwischen dem 7. und 8.
+               <hi rend="italic">Decemb.</hi> verspührte man auf denen Azorischen Inseln
+               <hi rend="italic">Tercera</hi> und St. Michael, so 28. Meilen von einander liegen,
+               ein grosses Erdbeben, und wurde Tags darauf einer neuwachsenden Insel […] gewahr
+               […].“ (<hi rend="smallCaps">Moro</hi> 1745, 21) Aus diesem Bericht zitiert auch Buffon
+               (<hi rend="smallCaps">Buffon</hi> 1748, 539; 1750, 282).</note>
+            <note type="editorial" xml:id="en48002">Klafter] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43206">464<hi rend="sup">4</hi></ref>.</note>
+            <note type="editorial" xml:id="en48004">Meile] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en43435">466<hi rend="sup">24</hi></ref>.</note>
+            <note type="editorial" xml:id="en48005">Insel bey Santorino] Gemeint ist die Insel Nea Kameni, die vor
+               allem in den Jahren von 1707 bis 1711 durch vulkanische Aktivität entstand.
+               Sie liegt in der Nähe der griechischen Insel Santorin.</note>
+            <note type="editorial" xml:id="en45006">Hr. Bouguer mutmaaßet mit
+               Recht] Siehe die Sacherläuterung zu <ref type="editorialNote" target="#en45224">483<hi rend="sup">24–27</hi></ref>.</note>
+            <note type="editorial" xml:id="en45132">an einem andern Orte] Vgl. <hi rend="italic">Ursachen
+               Erdbeben</hi>, besonders <ref type="textRef" target="#tr42101">454<hi rend="sup">36</hi>-455<hi rend="sup">18</hi></ref>.</note>
+            <note type="editorial" xml:id="en45204">
+               <hi rend="spaced">Gentil</hi>] Vgl. <hi rend="smallCaps">Le
+                  Gentil</hi> 1728, Bd. 1, 172 ff.; das gibt
+               auch Buffon wieder (<hi rend="smallCaps">Buffon</hi> 1749, 521 f.; <hi rend="smallCaps">Buffon</hi> 1750, 275).</note>
+            <note type="editorial" xml:id="en45210">Die Historie der Königl. Akad. zu Paris
+               berichtet] Auch dieser Sachverhalt steht einschließlich der Quellenangabe
+               („<foreign xml:lang="fr">Voyez l’Hist. De l’Acad. Des Sciences, an. 1688</foreign>“; „Siehe die Historie der
+               Akademie vom Jahre 1688“) bei Buffon: „Im Jahre, 1688, den 10. Julius, war ein
+               Erdbeben zu Smyrna, welches mit einer Bewegung von Westen gegen Osten anfieng.
+               […] Die Mauren von Westen gegen Osten, sind eingefallen, und die von Norden
+               gegen Süden sind stehen geblieben.“ (<hi rend="smallCaps">Buffon</hi> 1749, 514 f.; <hi rend="smallCaps">Buffon</hi> 1750, 270).</note>
+            <note type="editorial" xml:id="en45224">Hr. Bouguer, … gegen das Ende des
+               Jahres] Vgl. z. B. aus der Vorrede seines
+               Reiseberichts, im Anschluss an Berichte über Zerstörungen Limas durch Erdbeben:
+               „<foreign xml:lang="fr">Ainsi des six plus fort tremblemens que Lima ait souffert depuis sa fondation,
+                  il y en a quatre, qui au lieu de se distribuer indifféremment dans toutes les
+                  parties de l’année, sont arrivés dans les mois d’Octobre &amp; de Novembre.</foreign>“
+               (<hi rend="smallCaps">Bouguer</hi> 1749, LXXIV).</note>
+            <note type="editorial" xml:id="en48329">Untergange der Stadt Lima] 1746 wurde die peruanische Stadt
+               Lima durch ein schweres Erdbeben weitflächig zerstört.</note>
+            <note type="editorial" xml:id="en48401">Cordillerischen Gebirgen] Die Amerikanischen Kordilleren
+               sind ein Gebirgszug, der sich über eine Länge von 18000 Kilometern entlang
+               der gesamten Westküste des amerikanischen Kontinents erstreckt. Die Anden,
+               die Kant hier mit Bezug auf Peru meint, sind ein Teil davon.</note>
+            <note type="editorial" xml:id="en48434"><hi rend="spaced">Musschenbroeck</hi>] Der niederländische Mediziner und Naturforscher
+               Pieter van Musschenbroek (1692–1761) führt den von Kant beschriebenen
+               Sachverhalt in seinen <hi rend="italic">Grundlehren der Naturwissenschaft</hi> (1747,
+               762–764) aus.</note>
+            <note type="editorial" xml:id="en48609"><hi rend="spaced">Boyle</hi> berichtet schon] Der irische Naturforscher, Physiker
+               und Chemiker Robert Boyle (1627–1691) beschreibt die Wirkung von seismischen
+               Aktivitäten auf Magnetnadeln in seinem Werk <hi rend="italic">The Usefulness of Experimental
+                  Philosophy</hi> von 1663 anhand eines Ausbruchs des Vesuv (vgl. <hi rend="smallCaps">Boyle</hi>
+               1738, 175).</note>
+            <note type="editorial" xml:id="en45708">
+               <hi rend="spaced">Hales</hi> …
+               befreyet] Stephen Hales (1677–1761) war ein englischer Pfarrer und Naturforscher, der neben seinen großen physiologischen Werken um die
+               Verbesserung der Lebensumstände ärmerer Menschen bemüht war. 1752 lässt er im
+               Newgate-Gefängnis zur Verbesserung der Luft und Hygiene Ventilatoren einbauen
+               (vgl. <hi rend="smallCaps">Anonymus</hi> 1752; <hi rend="smallCaps">Anonymus</hi> 1753; <hi rend="smallCaps">Hales</hi> 1755).</note>
+            <note type="editorial" xml:id="en48812"><hi rend="spaced">Boyle</hi>] Vgl. in Robert <hi rend="smallCaps">Boyles</hi> (1627–1691) <hi rend="italic">
+               Opera varia</hi>
+               (1680) den Traktat <hi rend="italic">De temperie svbterranearvm regionvm ratione caloris et
+                  frigoris</hi>; vgl. dazu <hi rend="smallCaps">Adickes</hi> 1911, 17.</note>
+            <note type="editorial" xml:id="en48910">Begebenheit von Tuam in Irrland] Tuam liegt in der Grafschaft
+               Galway. Vgl. dazu <hi rend="smallCaps">Seyfart</hi> 1756: „Am 2. Januar. Nachmittags um 4. Ur
+               wurde zu <hi rend="italic">Tuam</hi> die Luft ungemein dik und warm, und ein ungewönliches
+               Licht, welches das Licht des hellesten Tages bei weitem übertraf, sezte alle
+               Leute, die solches sahen, in Erstaunen. Es verschwand hierauf nach und nach
+               ganz unvermerkt. Um 7. Ur erschien quer durch die Luft, von Westen gegen
+               Osten, eine See voll von Wimpeln, welche sich wie ein schwankendes Tuch
+               bewegten. Dieses erwekte einen fürchterlichen Lärm. Einige verliessen die
+               Stadt; andere hingegen flüchteten aus den Dörfern in die Stadt hinein, da sie
+               von den Wimpeln erschroken waren, welche ungefär nach 18. Minuten plözlich
+               sich entfärbten. Die äusersten Enden dieses Phönomenon hatten anfänglich
+               eine helblaue, hierauf eine feine himmelblaue, und hiernächst eine Topasen-
+               oder Flammen-änliche Farbe. […].“ (62 f.)</note>
+            <note type="editorial" xml:id="en45908">
+               <hi rend="spaced">Gautier</hi>] Jacques-Fabien Gautier
+               (d’Agoty) (1716-1785) hatte 1750 Newtons Farbtheorie attackiert (v. a. in <hi rend="smallCaps">Gautier</hi>
+               1750). Es erschienen, z. B. im
+               <hi rend="italic">Gentleman’s Magazine</hi>, Besprechungen und Rechtfertigungen Newtons. 1753
+               veröffentlichte er seine Theorie über die Ursachen von Erdbeben
+               (<hi rend="smallCaps">Gautier</hi> 1753), die z. B. 1756 in
+               einer kurzen Besprechung in den <hi rend="italic">Freyen Urtheilen</hi> erörtert wird
+               (<hi rend="smallCaps">Anonymus</hi> 1756).</note>
+            <note type="editorial" xml:id="en45919">Dampiers … allen seinen
+               Seereisen] William Dampier (1651–1715) war ein englischer Pirat
+               und Entdeckungsreisender, der mehrfach die Welt umsegelte. Vgl. seinen
+               Reisebericht (<hi rend="smallCaps">Dampier</hi> 1699), der 1701 ins Französische, 1703 ins
+               Deutsche übersetzt wurde (<hi rend="smallCaps">Dampier</hi> 1703).</note>
+         </div>
+      </body>
+   </text>
+</TEI>

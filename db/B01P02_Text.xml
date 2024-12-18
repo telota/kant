@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="2" subtype="editedText">Untersuchung der Frage, ob die Erde in
+               ihrer Umdrehung um die Achse einige Veränderung erlitten habe</title>
+            <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://d-nb.info/gnd/137235186">
+                  <surname>Sturm</surname>
+                  <forename>Thomas</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-3775-686X">
+                  <surname>Burt</surname>
+                  <forename>Fabian</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche
+                     Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche
+                     Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition,
+                     Bereitstellung der Schnittstellen</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie
+                     Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+                  Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+                     Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen
+               Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">Berlin-Brandenburgische
+                  Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung
+                  I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Umdrehung der Erde</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">Kant's Werke</title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="2">Untersuchung der Frage, ob die Erde in ihrer Umdrehung
+                     um die Achse einige Veränderung erlitten habe</title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://d-nb.info/gnd/137235186">
+                        <surname>Sturm</surname>
+                        <forename>Thomas</forename>
+                     </persName>
+                  </editor>
+                  <respStmt>
+                     <persName ref="https://orcid.org/0000-0002-3775-686X">
+                        <surname>Burt</surname>
+                        <forename>Fabian</forename>
+                     </persName>
+                     <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                     </resp>
+                  </respStmt>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">159–166</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482 </idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+                  <biblScope unit="volume" n="1">Band 1</biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">German</language>
+            <language ident="fr">French</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-10-24" who="#GN">Corrected</change>
+         <change when="2024-09-24" who="#EF">Corrected</change>
+         <change when="2024-08-24" who="#GN">Corrected</change>
+         <change when="2024-04-29" who="#GN">Corrected</change>
+         <change when="2023-12-01" who="#EF">Corrected</change>
+         <change when="2023-11-13" who="#GN">Preparation</change>
+         <change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div n="1" type="titlePage">
+            <pb ed="AA" n="0"/> <space dim="vertical" quantity="8" unit="lines"/> <p rend="head_10">Untersuchung der Frage,</p>
+            <space dim="vertical" quantity="1" unit="lines"/>
+            <p rend="head_05">
+               <hi rend="italic">Ob</hi>
+            </p>
+            <p rend="head_02">
+               <hi rend="italic">die Erde in ihrer Umdrehung um die Achse,</hi>
+            </p>
+            <p rend="head_05">
+               <hi rend="italic">wodurch sie</hi>
+            </p>
+            <p rend="head_05">
+               <hi rend="italic">die Abwechselung des Tages und der Nacht hervorbringt,</hi>
+            </p>
+            <p rend="head_05">
+               <hi rend="italic">einige Veränderung seit den ersten Zeiten ihres Ursprungs erlitten
+                  habe,</hi>
+            </p>
+            <p rend="head_05">
+               <hi rend="italic">welches die Ursache davon sey,</hi>
+            </p>
+            <p rend="head_05">
+               <hi rend="italic">und woraus man sich ihrer versichern könne,</hi>
+            </p>
+            <p rend="head_05">welche</p>
+            <p rend="head_05">von der <abbr>Königl.</abbr> Academie der Wissenschaften zu Berlin</p>
+            <p rend="head_05">zum Preise</p>
+            <p rend="head_05">vor das jetztlaufende Jahr aufgegeben worden.</p>
+            <milestone unit="section" rend="line"/>
+            <p rend="head_05">
+               <hi rend="italic">In:</hi> Wochentliche Königsbergische Frag- und Anzeigungs-Nachrichten.</p>
+            <p rend="head_05">
+               <hi rend="antiqua">No:</hi> 23. Sonnabends, den 8. <hi rend="antiqua">Junii Anno</hi>
+               1754.</p>
+            <p rend="head_05">
+               <hi rend="italic">Beschluß:</hi> <hi rend="antiqua">No:</hi> 24. Sonnabends, den 15. <hi rend="antiqua">Junii
+                  Anno</hi> 1754.</p>
+         </div>
+      	<div n="1">
+            <pb ed="AA" n="1"/>
+      	   <pb ed="AA" n="2"/>
+            <p>
+               <ref type="editorialNote" target="#en18501" xml:id="en18501P01" next="#en18501P02">
+                  <hi rend="initial">D</hi>as Urtheil wird in kurtzem bekannt werden, welches die
+                  Königliche Academie der Wissenschaften über diejenige Schriften fällen wird, die
+                  bey Gelegenheit ihrer Aufgabe auf dieses Jahr um den Preis gestritten haben. Ich
+                  habe über diesen <ref type="critApp" xml:id="app18504">Vorwurf</ref> Betrachtungen
+                  angestellet, und da ich nur die physikalische Seite desselben erwogen, so habe ich
+                  meine Gedancken darüber kürtzlich entwerfen wollen, nachdem ich eingesehen, daß er
+                  seiner Natur nach auf dieser Seite unfähig ist, zu demjenigen Grade der
+                  Vollkommenheit gebracht zu werden, welche diejenige Abhandlung haben muß, die den
+                  Preiß davon tragen soll.</ref>
+            </p>
+      	   <p rend="indent"><ref type="editorialNote" target="#en18501" xml:id="en18501P02" next="#en18501P01">Die Aufgabe der Academie bestehet in folgendem: <hi rend="spaced">Ob
+                  die Erde in ihrer Umdrehung um die Achse, wodurch sie die Abwechselung des Tages
+                  und der Nacht hervorbringt, einige Veränderung seit den ersten Zeiten ihres
+                  Ursprungs erlitten habe, welches die Ursache davon sey, und woraus man sich ihrer
+                  versichern könne?</hi></ref> Man kan dieser Frage historisch nachspühren, indem man die
+               Denckmaale des Alterthums aus den entferntesten Zeiten, von der Grösse ihres Jahres
+               und den Einschaltungen, <ref type="critApp" xml:id="app18517">deren</ref> sie sich
+               haben bedienen müssen, um zu verhindern, daß der Anfang desselben nicht durch alle
+               Jahreszeiten beweglich sey, mit der Länge des in unseren Tagen bestimmten Jahres
+               vergleichet, um zu sehen, ob jenes in den ältesten Zeiten mehr oder weniger Tage oder
+               Stunden in sich gehalten habe als jetzo; in welchem ersten Falle die Schnelligkeit
+               der Achsendrehung verringert, in dem zweyten aber bis anjetzt vermehret worden. Ich
+               werde in meinem Vorwurfe nicht durch die Hülfsmittel der Geschichte Licht zu bekommen
+               suchen. Ich finde diese <pb ed="oldAA" n="186" xml:id="B01S0186"/>Urkunde so dunckel,
+               und ihre Nachrichten in Ansehung der gegenwärtigen Frage so wenig zuverläßig: daß die
+               Theorie, die man sich erdencken möchte, um sie mit denen Gründen der Natur
+               übereinstimmend zu machen, vermuthlich sehr nach Erdichtungen schmecken würde. Ich
+               will mich also deshalben unmittelbar an die Natur halten, <pb ed="AA" n="3"/>deren Verbindungen den
+               Erfolg deutlich bezeichnen und Anlaß geben können, die Bemerckungen aus der
+               Geschichte auf die rechte Seite zu lencken.</p>
+            <p rend="indent">Die Erde wältzet sich unaufhörlich um ihre Achse, mit einer freyen
+               Bewegung, die, nachdem sie ihr einmal zugleich mit ihrer Bildung eingedrückt worden,
+               fortan unverändert und mit gleicher Geschwindigkeit und Richtung in alle unendliche
+               Zeiten fortdauren würde, wenn keine Hinderniße oder äusserliche Ursachen vorhanden
+               wären, sie zu verzögern, oder zu beschleunigen. Ich unternehme mir darzuthun, daß die
+               äusserliche Ursache wircklich vorhanden sey, und zwar eine solche, die die Bewegung
+               der Erde nach und nach verringert, und ihren Umschwung in unermeßlich langen Perioden
+               gar zu vernichten trachtet. Diese Begebenheit, die sich dereinst
+               zutragen soll, ist so wichtig und wundersam, daß obgleich der fatale Zeitpunckt ihrer
+               Vollendung so weit hinausgesetzet ist, daß selber die Fähigkeit der Erdkugel bewohnt
+               zu seyn, und die Dauer des menschlichen Geschlechts vielleicht nicht an den zehnten
+               Theil dieser Zeit reichet, dennoch auch nur die Gewisheit dieses bevorstehenden
+               Schicksaals, und die stätige Annäherung der Natur zu demselben ein würdiger
+               Gegenstand der Bewunderung und Untersuchung ist.</p>
+            <p rend="indent">Wenn der Himmelsraum mit einer einigermaassen widerstehender Materie
+               erfüllet wäre, so würde der tägliche Umschwung der Erde an derselben eine
+               unaufhörliche Hinderniß antreffen, wodurch seine Schnelligkeit sich nach und nach
+               verzehren und endlich erschöpfen müste. <ref type="editorialNote" target="#en18629">Nun ist aber dieser Wiederstand nicht zu besorgen, nachdem <persName key="newton_isaac">Newton</persName> auf eine überzeugende Art dargethan hat,
+                  daß der Himmelsraum, der so gar den leichten Cometischen Dünsten eine freye
+                  ungehinderte Bewegung verstattet, mit unendlich wenig wiederstehender Materie
+                  erfüllet sey</ref>. Ausser <pb ed="firstPrint" n="(2)" xml:id="B01S0186Z33fp"/>dieser nicht zu vermuthenden Hinderniß ist keine äussere Ursache, die auf die
+               Bewegung der Erde einen Einfluß haben kan, als die Anziehung des Mondes und der
+               Sonne, welche, da sie das allgemeine Triebwerck der Natur ist, woraus <persName key="newton_isaac">Newton</persName> ihre Geheimnisse auf eine so deutliche als
+               ungezweifelte Art entwickelt hat, einen <pb ed="oldAA" n="187" xml:id="B01S0187"/>zuverläßigen Grund alhier abgiebt, an dem man eine sichere Prüfung anstellen
+               kan.</p>
+            <p rend="indent">Wenn die Erde eine gantz feste Masse ohne alle Flüßigkeiten wäre, so
+               würde die Anziehung weder der Sonne noch des Mondes etwas thun, ihre freye
+               Achsendrehung zu verändern; denn sie ziehet die östliche so wohl als die westliche
+               Theile der Erdkugel mit gleicher Kraft, und verursacht dadurch keinen Hang weder nach
+               der einen, noch der andern Seite, folglich läßt sie die Erde in völliger Freyheit,
+               diese Umdrehung, so wie ohne allen äusserlichen Einfluß, ungehindert fortzusetzen. In
+               dem Falle aber, daß die Masse eines Planeten eine beträchtliche Qvantität des
+               flüßigen Elements in sich fasset, so werden die vereinigte Anziehungen des Mondes und
+               der Sonne, indem sie diese flüßige Materie bewegen, der Erde einen <pb ed="AA" n="4"/>Theil dieser
+               Erschütterung eindrücken. Die Erde ist in solchen Umständen. Das Gewässer des Oceans
+               bedecket wenigstens den dritten Theil ihrer Oberfläche, und ist durch die Attraktion
+               der gedachten Himmelskörper in unaufhörlicher Bewegung, und zwar nach einer Seite,
+               die der Achsendrehung gerade entgegen gerichtet ist. Es verdienet also erwogen zu
+               werden, ob diese Ursache nicht der Umwältzung einige Veränderung zuzuziehen vermögend
+               sey. Die Anziehung des Mondes, welche den größten Antheil an dieser Wirckung hat,
+               hält das Gewässer des Oceans in unaufhörlicher Aufwallung, dadurch es zu <ref type="critApp" xml:id="app18722">denen Punckten</ref>, gerade unterm Mond, so wohl
+               auf der ihm zu, als von ihm abgekehrten Seite hinzuzufliessen und sich zu erheben bemühet ist, und weil diese Punckte der Aufschwellung von Morgen
+               gegen Abend fortrücken; so theilen sie dem Weltmeere eine beständige Fortströhmung
+               nach eben dieser Gegend in seinem gantzen Inhalte mit. Die Erfahrung der Seefahrenden
+               hat schon längst diese allgemeine Bewegung ausser Zweiffel gesetzt, und sie wird am
+               deutlichsten in den Meerengen und Meerbusen bemercket, wo das Gewässer, indem es
+               durch eine enge Strasse laufen muß, seine Geschwindigkeit vermehret. Da diese
+               Fortströhmung nun der Drehung der Erde gerade entgegen gesetzet ist, so haben wir
+               eine Ursache, auf die wir sicher rechnen können, daß sie jene, so viel an ihr ist,
+               unaufhörlich zu schwächen und zu vermindern bemühet ist.</p>
+            <p rend="indent">Es ist wahr, wenn man die Langsamkeit dieser Bewegung mit der
+               Schnelligkeit der Erde, die Geringschätzigkeit der Qvantität des <pb ed="oldAA" n="188" xml:id="B01S0188"/>Gewässers mit der Grösse dieser Kugel, und die Leichtigkeit
+                  <ref type="critApp" xml:id="app18801">des ersten</ref> zu der Schwere der letztern
+               zusammenhält, so könte es scheinen: daß ihre Wirckung vor nichts könne gehalten
+               werden. Wenn man aber dagegen erweget: daß dieser Antrieb unabläßig ist, von je her
+               gedauert hat, und immer währen wird, daß die Drehung der Erde eine freye Bewegung
+               ist, in welcher die geringste Qvantität, die ihr benommen wird, ohne Ersetzung
+               verlohren bleibt, dagegen die vermindernde Ursache unaufhörlich in gleicher Stärcke
+               wircksam bleibet, so wäre es ein einem Philosophen sehr unanständiges Vorurtheil,
+               eine geringe Wirckung für nichtswürdig zu erklären, die durch eine beständige
+               Summirung dennoch auch die größte Qvantität endlich erschöpfen muß.</p>
+            <p rend="center">(<hi rend="spaced">Der Beschluß folget künftig.</hi>)</p>
+            <p rend="right">
+               <hi rend="larger">Immanuel Kant.</hi>
+            </p>
+            <milestone unit="section" rend="line"/>
+            <div n="2">
+               <pb ed="AA" n="5"/>
+               <head rend="head_04">
+                  <pb ed="firstPrint" n="(3)" xml:id="B01S0188Z12ffffp"/>Beschluß der Untersuchung
+                  derjenigen Frage, welche von der Königl. Academie der Wissenschaften zu Berlin zum
+                  Preise vor das jetztlaufende Jahr aufgegeben worden.</head>
+               <p rend="indent">
+                  <ref type="editorialNote" target="#en18813">Damit wir die Grösse der Wirckung,
+                     welche die beständige Bewegung des Oceans von Morgen gegen Abend der
+                     Achsendrehung der Erde entgegensetzet, einiger maaßen schätzen können</ref>: so
+                  wollen wir nur den Anfall, den das Weltmeer gegen die
+                  morgendliche Küsten des festen Landes von America thut, ausrechnen, indem wir
+                  dessen Erstreckung bis zu beyden Polen verlängern, dadurch, daß wir, was daran
+                  fehlet, durch die hervorragende Spitze von Africa und durch die Orientalische
+                  Küsten Asiens mehr als überflüßig ersetzen. Laßt uns die Geschwindigkeit der
+                  angeführten Meeres-Bewegung unter dem Aeqvator <ref type="editorialNote" target="#en18822">1 Fuß</ref> in einer Secunde, und nach den Polen, eben so wie
+                  die Bewegung der Parallelzirckel, abnehmend setzen; endlich mag die Höhe
+                  derjenigen Fläche, die das feste Land dem Anfalle des Wassers darbiethet, in
+                  senckrechter Tiefe geschätzet, <anchor type="textRefStart" xml:id="tr16415"/>100 <ref type="editorialNote" target="#en18825">
+                     <hi rend="antiqua"><foreign xml:lang="fr">toises</foreign></hi> (Französische sechsfüßigte Ruthen)</ref>
+                  angenommen werden: so werden wir die Gewalt, womit das Meer durch seine Bewegung
+                  diese ihr entgegenstehende Fläche drücket, dem Gewichte eines Wasserkörpers gleich
+                  finden, dessen Basis der gantzen gedachten Fläche von einem Pol zum andern, die
+                  Höhe aber ⅟<hi rend="sub">224</hi>
+                  Fuß gleich ist. <anchor type="textRefStart" xml:id="tr16420"/>Dieser Wasserkörper, welcher eilfmal hundert tausend
+                  Cubiktoisen begreifet, wird von der Grösse der Erdkugel 123 <ref type="critApp" xml:id="app18832">
+                     <ref type="editorialNote" target="#en18832">Bimillionenmal</ref>
+                  </ref> übertroffen, und indem das Gewichte dieses Wasserkörpers der Bewegung der
+                  Erde immer entgegen drücket, so kan man leicht finden, wie viel Zeit verfliessen
+                  müßte, bis diese Hindernis der Erde ihre gantze Bewegung erschöpfete. Es würden 2
+                  Millionen Jahre dazu erfordert werden, wenn man die Geschwindigkeit des fluthenden
+                  Meeres bis ans Ende gleich, und den Erdklumpen von <pb ed="oldAA" n="189" xml:id="B01S0189"/>gleicher Dichtigkeit mit der Materie der Gewässer annähme.
+                  Auf diesen Fuß würde in mäßigen Perioden, da die gedachte Verminderung noch nicht
+                  viel beträgt, <abbr>z. E.</abbr> in einer Zeit von 2 tausend Jahren die
+                  Verzögerung so viel austragen: daß ein Jahreslauf nach diesem 8½ Stunden weniger als vorher in sich halten müste,
+                  weil die Achsendrehung um so viel langsamer geworden.</p>
+               <p rend="indent">Nun leidet zwar die Abnahme der täglichen Bewegung dadurch grosse
+                  Einschränckungen: daß 1. die Dichtigkeit der gantzen Erdmasse nicht, wie hier
+                  vorausgesetzt worden, der specifischen Schweere des Wassers gleich ist. 2. Die
+                  Geschwindigkeit des fluthenden Meeres in dessen offener Weite ungleich gringer <ref type="critApp" xml:id="app18911">als
+                     auf ein</ref> Fuß in einer Secunde zu
+                  seyn scheinet; dagegen aber wird dieser Mangel überflüßig ersetzet, dadurch, daß
+                  1. die Kraft der Erdkugel, die hier als in fortschiessender Bewegung <pb ed="AA" n="6"/>mit der
+                  Geschwindigkeit eines Punckts unter dem Aequator berechnet worden, nur eine
+                  Achsendrehung ist, die ungleich gringer ist, über dieses auch die Hinderniß,
+                  welche auf der Oberfläche einer sich umdrehenden Kugel angebracht ist, den
+                  Vortheil des Hebels durch seinen Abstand vom Mittelpunkte an sich hat, welche
+                  beyde Ursachen zusammen genommen, die Verminderung durch den Anlauf der Gewässer
+                  um 5½ vermehren, 2tens aber, welches das <pb ed="firstPrint" n="(4)" xml:id="B01S0189Z20fp"/>vornehmste ist, diese Wirckung
+                  des bewegten Oceans nicht lediglich gegen die über den
+                  Meeresgrund hervorragende Unebenheiten, das feste Land, die Inseln und Klippen
+                  geschiehet, sondern auf dem gantzen Meeresgrunde ausgeübet wird, die zwar in jedem
+                  Punkte ungleich weniger als beym senckrechten Anlaufe der erstern Berechnung
+                  austrägt, dagegen aber durch die Grösse des Umfanges, in welchem sie geschiehet,
+                  der die vorerwehnte Fläche über 8 Millionenmal übertrift, mit einem erstaunlichen
+                  Ueberflusse ersetzt werden muß.</p>
+               <p rend="indent">Man wird diesemnach ferner nicht zweifeln können: daß die
+                  immerwährende Bewegung des Weltmeeres von Abend gegen Morgen, da sie eine
+                  wirckliche und nahmhafte Gewalt, auch immer etwas zu Verminderung der
+                  Achsendrehung der Erde beytrage, deren Folge in langen Perioden ohnfehlbar
+                  mercklich werden muß. Nun solten billig die Zeugnisse der Geschichte herbeygeführt
+                  werden, um die Hypothese zu unterstützen; allein ich muß gestehen, daß ich keine
+                  Spuhren einer so wahrscheinlich zu vermuthenden Begebenheit antreffen kan, und <pb ed="oldAA" n="190" xml:id="B01S0190"/>andern daher das Verdienst überlasse diesen
+                  Mangel wo möglich zu ergäntzen.</p>
+               <p rend="indent">Wenn die Erde sich dem Stillstande ihrer Umwältzung mit stetigen
+                  Schritten nähert, so wird die Periode dieser Veränderung alsdenn vollendet seyn,
+                  wenn ihre Oberfläche in Ansehung des Mondes in respecktiver Ruhe seyn wird,
+                  <abbr>d. i.</abbr> wenn sie sich in derselben Zeit um die Achse drehen wird,
+                  darinn der Mond um sie läuft, folglich ihm immer dieselbe Seite zukehren wird.
+                  Dieser Zustand wird ihr durch die Bewegung der flüßigen Materie verursachet, die
+                  einen Theil ihrer Oberfläche nur bis auf eine gar gringe Tiefe bedecket. Wenn sie
+                  bis in den Mittelpunkt durch und durch flüßig wäre, so würde die Anziehung des
+                  Mondes in gar kurtzer Zeit ihre Achsenbewegung bis zu diesem abgemessenen
+                  Ueberrest bringen. Dieses leget uns auf einmal die Ursache deutlich dar, die den
+                  Mond genöthigt hat, in seinem Umlaufe um die Erde ihr immer dieselbe Seite
+                  zuzukehren. Nicht <ref type="critApp" xml:id="app19015">eine Ueberwicht</ref> der
+                  zugekehrten Theile über die abgewandte, sondern eine würcklich gleichförmige
+                  Umwendung des Mondes um seine Achse, gerade in der Zeit da er um die Erde läuft,
+                  bringet diese immerwährende Darbiethung derselben Hälfte zuwege. Hieraus läßt sich
+                  mit Zuverläßigkeit schliessen: daß die Anziehung, welche die Erde an dem Monde
+                  ausübet, zu Zeit seiner ursprünglichen Bildung, als seine Masse noch flüßig <pb ed="AA" n="7"/>war,
+                  die Achsendrehung, die dieser Nebenplanet damals vermuthlich mit grösserer
+                  Geschwindigkeit gehabt haben mag, auf die angeführte Art bis zu diesem
+                  abgemessenen Ueberreste gebracht haben müsse. Woraus auch zu ersehen, daß der Mond
+                  ein späterer Himmelskörper sey, der der Erde hinzugegeben worden, nachdem sie
+                  schon ihre Flüßigkeit abgelegt und einen festen Zustand überkommen hatte; sonsten
+                  würde die Anziehung des Mondes sie ohnfehlbar demselben Schicksaale in kurtzer
+                  Zeit unterworfen haben, das der Mond von unserer Erde erlitten hat. Man kan die
+                  letztere Bemerckung als eine Probe einer Naturgeschichte des Himmels ansehen, in
+                  welcher der erste Zustand der Natur, die Erzeugung der Weltkörper und die Ursachen
+                  ihrer systematischen Beziehungen, aus den Merkmaalen, die die Verhältnisse des
+                  Weltbaues an sich zeigen, musten bestimmet werden. Diese Betrachtung, die
+                  dasjenige im grossen oder vielmehr im unendlichen ist, <ref type="editorialNote" target="#en19101">was die Historie der Erde
+                  im kleinen enthält, kan in solcher weiten Ausdehnung eben so zuverläßig begriffen
+                     <pb ed="oldAA" n="191" xml:id="B01S0191"/>werden, als man sie in Ansehung unserer Erdkugel in unseren Tagen zu
+                     entwerfen bemüht gewesen</ref>. <ref type="editorialNote" target="#en19102">Ich habe diesem Vorwurfe eine lange
+                     Reihe Betrachtungen gewidmet, und sie in einem System verbunden, welches unter
+                     dem Titel: <hi rend="spaced">Cosmogonie, oder Versuch, den Ursprung des
+                        Weltgebäudes, die Bildung der Himmelskörper, und die Ursachen ihrer Bewegung,
+                        aus den allgemeinen Bewegungsgesetzen der Materie, der Theorie des Newtons
+                        gemäß her zu leiten,</hi> in kurtzem öffentlich erscheinen wird</ref>.
+               </p>
+               <pb ed="AA" n="8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

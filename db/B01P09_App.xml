@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="9" subtype="criticalApparatus">
+               Fortgesetzte Betrachtung der seit einiger Zeit wahrgenommenen
+               Erderschütterungen
+            </title>
+            <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0002-5982-4800">
+                  <surname>Pollok</surname>
+                  <forename>Anne</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0001-7554-6743">
+                  <surname>Pollok</surname>
+                  <forename>Konstantin</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+                            Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung I, „Werke“, der 
+                        Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Betrachtung Erdbeben</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">
+                     Kant's Werke
+                  </title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="9">
+                     Fortgesetzte Betrachtung der seit einiger Zeit wahrgenommenen
+                     Erderschütterungen
+                  </title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0002-5982-4800">
+                        <surname>Pollok</surname>
+                        <forename>Anne</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0001-7554-6743">
+                        <surname>Pollok</surname>
+                        <forename>Konstantin</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">493–501</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482
+                  </idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">
+                     Erste Abteilung <lb/>Werke – Neuedition
+                  </biblScope>
+                  <biblScope unit="volume" n="1">
+                     Band 1
+                  </biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-18" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P09App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app46507">
+                  <lem>gekommen. Ein</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: gekommen; ein</rdg>
+               </app>
+               <app from="#app46515">
+                  <lem>vor</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: für</rdg>
+               </app>
+               <app from="#app46606">
+                  <lem>vor</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: für</rdg>
+               </app>
+               <app from="#app46607">
+                  <lem>bis zur</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: bisher</rdg>
+               </app>
+               <app from="#app46818">
+                  <lem>noch den</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: nach dem</rdg>
+               </app>
+               <app from="#app46822">
+                  <lem>seyn</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>: sind</rdg>
+               </app>
+               <app from="#app46824">
+                  <lem>dem</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: den</rdg>
+               </app>
+               <app from="#app46837">
+                  <lem>wäre.</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: wäre?</rdg>
+               </app>
+               <app from="#app46935">
+                  <lem>weitere</lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>:
+						weiter</rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: weite</rdg>
+               </app>
+               <app from="#app46935a">
+                  <lem>das</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: das Erdbeben</rdg>
+               </app>
+               <app from="#app47012">
+                  <lem>seyn</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>: sind</rdg>
+               </app>
+               <app from="#app47028">
+                  <lem>Steinkohlenlager</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: Steinkohlenlagen</rdg>
+               </app>
+               <app from="#app47036">
+                  <lem>waren.</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: waren?</rdg>
+               </app>
+               <app from="#app47118">
+                  <lem>worden</lem>
+                  <rdg wit="#Ra #A">mit <wit wit="#Ra">Ra</wit> zu <wit wit="#A">A</wit>: werden</rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: wird</rdg>
+               </app>
+               <app from="#app47127">
+                  <lem>Ausschweifungen</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: Ausschweifung</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P09En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en46508">Kindermanns] In der Vorrede zu Eberhard Christian
+               Kindermanns <hi rend="italic">Vollständiger Astronomie</hi> schreibt ein „D. J. G. K.“: „Es erinnere, wer da
+               will, daß in dieser Teutschen Astronomie keine Geometrische
+               <hi rend="italic">Demonstration</hi> von Satz zu Satze anzutreffen sey. Ihm wird
+               zur Antwort dienen, daß dergleichen Muthmassungen keine Mathematische Gewißheit
+               in Schlüssen durchgängig leiden, sonst es mehr als Muthmassungen wären. […]
+               Der Herr <hi rend="italic">Secr.</hi> Kindermann hat also seiner Einbildungs-Krafft
+               bey lebhaffter Betrachtung der himmlischen Cörper freyen Lauf gelassen.“
+               (<hi rend="smallCaps">Kindermann</hi> 1744, iii [im Original unpaginiert]).</note>
+            <note type="editorial" xml:id="en46511">Whiston] Vgl. Whistons berühmtes Werk <hi rend="smallCaps italic">A new Theory of the Earth</hi>
+               (<hi rend="smallCaps">Whiston</hi> 1696), 1713 in der deutschen Übersetzung Michael Swens
+               herausgekommen (<hi rend="smallCaps">Whiston</hi> 1713). Vgl. auch den Abschnitt über die
+               „Beweise der Theorie der Erde“ und insbesondere den 2. Artikel „Von dem Systeme
+               des Herrn Whiston. A New Theory of the Earth, by Will. Whiston. Lond. 1708“, in:
+               <hi rend="smallCaps">Buffon</hi>, <hi rend="smallCaps italic">Naturgeschichte</hi>, 97–102.</note>
+            <note type="editorial" xml:id="en46522">Hrn. Professor Profe] Gottfried Profe (1712–1770), Mathematiker,
+               Theologe und Gymnasialdirektor in Altona, spricht von einer „nur leidlichen
+               Muthmaßung“ (<hi rend="smallCaps">Profe</hi> 1755a, Sp. 741 f.)
+               bzgl. des Einflusses des Mondes, der Sonne und der Sterne auf Erdbeben und einer
+               „ungewöhnliche[n] starke[n] Wasserbewegung“ (<hi rend="smallCaps">Profe</hi> 1755b, Sp.
+               805 f.).</note>
+            <note type="editorial" xml:id="en46601a">Digby] Kenelm Digby (1603–1665), 1623 geadelt,
+               war ein englischer Schriftsteller, Diplomat und Abenteurer. Er veröffentlichte
+               1658 seinen europaweit außerordentlich erfolgreichen Diskurs über die
+               Fernheilwirkung eines Wundpulvers, zuerst in französischer und englischer
+               Sprache; zwei Jahre später erscheint die deutsche Übersetzung (<hi rend="smallCaps">Digby</hi>
+               1658). Die Schrift enthält auch Anweisungen, wie dieses ‚Sympathie-Pulver‘
+               herzustellen sei. In der Folge gab es etliche Neuauflagen in diversen Sprachen.
+               Vgl. dazu <hi rend="smallCaps">Kodera</hi> 2021.</note>
+            <note type="editorial" xml:id="en46601b">Vallemonts] Pierre le Lorrain Abbé de Vallemont
+               (1649–1721) war ein Verfasser erfolgreicher okkultistischer Literatur (vgl.
+               <hi rend="smallCaps">Vallemont</hi> 1694; <hi rend="smallCaps">Vallemont</hi> 1708).</note>
+            <note type="editorial" xml:id="en46629">Der Doctor List, … nach der Sonne
+               drehe] Martin Lister
+               (1639–1712), englischer Arzt, Zoologe, Physiker, seit 1671 Mitglied der
+               <hi rend="italic">Royal Society of London for Improving Natural Knowledge</hi>. Er
+               veröffentlichte in den <hi rend="italic">Philosophical Transactions</hi> Theorien über
+               die Entstehung der Passatwinde, das Quecksilber, über Blitz und Donner,
+               mineralogische Themen, auch über Kupferminen oder die Herstellung von Stahl,
+               diverse Beiträge zur Botanik, Biochemie und Zoologie (Insekten, Schlangen,
+               Muscheln, Austern) oder auch zur Frage, wie man aus Seewasser Trinkwasser
+               gewinnen kann (z. B. <hi rend="smallCaps">Lowthorp</hi> 1722 oder
+               <hi rend="smallCaps">Jones</hi> 1749, passim). Im Kontext der Passatwind-Theorien stellt er
+               die Hypothese auf, dass die Ausdünstungen der Pflanzen auf See, insbesondere der
+               Meerlinsen (<foreign xml:lang="la">Lenticula Marina</foreign>), z. B. in der Sargossa-See (heute: Sargassosee), für die
+               Entstehung der Winde verantwortlich seien, was sogar in Chambers‘ Enzyklopädie
+               verzeichnet wird; vgl. den Eintrag „<foreign xml:lang="en">Trade-Winds</foreign>“ in <hi rend="smallCaps">Chambers</hi> 1741: „<foreign xml:lang="en">Dr.
+                  Lister has a conjecture in the <hi rend="italic">Philosophical Transactions</hi>, that
+                  the tropical or <hi rend="italic">trade-winds</hi> arise, in great part, from the
+                  daily and constant breath of a sea-plant, called the <hi rend="italic">sargossa</hi>,
+                  or <hi rend="italic">lenticula marina</hi>, which grows in vast quantities from 36° to
+                  18° north latitude, and elsewhere upon the deepest seas. –
+                  For the matter of wind coming from the breath of one only plant, must needs be
+                  constant and uniform; whereas the great variety of trees and plants at land,
+                  furnishes a confused matter of winds. Hence, he adds, it is, that these winds
+                  are briskest about noon; the sun quickening the plant most then, and causing it
+                  to breathe faster and more vigorously. Lastly, the direction of this wind from
+                  east to west, he attributes to the general current of the sea; for a gentle air
+                  is observed to be constantly led along with the stream of a river: nor must it
+                  be omitted, that every plant is, in some measure, a heliotrope, and bends
+                  itself, and moves after the sun, and consequently emits its vapour thitherward;
+                  so that the direction of the <hi rend="italic">trade-wind</hi> is, in some measure,
+                  also owing to the course of the sun.</foreign>“</note>
+            <note type="editorial" xml:id="en46707">Herr Bouguer] Vgl. den Reisebericht Pierre Bouguers
+               (<hi rend="smallCaps">Bouguer</hi> 1749) in der deutschen Übersetzung (<hi rend="smallCaps">Bouguer</hi>
+               1751), 99–100.</note>
+            <note type="editorial" xml:id="en46813">130 000mal kleiner] Rahts teilt in
+               seinen <hi rend="italic">Sachlichen Erläuterungen</hi> mit: „Die Höhe der von einem
+               Himmelskörper bewirkten Meeresfluth ist proportional seiner Masse und nimmt im
+               Verhältniss des Cubus seiner Entfernung ab. Da nun Jupiter im Mittel 5 mal so
+               weit von der Erde absteht als die Sonne und eine 1048 mal geringere Masse hat,
+               so ist die von ihm bewirkte Fluthhöhe [⅟<hi rend="sub">125</hi>
+               mal ⅟<hi rend="sub">1048</hi>
+               = 
+               ⅟<hi rend="sub">130 000</hi>] der von der Sonne erzeugten.“ (Ra, 576)</note>
+            <note type="editorial" xml:id="en46818">Decimalscrupels] Der oder das Scrupel war in anderen
+               europäischen Ländern eine Maßeinheit im Sinne eines Fein- oder
+               Apothekergewichts; in Preußen diente es als Längenmaß und entsprach etwa 0,18
+               Millimetern.</note>
+            <note type="editorial" xml:id="en46920">Peirescius … nach dem Zeugniß des
+               Gassendus] Gemeint ist
+               Nicolas-Claude Fabri de Peiresc (1580–1637) sowie die Lebensbeschreibung Pierre
+               Gassendis; vgl. <hi rend="smallCaps">Gassendi</hi> 1651, besonders: 106.</note>
+            <note type="editorial" xml:id="en47037">Herr D. Poll] Ein Herr D. Poll, der eine kurze
+               Abhandlung über Erdbeben oder andere naheliegende Themen aus der
+               Naturphilosophie (Erdgeschichte etc.) veröffentlicht hätte, konnte nicht
+               ermittelt werden. Evtl. liegt hier ein Schreibfehler vor. Der Chemiker Johann
+               Heinrich Pott (1692–1777) ist Autor von <hi rend="italic">D. Johannis Henrici Pott Prof.
+                  Chym. und Mitglied der Königl. Academie der Wissenschaften Chymische
+                  Untersuchungen Welche fürnehmlich von der <hi rend="smallCaps">Lithogeognosia</hi> oder
+                  Erkäntniß und Bearbeitung der gemeinen einfacheren Steine und Erden Ingleich
+                  von Feuer und Licht handeln</hi>. Potsdam, Voß 1746. – In
+               diesem Werk werden chemische Phänomene im Zusammenhang mit Erdbeben erwähnt. Es
+               ist also denkbar, dass Kant sich auf eine kurze, nicht ermittelte Abhandlung
+               Potts zu Erdbeben bezieht.</note>
+            <note type="editorial" xml:id="en47103">Lemerischen Experimente] Vgl. 
+               die Sacherläuterung in in der ersten Erdbebenschrift (Ursachen Erdbeben)
+               zu <ref type="editorialNote" target="#en42237">456<hi rend="sup">25</hi>–457<hi rend="sup">2</hi></ref>.</note>
+            <note type="editorial" xml:id="en47112">Pietra Mala] Berühmter, rauchender Berg im Appenin.
+               Vgl. z. B. <hi rend="smallCaps">Cassini</hi> 1748.</note>
+            <note type="editorial" xml:id="en47129">Der Pater Bina … Ursachen setzet] Andrea Bina (1724–1792), Geologe und
+               Mathematiker aus Perugia, erfand eigens einen Seismographen und schrieb einen
+               48seitigen Traktat (<hi rend="smallCaps">Bina</hi> 1751). Vgl. den Auszug (<hi rend="smallCaps">Anonymus</hi>
+               1752) und die kurze Erwähnung in <hi rend="smallCaps">Grundig</hi> 1756, 26 f.
+               Interessant auch die Zusammenfassung Krünitz’: „Unter diejenigen, welche die
+               Erdbeben aus der Elektricität zu erklären gesucht haben, gehöret vornehmlich
+               auch Dom [sic] <hi rend="italic">Andreas</hi> [sic] <hi rend="italic">Bina</hi>, ein
+               Benediktinermönch von Monte Caßino, und Lector der Philosophie im Kloster zu St.
+               Petri, in seiner zu Perugia, 1751, auf 6 Quartbog. unter dem Titel […]. Herr
+               Bina fiel darauf, ob sich die Erdbeben nicht durch die Erschütterung des
+               Leydenschen elektrischen Versuches erklären ließen“ (<hi rend="smallCaps">Krünitz</hi> 1772,
+               248). – Die in Sachanmerkungen anderer Herausgeber sowie in der
+               Forschungsliteratur allenthalben zu findende Angabe, es handele sich bei Pater
+               Bina um einen Isidore Binet (1693–1774), ist falsch.</note>
+            <note type="editorial" xml:id="en47130">Hr. Prof. Krüger] Johann Gottlob Krüger (1715–1759), Arzt,
+               Naturforscher und Philosoph, gehörte ebenfalls zu den an der Erforschung der
+               Elektrizität interessierten Wissenschaftlern der Zeit. Vgl. <hi rend="smallCaps">Krüger</hi>
+               1756, insbesondere 8–35, sowie <hi rend="smallCaps">Anonymus</hi> 1756a, 477: „Der Herr Professor
+               Krüger hat bisher die Erdbeben für Wirkungen solcher unterirdischen Entzündungen
+               gehalten, dergleichen in den feuerspeyenden Bergen angetroffen werden. Allein,
+               ob er gleich zugestehet, daß sich alle Erscheinungen bey Erdbeben aus dieser
+               Theorie gründlich herleiten lassen, so ist er doch itzt überzeugt, daß die
+               Ursache der Erdbeben vielmehr eine elektrische Entzündung sey. Die Gründe seiner
+               Ueberzeugung sind diese: Die Erdbeben sind unterirdische Donnerwetter; nun sind
+               aber die oberirdischen Donnerwetter Wirkungen der Elektricität. […].“</note>
+            <note type="editorial" xml:id="en47133">Hrn. Prof. Hollmanns] Samuel Christian Hollmann (1696–1787),
+               Professor der Philosophie, veröffentlichte in den Fünfzigerjahren in der
+               Göttinger Akademie jährlich meteorologische Beobachtungen (vgl. <hi rend="smallCaps">Reuss</hi>
+               1808, 56 f.). Vgl. dazu die Besprechung (<hi rend="smallCaps">Anonymus</hi> 1756b)
+               zu Hollmanns 1756 in der Akademie vorgetragenen „Betrachtungen“ über Erdbeben:
+               „Die bisher eingelauffene Nachrichten bestättigen, daß man die Stöße, so Lisbon,
+               und andere Orte in Portugall, zu Grunde gerichtet haben, fast zu derselben Zeit
+               zu Madera, auf den Barbarischen Küsten, und an einigen Orten in den
+               Niederlanden, empfunden habe. Das Erdbeben hat sich also auf 20. Gr. der Länge,
+               und 23. bis 24. der Breite, erstrecket, und über eine Fläche der Erdkugel fast
+               zu gleicher Zeit ausgebreitet, die nach einer gemäßigten Berechnung auf 79,200
+               teutsche gevierte Meilen beträgt.“ Hollmanns These sei, „daß eine Erschütterung,
+               die er überhaupt von unterirdischen Donnerwettern herleitet, sich über eine so
+               große Fläche der Erden unmöglich hätte ausbreiten können, wenn nicht die
+               Höhle, oder Höhlen, in welchen diese Gewitter sich entzündet, entweder so tief
+               unter der Oberfläche der Erde und den Meeren lägen, daß alle von diesen Flächen
+               nach dem Mittelpunkt der Erden gezogene Linien ihre Gewölber durchschnitten;
+               oder […] [in einem weltweit verzweigten Höhlensystem] die […] Entzündungen […]
+               sich wie ein Blitz ausbreiten, und die Erschütterungen so weit fortpflanzen
+               können: welches letztere aber viel wahrscheinlicher, als das erstere, wäre.“
+               (162 f.)</note>
+            <note type="editorial" xml:id="en47207">Hrn. Franklin] Gemeint ist der bekannte Verleger,
+               Naturwissenschaftler und Staatsmann Benjamin Franklin (1706–1790). Vgl. dazu
+               <hi rend="smallCaps">Maupertuis</hi> 1753, 137: „Unter allen Erscheinungen der Electricität
+               wird man schwerlich eine so wunderbare antreffen, als diejenige, welche der Herr
+               Franklin entdecket hat, wenn es wahr ist, daß dieser neue Prometheus gelernet
+               hat das Feuer vom Himmel zu holen, und auf die Erde den Donner in nicht zu
+               empfindenden Tropfen fallen zu lassen.“ 1758 erscheint auch eine Übersetzung von
+               Briefen Franklins (<hi rend="smallCaps">Franklin</hi> 1758).</note>
+         </div>
+      </body>
+   </text>
+</TEI>

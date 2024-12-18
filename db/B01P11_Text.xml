@@ -1,0 +1,769 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="11" subtype="editedText">Theorie der Winde</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4081-401X">
+						<surname>Hohenegger</surname>
+						<forename>Hansmichael</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-5535-5894">
+						<surname>Pozzo</surname>
+						<forename>Riccardo</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Theorie der Winde</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Schriften 1747–1756</title>
+						<title type="part" n="11">Theorie der Winde</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4081-401X">
+								<surname>Hohenegger</surname>
+								<forename>Hansmichael</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-5535-5894">
+								<surname>Pozzo</surname>
+								<forename>Riccardo</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">539–552</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-10-24" who="#GN">Corrected</change>
+			<change when="2024-09-23" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-04" who="#EF">Corrected</change>
+			<change when="2023-11-16" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+   <text>
+      <body>
+      	<pb ed="AA" n="0"/>
+         <div n="1" type="titlePage">
+         	   <p rend="head_03">M. Immanuel Kants</p>
+         	   <p rend="head_05">neue</p>
+         	   <p rend="head_02">Anmerkungen</p>
+         	   <p rend="head_05">zur</p>
+         	   <p rend="head_05">Erläuterung</p>
+         	   <p rend="head_05">der</p>
+         	   <p rend="head_01">Theorie der Winde,</p>
+         	   <p rend="head_05">wodurch er zugleich</p>
+         	   <p rend="head_02">zu seinen Vorlesungen</p>
+         	   <p rend="head_05">einladet.</p>
+				<milestone unit="section" rend="line"/>
+         	   <p rend="head_04">Königsberg, den 25. April 1756.</p>
+				<milestone unit="section" rend="line"/>
+         	   <p rend="head_05">Gedruckt in der <abbr>Königl.</abbr> privilegirten Driestischen
+					Buchdruckerey.</p>
+			</div>
+      	<pb ed="AA" n="1"/>
+      	<pb ed="AA" n="2"/>
+         	<div n="1">
+         		<head rend="head_04">
+					<ref type="critApp" xml:id="app49101">Vorerinnerung.</ref>
+				</head><p>
+					<hi rend="initial">M</hi>an muß sich den Luftkreis als ein Meer von flüßiger
+					elastischer Materie vorstellen, welches gleichsam aus Schichten von
+					verschiedener Dichtigkeit, die in grösseren Höhen allemal abnimmt,
+					zusammengesetzt ist. Wenn dieses flüßige Meer im Gleichgewicht bleiben soll, so
+					ist nicht genug, daß die Luftsäulen, die man sich neben einander vorstellt,
+					gleich schwer seyn; sie müssen auch gleich hoch stehen, <abbr>d. i.</abbr> die
+					Schichte von einer gewißen Dichtigkeit muß in allen Theilen ihres Umfangs in
+					derselben Wasserwaage stehen; denn nach den Gesetzen der Flüßigkeit würde in
+					entgegengesetztem Falle der höhere Theil nothwendig nach der niedrigen Seite
+					abfliessen, und das Gleichgewicht wäre den Augenblick gehoben. Die Ursachen, die
+					das Gleichgewicht aufheben können, sind entweder die <hi rend="spaced">Verminderung der ausspannenden Kraft</hi> durch Kälte und Dämpfe die die
+					Federkraft der Luft schwächen, oder die <hi rend="spaced">Verminderung der
+						Schwere,</hi> erstlich durch die Hitze womit eine gewiße Luftgegend stärker
+					als eine andere ausgedehnt wird, und indem sie dadurch genöthigt ist, über die
+					Wasserwaage der andern zu steigen, abfließt und eine leichtere Luftsäule
+					ausmacht, und zweytens durch die Zusammenfließung der Wasserdämpfe, die vorher
+					von der Luft getragen wurden, nun aber, indem sie sich von ihr scheiden, einen
+					Theil von dem Gewichte derselben entziehen. In beyden Fällen entstehet ein Wind
+					nach der Gegend hin, wo die Luft entweder an ihrer Ausdehnungskraft oder Schwere
+					eingebüßt hat; nur mit dem Unterscheide, daß in dem ersten Falle das
+					Gleichgewicht bald hergestellt ist, wie auch bey der zweyten Ursache des andern
+					Falles, weil zu der Fortdauer des Windes in diesen Fällen eine Vermehrung der
+					Ursache erfordert wird, <pb ed="oldAA" n="492" xml:id="B01S0492"/>welches unmöglich
+					lange währen kann, dagegen die erste Ursache dieses letztern Falles, weil sie
+					immer nur fortgesetzt werden darf ohne sich zu vermehren, eine sehr kräftige
+					Qvelle anhaltender Winde abgiebt.</p>
+         		<pb ed="AA" n="3"/>
+         		<p rend="indent">Die Ursachen, die entweder
+         			wegen Vermehrung der Elasticität, wie <abbr>z. E.</abbr> durch die Wärme, oder
+					zugleich der Schwere, wie der aus dem schmelzenden Schnee befreyeten Luft, die
+					Atmosphäre bewegen, sind bey weitem nicht so kräftig, weil alsdenn so wohl die
+					Bewegung gegen eine ruhende Luft geschicht, die ihr mit ihrem ganzen Gewichte
+					widersteht, als auch selbst die sich ausbreitende Luftgegend nach oben eben so
+					stark als nach den Seiten sich ausdehnet, also ihre eigene Gewalt <ref type="critApp" xml:id="app49210">schwächet. Daher</ref> ein Wind aus diesen
+					Ursachen unmöglich in großen Weiten kann verspührt werden.</p>
+         		<p rend="indent">Ich führe alles dieses nur kurz an, und setze voraus, daß das eigene Nachdenken
+					des Lesers das nöthige Licht über das vorgetragene ausbreiten werde. Ich möchte
+					nicht gerne in so wenig Blättern sehr wenig sagen.</p></div>
+      	<div n="1">
+      		<head rend="head_04">
+					<pb ed="firstPrint" n="(2)" xml:id="B01S0492Z16fp"/>Erste Anmerkung.</head>
+				<p rend="hanging">
+					<hi rend="smaller spaced">Ein grösserer Grad der Hitze, der auf eine Luftgegend
+						mehr als auf eine andere wirkt, macht einen Wind nach dieser erhitzten
+						Luftgegend hin, der so lange anhält, als die vorzügliche Wärme der Gegend
+						fortdauert.</hi>
+				</p>
+				<p rend="indent">Die vermehrte Hitze <ref type="critApp" xml:id="app49221">nöthigt</ref> die Luft mehr Raum einzunehmen. Sie breitet sich zu den
+					Seiten und eben so stark in die Höhe aus. In diesem Augenblicke wird das Gewicht
+					dieser Luftgegend verändert, weil, indem die oberwerts sich erhebende Luft
+					überfließt, die Luftsäule fortan weniger Luft enthält. Die benachbarte kühlere,
+					mithin dichtere und schwerere Luft, verdrängt sie wegen der Ueberwucht aus ihrem
+					Platz. Sie wird eben so wie die vorige verdünnet und leichter gemacht, und
+					weicht also dem Drucke der nächsten, und so fortan. Man denke nicht, diese
+					erhitzte Luft, da sie eben so wohl seitwerts sich auszubreiten bestrebt ist,
+					werde einen Wind von der Gegend der Erhitzung in die kühlere Luftgegend machen.
+					Denn erstlich, weil die Ausbreitung nach allen Seiten gleich stark geschicht,
+					mithin die Ausspannungskraft, die dieser umgekehrt proportionirt ist, wie der
+					Cubus der Entfernung von dem Mittelpuncte gegenseitig abnimmt, so würde die sich
+					ausbreitende Gewalt eines Platzes von Luft der 4 Qvadratmeilen in <pb ed="oldAA" n="493" xml:id="B01S0493"/>sich enthielte, wenn sie um den 10ten Theil
+					vermehrt worden, in der Entfernung einer Meile von diesem erhitzten Platze nur
+					noch <ref type="editorialNote" target="#en49302">den 80sten Theil</ref> dieser
+					vermehrten Kraft betragen, mithin gar nicht einmal können verspührt werden. Die
+					Ausbreitung kann aber auch nicht einmal bis dahin reichen. Denn ehe die Luft
+					sich noch so weit erweitert, wird sie <pb ed="AA" n="4"/>wegen der Verminderung ihres Gewichts dem
+					Druck der dichtern weichen, und ihren Platz derselben einräumen.</p>
+				<div n="2"><head rend="head_05">Bestätigung aus der
+					Erfahrung.</head>
+				    <p rend="indent">Die angeführte Regel wird so sehr durch
+						alle Erfahrungen bestätigt, daß man auch nicht eine einzige Ausnahme dagegen
+						aufbringen kann. Alle Inseln die im Meere liegen, alle Küsten der Länder in
+						Gegenden wo die Sonnenhitze stark wirkt, empfinden einen anhaltenden
+						Seewind, so bald die Sonne sich so weit über den Horizont erhoben hat, daß
+						sie auf die Erde nahmhaft wirket. Denn da diese mehr Erhitzung als das Meer
+						annimmt, so wird die Landluft mehr verdünnet als die Seeluft, und weicht
+						daher wegen ihrer Leichtigkeit dem Gewichte der letztern. In dem
+						weitläuftigen äthiopischen Ocean ist der Wind sehr weit vom festen Lande,
+						der natürliche allgemeine Ostwind, aber näher zu den Küsten von Guinea
+						bekommt er eine Wendung von diesem seinem Zuge, und wird genöthigt über
+						Guinea hinzuwehen, welches durch die Sonne mehr als das Weltmeer erhitzet
+						einen Zug der Luft über seinen erwärmten Boden verursacht. Man sehe nur die
+						Carte an, <ref type="editorialNote" target="#en49322">die <hi rend="spaced">
+								<persName key="jurin_james">Jurin</persName>
+							</hi> bey des <hi rend="spaced">
+								<persName key="varenius_b_waren">Varenius</persName>
+							</hi> allgemeiner Geographie, oder <ref type="editorialNote" target="#en49323">
+								<hi rend="spaced">
+									<persName key="musschenbroeck_peter_van">Musschenbröck</persName>
+								</hi>
+							</ref> seiner Physick <pb ed="firstPrint" n="(3)" xml:id="B01S0493Z23fp"/>beygefügt hat</ref>, 
+							so wird man in einem Augenblick, wenn man den
+						natürlichen allgemeinen Ostwind und diese Regel zugleich vor Augen hat, alle
+						Richtungen des in dem Meere bey Guinea wehenden Windes, die Tornaden und
+						alles übrige völlig einsehen und erklären können. Darum regieren in Norden die Nordwinde zur
+						Winterszeit, wenn die Sonne die Luft in der südlichen Halbkugel verdünnet.
+						Daher heben auch die Winde im Anfange des Frühlings an von dem Aeqvator nach
+						der nordlichen Halbkugel zu wehen, weil die <ref type="critApp" xml:id="app49331">vermehrte</ref> Sonnenwärme in dieser die Luft
+						verdünnet, und einen Rückzug von dem Aeqvator zu der nordlichen temperirten
+						Zone hin verursacht. Dieser Wind erstrecket sich nicht weit in diesen
+						gemäßigten Erdstrich hinein, weil die Sonnenwärme zu der Zeit noch nicht
+						viel Wirkung in grösserer Entfernung vom Aeqvator verrichten kann. Um diese
+						Zeit, im April und Mäymonate,
+						wehen die Winde aus dem innern Aethiopien über <pb ed="oldAA" n="494" xml:id="B01S0494"/>Aegypten hin, welche die <ref type="editorialNote" target="#en49401">Campsin</ref> genannt werden, und da sie von einem
+						erhitzten Boden kommen, eine brennend heiße Luft mit sich führen; denn die
+						verdünnte Luft in der temperirten Zone nöthiget die Aeqvatorsluft
+						zurückzutreten und sich eine Zeitlang über diese Gegend auszubreiten.</p></div>
+			</div>
+      	<pb ed="AA" n="5"/>
+      	<div n="1">
+				<head rend="head_04">Zweyte Anmerkung.</head>
+				<p rend="hanging">
+					<hi rend="smaller spaced">Eine Luftgegend die sich mehr als eine <ref type="critApp" xml:id="app49406">andere</ref> verkühlet, bringet in der
+						benachbarten einen Wind zuwege, der in den Platz der Verkühlung
+						hineinwehet.</hi>
+				</p>
+				<p rend="indent">Die Ursache ist aus der Verminderung der ausdehnenden Kraft, durch
+					die Abnahme der Wärme, leicht begreiflich.</p>
+				<div n="2">
+					<head rend="head_05">Bestätigung aus der Erfahrung.</head>
+					<p rend="indent">In allen Meeren, nahe bey den Küsten des festen Landes, oder
+						der Inseln, die einer starken Sonnenwirkung ausgesetzt sind, wehet des
+						Nachts ein anhaltender Landwind. Denn zu der Zeit verliehret die Seeluft
+						schneller ihre Wärme als die Landluft, weil der erhitzte Boden in der
+						letztern die Wärme ohne sonderliche Verminderung erhält, dagegen das Meer,
+						welches wenig Hitze des Tages über eingenommen hat, die über ihm befindliche
+						Luft schneller verkühlen läßt. Daher weichet diese der Ausspannungskraft der
+						erstern, und verstattet einen Luftzug von dem Lande in die abgekühlte
+						Meeresgegend. Die Südwinde, die, wie <hi rend="spaced">
+							<persName key="mariotte_edme">Mariotte</persName>
+						</hi> anmerkt, in Frankreich im Anfange des Novembers wehen, sind der
+						Verkühlung der Luft im tiefen Norden, da der Winter alsdenn mit aller
+						Strenge anhebt, zuzuschreiben.</p>
+				</div>
+			</div>
+      	<div n="1">
+				<head rend="head_04">Dritte Anmerkung.</head>
+				<p rend="hanging">
+					<hi rend="smaller spaced">Ein Wind der vom Aeqvator nach dem Pole hinweht, wird
+						immer je länger desto mehr westlich, und der von dem Pole zum Aeqvator
+						hinzieht, verändert seine Richtung in eine Collateralbewegung aus
+						Osten.</hi>
+				</p>
+				<p rend="indent">Diese Regel, welche, so viel mir wissend ist, noch niemals
+					angemerkt worden, kann als ein Schlüssel zur allgemeinen Theorie der Winde
+					angesehen werden. <pb ed="firstPrint" n="(4)" xml:id="B01S0494Z31fp"/>Der Beweis
+					derselben ist sehr begreiflich und überzeugend. Die Erde drehet sich von Abend
+					gegen Morgen um die Achse. Ein jeder <pb ed="oldAA" n="495" xml:id="B01S0495"/>Ort
+					auf ihrer Oberfläche hat daher desto mehr Schnelligkeit, je näher er dem
+					Aeqvator ist, und desto weniger, je weiter er davon entfernet ist. Die Luft, die
+					zu dem Aeqvator hingeht, trift auf ihrem Wege also immer Oerter an, die mehr
+					Bewegung vom Abend gegen Morgen haben als sie selber. Sie wird also diesen einen
+					Widerstand in entgegengesetzter Richtung, nemlich <pb ed="AA" n="6"/>von Osten nach Westen leisten,
+					und der Wind wird daher in dieser Collateralrichtung abweichen. Denn es ist
+					einerley, ob der Boden unter einem flüßigen Wesen, das nicht in gleicher
+					Schnelligkeit nach derselben Richtung bewegt wird, fortrückt, oder <ref type="critApp" xml:id="app49505">ob dieses</ref> über den Boden in
+					entgegengesetzter Direction bewegt wird. Wenn dagegen der Wind vom Aeqvator zum
+					Pole hinwehet, so kommt er immer über Oerter der Erde die weniger Bewegung vom
+					Abend gegen Morgen haben, als die Luft die er mit sich führt; denn diese hat
+					eine solche, die der Schnelligkeit des Orts gleich ist von da er sich
+					ausgebreitet hat. Er wird also über die Oerter, worüber er kommt, von Abend
+					gegen Morgen wegziehen, und seine Bewegung zum Pole hin wird mit der
+					Collateralbewegung aus Abend verbunden werden.</p>
+				<p rend="indent">Um sich dieses deutlich vorzustellen muß man zuerst vor Augen
+					haben, daß, wenn die Atmosphäre im Gleichgewicht ist, ein jeder Theil derselben
+					mit dem Orte der Oberfläche der Erde worüber er sich befindet gleiche
+					Geschwindigkeit der Drehung von Abend gegen Morgen habe, und in Ansehung desselben in Ruhe sey. Wenn aber ein
+					Theil des Luftkreises in der Richtung des Meridians seinen Platz verändert, so
+					trift er auf Stellen des Erdbodens, die sich mit mehr oder weniger Schnelligkeit
+					von Abend gegen Morgen bewegen, als er von demjenigen Orte noch an sich hat von
+					welchem er weggerückt worden. Er wird sich also über die Gegenden worüber er
+					ziehet entweder mit einer Abweichung von Abend gegen Morgen bewegen, oder in der
+					Richtung von Morgen gegen Abend der Oberfläche der Erde widerstehen, welches in
+					beyden Fällen einen Wind macht, der diese Collateralrichtung hat. Die Stärke
+					dieser Seitenbewegung beruhet so wohl auf der Schnelligkeit des Orts worüber er
+					bewegt wird, als auch auf dem Unterscheide der Schnelligkeit der Oerter, von und
+					zu welchen er übergeht. Nun ist aber die Schnelligkeit der Achsendrehung eines
+					jeden Puncts auf der Oberfläche der Erden dem Cosinus der Breite, und der
+					Unterscheid dieses Cosinus zweyer sehr nahe, <abbr>z. E.</abbr> einen Grad weit,
+					von einander abstehenden Oerter der Oberfläche, dem Sinus der Breite
+					proportionirt; also wird das Moment der Geschwindigkeit, womit <pb ed="oldAA" n="496" xml:id="B01S0496"/>er in dem Uebergange aus einem Grade der Breite
+					in den andern seitwerts verrückt wird, in <ref type="critApp" xml:id="app49602">zusammengesetzter</ref> Verhältniß der Sinus und Cosinus der Breiten
+					stehen, mithin bey dem 45 Grade am
+					größten, in gleicher Entfernung aber von demselben gleich seyn.</p>
+				<p rend="indent">
+					<pb ed="firstPrint" n="(5)" xml:id="B01S0496Z05fp"/>Damit man sich von dem Grade
+					dieser Collateralbewegung einen Begriff machen könne, so laßt uns einen Nordwind
+					nehmen, der von der Breite von 23½ Grad zum
+					Aequator hinwehet. Dieser hat, wenn er von benanntem Grade angefangen, eine
+					Bewegung, die der seines Orts von <pb ed="AA" n="7"/>Abend gegen Morgen gleich ist. Wenn er 5 Grade
+					näher zum Aeqvinoktialzirkel gekommen, so trift er einen Erdstrich an, der sich
+					schneller in der benannten Richtung beweget. Nun findet man durch eine leichte
+					Rechnung, daß der Unterscheid der Schnelligkeit dieser beyden Parallelzirkel
+					45 Fuß in einer Secunde austrägt; also würde die Luft, wenn sie aus dem 23sten
+					Grade in den 18ten angelanget ist, der Erde in dieser Gegend einen Gegenwind von
+					Morgen gegen Abend verursachen, der 45 Fuß in einer Secunde zurück zu legen
+					vermögend wäre, wenn nicht in dem ganzen Wege dieser 5 Grade der darüber
+					ziehenden Luft durch den Umschwung der Erde schon immer etwas von ihrer Bewegung
+					wäre mitgetheilet worden, so daß dieser Unterscheid im 5ten Grade der
+					Fortrückung bey weitem so viel nicht austragen kan. Weil aber doch immer ein
+					Unterscheid übrig bleiben muß, so wollen wir ihn nur den 5ten Theil desjenigen
+					der ohne diesen Grund statt haben würde, annehmen, so wird die
+					Collateralbewegung dennoch 9 Fuß in einer Secunde austragen, welches genung ist,
+					um aus einem geraden Nordwinde <ref type="editorialNote" target="#en49624">welcher 18 Fuß in einer Secunde durchstreicht</ref>, und vom 23sten Grade
+					anhebt, im 18ten einen Nordostwind zu machen. Eben so wird ein Südwind der vom
+					18ten Grade in den 23sten mit eben dieser Schnelligkeit übergegangen, in dem
+					letztern Grade in einen Südwestwind verändert werden, weil er mit einem eben so
+					großen Ueberschusse des Schwunges von Abend gegen Morgen als vorher ausgerechnet
+					worden in den langsamer bewegten Parallelzirkel übertritt.</p>
+				<div n="2">
+					<head rend="head_05">Bestätigung aus der Erfahrung.</head>
+					<p rend="indent">Diese wird den folgenden Anmerkungen beygefügt werden.</p>
+				</div>
+			</div>
+      	<div n="1">
+      		<head rend="head_04">Vierte Anmerkung.</head>
+               <p rend="hanging">
+                  <hi rend="smaller spaced">Der
+							allgemeine Ostwind, welcher den ganzen
+						Ocean zwischen den Wendezirkeln
+							beherrscht, ist keiner andern 
+							<w lemma="Ursache">Ur<pb ed="oldAA" n="497" xml:id="B01S0497"/>sache</w> als der, welche aus der ersten mit der
+							dritten
+						verbundenen Anmerkung erhellet,
+							zuzuschreiben.</hi>
+                  
+               </p>
+               <p rend="indent">Diejenige Meynung,
+					welche den allgemeinen Ostwind dem Nachbleiben des Luftkreises bey der Drehung der Erde von Abend
+					gegen Morgen beymißt, ist mit gutem Grunde
+					von den Naturkundigen
+						verworfen worden; weil der Luftkreis, wenn er gleich anfänglich bey
+					dem ersten <ref type="critApp" xml:id="app49707">Umschwunge</ref> etwas
+					zurückgeblieben, doch in kurzem mit gleicher
+               	<w lemma="Schnelligkeit">Schnellig<pb ed="AA" n="8" break="no"/>keit</w> <ref type="critApp" xml:id="app49709">muß</ref> fortgeführet worden seyn. Ich habe
+					diesen Gedanken aber auf eine vortheilhaftere und richtigere Art
+					angebracht, indem ich beweise, daß er gilt, wenn die Luft aus
+					den entlegenern <pb ed="firstPrint" n="(6)" xml:id="B01S0497Z10fp"/>Parallelzirkeln zu dem
+						Aeqvator tritt; denn alsdenn hat sie gewiß nicht gleiche
+					Geschwindigkeit mit der Bewegung dieses größten Zirkels, und muß
+					ohne Zweifel etwas nachbleiben. Der
+					hieraus entstehende Ostwind wird unaufhörlich seyn,
+						wenn unaufhörlich neue Luft zu dem Aeqvator von den Seiten
+					hinziehet, denn die vorige würde freylich bald diese
+					entgegenstrebende Bewegung durch die fortgesetzte Wirkung
+					der Erdfläche verlieren.</p>
+               <p rend="indent">Seitdem die erste
+					Ursache mit allgemeiner Uebereinstimmung abgeschaft ist, so ist
+					man darinn übereingekommen, den allgemeinen
+						Ostwind zwischen den Wendezirkeln dem Nachzuge der Luft hinter
+					diejenige die durch die Sonne von Morgen gegen Abend hin verdünnet
+					worden, zuzuschreiben. Man würde mit
+					dieser Erklärung gewiß nicht zufrieden gewesen seyn, wenn man eine
+					bessere gehabt hätte. Wenn die Luft aus der
+						Ursache der ersten Anmerkung zu dem von der Sonnenwirkung
+					erhitzten Platze herbeyziehet, so muß es die gegen Abend
+					von der Sonne abstehende eben so wohl thun, als die gegen Morgen sich
+					befindet; ich sehe also nicht, warum um den ganzen Erdboden nichts als
+					Ostwind seyn sollte. Wenn sie aber nur wegen der Verkühlung einer
+					einige Zeit vorher erwärmten Luft sich in ihren Platz bewegt, so muß
+					sie sich um deswillen eher von Abend gegen Morgen bewegen, weil die
+					Oerter, die von der Sonne gegen Morgen liegen, sich mehr verkühlt, und
+					also weniger Elasticität haben, als welche die Sonne länger
+					verlaßen hat. Kann man sich aber, wenn ich gleich zugeben wollte,
+					daß alles so zugienge als man es verlanget, auf irgend eine vernünftige
+					Art vorstellen, wie es möglich sey, daß der Zug der Luft, der wenn die
+					Sonne im Abendhorizonte ist, ihr nachgeht, bis 180 Grade
+					davon <abbr>d. i.</abbr> 2700 Meilen morgenwärts einen Nachzug
+						verursachen könne? und muß in so
+					erstaunlichen Entfernungen nicht eine
+						so <pb ed="oldAA" n="498" xml:id="B01S0498"/>gringe Bewegung gänzlich verschwinden? Und doch bewegt sich der
+						Wind in allen Theilen des Wendezirkels, und in <ref type="critApp" xml:id="app49802">allen</ref> Tagezeiten gleich stark
+						von Morgen gegen Abend. Herr <hi rend="spaced">
+                     <persName key="jurin_james">Jurin</persName>,</hi> der eben dieselbe Meynung
+						unterstützet, hat freylich guten Grund, wenn er es
+					nicht beweisen kann, warum nicht weit von den
+					Wendezirkeln, da doch gewiß die Sonnenwirkung auch
+						nicht unbeträchtlich ist, eben derselbe Ostwind verspühret
+					werde. Denn in der That, er kann gar nicht aus der
+					angeführten Ursache erklärt werden.</p>
+               <p rend="indent">Sehet also hier eine
+					andere, welche besser mit den bekanntesten Gründen der Naturwissenschaft zusammen stimmt. Die Hitze, die in dem
+						heißen Erdstriche und neben demselben stärker ist als
+						anderwärts, erhält <pb ed="AA" n="9"/>die Luft die sich über demselben befindet in
+					beständiger Verdünnung. Die etwas weniger heiße und also
+					auch schwerere Luftstriche, die weiter von dem Aeqvator abstehen,
+					dringen nach den Gesetzen des Gleichgewichts in
+						ihren Platz, und weil sie zu dem <pb ed="firstPrint" n="(7)" xml:id="B01S0498Z14fp"/>Aeqvator sich
+					hin bewegen, so muß ihre nordliche Richtung
+					nach der dritten Anmerkung in eine
+						Collateralbewegung aus Osten ausschlagen. Daher wird der
+					allgemeine Ostwind zu den Seiten des Aeqvators
+					eigentlich ein Collateralwind seyn, der aber unter
+						der Linie selber, wo der Südost und Nordostwind von beyden
+						Hemisphärien gegen einander streben, in einen geraden
+					Ostwind ausschlagen muß, je weiter aber von der Linie desto mehr
+					nach der Polarrichtung abweichet.</p>
+               <div n="2">
+                  <head rend="head_05">Bestätigung aus der Erfahrung.</head>
+                  <p rend="indent">Die Barometerhöhe ist
+					nach allen einstimmigen Beobachtungen einen Zoll niedriger nahe zum
+					Aeqvator, als in den temperirten Zonen. Folget nun hieraus nicht von
+					selber: daß die Luft dieser letztern Erdstriche
+						nach den Gesetzen des Gleichgewichts zum Aeqvator hindringen
+					müsse, und macht diese Bewegung nicht in unserer Halbkugel einen
+						immerwährenden Nordwind in der heissen Zone? Woher
+					schlägt er aber immer mehr und mehr, und endlich unter der Linie
+					gänzlich, in einen Ostwind aus? Die Antwort findet man am
+					Ende der 4ten Anmerkung. Warum aber wird das Gleichgewicht hier
+					niemals völlig wieder hergestellt? Weswegen
+						bleibt die Luft in dem brennenden Erdgürtel immer um einen Zoll
+						Qvecksilberhöhe
+					leichter als die in der temperirten Zone? Die immer hier
+						wirksame Hitze hält alle Luft in einer stetigen Ausspannung und
+						Verdünnung. Wenn also auch neue Luft in diese Gegend
+					dringt, um das Gleichgewicht herzustellen, so wird diese eben sowohl
+					wie die vorige ausgebreitet. Die erhöhete Luftsäule
+					steiget über die Wasserwage der übrigen und fließt
+						<w lemma="oberwaerts">ober<pb ed="oldAA" n="499" xml:id="B01S0499"/>wärts</w> nach dieser Seite ab. Also
+					muß die Aeqvatorsluft, weil sie niemals höher steigen kann als die in
+					den temperirten Zonen, und dennoch eine dünnere Luft in sich
+					enthält, immer leichter seyn als diese, und dem
+						Drucke derselben nachgeben.</p>
+               </div>
+      		<div n="2">
+                  <head rend="head_05">Erklärung der Westwinde, welche den Ocean in dem Zwischenraume zwischen dem 28sten und 40sten Grade größtentheils beherrschen.</head>
+      			<p rend="indent">Die Richtigkeit der
+					Beobachtung selber ist durch die Erfahrung der Seefahrenden sowohl im
+					stillen als atlantischen als auch japonischen Meere hinlänglich
+					bestätigt. Zur Ursache bedarf man keines andern Grundsatzes, als
+					desjenigen aus der vorigen Anmerkung. Eigentlich
+						sollte aus dem daselbst angeführten Grunde hier ein gemäßigter
+						Nordostwind wehen. Weil <pb ed="AA" n="10"/>aber die Luft, die sich von
+					beyden Hemisphärien zu dem Aeqvator häufet, daselbst unaufhörlich
+					überfließt, und sich in der obern Region unserer
+					Halbkugel nach Norden ausbreitet, und da sie von
+						dem Aeqvator herkommt, bey nahe völlig die Bewegung desselben
+						überkommen hat, so muß sie mit einer Collateralbewegung von Abend
+					gegen Morgen über die untere <pb ed="firstPrint" n="(8)" xml:id="B01S0499Z18fp"/>Luft in den <ref type="critApp" xml:id="app49918">entfernteren</ref> Parallelzirkeln fortrücken,
+						(siehe die dritte Anmerkung,) sie wird aber ihre Wirkung nur da
+					auf die niedrige Luft thun, wo die entgegengesetzte
+					Bewegung derselben schwächer wird, und wo sie selber in
+					die untere Region herabtritt. Dieses aber muß in einer ziemlich
+					nahmhaften Entfernung von dem Aeqvator geschehen,
+						und daselbst werden West-
+					und Collateralwinde herrschen.</p>
+               </div>
+      	</div>
+      	<div n="1">
+               <head rend="head_04">Fünfte
+					Anmerkung.</head>
+               <p rend="hanging">
+                  <hi rend="smaller spaced">Die
+							Moussons oder Periodische Winde, die den
+						Arabischen, Persischen und Indischen Ocean beherrschen, werden
+							ganz natürlich aus dem in der dritten Anmerkung erwiesenen
+							Gesetz
+							erkläret.</hi>
+               </p>
+               <p rend="indent">In diesen Meeren wehen
+					vom April bis in den September Südwestwinde, eine Zeitlang folgen Windstillen darauf, und von dem
+						October bis in den Merz wehen wieder die entgegengesetzte
+					Nordostwinde. Man sieht durch das vorige vorbereitet in
+					einem Augenblicke die Ursache davon ein. Die Sonne tritt in dem Merzmonat in unsere nordliche
+						Halbkugel hinüber, und erhitzt
+					Arabien, Persien, Indostan, die
+						anliegende <pb ed="oldAA" n="500" xml:id="B01S0500"/>Halbinseln, imgleichen China und Japan stärker, als die zwischen
+						diesen Ländern und dem Aeqvator befindlichen Meere. Die Luft die
+					über diesen Meeren stehet, wird durch eine solche Verdünnung der
+					nordlichen Luft genöthiget nach
+					dieser Seite sich auszubreiten, und wir wissen, daß ein
+						Wind der vom Aeqvator nach dem Nordpole hingeht, in eine
+					südwestliche Richtung ausschlagen
+					muß. Dagegen so bald die Sonne das Herbstäqvinoctium überschritten, und die Luft der südlichen
+					Halbkugel verdünnet, so tritt die aus dem nordlichen Theile des
+					heißen Erdstriches hinunter zum Aeqvator. Nun schlägt ein aus den
+					nordlichen Gegenden zur Linie eilender Wind nothwendig wenn er
+					sich selbst überlassen ist, in einen Nordostwind aus; also ist leicht
+					einzusehen, warum dieser den vorigen Südwestwind ablösen
+					müsse.</p>
+               <p rend="indent">Man siehet auch leicht
+					den Zusammenhang dieser Ursachen, in so weit sie zu Hervorbringung
+					der periodischen Winde zusammen stimmen. <pb ed="AA" n="11"/>Es muß nahe bey dem
+					Wendezirkel ein weit gestrecktes festes Land seyn,
+						welches durch die Sonnenwirkung mehr Hitze annimmt als die Meere
+					die zwischen ihm und dem Aeqvator begriffen seyn, so wird die Luft
+					dieser Meere bald genöthigt werden über diese Länder
+					hinzustreichen, und einen westlichen Collateralwind
+						<ref type="critApp" xml:id="app50019">machen</ref> bald von diesen Ländern sich
+					wiederum über die Meere ausbreiten.</p>
+               <div n="2">
+                  <head rend="head_05">
+					Bestätigung aus der Erfahrung.</head>
+                  <p rend="indent">In dem ganzen Ocean
+					zwischen Madegascar und Neuholland wehet der beständige, und den
+					Meeren die dem Wendezirkel des Steinbocks nahe liegen,
+						<w lemma="natuerliche">natür<pb ed="firstPrint" n="(9)" xml:id="B01S0500Z24fp"/>liche</w> Südostwind. Allein in der Gegend von Neuholland,
+						in einem weitgestrecken Meere neben diesem Lande sind die
+						periodische Winde anzutreffen, die vom
+						April bis in den October von
+					Südost, und die übrige Monate von Nordwest wehen. Denn diese letztere Monate
+						hindurch ist in den Australländern,
+					wovon wir nur die Küsten Neuhollands kennen, Sommer. Die
+					Sonne erhitzt hier das Erdreich weit stärker als die benachbarte Meere,
+					und nöthiget die Luft von den Gegenden des
+						Aeqvators nach dem Süderpole hinzustreichen, welches nach dem was
+					in der dritten Anmerkung gesagt worden, einen <ref type="critApp" xml:id="app50032">Nordwestwind</ref> verursachen
+						muß. In den Monaten vom April bis in den October erhebet sich
+					die Sonne über das nordliche Hemisphärium und alsdenn tritt die südliche
+					Luft wiederum zurück zum Aeqvator, um in die Gegend der Verdünnung zu
+					ströhmen, und macht den entgegengesetzten Südostwind. Es ist nicht zu
+					verwundern daß <pb ed="oldAA" n="501" xml:id="B01S0501"/>die
+					mehresten Naturforscher von der periodischen Veränderung der
+						Winde in dem gedachten Theile des südlichen Oceans keinen Grund
+						angeben können, weil das Gesetze ihnen nicht bekannt war, das wir
+					in der dritten Anmerkung ausgeführt haben. Diese Einsicht kann ungemein
+						nützlich werden, wenn man sie zu Entdeckung neuer Länder anwenden
+					will. Wenn ein Seefahrender in der südlichen Halbkugel nicht weit von
+					dem Wendzirkel zu der Zeit wenn die
+					Sonne denselben überschritten hat einen anhaltenden Nordwestwind verspühret, so kann dieses ihm ein
+					beynahe untrügliches
+					Merkmal seyn, daß gegen Süden hin ein weitgestrecktes festes
+						Land seyn müsse, <ref type="critApp" xml:id="app50110">über
+							welchem</ref> die Sonnenhitze die Aeqvatorsluft nöthiget
+						zu streichen und einen mit einer westlichen Abweichung
+					verbundenen Nordwind macht. Die
+					Gegend von Neuholland giebt nach den jetzigen
+						Wahrnehmungen noch die größte
+					Vermuthung eines daselbst befindlichen weit <ref type="critApp" xml:id="app50114">ausgebreiteten</ref> Australlandes. Diejenige
+					welche das stille Meer befahren, können unmöglich alle
+					Gegenden der südlichen Halbkugel durchsuchen, um daselbst neue Länder
+					auszuspähen. Sie müssen eine Anleitung <pb ed="AA" n="12"/>haben,
+						die sie urtheilen läßt, auf welcher Seite sie solche
+					wahrscheinlicher Weise antreffen werden.
+					Diese Anleitung könnten ihnen die Nordwestwinde
+						geben, die sie daselbst in großen Meeresstrichen zur Sommerszeit
+						antreffen möchten denn diese sind Merkmale eines nahen
+					Südlandes.</p>
+                  <milestone unit="section" rend="asterisk"/>
+               </div>
+      	</div>
+      	<div n="1">
+               <head rend="head_04">Beschluß.</head>
+               <p rend="indent">Es ist eine Qvelle
+               	eines nicht gringen Vergnügens <ref type="critApp" xml:id="app50122">wann</ref> man durch die obige Anmerkungen
+					vorbereitet die Carte ansieht, worauf die
+						beständige oder periodischen Winde
+					aller Meere anzutreffen seyn; denn man ist im Stande mit
+					Hinzuziehung der Regel, daß die Küsten der Länder
+						die Richtung der Winde nahe bey denselben ihnen Parallel
+					machen, von allen Winden Grund anzugeben. Die
+						<ref type="critApp" xml:id="app50127">zwischen <pb ed="firstPrint" n="(10)" xml:id="B01S0501Z27fp"/>Zeiten</ref> der periodischen Winde, 
+               	die eine Zeitlang eine Gegend durchstreichen
+					und hernach von entgegengesetzten abgelöset werden, die <ref type="critApp" xml:id="app50129">Zwischenzeit</ref> dieser Abwechselung, sage
+						ich, ist mit <ref type="critApp" xml:id="app50130">Windstillen, Regen</ref>, Ungewittern und plötzlichen Orcanen
+						beunruhigt. Denn alsdenn herrscht
+					schon in der obern Luft der entgegengesetzte Wind wenn der vorige
+					noch in der untern nicht völlig nachgelassen
+						hat, und indem beyde gegen einander treiben, so halten sie
+					sich endlich im Gleichgewicht auf, verdicken die Dünste,
+					die sie mit sich führen, und richten alle die genannte
+					Veränderungen an. Man kann es auch fast als
+						eine <pb ed="oldAA" n="502" xml:id="B01S0502"/>allgemeine Regel annehmen, daß Ungewitter durch einander
+						entgegen strebende Winde zusammen getrieben werden. Denn man
+					bemerkt gemeiniglich, daß nach dem Gewitter
+					sich der Wind ändere. Nun war dieser entgegengesetzte Wind
+					schon wirklich vor dem Ungewitter in der obern Luft anzutreffen, er war
+					auch derjenige, welcher die Wettermaterie zusammen trieb und die Wetterwolke über den Horizont führte; denn man
+						findet gewöhnlich daß die Ungewitter dem untern Winde entgegen
+						aufsteigen, das Gewitter entstand als die Winde sich
+					im Gleichgewichte aufhielten, und nach demselben behält der
+					entgegengesetzte die Oberhand. Die anhaltende Regen die oft bey hohem Barometer als
+               	<abbr>z. E.</abbr> im vorigen
+						Sommer wahrgenommen werden, sind solchen einander in zwey
+					Regionen entgegenstrebenden Luftzügen mit vieler Wahrscheinlichkeit zuzuschreiben.
+						Man kann die Bemerkung
+						des 
+               	<persName key="mariotte_edme">
+               		<ref type="editorialNote" target="#en50213">Mariotte</ref></persName>,
+                  daß die Winde, die im neuen
+						Lichte aus Norden zu wehen anfangen, ohngefehr in 14 Tagen den
+					ganzen Compaß durchlaufen, so daß sie
+					erstlich in Nordost, denn in Osten, darauf <pb ed="AA" n="13"/>in Südost und so ferner
+					herumgehen, imgleichen daß die Winde niemals den ganzen Zirkel in
+					entgegengesetzter Richtung vollenden, durch die Regel
+						der dritten Anmerkung vollkommen erklären. Denn der Nordwind
+						schlägt natürlicher Weise in einen Nordostwind aus; dieser, wenn
+					das Gleichgewicht mit der Gegend wohin
+					er ziehet, hergestellt ist, wird wegen des Widerstandes derselben
+					Luftgegend ganz ostlich. Alsdenn, weil die in Süden zusammengedrückte
+					Luft sich wieder nach Norden ausdehnet, macht dieses in Verbindung
+					mit dem Ostwinde eine südostliche Abweichung,
+						diese wird durch die in der dritten Anmerkung angeführte Ursache
+					erst südlich, denn südwestlich, darauf wegen des Widerstandes der
+					nordlichen ins Gleichgewicht hergestellten Luft westlich, darauf aus
+					Verbindung mit der sich wieder ausdehnenden nordlichen Luft
+					nordwestlich, endlich gänzlich nordlich.</p>
+               <milestone unit="section" rend="asterisk"/>
+               <p rend="indent">
+                  <ref type="critApp" xml:id="app50229">Der Raum den ich dieser
+						kurzen Betrachtung bestimmet habe, setzet ihrer weiteren
+						Ausführung Schranken. Ich beschliesse dieselbe damit,
+							daß ich denen
+                     <pb ed="firstPrint" n="(11)" xml:id="B01S0502Z31fp"/>Herren, welche mir die Ehre erzeigen, in meinen gringen
+                  	Vortrag einiges Vertrauen zu setzen, 
+               	<ref type="critApp" xml:id="app50232">eröfnen</ref>, daß ich die
+						Naturwissenschaft über <ref type="editorialNote" target="#en50233">des Herrn <hi rend="spaced">
+							<abbr>D.</abbr> <persName key="eberhard_johann_peter">Eberhards</persName>
+						</hi></ref> <hi rend="spaced">
+                     erste Gründe
+							der Naturlehre</hi> zu erklären gesonnen sey. Meine
+						Absicht ist nichts vorbey zu lassen was eine
+							gründliche Einsicht in die
+							wichtige Entdeckungen alter und neuer Zeiten <w lemma="befoerdern">beför<pb ed="oldAA" n="503" xml:id="B01S0503"/>dern</w> kann, und vornemlich den
+					unendlichen Vorzug den <ref type="critApp" xml:id="app50301">die
+						letztere</ref> durch die glückliche Anwendung der
+					Geometrie vor jenen erhalten haben, in deutlichen und
+					vollständigen Beyspielen zu beweisen. Ich fahre fort
+						in der Mathematick Anleitung zu geben, und den Lehrbegriff
+					der Weltweisheit mit der Erläuterung der 
+							<hi rend="spaced">
+                     <persName key="meier_georg_friedrich">
+                        <ref type="editorialNote" target="#en50305">Meyerschen</ref>
+                     </persName>
+							</hi> Vernunftlehre zu eröffnen.
+                  	Ich werde die Metaphysick über das Handbuch <ref type="editorialNote" target="#en50306">des Herrn <abbr>Prof.</abbr> 
+                     <hi rend="spaced">
+                        <persName key="baumgarten_alexander_gottlieb">Baumgarten</persName>
+                     </hi></ref> vortragen. Die Schwierigkeiten der
+					Dunkelheit die dieses nützlichste und gründlichste unter allen
+					Handbüchern seiner Art zu umgeben scheinen, werden, wo ich mich
+					nicht zu sehr schmeichle durch die Sorgfalt des
+						Vortrags und ausführliche
+					schriftliche Erläuterungen gehoben werden. Mich dünkt es sey mehr als
+					allzu gewiß, daß nicht die Leichtigkeit sondern
+						die Nützlichkeit den Werth einer Sache bestimmen müsse, und
+						daß <ref type="editorialNote" target="#en55232">wie ein sinnreicher 
+							Schriftsteller sich ausdrückt, die Stoppeln
+					ohne Mühe oben fließend gefunden werden, wer aber Perlen suchen will, in
+					die Tiefe herabsteigen
+					müsse</ref></ref>.</p>
+               <milestone unit="section" rend="line"/>
+      		<pb ed="AA" n="14"/>
+         </div>
+      </body>
+   </text>
+</TEI>

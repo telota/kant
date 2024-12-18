@@ -1,0 +1,488 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="9" subtype="editedText">Fortgesetzte Betrachtung der seit
+					einiger Zeit wahrgenommenen Erderschütterungen</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0002-5982-4800">
+						<surname>Pollok</surname>
+						<forename>Anne</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-7554-6743">
+						<surname>Pollok</surname>
+						<forename>Konstantin</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Betrachtung Erdbeben</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="9">Fortgesetzte Betrachtung der seit einiger Zeit
+							wahrgenommenen Erderschütterungen</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0002-5982-4800">
+								<surname>Pollok</surname>
+								<forename>Anne</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-7554-6743">
+								<surname>Pollok</surname>
+								<forename>Konstantin</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">493–501</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-10-24" who="#GN">Corrected</change>
+			<change when="2024-09-23" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-18" who="#EF">Corrected</change>
+			<change when="2023-11-16" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+   <text>
+      <body>
+         <div n="1" type="titlePage">
+         	   <pb ed="AA" n="0"/><p rend="head_05">
+					<hi rend="antiqua">M</hi>. Immanuel Kants</p>
+         	   <p rend="head_02">fortgesetzte Betrachtung</p>
+         	   <p rend="head_05">der seit einiger Zeit wahrgenommenen</p>
+         	   <p rend="head_03">Erderschütterungen.</p>
+				<milestone unit="section" rend="line"/>
+         	   <p rend="head_05"><hi rend="italic">In:</hi> Wochentliche Königsbergische Frag- und Anzeigungs-Nachrichten.  
+					Sonnabends, den 10. April. Anno 1756. No. 15.
+				</p>
+         	   <p rend="head_05">
+					<hi rend="italic">Beschluß in:</hi> Sonnabends, den 17. April. Anno 1756. No.
+					16. 
+				</p>
+			</div>
+      	<pb ed="AA" n="1"/>
+      	<pb ed="AA" n="2"/>
+      	<div n="1">
+				<p rend="right">
+					<hi rend="smaller">Den 10ten April 1756.</hi>
+				</p>
+				<p>
+					<hi rend="initial">D</hi>as Feuer der unterirdischen Grüfte ist noch nicht
+					beruhigt. Die Erschütterungen währeten nur noch neulich und erschrecketen
+					Länder, denen dieses Uebel von je her unbekannt gewesen. Die Unordnung im
+					Luftkreise hat die Jahreszeit auf der Hälfte des Erdkreises verändert. Die
+					Allerunwissendsten wollen die Ursache davon erraten haben. Man höret Einige ohne
+					Verstand und Nachdenken sprechen: die Erde habe sich verrückt und sey, ich weiß
+					nicht um wie viel Grade, der Sonne näher <ref type="critApp" xml:id="app46507">gekommen. Ein</ref> Urtheil, welches eines <persName key="kindermann_ferdinand">
+						<ref type="editorialNote" target="#en46508">Kindermanns</ref>
+					</persName> würdig wäre, wenn er wieder aufstände, Träume eines verrückten Kopfs
+					für Beobachtungen zu verkaufen. Dahin gehören auch diejenige, die die Cometen
+					wieder auf die Bahn bringen, nachdem <persName key="whiston_william">
+						<ref type="editorialNote" target="#en46511">Whiston</ref>
+					</persName> selbst die Philosophen gelehrt hat sie zu fürchten. Es ist eine
+					gemeine Ausschweifung, daß man den Ursprung eines Uebels einige tausend Meilen
+					weit herholet, wenn man ihn in der Nähe finden kann. So machen es die Türken mit
+					der Pest; so machte man es mit den Heuschrecken, mit der Viehseuche und weiß
+					Gott mit was <ref type="critApp" xml:id="app46515">vor</ref> andern Uebeln mehr.
+					Man schämt sich blos in der Nähe etwas sehen zu können. In unendlicher Ferne
+					Ursachen zu erblicken, das ist erst ein rechter Beweis eines scharfsichtigen
+					Verstandes.</p>
+				<p rend="indent">Unter allen Muthmaßungen, die bey einer großen Abweichung von den
+					Regeln einer richtigen Naturwissenschaft Einige, die sie nicht zu prüfen wissen,
+					leicht einnehmen können, gehöret der Gedanke, der in den öffentlichen
+					Nachrichten dem <ref type="editorialNote" target="#en46522">
+						<abbr>Hrn.</abbr> Professor <persName key="profe_gottfried">Profe</persName>
+					</ref> zu Altona zugeschrieben wird. Es ist zwar schon lange, daß man bey
+					Wahrnehmung großer Vorfälle auf dem Erdboden deswegen keinen Verdacht mehr auf
+					die Planeten wirft. Die Verzeichnisse der harten Beschuldigungen, die unsere
+					lieben Vorfahren die Herren Astrologen diesen Sternen gemacht haben, sind in das
+					Archiv veralteter Hirngespinste neben der wahrhaften Geschichte der <pb ed="AA" n="3"/> <pb ed="oldAA" n="466" xml:id="B01S0466"/>Feen, den sympathetischen Wundern des <persName key="digby_sir_kenel">
+						<ref type="editorialNote" target="#en46601a">Digby</ref>
+					</persName> und <persName key="vallemont_pierre_de_lorrain">
+						<ref type="editorialNote" target="#en46601b">Vallemonts</ref>
+					</persName> und den nächtlichen Begebenheiten des Blocksbergs beygelegt. Aber
+					seitdem die Naturwissenschaft von diesen Grillen gesäubert ist, so hat ein
+						<persName key="newton_isaac">Newton</persName> eine wirkliche Kraft entdeckt
+					und durch Erfahrung bestätigt, welche auch die entfernteste Planeten gegen
+					einander und gegen unsere Erde ausüben. Allein zu allem Unglück <ref type="critApp" xml:id="app46606">vor</ref> diejenige, welche die Anwendung
+					dieser merkwürdigen Eigenschaft <ref type="critApp" xml:id="app46607">bis
+						zur</ref> Ausschweifung treiben wollen, ist das Maaß dieser Kraft und die
+					Art ihrer Wirkung bestimmt, und zwar durch eben dieselbe Beobachtung mit
+					Beyhülfe der Geometrie, welcher wir die Offenbarung derselben zu danken haben.
+					Man kann uns nun nicht mehr, was man will, von ihren Wirkungen weiß machen. Wir
+					haben die Waage in der Hand, an der wir die Wirkungen gegen die vorgegebene
+					Ursache abwiegen können.</p>
+				<p rend="indent">Wenn ein Mann, der es sich einmal hat erzählen
+					lassen, daß der Mond die Gewässer der Erde zieht und dadurch das Aufschwellen
+					und Niedersinken des Oceans, die man Ebbe und Fluth nennt, verursache,
+					ingleichen daß alle Planeten mit einer ähnlichen Anziehungskraft begabt sind
+					und, wenn sie der durch die Erde und Sonne gezogenen geraden Linie sich nahe
+					befinden, ihre Anziehungskräfte mit des Mondes seiner vereinigen, wenn, sage
+					ich, ein solcher, der keinen Beruf hat die Sache genauer zu prüfen, vermuthete,
+					daß diese vereinigte Kräfte nicht allein die Gewässer der Erde in diejenige
+					gewaltsame Bewegung bringen könnten, die wir am 1sten <abbr>Nov.</abbr> ersehen
+					haben, sondern auch wohl auch durch einen Einfluß in die unterirdische Luft den
+					verborgenen Zunder zu Hervorbringung der Erdbeben reizen könne, so kann man
+					nichts weiter von ihm verlangen. Aber von einem Naturkündiger erwartet man mehr.
+					Es ist nicht genug auf eine Ursache gerathen zu seyn, die etwas mit der Wirkung
+					Aehnliches hat; sie muß auch in Ansehung der Größe proportionirt seyn. Ich will
+					ein Exempel anführen. <ref type="editorialNote" target="#en46629">Der Doctor
+							<persName key="lister_martin">List</persName>, ein sonst geschicktes
+						Mitglied der Londonschen Societät, hatte wahrgenommen, daß die Seepflanze,
+						Meerlinse genannt, eine ungemein starke Ausduftung an sich habe. Er
+						bemerkte, daß sie sich häufig an den Küsten der Meere des heißen Erdstrichs
+						befinde. Weil nun eine starke Ausduftung wohl leicht die Luft etwas bewegen
+						kann, so schloß er: daß der allgemeine Ostwind, der in diesen Meeren
+						beständig weht und sich mehr wie 1000 Meilen weit vom Lande erstreckt, davon
+						herkomme, vornehmlich weil sich diese Pflanze nach der Sonne drehe</ref>.
+					Das Lächerliche dieser Meynung steckt blos darin: daß die Ursache <pb ed="oldAA" n="467" xml:id="B01S0467"/>gegen die Wirkung ganz und gar kein Verhältniß
+					hat. Eben so ist es mit der Kraft der Planeten bewandt, wenn man sie mit der
+					Wirkung vergleicht, die von ihr herkommen soll, nämlich der Bewegung der Meere
+					und Erregung der Erdbeben. Man wird vielleicht sagen: wissen wir denn die Größe
+					der Kraft, <pb ed="AA" n="4"/>womit diese Himmelskörper auf die Erde wirken können? Ich werde bald
+					darauf antworten.</p>
+				<p rend="indent">
+					<ref type="editorialNote" target="#en46707">Herr <persName key="bouguer_pierre">Bouguer</persName>
+					</ref>, ein berühmter französischer Akademist, erzählet, daß bey seinem
+					Aufenthalt in Peru ein Gelehrter, welcher Professor der Mathematik auf der
+					Universität zu Lima werden wollte, ein Buch unter dem Titel einer astronomischen
+					Uhr der Erdbeben geschrieben habe, darin er sich unternimmt diese aus dem Lauf
+					des Mondes vorher zu verkündigen. Man kann leicht rathen: daß ein Prophet in
+					Peru gut habe Erdbeben vorher zu sagen, weil sie sich daselbst fast täglich
+					zutragen und nur durch die Stärke unterschieden werden. <abbr>Hr.</abbr> <persName key="bouguer_pierre">Bouguer</persName> setzt hinzu, daß ein Mensch,
+					der ohne Nachdenken mit dem auf und absteigenden Knoten des Mondes, der Erdnähe
+					und Erdferne, der Conjunction und Opposition um sich wirft, wohl von ohngefähr
+					bisweilen etwas sagen könne, was durch den Ausgang bestätigt wird, und gestehet:
+					daß er nicht immer unglücklich geweißagt habe. Er vermuthet selbst, daß es nicht
+					gänzlich unwahrscheinlich sey, daß der Mond, der die Gewässer des Oceans so
+					kräftig bewegt, einigen Einfluß auf die Erderschütterungen haben könne, entweder
+					indem er das Gewässer, welches er außerordentlich erhebt, in gewisse Erdspalten
+					führet, dahin es sonst nicht würde gelanget seyn, und dieses die tobende
+					Bewegung in den tiefen Höhlen verursache, oder durch irgend eine andere Art des
+					Zusammenhanges.</p>
+				<p rend="indent">Wenn man in Erwägung zieht, daß die Anziehungskräfte der
+					Himmelskörper in das Innerste der Materie wirken und daher die in den tiefsten
+					und verborgensten Gängen der Erde verschlossene Luft in Bewegung bringen können,
+					so kann schwerlich dem Monde aller Einfluß in die Erdbeben abgesprochen werden.
+					Diese Kraft würde aber höchstens nur die in der Erde befindliche entzündbare
+					Materien reizen, das übrige, die Erschütterung, die Wasserbewegung, werden
+					lediglich eine Wirkung dieser letzteren seyn.</p>
+				<p rend="indent">Wenn man von dem Monde weiter in den Planetenhimmel hinaufsteigt,
+					so verschwindet dieses Vermögen nach und nach, so wie die Entfernungen derselben
+					zunehmen und die Kräfte aller Planeten, mit <w lemma="einander">ein<pb ed="oldAA" n="468" xml:id="B01S0468"/>ander</w> vereinigt, leisten, wenn man sie
+					mit der Kraft des einzigen, uns so nahen Mondes vergleicht, nur einen unendlich
+					kleinen Theil derselben.</p>
+				<p rend="indent">
+					<persName key="newton_isaac">Newton</persName>, der das vortrefliche Gesetz der
+					Anziehung entdeckt hat, welches für den glücklichsten Versuch angesehen werden
+					muß, den der menschliche Verstand in der Erkenntniß der Natur noch gethan hat,
+					lehret die Anziehungskräfte der Planeten, die Monde um sich haben, finden und
+					bestimmt des Jupiters, des größten unter allen Planeten, seine etwas gringer als
+					den tausendsten Theil der Anziehungskraft der Sonne. Das Vermögen durch diese
+					Kraft Veränderungen auf unserer Erde hervorzubringen nimmt, wie der Würfel der
+					Entfernungen von derselben umgekehrt ab, und ist also bey dem Jupiter, der mehr
+					wie 5mal weiter von der Erde <pb ed="AA" n="5"/>entfernet ist als die Sonne, wenn man das
+					Verhältniß seiner Anziehungskraft dazu nimmt, <ref type="editorialNote" target="#en46813">130 000mal kleiner</ref>, als was die Anziehungskraft der
+					Sonne auf unserer Erde allein wirken kann. Nun kann aber die Anziehung der Sonne
+					das Wasser des Oceans ungefähr 2 Fuß hoch erheben, wie die Erfahrung mit der
+					Rechnung vereinigt es bekannt gemacht haben, also wird die Anziehung des
+					Jupiters, wenn sie mit der Sonne ihrer vereinigt ist, <ref type="critApp" xml:id="app46818">noch den</ref> 65sten Theil eines <ref type="editorialNote" target="#en46818">Decimalscrupels</ref> zu dieser Höhe
+					hinzuthun, welches ohngefähr den 30sten Theil einer Haaresbreite ausmachen
+					würde. Wenn man erwäget, daß Mars und Venus ungleich kleinere Körper sind als
+					Jupiter und die Anziehungskräfte ihrem Klumpen proportionirt <ref type="critApp" xml:id="app46822">seyn</ref>, so thut man noch zu viel, wenn man beyden
+					zusammengenommen ohngefähr doppelt soviel Vermögen durch die Anziehung auf
+					unserer Erde zu wirken beylegt, als <ref type="critApp" xml:id="app46824">dem</ref> Jupiter, weil sie uns ohngefähr 3 mal näher sind als jener, ob
+					sie gleich viele hundertmal weniger körperlichen Inhalt und mithin
+					Anziehungskraft besitzen als er. Aber wenn ich auch freygebig wäre, ihre Kraft
+					10fach größer zu machen, so können sie doch, wenn sie selbige vereinigen, nicht
+					ein Drittel einer Haaresdicke das Meereswasser aufschwellend machen. Wenn man
+					die übrige Planeten, den Mercur und Saturn, noch dazu nimmt und sie alle in
+					Conjunction betrachtet, so wirds offenbar, daß sie noch lange nicht um eine
+					halbe Haaresbreite die Aufschwellung der Wasser, die der Mond und die Sonne
+					gemeinschaftlich hervorbringen, vermehren können. Ist es nun nicht lächerlich
+					von der Anziehung des Mondes und der Sonnen erschreckliche Wasserbewegungen zu
+					besorgen, wenn die Höhe, zu der sie das Gewässer bringen, um die Hälfte einer
+					Haaresbreite vermehret worden, da ohne diese keine Gefahr zu besorgen <ref type="critApp" xml:id="app46837">wäre.</ref> Alle übrige Umstände <w lemma="widerlegen">wider<pb ed="oldAA" n="469" xml:id="B01S0469"/>legen</w> die
+					angebliche Ursache gänzlich. Gleichwie der Mond nicht allein denselben
+					Augenblick, wenn er der durch die Sonne und Erde gezogenen geraten Linie am
+					nächsten tritt, sondern auch einige Tage vor und nachher die höchste Fluth
+					macht, so sollten die vereinigte Planeten etliche Tage hintereinander und in
+					diesen etliche Stunden hindurch Wasserbewegungen und Erdbeben gemacht haben,
+					wenn sie einigen Antheil daran gehabt hätten.</p>
+				<p rend="indent">Ich muß meine Leser um Verzeihung bitten, daß
+					ich sie so weit an dem Firmament herumgeführt habe, um von den Begebenheiten
+					richtig urtheilen zu können, die auf unserer Erde vorgegangen sind. Die Mühe,
+					die man anwendet, die Quellen der Irrthümer zu verstopfen, verschafft uns auch
+					ein gereinigtes Erkenntniß. Ich werde in dem folgenden Stücke die merkwürdigsten
+					Erscheinungen der großen Naturbegebenheit in Erwägung ziehen, die seit
+					denjenigen vorgegangen sind, welche ich in einer besondern Abhandlung zu
+					erklären mich bemühet habe.</p>
+      		  <pb ed="AA" n="6"/>
+				<p rend="indent">Die Planeten sind vor dem Richterstuhle der Vernunft von der
+					Anklage losgesprochen, einigen Antheil an der Ursache der Verwüstung gehabt zu
+					haben, die uns in den Erdbeben widerfähret. Forthin soll sie niemand deswegen
+					weiter in Verdacht halten. Es sind wohl eher einige Planeten in Verbindung
+					gewesen, und man hat kein Erdbeben gefühlt. <ref type="editorialNote" target="#en46920">
+						<persName key="peirescius_nicolas_claude_fabri_de">Peirescius</persName>
+						sahe nach dem Zeugniß des <persName key="gassendi_petrus">Gassendus</persName>
+					</ref> die seltene Verbindung der 3 obern Planeten im Jahr 1604, die sich nur in
+					800 Jahren einmal zuträgt, aber die Erde blieb in Sicherheit. Wenn der Mond, auf
+					den noch einzig und allein die Vermuthung mit einiger Wahrscheinlichkeit fallen
+					könnte, daran Antheil hätte, so müßten die mitwirkende Ursachen in so vollem
+					Maße vorhanden seyn, daß auch der schwächste äußere Einfluß den Ausschlag der
+					Veränderung geben könnte. Denn der Mond kommt oft in die Stellung, darin er die
+					größte Wirkung auf den Erdboden ausübet, aber er erregt nicht eben so oft
+					Erdbeben. Das vom 1. <abbr>Nov.</abbr> trug sich bald nach dem letzten Viertheil
+					zu; alsdenn aber sind die Einflüsse desselben die schwächsten, wie die <persName key="newton_isaac">Newtonische</persName> Theorie und die Erfahrung es
+					ausweisen. Lasset uns also nur auf unserm Wohnplatze selber nach der Ursache
+					fragen, wir haben die Ursache unter unsern Füßen.</p>
+				<p rend="indent">Seit denen Erschütterungen, die vorher schon angeführt worden, sind
+					keine vorgefallen, die sich in <ref type="critApp" xml:id="app46935">weitere</ref> Länder erstreckt hätten, als <ref type="critApp" xml:id="app46935a">das</ref> vom 18ten <abbr>Febr.</abbr> Es wurde in
+					Frankreich, England, Deutschland und den Niederlanden gefühlt. Es war an den
+					mehresten Orten, wie aus <pb ed="oldAA" n="470" xml:id="B01S0470"/>Westphalen, dem
+					Hanöverschen und Magdeburgischen berichtet worden, mehr einer leichten
+					Schaukelung eines durch unterirdische heftige Stürme bewegten Erdreichs zu
+					vergleichen, als den Stößen einer entbrannten Materie. Nur die obersten Etagen
+					in den Gebäuden fühleten die Schwankung, unten auf der Erde ward sie kaum
+					bemerkt. Schon den 13ten und 14ten vorher wurden in den Niederlanden und den
+					benachbarten Orten Erschütterungen gefühlet, und in diesen Tagen, vornehmlich
+					vom 16ten auf den 18ten, wütheten weit und breit in Deutschland, Polen, England,
+					Orkane, es zeigeten sich Blitze und Ungewitter, kurz der Luftkreis war in eine
+					Art von Gährung gebracht, welches zur Bestätigung dessen dienen kann, was wir
+					schon bey anderer Gelegenheit angemerkt haben, nämlich daß die Erdbeben oder die
+					unterirdische Entzündungen, die ihre Ursache <ref type="critApp" xml:id="app47012">seyn</ref>, unsere Atmosphäre verändern, indem sie fremde
+					Dünste in dieselbe ausstoßen.</p>
+				<p rend="indent">Hin und wieder sind einige Einsinkungen des Erdreichs geschehen. Es
+					haben sich Felsenstücke von den Gebirgen abgerissen und sind mit fürchterlicher
+					Gewalt in die Thäler gerollt. Diese Begebenheiten tragen sich öfters auch ohne
+					vorgegangene Erdbeben zu. Anhaltende Regen machen, daß die Quelladern von Wasser
+					angefüllt, öfters die Grundlage eines <pb ed="AA" n="7"/>Stück Landes unterwaschen, indem sie das
+					Erdreich hinwegspülen und eben so Felsenstücke, vornehmlich wenn Frost und Nässe
+					ihre Wirkungen vereinigen, von den Gipfeln der Berge abreißen. Die große Klüfte
+					und Erdspalten, die sich hin und wieder in der Schweiz und andernwärts geöffnet
+					und wieder größtentheils geschlossen haben, sind deutlichere Beweisthümer einer
+					ausdehnenden unterirdischen Gewalt, wodurch die Schichten von etwas geringerer
+					Dichtigkeit zerborsten sind. Wenn wir diese Zerbrechlichkeit unseres Fußbodens,
+					den Vorrath der unterirdischen Gluth, die vielleicht allenthalben die
+					entzündbare Materien, die <ref type="critApp" xml:id="app47028">Steinkohlenlager</ref>, die Harze und Schwefel in einem stets lodernden
+					Feuer unterhalten mögen (so wie Steinkohlen-Bergwerke öfters, wenn sie sich von
+					selbst an der Luft entzündet haben, Jahrhunderte hindurch glühen und um sich
+					greifen), wenn wir, sage ich, diese Verfassung der unterirdischen Hölen
+					betrachten, scheinet nicht bey derselben ein Wink genug zu seyn um unsere
+					Wölbungen in ganze Meere von glühenden Schwefel zu versenken und unsere bewohnte
+					Plätze mit Strömen von brennenden Materien zu verwüsten, so wie die ausgegossene
+					Lava die Flecken verheerete, die neben dem Fuße des Aetna in einer unbekümmerten
+					Ruhe angebauet <ref type="critApp" xml:id="app47036">waren.</ref> Der <ref type="editorialNote" target="#en47037">Herr <hi rend="antiqua">
+							<abbr>D.</abbr>
+						</hi> Poll</ref> hat Recht, daß er in einer kurzen Abhandlung vom <pb ed="oldAA" n="471" xml:id="B01S0471"/>Erdbeben nichts weiter als Wasser fordert, um die
+					stets glimmende Gluth unter der Erde durch ausgespannte Wasserdünste in Bewegung
+					und die Erde in Erschütterung zu bringen, allein, wenn er dem <ref type="editorialNote" target="#en47103">
+						<persName key="lmery_nicolas">Lemerischen</persName> Experimente</ref>
+					(welches durch eine Mischung vom Schwefel und Feilstaub vermittelst Hinzuthuung
+					des Wassers die Erschütterungen begreiflich machte) die Tauglichkeit dadurch
+					benehmen will, daß er saget, in der Erde werde kein gediegen Eisen, sondern
+					bloße Eisenerde angetroffen, welche bey diesem Versuch nicht das Begehrte
+					leistet, so gebe ich zu überlegen, ob erstlich nicht die vielfache Ursache der
+					Erhitzung, <abbr>z. E.</abbr> die Auswitterung der Schwefelkiese, die Gährungen
+					durch die Dazukunft des Wassers, wie nach einem Regen an der ausgegossenen Lava,
+					ingleichen an dem immerwährenden Erdbrande von <ref type="editorialNote" target="#en47112">Pietra Mala</ref> verspüret wird, nachdem sie die tief
+					befindliche Eisenerde zu gekörnetem Eisen ausgeschmolzen, oder auch der
+					Magnetstein, der der Natur des gediegenen Eisens so nahe kommt, und der ohne
+					Zweifel allenthalben in der Tiefe reichlich angetroffen wird, zu der Ausübung
+					dieses Experiments im Großen nicht hinlängliche Materie liefern können. Die sehr
+					seltsame Bemerkung, die aus der Schweiz berichtet <ref type="critApp" xml:id="app47118">worden</ref>, da ein Magnet während des Erdbebens von
+					seiner senkrechten Richtung zusammt dem Faden, an dem er aufgehänget war, einige
+					Grade abwich, scheinet die Mitwirkung der magnetischen Materien beym Erdbeben zu
+					bestätigen.</p>
+				<p rend="indent">Es wäre ein Werk von weitläuftiger Ausführung,
+					alle die Hypothesen, die ein jeder, um sich selbst neue Wege der Untersuchung zu
+					bahnen, <pb ed="AA" n="8"/>aufbringt, und deren eine öfters den Platz der andern wie die
+					Meereswellen einnimmt, anzuführen und zu prüfen. Es giebt auch einen gewissen
+					richtigen Geschmack in der Naturwissenschaft, welcher bald die freye <ref type="critApp" xml:id="app47127">Ausschweifungen</ref> einer
+					Neuigkeitsbegierde von den sichern und behutsamen Urtheilen, welche das Zeugniß
+					der Erfahrung und der vernünftigen Glaubwürdigkeit auf ihrer Seite haben, zu
+					unterscheiden weiß. <ref type="editorialNote" target="#en47129">Der Pater
+							<persName key="binet_isidore">Bina</persName> und nur kürzlich der <ref type="editorialNote" target="#en47130">
+								<abbr>Hr.</abbr> <abbr>Prof.</abbr> <persName key="krger_johann_gottlob">Krüger</persName>
+						</ref> bringen die Meynung empor, die die Erscheinungen des Erdbebens mit
+						denen von der Electricität auf gleiche Ursachen setzet</ref>. Noch eine
+					größere Kühnheit ist in dem Vorschlage des <ref type="editorialNote" target="#en47133">
+						<abbr>Hrn.</abbr> <abbr>Prof.</abbr> <persName key="hollmann_samuel_christian">Hollmanns</persName>
+					</ref>, der, nachdem er die Nützlichkeit der Luftöffnungen in einem von
+					entzündeten Materien geängstigten Erdreiche durch das Exempel der feuerspeyenden
+					Berge erwiesen, ohne welche die Königreiche Neapel und Sicilien nicht mehr seyn
+					würden, haben will, daß man die oberste Rinde der Erde bis in die tiefste
+					brennende Klüfte <w lemma="durchgraben">durch<pb ed="oldAA" n="472" xml:id="B01S0472"/>graben</w>, und dem Feuer dadurch einen Ausgang
+					verschaffen solle. Die entsetzliche Dicke zusammt der Festigkeit der inwendigen
+					Schichten, ohne welche solche grausame Anfälle der Erschütterungen ein solches
+					Land gewiß längst würden zertrümmert haben, ingleichen das Wasser, das allen
+					Durchgrabungen bald ein Ziel setzt, und endlich das Unvermögen der Menschen
+					machen diesen Vorschlag zu einem schönen Traume. Von dem <persName key="prometheus">Prometheus</persName> der neuern Zeiten dem <ref type="editorialNote" target="#en47207">
+						<abbr>Hrn.</abbr> <persName key="franklin_benjamin">Franklin</persName>
+					</ref> an, der den Donner entwaffnen wollte, bis zu demjenigen, welcher das
+					Feuer in der Werkstatt des <persName key="vulkanus">Vulkans</persName>
+					auslöschen will, sind alle solche Bestrebungen Beweisthümer von der Kühnheit des
+					Menschen, die mit einem Vermögen verbunden ist, welches in gar geringem
+					Verhältniß dazu stehet, und führen ihn zuletzt auf die demüthigende Erinnerung,
+					wobey er billig anfangen sollte, daß er doch niemals etwas mehr als ein Mensch
+					sey.</p>
+				<milestone unit="section" rend="line"/>
+      		<pb ed="AA" n="9"/>
+			</div>
+      </body>
+   </text>
+</TEI>

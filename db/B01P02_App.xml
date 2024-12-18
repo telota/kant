@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="2" subtype="criticalApparatus">
+               Untersuchung der Frage, ob die Erde in ihrer Umdrehung um die 
+               Achse einige Veränderung erlitten habe
+            </title>
+            <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://d-nb.info/gnd/137235186">
+                  <surname>Sturm</surname>
+                  <forename>Thomas</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-3775-686X">
+                  <surname>Burt</surname>
+                  <forename>Fabian</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Mitarbeit</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+                            Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung I, „Werke“, der 
+                        Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Umdrehung der Erde</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">
+                     Kant's Werke
+                  </title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="2">
+                     Untersuchung der Frage, ob die Erde in ihrer Umdrehung um die 
+                     Achse einige Veränderung erlitten habe
+                  </title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://d-nb.info/gnd/137235186">
+                        <surname>Sturm</surname>
+                        <forename>Thomas</forename>
+                     </persName>
+                  </editor>
+                  <respStmt>
+                     <persName ref="https://orcid.org/0000-0002-3775-686X">
+                        <surname>Burt</surname>
+                        <forename>Fabian</forename>
+                     </persName>
+                     <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                     </resp>
+                  </respStmt>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">159–166</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482</idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">
+                     Erste Abteilung <lb/>Werke – Neuedition
+                  </biblScope>
+                  <biblScope unit="volume" n="1">
+                     Band 1
+                  </biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-01" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P02App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app18504">
+                  <lem>Vorwurf</lem>
+                  <rdg> <abbr>V</abbr>: sc. Gegenstand</rdg>
+               </app>
+               <app from="#app18517">
+                  <lem>deren</lem>
+                  <rdg wit="#Schu #A">mit <wit wit="#Schu">Schu</wit> zu <wit wit="#A">A</wit>: derer</rdg>
+               </app>
+               <app from="#app18722">
+                  <lem>denen Punckten</lem>
+                  <rdg wit="#Ha1 #A">mit <abbr>V</abbr>(<wit wit="#Ha1">Ha1</wit>) zu <wit wit="#A">A</wit>:
+					denen</rdg>
+               </app>
+               <app from="#app18801">
+                  <lem>des ersten</lem>
+                  <rdg wit="#Ad #A">mit <abbr>V</abbr>(<wit wit="#Ad">Ad</wit>) zu <wit wit="#A">A</wit>: der ersten</rdg>
+               </app>
+               <app from="#app18832">
+                  <lem>Bimillionenmal</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: Billionen mal</rdg>
+               </app>
+               <app from="#app18911">
+                  <lem>als auf ein</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: als ein</rdg>
+                  <rdg> <abbr>V</abbr>: sc. als etwa ein</rdg>
+               </app>
+               <app from="#app19015">
+                  <lem>eine Ueberwicht</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: ein Uebergewicht</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P02En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en18501">Das Urtheil …
+               <hi rend="spaced">könne</hi>?] Zur Preisfrage der Akademie vgl. die
+               Ausführungen zur Textgeschichte im <ref type="editorialReport" target="#er635">editorischen Bericht</ref>.</note>
+            <note type="editorial" xml:id="en18629">Nun ist … sey] In <hi rend="smallCaps italic">Principia</hi>,
+               Buch III, Prop. XLI, Problem XXI demonstriert Isaac <hi rend="smallCaps">Newton</hi> am Beispiel des
+               Kometen von 1680 die Bestimmung der Bahnkurve eines Kometen und untersucht bei
+               dieser Gelegenheit auch die Gründe für die Entstehung und Ausrichtung ihrer
+               Schweife. Dabei argumentiert er, „daß die Himmelsräume ohne jede
+               Widerstandskraft sind, da ja in ihnen nicht nur die massiven Körper der Planeten
+               und der Kometen, sondern auch die äußerst dünnen Dämpfe der Schweife ihre sehr
+               schnellen Bewegungen vollkommen ungehindert vollführen und sehr lange Zeit
+               beibehalten.“ (<hi rend="smallCaps">Newton</hi> 1999, 502) Schon zuvor (Buch III, Prop. X,
+               Theorem X) hatte Newton die extrem starke Ausdehnung der Luft im interplanetaren
+               Raum extrapoliert und geschlussfolgert: „Deshalb werden sich, wenn man in die
+               von Luft und Ausdünstungen leeren Himmelsgebiete aufsteigt, die Planeten und
+               Kometen ohne jeden feststellbaren Widerstand durch diese Räume hindurch sehr
+               lange bewegen.“ (401) Bereits in dem der Hydrodynamik
+               gewidmeten II. Buch hatte Newton im Scholion zu Prop. XL, Problem IX behauptet:
+               „Da die Menge der Materie unverändert bleibt, bleibt auch deren Trägheitskraft
+               unverändert, zu welcher der Widerstand immer proportional ist, von welchem hier
+               gesprochen wird. Damit sich dieser Widerstand verkleinert, muß sich die
+               Materiemenge in den Räumen verkleinern, durch die sich die Körper hindurch
+               bewegen. Deshalb sind die Himmelsräume, durch die sich die Kugeln der Planeten
+               und Kometen in allen Teilen ganz frei und ohne jede feststellbare Verkleinerung
+               der Bewegung[sgröße] fortwährend hindurch bewegen, frei von jedem körperlichen
+               Fluidum, wenn man einmal von den äußerst dünnen Dämpfen und den hindurchgehenden
+               Lichtstrahlen absieht.“ (<hi rend="smallCaps">Newton</hi> 1999, 353) Vgl. auch
+               <hi rend="italic">Query</hi> 22 (<hi rend="smallCaps">Newton</hi> 1898, 110) und
+               <hi rend="italic">Query</hi> 28 (118 f.) der <hi rend="smallCaps italic">Opticks</hi>.</note>
+            <note type="editorial" xml:id="en18813">Damit wir … können] Die folgende Rechnung Kants basiert
+               vermutlich auf dem Theorem Evangelista Torricellis (1608–1647) aus seiner <hi rend="italic">Opera
+                  geometrica</hi> über die Ausflussgeschwindigkeit von Flüssigkeiten aus
+               der Öffnung eines Behältnisses, wofür er Galileo Galileis (1564–1642) Fallgesetz anwendet
+               (<hi rend="smallCaps">Torricelli</hi> 1644, 191–193). Demnach „ist die Geschwindigkeit eines
+               Flüssigkeitstheilchens, das aus der Öffnung eines Gefässes ausfliesst, die
+               gleiche wie diejenige, welche es bei freiem Falle von der Oberfläche der
+               Flüssigkeit bis zur Öffnung erhalten hätte.“ (Ra, 540) Ausgehend von diesem
+               Theorem lässt sich die Kraft, mit der die Meeresströmung gegen die Ostküste
+               Amerikas drückt, wie Kant es darstellt, durch das Gewicht eines Wasserkörpers
+               von derselben Länge wie die Küste ausdrücken, sofern durch das Theorem die Höhe
+               eine solchen Körpers ermittelt werden kann; vgl. dazu die rekonstruierten
+               Rechenwege in Ra, 540-542, sowie <hi rend="smallCaps">Reuschle</hi> 1868,
+               77 f. Weithin bekannt war insbesondere die Erläuterung und
+               mathematische Vertiefung des Theorems in Daniel Bernoullis (1700–1782)
+               <hi rend="italic">Hydrodynamica</hi> (<hi rend="smallCaps">Bernoulli</hi> 1738, 37-43).
+               Kant könnte das Theorem auch durch Newtons <hi rend="smallCaps italic">Principia</hi>, Buch II, Prop. XXXVI,
+               Problem VIII bekannt gewesen sein, von dessen Gezeitentheorie seine
+               Argumentation in <hi rend="italic">Umdrehung der Erde</hi> auch inspiriert ist (<hi rend="smallCaps">Schönfeld</hi> 2000, 82
+               f.). Kant gibt nicht alle seiner
+               Rechnung zugrunde liegenden Zahlen an. Es fehlt insbesondere der Wert für die
+               Länge der fiktiv von Pol zu Pol erweiterten amerikanischen Ostküste; für diesen
+               Wert sind jedoch verschiedene Angaben denkbar (<hi rend="smallCaps">Reuschle</hi> 1868,
+               77 f.). Ferner fehlt der Wert für die durch die
+               Anziehungskraft der Erde bewirkte Beschleunigung eines fallenden Körpers, der
+               für die die Berechnung nach Torricelli erforderlich ist. Verlässliche Zahlen
+               lassen sich hingegen für das von Kant erwähnte (siehe <ref type="textRef" target="#tr16420">164<hi rend="sup">20-22</hi></ref>)
+               Volumen der gesamten Erdkugel (sowie im Zusammenhang damit auch für Erdradius
+               und Umfang) geben (vgl. etwa die Angaben in <hi rend="smallCaps">Büsching</hi> 1754,
+               53). Aufgrund der fehlenden Angaben
+               können die Quellen hinter den von Kant verwendeten (uns unbekannten) Werten also
+               nicht ermittelt werden. Konsens besteht jedoch darüber, dass seine Rechnung
+               vermutlich fehlerhaft und die von ihm ermittelte Geschwindigkeit, mit der sich
+               die Achsrotationszeit der Erde reduziert, in Wirklichkeit bedeutend geringer
+               ist; so auch <hi rend="smallCaps">Adickes</hi> (1925, 318), Reuschle und Rahts zustimmend.</note>
+            <note type="editorial" xml:id="en18822">1 Fuß] In mehreren europäischen Ländern
+               gebräuchliches Längenmaß, dessen genaue Bestimmung aber starken regionalen
+               Schwankungen unterworfen war, meistens jedoch ca. 30 cm
+               entspricht (<hi rend="smallCaps">Krüger</hi> 1830, 99–104). Weil Kant später (siehe 
+               <ref type="textRef" target="#tr16415">164<hi rend="sup">15-16</hi></ref>) mit Pariser Fuß rechnet, ist denkbar, dass auch hier
+               Pariser Fuß gemeint sind.</note>
+            <note type="editorial" xml:id="en18825">
+               <foreign xml:lang="fr"><hi rend="antiqua">toises</hi></foreign> (Französische … Ruthen)] Eine toise war ein französisches
+               Längenmaß, das sechs französische bzw. Pariser Fuß umfasst; ein Pariser Fuß
+               entsprach 32,5 cm, weshalb eine toise umgerechnet
+               1,95 m maß (<hi rend="smallCaps">Krüger</hi> 1830, 346). Die gebräuchliche deutsche Maßeinheit
+               Ruthe wird von Kant vermutlich bloß als Vergleichsgröße für den
+               deutschsprachigen Leser ins Spiel gebracht, weil die Ruthe – analog der toise –
+               eine ihrerseits in Fuß bestimmte Maßeinheit war. Die Größe des Fußes wurde zwar
+               von Ort zu Ort unterschiedlich bestimmt, in jedem Fall ist eine Ruthe aber
+               deutlich länger als eine französische toise (286), weshalb Kants Angabe nicht
+               als Gleichsetzung von Ruthe und toise verstanden werden darf. Tatsächlich
+               entspricht die toise vielmehr der gegenüber der Ruthe nächstkleineren
+               Maßeinheit, dem Klafter; vgl. auch den Maßeinheitsappendix in Wt,
+               680 f.</note>
+            <note type="editorial" xml:id="en18832">Bimillionenmal] Das Wort ‚Bimillionen‘ steht für die
+               heutigen Billionen, also 1000 Milliarden bzw. eine Million mal eine Million;
+               vgl. auch die Sacherläuterung zu <hi rend="italic">Theorie des Himmels</hi>, <ref type="editorialNote" target="#en27603">240<hi rend="sup">25–30</hi></ref>.</note>
+            <note type="editorial" xml:id="en19101">was die … gewesen] Einen Überblick über die hier eventuell
+               gemeinten erdgeschichtlichen ‚Betrachtungen‘ gibt Kant selbst in seiner im
+               selben Jahr erschienenen Schrift <hi rend="italic">Ob die Erde veralte</hi> (vgl. 
+               <ref type="textRef" target="#tr17500">175-185</ref>), wo er vier seinerzeit diskutierte Ursachen des Veraltens,
+               d. h. der mit der Zeit zunehmenden Unfruchtbarkeit des
+               Erdbodens vorstellt und kommentiert.</note>
+            <note type="editorial" xml:id="en19102">Ich habe … wird] Gemeint ist die 1755 publizierte
+               <hi rend="italic">Theorie des Himmels</hi>.</note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,901 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="10" subtype="editedText">Monadologia physica</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4081-401X">
+						<surname>Hohenegger</surname>
+						<forename>Hansmichael</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0002-0322-4734">
+						<surname>Lamarra</surname>
+						<forename>Antonio</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-5535-5894">
+						<surname>Pozzo</surname>
+						<forename>Riccardo</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder>
+					<note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Monadologia physica</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="10">Monadologia physica</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4081-401X">
+								<surname>Hohenegger</surname>
+								<forename>Hansmichael</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0002-0322-4734">
+								<surname>Lamarra</surname>
+								<forename>Antonio</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-5535-5894">
+								<surname>Pozzo</surname>
+								<forename>Riccardo</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">502–538</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="la">Latin</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-10-24" who="#GN">Corrected</change>
+			<change when="2024-09-23" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-20" who="#EF">Corrected</change>
+			<change when="2023-11-16" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+   <text xml:lang="la">
+      <body>
+      	<pb ed="AA" n="0"/>
+      	<div n="1" type="titlePage">
+      		  <p rend="head_03" xml:id="la001" corresp="#de001"><hi rend="uppercase">metaphysicae
+						cum geometria junctae</hi></p>
+      		  <p rend="head_04"><hi rend="uppercase">usus in philosophia naturali,</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">cuius</hi></p>
+      		  <p rend="head_11">
+					<hi rend="smallCaps">Specimen I.</hi>
+				</p>
+      		  <p rend="head_05"><hi rend="uppercase">continet</hi></p>
+      		  <p rend="head_07">
+					<hi rend="smallCaps">monadologiam</hi>
+				</p>
+      		  <p rend="head_08"><hi rend="uppercase">physicam</hi></p>
+      		  <p rend="head_06">
+					<hi rend="smallCaps">qvam,</hi>
+				</p>
+      		<p rend="head_04" xml:id="la002" corresp="#de002"><hi rend="uppercase">consentiente amplissimo
+						philosophorum ordine</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">dissertatione publica pro loco habenda</hi>
+				</p>
+      		<p rend="head_04" xml:id="la003" corresp="#de003"><hi rend="uppercase">die x. aprilis horis
+						viii—xii.</hi></p>
+      		<p rend="head_05" xml:id="la004" corresp="#de004"><hi rend="uppercase">in auditorio phil.</hi></p>
+      		<p rend="head_11" xml:id="la005" corresp="#de005"><hi rend="uppercase">defendet</hi></p>
+      		<p rend="head_08" xml:id="la006" corresp="#de006"><hi rend="uppercase">m. immanuel kant,</hi></p>
+      		<p rend="head_11" xml:id="la007" corresp="#de007"><hi rend="uppercase">respondente,</hi></p>
+      		<p rend="head_09" xml:id="la008" corresp="#de008">
+					<hi rend="uppercase"><persName key="vogel_lucas_david">luca davide
+							vogel</persName></hi>,</p>
+      		<p rend="head_05" xml:id="la009" corresp="#de009"><hi rend="uppercase">
+						<abbr>reg. bor. s. theol.</abbr> cultore.</hi></p>
+      		<p rend="head_05" xml:id="la010" corresp="#de010"><hi rend="uppercase">opponentibus adolescentibus
+						ingenius ac perpolitis</hi></p>
+      		<p rend="head_04" xml:id="la011" corresp="#de011"><hi rend="uppercase">
+						<persName key="borowski_ludwig_ernst">ludovico ernesto
+						borowski</persName></hi>,</p>
+      		<p rend="head_05" xml:id="la012" corresp="#de012"><hi rend="uppercase">
+						<abbr>regiom. bor. s. theol.</abbr> cultore.</hi></p>
+      		<p rend="head_04" xml:id="la013" corresp="#de013"><hi rend="uppercase">
+						<persName key="muehlenkampf_georg_ludwig">georgio ludovico
+							muehlemkampf</persName></hi>,</p>
+      		<p rend="head_05" xml:id="la014" corresp="#de014"><hi rend="uppercase">trempia ad darkehmian borusso
+						s. theol. cultore.</hi>
+				</p>
+      		<p rend="head_05" xml:id="la015" corresp="#de015"><hi rend="uppercase">et</hi></p>
+      		<p rend="head_04" xml:id="la016" corresp="#de016"><hi rend="uppercase">
+						<persName key="krusemarck_ludwig_johann">ludovico joanne
+							krusemarck</persName></hi>,</p>
+      		<p rend="head_05" xml:id="la017" corresp="#de017"><hi rend="uppercase">kyrizensi marchico <abbr>s.
+							theol.</abbr> cultore.</hi></p>
+      		<p rend="head_05" xml:id="la018" corresp="#de018"><hi rend="uppercase">anno mdcclvi.</hi></p>
+				<milestone unit="section" rend="line"/>
+      		  <p rend="head_05"><hi rend="uppercase">regiomonti,</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">typis <abbr>sacr. reg.</abbr> maiestatis et
+					<abbr>vniv. typogr.</abbr> 
+					<abbr>i. h.</abbr> hartungii.</hi></p>
+			</div>
+      	<pb ed="AA" n="1"/>
+      	<div n="1" type="dedication">
+				<opener>
+					<salute rend="head_08" xml:id="la019" corresp="#de019"><hi rend="uppercase">viro</hi>
+					</salute>
+					<salute rend="head_09" xml:id="la020" corresp="#de020"><hi rend="uppercase">illustrissimo
+							generosissimo atque excellentissimo,</hi></salute>
+					<salute rend="head_08" xml:id="la021" corresp="#de021"><hi rend="uppercase">domino</hi></salute>
+					<salute rend="head_01" xml:id="la0022" corresp="#de022">
+						<hi rend="uppercase"><persName key="groeben_wilhelm_ludwig_v_d">wilhelmo
+								ludovico <hi rend="smaller">de</hi>
+						groeben</persName></hi>,</salute>
+					<salute rend="head_03" xml:id="la023" corresp="#de023"><hi rend="uppercase">potentissimi prussorum
+							regis administro status et belli intimo,</hi></salute>
+					<salute rend="head_04" xml:id="la024" corresp="#de024"><hi rend="uppercase">summae appellationum,
+							quae in prussia est, curiae praesidi eminentissimo,</hi></salute>
+					<salute rend="head_05" xml:id="la025" corresp="#de025"><hi rend="uppercase">albertinae nostrae
+							protectori vigilantissimo,</hi></salute>
+					<salute rend="head_05" xml:id="la026" corresp="#de026"><hi rend="uppercase">nec non</hi></salute>
+					<salute rend="head_04" xml:id="la027" corresp="#de027"><hi rend="uppercase">collegii stipendiorum
+							directori gravissimo,</hi>
+					</salute>
+					<salute rend="head_04" xml:id="la028" corresp="#de028"><hi rend="uppercase">domino haereditario
+							terrarum,</hi></salute>
+					<salute rend="head_05" xml:id="la029" corresp="#de029"><hi rend="uppercase">tharau, karschau, et
+							reliqva,</hi></salute>
+					<salute rend="head_10" xml:id="la030" corresp="#de030"><hi rend="uppercase">musarum maecenati
+							incomparabili</hi></salute>
+					<salute rend="head_04" xml:id="la031" corresp="#de031"><hi rend="uppercase">heroi suo in
+							benignitatem</hi></salute>
+					<salute rend="head_05" xml:id="la032" corresp="#de032"><hi rend="uppercase">propensissimo.</hi></salute>
+					</opener>
+      		<p rend="head_05" xml:id="la033">columnas hasce devotissimo animo</p>
+      		<p rend="head_05" xml:id="la034" corresp="#de034">sacras volunt</p>
+				<closer>
+					<signed rend="head_04" xml:id="la035" corresp="#de035"><hi rend="uppercase">praeses et respondens.</hi></signed>
+				</closer>
+			</div>
+      	<pb ed="AA" n="2"/>
+      	<div n="1">
+      		<head rend="head_03" xml:id="la036" corresp="#de036"><hi rend="uppercase">praenotanda</hi>.</head>
+      		<p xml:id="la037" corresp="#de037">
+					<hi rend="initial">Q</hi>vi rerum naturalium perscrutationi operam
+					navant, emunctioris naris Philosophi in eo qvidem vnanimi consensu coaluerunt,
+					sollicite cavendum esse, vt ne qvid temere et conjectandi qvadam licentia
+					confictum in scientiam naturalem irrepat, neve qvicqvam absqve experientiae
+					suffragio et sine geometria interprete in cassum tentetur. Qvo consilio certe
+					nihil philosophiae salutarius atqve vtilius poterat cogitari. Verum qvoniam in
+					linea recta veritatis vix cuiqvam liceat mortalium stabili incessu progredi qvin
+					in alterutram partem passim exorbitetur, qvidam huic legi vsqve adeo
+					indulserunt, vt in indaganda veritate alto se committere minime ausi, semper
+					littus legere satius duxerint et nihil nisi ea qvae experientiae testimonio
+					immediate innotescunt admiserint. <ref type="critApp" xml:id="app47511">Et</ref>
+					hac sane via leges naturae exponere profecto possumus, legum originem et causas
+					non possumus. Qvi enim phaenomena tantum naturae consectantur, a recondita
+					causarum primarum intelligentia semper tantundem absunt, neqve magis vnqvam ad
+					scientiam ipsius corporum naturae pertingent qvam qvi altius atqve altius montis
+					cacumen ascendendo coelum se tandem manu contrectaturos esse sibi
+					persvaderent.</p>
+      		<p rend="indent" xml:id="la038" corresp="#de038">Igitur qva se pleriqve in
+					rebus Physicis commode vacare posse autumant, sola hic adminiculo est et lumen
+						<w lemma="accendit">accen<pb ed="firstPrint" n="4" xml:id="B01S0475Z19fp"/>dit</w>, Metaphysica. Corpora enim constant partibus; qvibus, qvomodo sint
+					conflata, vtrum sola partium primitivarum compraesentia, an virium mutuo
+					conflictu repleant spatium, haud parvi sane interest vt dilucide exponatur. Sed
+					qvo tandem <pb ed="AA" n="3"/>pacto hoc in negotio Metaphysicam Geometriae conciliare licet, <ref type="editorialNote" target="#en47523">cum Gryphes facilius eqvis</ref>,
+					qvam philosophia transscendentalis Geometriae jungi posse videantur? Etenim cum
+					illa spatium in infinitum divisibile esse praefracte neget, haec eadem qva
+					cetera solet certitudine asseverat. Haec vacuum spatium ad motus liberos
+					necessarium esse contendit, illa explodit. Haec attractionem s. gravitatem
+					vniversalem a causis mechanicis <pb ed="oldAA" n="476" xml:id="B01S0476"/>vix
+					explicabilem, sed ab insitis corporum in qviete et in distans agentium viribus
+					proficiscentem, commonstrat, illa inter vana imaginationis ludibria
+					ablegat.</p>
+      		<p rend="indent" xml:id="la039" corresp="#de039">Qvam litem cum componere haud parvi
+					laboris esse appareat, saltem aliqvid operae in eo collocare statui; aliis,
+					qvorum vires magis sufficiunt huic negotio, ad ea perficienda invitatis, qvae
+					hic solum <ref type="critApp" xml:id="app47605">afficere</ref> satagam.</p>
+      		<p rend="indent" xml:id="la040" corresp="#de040">Coronidis loco tantum addo; cum principium omnium
+					internarum actionum s. vim elementorum insitam, motricem esse necesse sit, et
+					extrinsecus qvidem applicatam, qvoniam illa praesens est externis, nec aliam ad
+					movenda compraesentia vim concipere possimus nisi qvae illa vel repellere vel
+					trahere conatur neqve porro posita sola vi repellente, elementorum ad componenda
+					corpora colligatio sed dissipatio potius, sola autem attrahente colligatio
+					qvidem, non vero extensio definita ac spatium intelligi qveat, in antecessum jam
+					qvodammodo intelligi posse, qvi bina haec principia ex ipsa elementorum natura
+					et primitivis affectionibus deducere valet eum ad explanandam interiorem
+					corporum naturam non contemnendi momenti operam contulisse.</p></div>
+      	<pb ed="AA" n="4"/>
+      	<div n="1">
+      		<head rend="head_11" xml:id="la041" corresp="#de041">
+					<pb ed="oldAA" n="477" xml:id="B01S0477"/><pb ed="firstPrint" n="5" xml:id="B01S0477Z01fp"/>Monadologiae Physicae</head>
+      		<head rend="head_05" xml:id="la042" corresp="#de042">
+					<hi rend="smallCaps">Sectio I.</hi>
+      			</head>
+      		<head rend="head_04" xml:id="la043" corresp="#de043">Monadum Physicarum existentiam Geometriae
+					consentaneam declarans.</head>
+      		<p rend="indent">
+					<hi rend="larger">
+						<hi rend="initial">P</hi>rop. <hi rend="uppercase">i. definitio</hi>.
+						Substantia simplex, Monas</hi>
+					<note place="foot" n="*)" xml:id="fn01">
+						<p rend="indent">
+							<hi rend="smaller">Qvoniam instituti mei ratio est, non nisi de ea
+								simplicium substantiarum classe commentandi, quae corporum
+								primitivae sunt partes, me <ref type="critApp" xml:id="app47723">in
+									posterum</ref> terminis, <hi rend="spaced">substantiarum
+									simplicium, Monadum, elementorum materiae, partium corporis
+									primitivarum,</hi> tanqvam <ref type="critApp" xml:id="app47724">synonimis</ref> vsurum in antecessum
+								moneo.</hi>
+						</p>
+					</note>
+					<hi rend="larger">dicta, estqvae non constat pluralitate partium, qvarum vna
+						absqve aliis separatim existere potest.</hi>
+				</p><p rend="indent">
+					<hi rend="larger">Prop. <hi rend="uppercase">ii. theorema</hi>. Corpora <ref type="critApp" xml:id="app47708">constant</ref> monadibus.</hi>
+				</p><p rend="indent" xml:id="la044" corresp="#de044">Corpora constant partibus, qvae a se invicem
+					separatae perdurabilem habent existentiam. Qvoniam autem talibus partibus
+					compositio non est nisi relatio, hinc determinatio in se contingens, qvae salva
+					ipsarum existentia tolli potest, patet compositionem omnem corporis abrogari
+					posse, superstitibus nihilo secius partibus omnibus qvae antea erant compositae.
+					Compositione autem omni sublata, qvae supersunt partes plane non habent
+					compositionem, atque adeo pluralitate substantiarum plane sunt destitutae, hinc
+					simplices. Corpus ergo qvodvis constat partibus primitivis absolute simplicibus,
+					<abbr>h. e.</abbr> monadibus.</p>
+      		<pb ed="AA" n="5"/>
+      		<p rend="indent" xml:id="la045" corresp="#de045"><hi rend="uppercase">scholion</hi>. Consulto in demonstratione praesenti
+					celebratum illud rationis principium omittens, institutum e communi, cui nemo
+					non subscribit Philosophorum, notionum adunatione confeci, subveritus, ne qvorum
+					animi ab hoc principio sunt alieni, tali ratione minus convincantur.</p>
+      		<p rend="indent" xml:id="la046" corresp="#de046">
+					<pb ed="oldAA" n="478" xml:id="B01S0478"/>
+					<hi rend="larger">Prop. <hi rend="uppercase">iii. theorema</hi>. Spatium qvod
+						corpora implent est ininfinitum divisibile, neqve igitur constat partibus
+						primitivis atqve simplicibus.</hi>
+      		</p><p rend="indent" xml:id="la047" corresp="#de047">
+					<pb ed="firstPrint" n="6" xml:id="B01S0478Z04fp"/>Data linea, e f, indefinite
+      			producta, <abbr>h. e.</abbr> ita, vt vlterius semper pro lubitu produci possit,
+      			alia, a b, physica, <abbr>h. e.</abbr> si ita arridet, partibus materiae
+					primitivis <figure xml:id="B01S0478Z06Bild01L">
+						<graphic url="images/band1/B01S0478Z06Bild01L.png" width="60%"/>
+					</figure>conflata insistat ipsi ad angulos rectos. Ad latus alia erecta sit,
+					c d, priori aeqvalis et similiter posita, qvod fieri posse non solum sensu
+					geometrico sed et Physico non inficiaberis. Notentur in linea, e f, puncta
+					quaelibet, g, h, i, k, et sic in indefinitum. Primo nemo in dubium vocabit inter
+					duo qvaevis puncta seu si mavis monades datas lineam rectam Physicam duci posse.
+					Sit itaqve ducta, c g, et locus vbi haec intersecat perpendicularem, a b, erit o.
+					Jam ducta concipiatur alia linea Physica inter puncta, c et h, et erit locus, u,
+					ambabus lineis c h et a b communis, puncto a <ref type="critApp" xml:id="app47819">propior</ref>. Sicqve porro, ductis ex eodem puncto c ad
+					qvaevis in linea e f in infinitum producta puncta, i, k, cet. semper puncta
+					intersectionis, x, y, cet. propinqviora fient puncto a, vt vel Geometriae plane
+					ignaro per se liqvet. Et si putas lineas hasce physicas tandem justo <ref type="critApp" xml:id="app47822">arctiores</ref> sibi contiguas fore, vt
+					juxta se consistere non possint, inferiores ductae auferri possunt, et nihilo
+					minus patet loca intersectionis puncto a magis magisqve appropinqvare
+						debere <note place="foot" n="*)" xml:id="fn02">
+						<p rend="indent">Neqve vnqvam puncta y et x coincidere possunt, qvia alias
+							lineae c y et c x aeqve coinciderent, et coincideret linea c k lineae
+							c i qvod contra postulata.</p>
+					</note> prouti in linea indefinita, e f, longinqvius atqve longinqvius punctum
+					notaveris. Qvae vero longinqvitas qvia in infinitum prorogari potest,
+					appropinqvatio etiam intersectionis versus punctum, a, infinitis incrementi
+					partibus augescere potest. Neqve vero vnqvam intersectio hoc pacto in punctum,
+					a, cadet; qvippe punctis c et a aeqvaliter distantibus a linea e f, linea puncta
+					c et a jungens et qvousqve libet continuata, semper tantundem distabit a
+					subjecta linea e f, neqve huic vnqvam occurrere potest qvod contra hypothesin.
+					Adeoqve continua divisione lineae, o a, nunqvam pervenitur <pb ed="AA" n="6"/>ad partes primitivas
+      			non vlterius dividendas, <abbr>h. e.</abbr> spatium <ref type="critApp" xml:id="app47833">est
+						in</ref> infinitum divisibile, nec constat <ref type="critApp" xml:id="app47834">partibus</ref> simplicibus.</p>
+      		<p rend="indent" xml:id="la048" corresp="#de048">
+					<pb ed="firstPrint" n="7" xml:id="B01S0478Z35fp"/><hi rend="uppercase">scholion</hi>. Demonstrationem hanc a permultis Physicorum jam vsurpatam
+					huc allegavi, et qvantum maxima fieri potuit perspicuitate ad physicum spatium
+					accommodavi, ne qvi generali de diversitate spatiorum geometrici et <pb ed="oldAA" n="479" xml:id="B01S0479"/>naturalis discrimine vtuntur, exceptione qvadam
+					elabantur. Sunt qvidem et aliae ejusdem sententiae demonstrationes in promtu,
+					qvarum vt <ref type="critApp" xml:id="app47902">vnicam</ref> allegem, triangulum
+					aeqvilaterum e monadibus si ita arridet constructum concipe, cujus si duo latera
+					producantur in indefinitum, inqve hisce sumseris distantias duplo, triplo,
+					qvintuplo, centuplo <abbr>&amp;c</abbr> lateribus trianguli dati majores, harum
+					extremitates lineis physicis jungi possunt, qvae erunt in eadem ratione vt illae
+					tertio trianguli latere <ref type="critApp" xml:id="app47907">majores</ref>
+					tantundemqve pluribus particulis simplicissimis constabunt. Qvia vero inter
+					qvamlibet harum monadum, atqve eam qvae in vertice anguli constituta est, lineae
+					physicae ductae concipi possunt, hae basin trianguli dati infinities dividunt,
+					adeoque spatii divisibilitatem infinitam egregie tuentur. Sed qvi
+					demonstrationem superius allatam absqve praejudicatarum opinionum impedimentis
+					perspexerit, omnibus aliis vacare meo qvidem judicio potest.</p>
+      		<p rend="indent" xml:id="la049" corresp="#de049">
+					<hi rend="larger">
+						<abbr>Prop.</abbr> 
+						<hi rend="uppercase">iv. theorema</hi>. Compositum in infinitum divisibile
+						non constat partibus primitivis <abbr>s.</abbr> simplicibus.</hi>
+      		</p>
+      		<p rend="indent" xml:id="la050" corresp="#de050">Cum in composito in infinitum divisibili
+					nunqvam perveniatur dividendo in partes omni compositione exutas, qvae autem
+					dividendo non tolli potest compositio, tolli plane non possit, nisi omnem
+					compositi existentiam abrogaveris; Qvia vero qvae in composito remanent
+					compositione omni sublata partes audiunt simplices <ref type="critApp" xml:id="app47920">Prop. I:</ref> compositum
+					infinities divisibile talibus non constare liqvet.</p>
+      		<p rend="indent" xml:id="la051" corresp="#de051"><hi rend="uppercase">scholion</hi>. Non alienum fore ab
+					instituti ratione autumavi, post vindicatas corpori cuilibet partes primitivas
+					simplices, et post assertam infinitam spatii sui divisionem, cavere, ne qvisqvam
+					monades pro infinite <pb ed="AA" n="7"/>parvis corporis particulis habeat. Etenim spatium, qvod est
+					substantialitatis plane expers, et relationis externae vnitarum monadum <ref type="critApp" xml:id="app47926">Phaenomenon</ref>, vel in infinitum
+					continuata divisione plane non exhauriri abunde hoc pacto patescit, in qvocunqve
+					autem composito compositio est non nisi accidens, et sunt substantialia
+					compositionis subjecta, illud infinitam pati divisionem absonum est. Inde enim
+					etiam seqveretur, partem qvamlibet corporis primitivam ita esse comparatam, vt
+					nec mille aliis, nec myriadibus, nec millionum <pb ed="firstPrint" n="8" xml:id="B01S0479Z31fp"/>millionibus, vno verbo, non qvotcunqve assignare
+					libuerit, juncta, particulam qvamlibet materiae constituat, qvod certe haud
+					obscure omnem substantialitatem compositi tollit, neqve itaqve in corpora
+					naturae cadere potest.</p>
+      		<p rend="indent" xml:id="la052" corresp="#de052"><hi rend="uppercase">corollarium</hi>. Corpus igitur qvodlibet definito constat elementorum
+					simplicium numero.</p>
+      		<p rend="indent" xml:id="la053" corresp="#de053">
+					<pb ed="oldAA" n="480" xml:id="B01S0480"/><hi rend="larger">Prop. <hi rend="uppercase">v. theorema</hi>. Qvodlibet corporis elementum
+							simplex, <abbr>s.</abbr> Monas, non solum est in spatio sed et implet
+						spatium, salva nihilominus ipsius simplicitate.</hi>
+      		</p><p rend="indent" xml:id="la054" corresp="#de054">Cum corpus qvodlibet definito conflatum sit
+					elementorum simplicium numero, spatium vero, qvod implet, infinitam patiatur
+					divisionem, qvodlibet horum elementorum partem spatii occupabit ulterius adhuc
+					divisibilem, <abbr>h. e.</abbr> spatium assignabile implebit.</p>
+      		<p rend="indent" xml:id="la055" corresp="#de055">Cum vero divisio spatii non sit separatio eorum qvorum vnum ab
+					alio semotum propriam habet sibique sufficientem existentiam, sed non nisi
+					pluralitatem seu qvantitatem qvandam in externa relatione arguat, patet non inde
+					pluralitatem partium substantialium conseqvi, qvae cum sola simplicitati Monadis
+					substantiali contrarietur, divisibilitatem spatii simplicitati Monadis non
+					adversari affatim patet.</p>
+      		<p rend="indent" xml:id="la056" corresp="#de056"><hi rend="uppercase">scholion</hi>. Non alia certe in disqvisitione elementorum
+					magis obstitit Geometriae cum Metaphysica connubio sententia, qvam praeconcepta
+					illa, qvamvis non satis examinata opinio, ac si divisibilitas spatii qvod
+					elementum occupat, elementi etiam ipsius in partes substantiales divisionem
+					argueret. Qvod vsqve adeo extra dubitationis aleam positum esse vulgo autumatum
+					est, vt, qvi spatii realis divisionem infinitam tuentur, a monadibus qvoqve toto
+					coelo abhorrerent, et qvi monadibus subscribunt, spatii Geometrici affectiones
+					pro imaginariis habere suarum partium rati sint. Verum cum e supra demonstratis
+					aperte liqveat, nec Geometram falli; nec qvae apud Metaphysicum residet,
+					sententiam a <pb ed="AA" n="8"/>vero aberrare, hanc, qvae vtrosqve diremit opinionem, ac si
+					elementum qvoad substantiam absolute simplex spatium salva sua simplicitate
+					implere non possit, vtiqve falli necesse est. Qvae enim spatiolum qvoddam
+					bifariam dividit linea aut superficies, partem spatii vnam vtiqve extra aliam
+					existere indigitat. Qvia vero spatium non est substantia sed est qvoddam
+					externae substantiarum relationis phaenomenon, vnius ejusdemqve substantiae
+					relationem bifariam dividi posse simplicitati vel si <w lemma="mavis">ma<pb ed="firstPrint" n="9" xml:id="B01S0480Z29fp"/>vis</w> vnitati
+					substantiae non contrariatur. Qvod enim est ab vtraqve lineae dividentis parte,
+					non est qvicqvam a substantia ita separabile vt ab <ref type="critApp" xml:id="app48031">ipsa</ref> etiam semotum propriam existentiam tueatur,
+					qvod ad divisionem realem qvae tollit simplicitatem vtiqve reqviritur, sed est
+					vnius ejusdemqve substantiae vtrinqve exercita actio <abbr>s.</abbr> relatio in qva qvidem
+					aliqvam pluralitatem invenire non est substantiam ipsam in partes
+					divellere.</p>
+      		<p rend="indent" xml:id="la057" corresp="#de057">
+					<hi rend="larger">Prop. <hi rend="uppercase">vi. theorema</hi>. Monas spatiolum
+						praesentiae suae definit non pluralitate partium suarum substantialium sed
+						sphaera activitatis qva externas vtrinqve sibi praesentes arcet ab vlteriori
+						ad se invicem appropinqvatione.</hi>
+					</p>
+      		<p rend="indent" xml:id="la058" corresp="#de058">
+					<pb ed="oldAA" n="481" xml:id="B01S0481"/>Cum in Monade non adsit pluralitas
+					substantiarum interim tamen qvaevis solitario posita spatium repleat, per <ref type="critApp" xml:id="app48102">
+						<abbr>praec.</abbr>
+					</ref> ratio spatii repleti non in positione substantiae sola sed in ipsius
+					respectu externarum relatione qvaerenda erit. Qvia vero spatium replendo
+					vtrinqve sibi immediate praesentes ab ulteriori <ref type="critApp" xml:id="app48105">arcet</ref> ad se invicem appropinqvatione adeoqve in
+					ipsarum positu qvicqvam <ref type="critApp" xml:id="app48106">determinat</ref>
+					mensuram nempe propinqvitatis ad qvam ipsa sibi accedere possunt limitando,
+					actionem exserere patet et qvidem in spatio qvaqvaversum determinato, hinc
+					spatium hoc sphaera activitatis suae replere concedendum est.</p>
+      		<p rend="indent" xml:id="la059" corresp="#de059">
+					<hi rend="larger">Prop. <hi rend="uppercase">vii. problema</hi>. Spatium qvod
+						qvaelibet monas sphaeraactivitatis suae occupat salva ipsius simplicitate,
+						vlterius a difficultatibus vindicare.</hi>
+      		</p><p rend="indent" xml:id="la060" corresp="#de060">Si Monas qvemadmodum contendimus spatium
+					definitum implet, illud qvovis alio finito exprimi poterit. Repraesentet igitur
+					circellus A B C D spatiolum qvod Monas occupat activitate sua, erit B D diameter Sphaerae hujus
+					activitatis <abbr>h. e.</abbr> distantia ad <ref type="critApp" xml:id="app48115">qvam</ref> alia ipsi in B et D praesentia arcet ab
+					vlteriori ad se invicem appropinqvatione. Verum ideo cave dixeris hanc esse
+					diametrum ipsius Monadis qvod vtiqve absonum foret. <pb ed="AA" n="9"/><figure xml:id="B01S0481Z14Bild01R">
+						<graphic url="images/band1/B01S0481Z14Bild01R.png" width="28%"/>
+					</figure>Neqve etiam qvicqvam a
+					sententia nostra magis est alienum. Etenim cum spatium solis externis
+					respectibus absolvatur, qvodcunqve substantiae est internum <abbr>h. e.</abbr> substantia
+					ipsa externarum determinationum subjectum proprie non definitur spatio sed qvae
+					ipsius determinationum ad <w lemma="externa">ex<pb ed="firstPrint" n="10" xml:id="B01S0481Z23fp"/>terna</w> referuntur ea tantummodo in spatio
+					qvaerere fas est. At, ais, in hoc spatiolo adest substantia, et vbiqve in eodem
+					praesto est, igitur qvi dividit spatium dividit substantiam? Respondeo, spatium
+					hoc ipsum est ambitus externae hujus elementi praesentiae. Qvi itaqve dividit
+					spatium, qvantitatem extensivam praesentiae suae dividit. At sunt praeter
+					praesentiam externam <abbr>h. e.</abbr> determinationes substantiae respectivas aliae
+					internae quae nisi forent non haberent illae cui inhaererent subjectum. Sed
+					internae non sunt in spatio propterea qvia sunt internae. Neqve itaqve divisione
+					externarum determinationum ipsae dividuntur, adeoqve nec subjectum ipsum s.
+					substantia hoc pacto dividitur. Pariter ac si dixeris: Deus omnibus rebus
+					creatis per actum conservationis interne praesto est, qvi itaqve dividit
+					congeriem rerum creatarum dividit Deum qvia ambitum praesentiae suae dividit;
+					qvo magis absonum dici qvicqvam non potest. Monas itaqve qvae est elementum
+					corporis primitivum, qvatenus spatium implet utiqve qvidem qvandam habet
+					qvantitatem extensivam nempe ambitum activitatis, in qvo vero non reperies
+					plura qvorum vnum ab alio separatum <abbr>h. e.</abbr> absqve alio sibi
+					solitarium propriam habeat perdurabilitatem. Nam qvod in spatio B C D reperitur
+						<pb ed="oldAA" n="482" xml:id="B01S0482"/>ab illo qvod adest in spatio B A D
+					separari ita non potest vt qvodlibet per se existat; qvia vtrumqve non est nisi
+					determinatio vnius ejusdemqve substantiae externa; sed accidentia non existunt
+					absqve suis substantiis. <note place="foot" n="*)" xml:id="fn03">
+						<p rend="indent">Difficultatum omnium qvae sententiae nostrae officere
+							possunt gravissima videtur, qvae ab <ref type="critApp" xml:id="app48233">extrapositione</ref> determinationum vnius
+							ejusdemqve substantiae depromta est. Etenim actio Monadis qvae <ref type="critApp" xml:id="app48234">est in</ref>
+							spatio B C D est extra actionem qvae est in spatio B D A ergo videntur
+							realiter a se invicem diversa atqve extra substantiam reperiunda. Verum
+							relationes semper sunt et extra se invicem et extra substantiam qvia
+							entia illa ad qvae refertur substantia sunt a substantia et a se invicem
+							realiter diversa, neqve hoc pluralitatem substantialem arguit.</p>
+					</note>
+      		</p>
+      		<pb ed="AA" n="10"/>
+      		<p rend="indent" xml:id="la061" corresp="#de061">
+					<hi rend="larger">Prop. <hi rend="uppercase">viii. theorema</hi>. Vis qva
+						elementum corporis simplex spatium suum occupat est eadem qvam vocant alias
+							<hi rend="spaced">impenetrabilitatem</hi>; neqve si ab illa vi discesseris huic locus
+						esse potest.</hi>
+      		</p>
+      		<p rend="indent" xml:id="la062" corresp="#de062">Impenetrabilitas est ea corporis affectio qva
+					contigua a spatio qvod occupat arcet. Cum vero e praecedentibus innotuerit
+					spatium <pb ed="firstPrint" n="11" xml:id="B01S0482Z08fp"/>qvod corpus occupat
+					(si partes ipsius absque vacuo intermisto qvam proxime sibi adunatas concipias)
+					conflatum esse spatiolis qvae singula elementa simplicia implent cum porro ad
+					arcenda irruentia in spatium repletum corpora externa <abbr>s.</abbr> ad impenetrabilitatem
+					reqviratur renitentia atqve adeo vis quaedam, in prioribus autem demonstratum
+					sit elementa spatium suum definitum replere activitate qvadam alia eo
+					penetratura arcendi, patet impenetrabilitatem corporum non ab alia nisi eadem
+					illa naturali elementorum vi pendere. Qvod erat primum.</p>
+      		<p rend="indent" xml:id="la063" corresp="#de063">Deinde sit linea a g elementis materiae primitivis,
+      			<abbr>h. e.</abbr> monadibus conflata si elementum qvodvis d per substantiae
+					suae praesentiam non nisi locum <figure xml:id="B01S0482Z18Bild01L">
+						<graphic url="images/band1/B01S0482Z18Bild01L.png" width="35%"/>
+					</figure>designaret neqve occuparet spatium, locus d lineam datam a g bisecaret
+					et qvia itaqve notat vbi dimidium alterum lineae desinit alterumqve incipit erit
+					vtriqve dimidio lineae communis. Sed non sunt lineae physicae aeqvales nisi
+					aeqvali constent elementorum numero et non est par vtrinqve elementorum numerus
+					nisi in linea a c et e g, ergo locus monadis d erit lineis a c, e g, communis,
+      			<abbr>h. e.</abbr> lineae dictae immediate sibi in loco nominato occurrent
+					neqve itaqve elementum d <ref type="critApp" xml:id="app48226">proximas</ref> e
+					et c <ref type="critApp" xml:id="app48226a">arcet</ref> ab immediato contactu
+      			<abbr>h. e.</abbr> non erit impenetrabile. Si negas itaqve locum a monade d
+					occupatum esse communem lineis a c, <ref type="critApp" xml:id="app48227">e g,</ref> erit punctum x vbi lineae a c et d g sibi immediate occurrunt,
+					et o in qvo sibi occurrunt lineae a d et e g, qvia itaqve locus monadis d
+					diversus est a loco x itemqve a loco o qvoniam alias immediato contactui
+					communis semper locus esset vt antea dictum, habes tria loca diversa x d o qvae
+					procul dubio lineam <pb ed="oldAA" n="483" xml:id="B01S0483"/>qvandam definiunt.
+					Definitur igitur immediata praesentia monadis d linea definita,
+      			<abbr>h. e.</abbr> in spatio definito praesto est, et qvia per solam
+					substantiae positionem non spatium sed locum occupare posset, adsit necesse est
+					aliud qviddam in substantia qvod determinat propinqvitatis in elementis vtrinqve
+      			<w lemma="contingentibus">con<pb ed="AA" n="11" break="no"/>tingentibus</w> mensuram et vim qvamlibet a <ref type="critApp" xml:id="app48305">propiori</ref> accessu elementorum c et e arcet, sed vi non potest opponi
+					nisi vis; Ergo eadem vis qva elementum corporis spatium suum occupat causatur
+					impenetrabilitatem. Qvod erat alterum.</p></div>
+      	<pb ed="AA" n="12"/>
+      	<div n="1">
+      		<head rend="head_03" xml:id="la064" corresp="#de064">
+                  <pb ed="firstPrint" n="12" xml:id="B01S0483Z08fp"/>
+                  <hi rend="smallCaps">Sectio II.</hi>
+               </head>
+      		 <head rend="head_04">
+					Affectiones monadum physicarum generalissimas, qvatenus in diversis diversae, ad
+					naturam corporum intelligendam faciunt explicans.</head>
+      		<p xml:id="la065" corresp="#de065">
+                  <hi rend="larger">
+                  	<hi rend="initial">P</hi>rop. <hi rend="uppercase">ix. definitio</hi>. Contactus
+						est virium
+						impenetrabilitatis plurium elementorum sibi invicem facta
+						applicatio.</hi>
+               </p>
+      		<p rend="indent" xml:id="la066" corresp="#de066"><hi rend="uppercase">scholion</hi>.
+						<ref type="editorialNote" target="#en48313">Contactus vulgo per immediatam
+						praesentiam definitur</ref>. Sed si vel maxime
+						<hi rend="spaced">externam</hi> adjiceres, (qvoniam sine hoc additamento
+					Deus, qvi omnibus rebus immediate, sed intime praesens est, ipsas
+					contingere putandus foret) tamen omnibus numeris absoluta
+					vix erit definitio. Etenim qvoniam satis ab aliis evictum,
+					corpora vacuo spatio disterminata nihilominus
+						coexistere posse, ideoqve et immediate sibi praesentia esse,
+					qvanqvam absqve contactu mutuo, procul dubio hic vitii tenebitur
+					definitio. Porro non sine magna veri specie a <persName key="newton_isaac">Newtoni</persName>
+					schola, immediata corporum etiam a se dissitorum attractio
+						defenditur, <ref type="critApp" xml:id="app48321">qvarum</ref> tamen compraesentia absqve
+					contactu mutuo succederet. Praeterea si definitionem tueris, qvae
+					immediatam compraesentiam pro ipsa contactus notione
+					venditat, explicanda tibi primum est praesentiae hujus
+						notio. Si vt fit, declaras per mutuam actionem; in qvonam qvaeso
+					consistit actio? <ref type="critApp" xml:id="app48325">procul</ref> dubio corpora in se movendo agunt. <ref type="critApp" xml:id="app48325a">Vis</ref> motrix vero e puncto dato
+						exserta aut repellit alia ab eodem
+					aut trahit. Vtra <ref type="critApp" xml:id="app48326">actio</ref> in contactu
+						intelligenda sit facile patescit. Corpus enim corpori
+						<ref type="critApp" xml:id="app48327">propius propiusqve</ref> admovendo
+      			  tum dicimus invicem se contingere, cum sentitur vis 
+      			<pb ed="AA" n="13"/>impenetrabilitatis, <abbr>h. e.</abbr>
+						repulsionis. Ergo hujus adversus se
+					invicem facta a diversis elementis actio atqve reactio genuinam
+					efficit contactus notionem.</p>
+      		<p rend="indent" xml:id="la067" corresp="#de067">
+               	<hi rend="larger">Prop. <hi rend="uppercase">x. theorema</hi>. Corpora per vim
+						solam impenetrabilitatis non gauderent definito volumine, nisi adforet alia pariter
+						insitaattractionis cum illa conjunctim limitem definiens
+						extensionis.</hi>
+               </p>
+      		<p rend="indent" xml:id="la068" corresp="#de068">
+                  <pb ed="oldAA" n="484" xml:id="B01S0484"/>Vis impenetrabilitatis est vis repulsiva, externa qvaeuis ab
+						appropinqvatione vlteriori arcens.
+					Cum haec vis sit cuilibet elemento <pb ed="firstPrint" n="13" xml:id="B01S0484Z02fp"/>ingenita, ex
+						ipsius natura intelligi qvidem poterit cur pro distantiae ad qvam
+					extenditur augmentis
+					intensitas actionis diminuatur, qvod in distantia qvavis data plane
+						nulla sit, intelligi plane per se non potest. Ideoqve apud hanc
+					solam si steterit, corporum compages
+					plane nulla foret, quippe repellentibus se modo particulis,
+						corporiqve nullum constaret volumen
+					definito limite circumscriptum. Necesse igitur est vt opponatur
+					huic conatui alius oppositus, et in data distantia
+						aeqvalis, limitem spatio occupando
+					determinans. Qvi cum repulsioni <ref type="critApp" xml:id="app48409">exadversum</ref> agat, est attractio. Opus igitur est
+					cuilibet elemento praeter vim impenetrabilitatis alia attractiva, a qva si discesseris non
+					resultarent determinata corporum naturae
+					volumina.</p>
+      		<p rend="indent" xml:id="la069" corresp="#de069"><hi rend="uppercase">scholion</hi>. Ambarum
+					virium tam repulsionis qvam attractivae qvae
+						sint in elementis leges indagare, ardui sane momenti est
+					investigatio et digna qvae ingenia exerceat perspicaciora. Mihi hic
+					loci sufficit earum existentiam qvantum per brevitatis legem licuit certissime evictam reddidisse. Sed si veluti
+						e <ref type="critApp" xml:id="app48417">longinqvo</ref> qvaedam ad
+					hanc qvaestionem pertinentia prospicere arridet,
+						nonne, qvum vis repulsiva e puncto intimo spatii ab elemento
+					occupati extrorsum agat, intensitas illius censenda erit secundum
+					spatii in qvod extenditur augmentum reciproce debilitari?
+					Non potest enim vis e puncto distributa in sphaera
+						definita efficax deprehendi, nisi
+					totum, qvod comprehenditur sub data diametro spatium, agendo
+					impleat. Qvod hac ratione patefit. Si enim vim
+						concipias secundum lineas rectas e data superficie emanantem,
+					sicuti lucem seu etiam secundum <persName key="keill_john"><ref type="editorialNote" target="#en48424">
+                     Keilii</ref></persName>
+                   mentem ipsam vim attractionis,
+					erit vis hac ratione exercita in ratione multitudinis linearum qvae ex
+					hac <ref type="critApp" xml:id="app48425">superficie</ref> duci possunt, 
+      			<pb ed="AA" n="14"/>hoc
+						est in ratione ipsius superficiei agentis. Adeoqve si
+					superficies sit infinite parva, erit etiam haec vis infinite parva, et
+					si tandem sit punctum, plane nulla. Ideoqve per lineas divergentes e puncto non potest vis diffundi in certa
+						distantia assignabilis. Neqve ideo deprehendetur efficax, nisi
+					implendo totum in qvo agit spatium. Sed spatia sphaerica sunt
+					vt cubi distantiarum. Ergo cum eadem vis per majus spatium diffusa
+					diminuatur pro ratione inversa spatiorum, erit vis
+					impenetrabilitatis in ratione triplicata distantiarum a centro
+						praesentiae reciproce.</p>
+      		<p rend="indent" xml:id="la070" corresp="#de070">Contra ea cum attractio
+					sit qvidem ejusdem elementi actio sed in oppositum versa, erit superficies sphaerica, in qvam in data distantia
+						exercetur attractio, terminus a qvo; cujus cum punctorum,
+						<pb ed="firstPrint" n="14" xml:id="B01S0484Z36fp"/>qvibus in centrum tendentiae lineae duci possunt,
+						multitudo, atqve adeo
+					attractionis qvantitas definita sit, erit hoc pacto assignabilis,
+					et decrescens in ratione inversa superficierum
+					sphaericarum <abbr>i. e.</abbr> in inversa
+					duplicata distantiarum.</p>
+      		<p rend="indent" xml:id="la071" corresp="#de071">Si igitur
+					repulsiva in subtriplicata, adeoqve longe majori ratione,
+						<w lemma="decrescere">decre<pb ed="oldAA" n="485" xml:id="B01S0485"/>scere</w> statuatur, in aliqvo
+					diametri puncto aeqvales esse attractionem et
+						repulsionem necesse est. Et hoc
+					punctum determinabit limitem impenetrabilitatis, et contactus externi
+					ambitum s. volumen; victa enim attractione vis
+						repulsiva vlterius non agit.</p>
+      		<p rend="indent" xml:id="la072" corresp="#de072"><anchor type="textRefStart" xml:id="tr53023"/><hi rend="uppercase">corollarium</hi>. Si hanc
+					virium insitarum legem ratam habes, agnosces etiam omnium
+					elementorum, qvantumvis diversae speciei, aeqvale
+						volumen. Etenim cum sit in aprico, vires repulsionis pariter ac
+					attractivas, qvoniam qvaelibet definito
+					gaudet intensitatis gradu, <ref type="textRef" xml:id="tr01">in elementis diversis maxime esse posse diversas</ref>, hic intensiores alibi remissiores, tamen,
+					qvoniam vis dupla repulsionis est in eadem distantia dupla, et vis
+					attractionis itidem, et congruum sit vires omnes elementi motrices
+					qvod est specifice duplo fortius, esse in
+						ratione eadem fortiores, semper vires <ref type="critApp" xml:id="app48512">nominatae</ref> in eadem distantia aeqvari,
+      			adeoqve aeqvale volumen <w lemma="elementi">ele<pb ed="AA" n="15" break="no"/>menti</w> determinare necesse est,
+					qvantumcunqve a viribus cognominibus aliorum elementorum gradu
+					differant.</p>
+      		<p rend="indent" xml:id="la073" corresp="#de073">
+               	<hi rend="larger">Prop. <hi rend="uppercase">xi. theorema</hi>. <hi rend="spaced">Vis
+							inertiae</hi> est in qvolibet
+						elemento qvantitatis definitae, qvae in diversis poterit esse
+						maxime diversa.</hi>
+               </p>
+      		<p rend="indent" xml:id="la074" corresp="#de074">Corpus motum in aliud
+					incurrens nulla polleret efficacia, et infinite
+						parvo qvovis obstaculo redigeretur ad quietem, nisi gauderet vi
+					inertiae, qva in statu movendi perseverare annititur. Est vero
+					vis inertiae corporis, summa virium inertiae omnium
+					elementorum ex qvibus conflatum est, (et hanc qvidem
+						vocant massam); ergo qvodlibet elementum certa celeritate motum,
+					nisi haec multiplicetur per
+					vim inertiae, nulla plane polleret movendi efficacia.
+						Qvodcunqve autem in aliud multiplicando dat qvantum, altero factorum
+					majus, ipsum est qvantitas, qva tum major tum minor alia
+					assignari poterit. Ergo <ref type="critApp" xml:id="app48524">vi</ref>
+						inertiae cujuslibet elementi alia vel major vel minor dari poterit
+					in diversae speciei elementis.</p>
+      		<p rend="indent" xml:id="la075" corresp="#de075">
+               	<hi rend="uppercase">
+               		<abbr>coroll.</abbr> i.</hi> Dari possunt elementis
+					qvibuslibet datis alia, <ref type="critApp" xml:id="app48527">qvorum</ref>
+						vis inertiae, s. qvod diverso respectu idem est, vis motrix,
+						duplo vel triplo major est, <abbr>h. e.</abbr> qvae et
+					certae celeritati duplo vel <pb ed="firstPrint" n="15" xml:id="B01S0485Z29fp"/>triplo majori vi resistunt, et
+						eadem celeritate mota duplo vel triplo majori pollent
+					impetu.</p>
+      		<p rend="indent" xml:id="la076" corresp="#de076">
+               	<hi rend="uppercase">
+               		<abbr>coroll.</abbr> ii.</hi> Cum elementa qvaelibet,
+					qvantumvis diversae speciei pari tamen volumine pollere
+					constet e <abbr>Coroll.</abbr> 
+      			<abbr>Prop.</abbr> 
+                  <abbr>praec.</abbr>, adeoqve pari
+						spatio exacte repleto parem semper contineri elementorum
+					numerum, hinc recte concluditur:
+					corpora, si vel maxime a vacui admistione discesseris, et totum
+						spatium perfecte adimpletum sumseris, tamen sub eodem volumine
+					diversissimas massas continere posse, qvippe elementis majori
+					vel minori vi inertiae praeditis. Nam massa corporum non est
+					nisi ipsorum vis inertiae qvantitas, qva vel motui
+						resistunt vel data celeritate mota
+					certo movendi impetu pollent.</p>
+      		<p rend="indent" xml:id="la077" corresp="#de077">Hinc a minore materiae
+					sub dato volumine comprehensae qvantitate
+						ad <pb ed="oldAA" n="486" xml:id="B01S0486"/>minorem densitatem, et ad majora
+					interstitia vacua intercepta, non semper satis firma valet
+					conseqventia. Vtrumqve corpus potest vel paribus interstitiis
+						vacuis pollere, vel perfecte densum
+						esse, et nihilo <w lemma="minus">mi<pb ed="AA" n="16" break="no"/>nus</w> alterutrum longe majori massa pollere;
+					diversitatis causa plane in ipsa elementorum natura
+					residente.</p>
+      		<p rend="indent" xml:id="la078" corresp="#de078">
+               	<hi rend="larger">Prop. <hi rend="uppercase">xii. theorema</hi>. Diversitas
+						specifica densitatis
+						corporumin mundo observabilium absqve diversitate specifica
+						inertiae ipsorumelementorum explicari plane non
+						potest.</hi>
+               </p>
+      		<p rend="indent" xml:id="la079" corresp="#de079">Si elementa omnia pari
+					gauderent vi inertiae, pariqve volumine, ad
+						intelligendam corporum raritatis
+					differentiam opus est vacuo absoluto partibus
+						intermisto. Neqve enim, secundum
+						<ref type="editorialNote" target="#en48610">
+                     <persName key="newton_isaac">Newtoni</persName>, <persName key="keill_john">Keilii</persName>
+                  </ref>, aliorumqve
+						demonstrationes, in medio tali ratione perfecte impleto
+					motui libero locus est. Ideoqve ad explicandam mediorum infinite diversam densitatem
+					specificam e. g. aetheris, aëris, aqvae, auri, indulgendum est
+					immodicae conjectandi libidini, qva qvae ab hominum
+					intelligentia maxime remota est ipsa <ref type="editorialNote" target="#en48615">
+                     <ref type="editorialNote" target="#en48614">elementorum textura
+								temere pro lubitu confingitur, mox
+							bullularum tenuissimarum</ref> mox ramorum et spirarum</ref> contortarum instar eam libere et audacter concipiendo,
+					qvo materiam miris modis distentam, et <ref type="critApp" xml:id="app48617">exigua materia</ref> ingens spatium complexam,
+					cogitare possis. Sed accipe qvae adversum pugnant
+					rationes.</p>
+      		<p rend="indent" xml:id="la080" corresp="#de080">Fibrillae illae
+					immensum qvantum exiles, aut bullulae, qvae sub
+						cuticula immensae tenuitatis ingens pro qvantitate materiae vacuum
+						comprehendunt, necesse est vt continuo corporum
+					conflictu <pb ed="firstPrint" n="16" xml:id="B01S0486Z21fp"/>et attritione tandem conterantur,
+						et hac ratione comminutarum ramenta spatium vacuum
+					interceptum tandem oppleant. Qvo facto
+					spatium mundanum vndiqvaqve perfecte plenum valida
+						inertia obtorpescet, motusqve omnes brevi reducentur
+						ad qvietem.</p>
+      		<p rend="indent" xml:id="la081" corresp="#de081">Porro cum
+					secundum sententiam talem media specifice rariora
+						partibus maxime distentis et magno volumine praeditis constare
+					opus sit, qvo tandem pacto illis interstitia corporum
+					densiorum, quae secundum eandem sententiam arctiora sunt, pervia
+					esse possunt qvemadmodum ignem, fluidum
+						magneticum, electricum corpora permeare facillime
+					constat? Nam particulae majori volumine praeditae qvomodo in interstitia ipsis angustiora semet penetrare
+						possint, juxta cum ignarissimis ignoro.</p>
+      		<p rend="indent" xml:id="la082" corresp="#de082">Nisi itaqve
+					diversitas specifica ipsorum simplicissimorum
+						elementorum, qva eodem spatio exacte repleto, nunc
+						minor nunc longe major <pb ed="AA" n="17"/>massa construi poterit, concedatur,
+					Physica semper ad hanc difficultatem veluti ad
+						scopulum haerebit.</p>
+      		<p rend="indent" xml:id="la083" corresp="#de083">
+               	<hi rend="larger">Prop. <hi rend="uppercase">xiii. theorema</hi>. Elementa corporis
+						etiam solitario posita, perfecta gaudent vi elastica,
+						in diversis diversa, et
+						constituunt medium in se et absqve vacuo admisto
+						primitive elasticum.</hi>
+               </p>
+      		<p rend="indent" xml:id="la084" corresp="#de084">
+                  <pb ed="oldAA" n="487" xml:id="B01S0487"/>Elementa singula simplicia spatium <ref type="critApp" xml:id="app48701">praesentiae</ref> suae occupant vi qvadam definita, externas
+					substantias ab eodem arcente. Cum vero vis qvaelibet
+						finita gradum habeat ab alia majori superabilem, patet huic
+					repulsivae aliam opponi posse fortiorem, cui, cum in eadem
+					distantia arcendae vis elementi ingenita non sufficiat, patet illam
+					in spatium ab ipso occupatum aliqvatenus
+						penetraturam. Sed vires qvaelibet e puncto definito in
+					spatium <ref type="critApp" xml:id="app48706">exporrectae</ref> cum pro
+						distantiae augmento debilitentur, vim hanc repulsivam, qvo
+						<ref type="critApp" xml:id="app48707">propius</ref> centro
+						acceditur activitatis, eo et fortius reagere patet. Et qvoniam vis
+					repellens, qvae in data a centro repulsionis distantia finita
+					est, in proportione definita appropinqvationum crescit, ad punctum ipsum infinita sit necesse est,
+					patet per nullam vim cogitabilem elementum penitus penetrari
+					posse. Erit igitur perfecte elasticum et plura ejusmodi
+					junctis elasticitatibus constituent medium primitive
+						elasticum. Qvod haec elasticitas sit in diversis diversa e
+						<ref type="editorialNote" target="#en48713">
+							<abbr>Coroll.</abbr> 
+                     <abbr>prop.</abbr> X. linea 5.</ref>
+                  <ref type="textRef" target="#tr01">patet</ref>.</p>
+      		<p rend="indent" xml:id="la085" corresp="#de085">
+                  <hi rend="uppercase">coroll.</hi>
+					Elementa sunt perfecte impenetrabilia, hoc est,
+						qvantacunqve vi externa spatio qvod occupant, penitus
+					excludi nescia, sed sunt condensibilia, et corpora etiam talia
+					constituunt, qvippe concedentia aliqvantulum vi
+						externae comprimenti. Hinc origo corporum s. mediorum primitive
+					elasticorum, in qvibus aetherem s. materiam ignis in
+					antecessum profiteri liceat.</p>
+            <p rend="center">
+            	<hi rend="spaced larger uppercase">finis.</hi>
+            </p>
+            <milestone unit="section" rend="line"/>
+      	<pb ed="AA" n="18"/>
+         </div>
+      </body>
+   </text>
+</TEI>

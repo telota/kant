@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="3" subtype="criticalApparatus">
+               Die Frage: Ob die Erde veralte? Physikalisch erwogen
+            </title>
+            <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0002-5982-4800">
+                  <surname>Pollok</surname>
+                  <forename>Anne</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0001-7554-6743">
+                  <surname>Pollok</surname>
+                  <forename>Konstantin</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+                            Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung I, „Werke“, der 
+                        Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Ob die Erde veralte</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">
+                     Kant's Werke
+                  </title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="3">
+                     Die Frage: Ob die Erde veralte? Physikalisch erwogen
+                  </title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0002-5982-4800">
+                        <surname>Pollok</surname>
+                        <forename>Anne</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0001-7554-6743">
+                        <surname>Pollok</surname>
+                        <forename>Konstantin</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">167–186</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482
+                  </idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">
+                     Erste Abteilung <lb/>Werke – Neuedition
+                  </biblScope>
+                  <biblScope unit="volume" n="1">
+                     Band 1
+                  </biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-04" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P03App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app19612">
+                  <lem>habe.</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: habe?</rdg>
+               </app>
+               <app from="#app19701">
+                  <lem>geworden als jetzo, daß</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: geworden, daß</rdg>
+               </app>
+               <app from="#app19723">
+                  <lem>seyn</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>: sind</rdg>
+               </app>
+               <app from="#app19808">
+                  <lem>wiederum</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: wieder</rdg>
+               </app>
+               <app from="#app19814">
+                  <lem>weil sie</lem>
+                  <rdg> <abbr>V</abbr>: sc. die
+						Ursachen</rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+					weil er</rdg>
+               </app>
+               <app from="#app19814a">
+                  <lem>fortfahren</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+					fortfährt</rdg>
+               </app>
+               <app from="#app19816">
+                  <lem>entfernen</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: entfernt</rdg>
+               </app>
+               <app from="#app19817">
+                  <lem>überliefern</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: überliefert</rdg>
+               </app>
+               <app from="#app19818">
+                  <lem>Pflanzen</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+					Pflanzen-</rdg>
+               </app>
+               <app from="#app19903">
+                  <lem>Oberfläche, gegen</lem>
+                  <rdg> <abbr>V</abbr>: Oberfläche gegen</rdg>
+               </app>
+               <app from="#app20206">
+                  <lem>zu</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: er zu</rdg>
+               </app>
+               <app from="#app20208">
+                  <lem>werden</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: wird</rdg>
+               </app>
+               <app from="#app20227">
+                  <lem>mußte</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: müßte</rdg>
+               </app>
+               <app from="#app20230">
+                  <lem>immermehr und mehr</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: immer mehr
+					und mehr</rdg>
+               </app>
+               <app from="#app20231">
+                  <lem>Höhe</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+					höhe</rdg>
+               </app>
+               <app from="#app20233">
+                  <lem>nimmermehr</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>: immer
+						mehr</rdg>
+                  <rdg wit="#Bue">
+                     <wit wit="#Bue">Bue</wit>: immermehr</rdg>
+               </app>
+               <app from="#app20307">
+                  <lem>ihrer</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: ihre</rdg>
+               </app>
+               <app from="#app20309">
+                  <lem>und das</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: als
+					das</rdg>
+               </app>
+               <app from="#app20311">
+                  <lem>stünde</lem>
+                  <rdg wit="#Bue #A">mit <wit wit="#Bue">Bue</wit> zu <wit wit="#A">A</wit>: stunde</rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: stände</rdg>
+               </app>
+               <app from="#app20421">
+                  <lem>den Seinigen</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: dem
+					Seinigen</rdg>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: dem seinigen</rdg>
+                  <rdg wit="#Bue">
+                     <wit wit="#Bue">Bue</wit>: den
+					seinigen</rdg>
+               </app>
+               <app from="#app20602">
+                  <lem>die Erde</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: der
+					Erde</rdg>
+               </app>
+               <app from="#app20605">
+                  <lem>denselben</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>:
+					demselben</rdg>
+               </app>
+               <app from="#app20609">
+                  <lem>Es ist an dem</lem>
+                  <rdg><abbr>V</abbr>: sc. Es ist
+					zutreffend</rdg>
+               </app>
+               <app from="#app20622">
+                  <lem>andern die</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: andere, die</rdg>
+               </app>
+               <app from="#app20725">
+                  <lem>trocken</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+					trocknen</rdg>
+               </app>
+               <app from="#app20736">
+                  <lem>abgewinnen, da</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>:
+					abgewinnen. Da</rdg>
+               </app>
+               <app from="#app20803">
+                  <lem>erreicht, beweiset</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: erreicht,
+					dies beweiset</rdg>
+               </app>
+               <app from="#app20811">
+                  <lem>Zustand, oder</lem>
+                  <rdg wit="#Ha2"><abbr>V</abbr>(<wit wit="#Ha2">Ha2</wit>): Zustand oder zu einer Versiegung des Regenwassers in
+					das Innere der Erde, oder</rdg>
+               </app>
+               <app from="#app20814">
+                  <lem>nehmen.</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+					nehmen?</rdg>
+               </app>
+               <app from="#app20835">
+                  <lem>hinderseigen</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>:
+					hinunterseigen</rdg>
+               </app>
+               <app from="#app20835a">
+                  <lem>Ritze</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: Ritzen</rdg>
+               </app>
+               <app from="#app20915">
+                  <lem>es</lem>
+                  <rdg><abbr>V</abbr>: sc. das Erdreich</rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: ihn</rdg>
+               </app>
+               <app from="#app20917">
+                  <lem>deren</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: wovon</rdg>
+               </app>
+               <app from="#app20932">
+                  <lem>sie</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: die
+					Erde</rdg>
+               </app>
+               <app from="#app21008">
+                  <lem>tiefen</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: Tiefen</rdg>
+               </app>
+               <app from="#app21034">
+                  <lem>Zuschuß</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: Zufluß</rdg>
+               </app>
+               <app from="#app21109">
+                  <lem>Preusch-Holland</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+						Preußisch-Holland</rdg>
+               </app>
+               <app from="#app21115">
+                  <lem>einer … Verhältniß, dessen</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: eines …
+					Verhältnisses, dessen</rdg>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: einer … Verhältniss, deren</rdg>
+               </app>
+               <app from="#app21116">
+                  <lem>erricht</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+						erreicht</rdg>
+                  <rdg><abbr>V</abbr>: errichtet</rdg>
+               </app>
+               <app from="#app21130">
+                  <lem>Naturen die</lem>
+                  <rdg><abbr>V</abbr>: Naturen als
+						die</rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: Naturen, die</rdg>
+               </app>
+               <app from="#app21204">
+                  <lem>Spiritus Rector</lem>
+                  <rdg wit="#Schu">
+                     <wit wit="#Schu">Schu</wit>:
+						<hi rend="antiqua">Spiritus Rector</hi>
+                  </rdg>
+               </app>
+               <app from="#app21205">
+                  <lem>Chymici</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>:
+						<hi rend="spaced">Chemici</hi>
+                  </rdg>
+               </app>
+               <app from="#app21213">
+                  <lem>welches</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: welche</rdg>
+               </app>
+               <app from="#app21230">
+                  <lem>menschliche</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+					menschlichen</rdg>
+               </app>
+               <app from="#app21235">
+                  <lem>Veränderung</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+					veränderung</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P03En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en19513">der Rosen ihrer …
+               <hi rend="spaced">einmal</hi>] Gemeint ist die Schrift <hi rend="italic">Entretiens
+                  sur la pluralité des mondes</hi> (1686) Bernard le Bovier de Fontenelles
+               (1657–1757). Kant zitiert aus <hi rend="smallCaps">Fontenelle</hi> 1751, 153, wo es heißt:
+               „<hi rend="italic">Wir haben allezeit denselben Gärtner gesehen; bey Rosengedenken hat
+                  man keinen andern als ihn bemerket; er ist allezeit geblieben, wie er ist.
+                  In der That, er stirbt nicht so, wie wir; ja er verändert sich nicht
+                  einmal.</hi>“</note>
+            <note type="editorial" xml:id="en19637"><hi rend="antiqua">Fontenellen</hi> … jetzo] Kant bezieht sich auf Fontenelles Schrift
+               <hi rend="italic">Digression sur les Anciens et les Modernes</hi> (1688) bzw. die
+               Übersetzung in: <hi rend="smallCaps">Fontenelle</hi> 1751, und zwar im: <hi rend="italic">Anhang verschiedener
+                  kleiner Schriften des Herrn Bernhards von Fontenelle</hi>, unter II. „Abhandlung der
+               Frage, vom Vorzuge der Alten, oder Neuern, im Absehen auf die Künste und
+               Wissenschaften“ (558–589). Fontenelle verknüpft hier gleichnishaft Denker und
+               Bäume: „Wenn man die ganze Frage vom Vorzuge der Alten oder Neuern einmal recht
+               versteht, so läuft sie dahinaus: ob nämlich die Bäume, die ehemals auf unsern
+               Feldern gestanden, größer gewesen, als die heutigen? Sind sie es gewesen, so ist
+               dem <hi rend="italic">Homer</hi>, <hi rend="italic">Plato</hi> und
+               <hi rend="italic">Demosthenes</hi> heute zu Tage niemand zu vergleichen. Sind aber
+               unsere Bäume eben so groß, als vormals, so können wir es dem
+               <hi rend="italic">Homer</hi>, <hi rend="italic">Plato</hi> und
+               <hi rend="italic">Demosthenes</hi> gleich thun. […] Wenn aber die Bäume in allen
+               Jahrhunderten gleich groß sind […].“ (558 ff.)</note>
+            <note type="editorial" xml:id="en20205">Zeugnisse des Herodots] Herodot (ca. 485 – ca. 424 v. Chr.)
+               schreibt in den <hi rend="italic">Historien</hi>, im II. Buch („Das Land Ägypten und
+               seine Geschichte"): „Zur Zeit des Königs Moiris stieg der Fluß höchstens acht
+               Ellen hoch, um Ägypten unterhalb von Memphis unter Wasser zu setzen. Moiris war
+               aber noch nicht 900 Jahre tot, als ich das von den Priestern hörte. Wenn der
+               Strom aber jetzt nicht wenigstens 15–16 Ellen steigt, tritt er nicht über seine
+               Ufer." (<hi rend="smallCaps">Herodot</hi> 2001, 209)</note>
+            <note type="editorial" xml:id="en20413">Wallerii Rechnung] Der genaue Bezug konnte nicht ermittelt
+               werden. Gemeint ist der schwedische Chemiker Johan Gottschalk Wallerius
+               (1709–1785). Nach der berühmten Mineralogie von 1747 (<hi rend="italic">Mineralogia, eller
+                  mineralriket indelt och beskrifvet</hi>) bringt er 1748 heraus:
+               <hi rend="italic">Hydrologia, eller Wattu-riket, indelt och beskrfvit, jämte anledning
+                  til vattuprofvers anställande</hi>; beide werden von Daniel Denso ins
+               Deutsche übersetzt (vgl. <hi rend="smallCaps">Wallerius</hi> 1751).</note>
+            <note type="editorial" xml:id="en20427">
+               <hi rend="spaced">Manfred</hi> … zu finden
+               ist] Kant nimmt Bezug auf
+               Eustachio Manfredi (1674–1739): <hi rend="italic">De aucta maris altitudine</hi> (<hi rend="smallCaps">Manfredi</hi>
+               1746) und eine deutsche Verarbeitung dieses Beitrags (<hi rend="smallCaps">Manfredi</hi> 1753).
+               Bei Manfredi werden die „ungemein alte Kathedralkirche“ von Ravenna
+               (a. a. O., 248 ff.),
+               weitere Gebäude dieser Stadt (249–254) sowie die „St. Markuskirche“ zu Venedig im Verhältnis zur Höhe des
+               Meeresspiegels erörtert (254 f.).</note>
+            <note type="editorial" xml:id="en20522">Ende des Hornungs] Ende Februar.</note>
+            <note type="editorial" xml:id="en20523">Bononien] Seit dem Jahr 189 v. Chr. wurde das
+               heutige Bologna, gegründet von den Etruskern im 6. vorchristlichen Jahrhundert,
+               von den Römern als ‚Bononia‘ bezeichnet.</note>
+            <note type="editorial" xml:id="en20601"><hi rend="spaced">Hartsöcker</hi>] Johannes Nicolaus Hartsoecker (1656–1725)
+               war in Paris, Amsterdam, Düsseldorf und Utrecht, bei Hofe sowie in universitären
+               Diensten tätig. Sein <hi rend="italic">Cours de Physique</hi> (<hi rend="smallCaps">Hartsoecker</hi>
+               1730), genauer: das siebte Buch daraus, wird in <hi rend="smallCaps">Hartsoecker</hi> 1753
+               zusammengefasst und erörtert.</note>
+            <note type="editorial" xml:id="en20819">Boerhaave] Hermann Boerhaave (1668–1738), berühmter
+               Professor der Medizin, Botanik und Chemie in Leiden, veröffentlichte in den
+               frühen 1730er-Jahren in den <hi rend="italic">Philosophical Transactions</hi>: „De
+               mercurio experimenta“ (<hi rend="smallCaps">Boerhave, De experimenta</hi>), auch
+               separat erschienen (<hi rend="smallCaps">Boerhave</hi> 1737).</note>
+            <note type="editorial" xml:id="en20820">Hales] Stephen Hales (1677–1761), englischer Theologe, Pfarrer und Naturforscher. Seine
+               1727 veröffentlichte Abhandlung (das Imprimatur erteilte Newton) wurde 1735 von
+               Buffon in das Französische übertragen (<hi rend="smallCaps">Hales</hi> 1735). Kant besaß ein
+               Exemplar der deutschen Übersetzung (<hi rend="smallCaps">Hales</hi> 1748).</note>
+            <note type="editorial" xml:id="en20935">Siehe der Königl. Akad. … p. 246.] Kants Angabe bezieht sich auf die
+               Nachrichten von Giacomo Filippo Maraldi (1665–1729) an die Pariser Akademie zu
+               Begleiterscheinungen von Erdbeben in Italien zwischen Oktober 1702 und Juli
+               1703, mitgeteilt in: <hi rend="smallCaps">Maraldi</hi> 1748.</note>
+         </div>
+      </body>
+   </text>
+</TEI>

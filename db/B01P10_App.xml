@@ -1,0 +1,482 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="10" subtype="criticalApparatus">
+               Monadologia physica
+            </title>
+            <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0003-4081-401X">
+                  <surname>Hohenegger</surname>
+                  <forename>Hansmichael</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0002-0322-4734">
+                  <surname>Lamarra</surname>
+                  <forename>Antonio</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0001-5535-5894">
+                  <surname>Pozzo</surname>
+                  <forename>Riccardo</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+                            Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung I, „Werke“, der 
+                        Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Monadologia physica</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">
+                     Kant's Werke
+                  </title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="10">
+                     Monadologia physica
+                  </title>                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0003-4081-401X">
+                        <surname>Hohenegger</surname>
+                        <forename>Hansmichael</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0002-0322-4734">
+                        <surname>Lamarra</surname>
+                        <forename>Antonio</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0001-5535-5894">
+                        <surname>Pozzo</surname>
+                        <forename>Riccardo</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">502–538</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482</idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">
+                     Erste Abteilung <lb/>Werke – Neuedition
+                  </biblScope>
+                  <biblScope unit="volume" n="1">
+                     Band 1
+                  </biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-19" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P10App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app47511">
+                  <lem><hi rend="antiqua">Et</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">Ex</hi>
+                  </rdg>
+                  <rdg wit="#Th"><abbr>V</abbr>(<wit wit="#Th">Th</wit>): <hi rend="antiqua">At</hi>
+                  </rdg>
+               </app>
+               <app from="#app47605">
+                  <lem><hi rend="antiqua">afficere</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">attingere</hi>
+                  </rdg>
+               </app>
+               <app from="#app47708">
+                  <lem><hi rend="antiqua">constant</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">constat</hi>
+                  </rdg>
+               </app>
+               <app from="#app47723">
+                  <lem><hi rend="antiqua">in posterum</hi></lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">inposterum</hi>
+                  </rdg>
+               </app>
+               <app from="#app47724">
+                  <lem><hi rend="antiqua">synonimis</hi></lem>
+                  <rdg wit="#La"><wit wit="#La">La</wit>: <hi rend="antiqua">synonymis</hi>
+                  </rdg>
+               </app>
+               <app from="#app47819">
+                  <lem><hi rend="antiqua">propior</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">proprior</hi>
+                  </rdg>
+               </app>
+               <app from="#app47822">
+                  <lem><hi rend="antiqua">arctiores</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">artiores</hi>
+                  </rdg>
+                  <note rend="antiqua italic">passim</note>
+               </app>
+               <app from="#app47833">
+                  <lem><hi rend="antiqua">est
+						in</hi></lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">est</hi>
+                  </rdg>
+               </app>
+               <app from="#app47834">
+                  <lem><hi rend="antiqua">partibus</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">paribus</hi>
+                  </rdg>
+               </app>
+               <app from="#app47902">
+                  <lem><hi rend="antiqua">vnicam</hi></lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">vnicum</hi>
+                  </rdg>
+               </app>
+               <app from="#app47907">
+                  <lem><hi rend="antiqua">majores</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">major</hi>
+                  </rdg>
+               </app>
+               <app from="#app47920">
+                  <lem><hi rend="antiqua">Prop. I:</hi></lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">Prop. I.</hi>
+                  </rdg>
+               </app>
+               <app from="#app47926">
+                  <lem><hi rend="antiqua">Phaenomenon</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">Phoenomenon</hi>
+                  </rdg>
+               </app>
+               <app from="#app48031">
+                  <lem><hi rend="antiqua">ipsa</hi></lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit>
+					zu <wit wit="#A">A</wit>: <hi rend="antiqua">ipso</hi>
+                  </rdg>
+               </app>
+               <app from="#app48102">
+                  <lem><hi rend="antiqua">praec.</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">praecedentia</hi>
+                  </rdg>
+               </app>
+               <app from="#app48105">
+                  <lem><hi rend="antiqua">arcet</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">arceat</hi>
+                  </rdg>
+               </app>
+               <app from="#app48106">
+                  <lem><hi rend="antiqua">determinat</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">determinet</hi>
+                  </rdg>
+               </app>
+               <app from="#app48115">
+                  <lem><hi rend="antiqua">qvam</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">qvod</hi>
+                  </rdg>
+               </app>
+               <app from="#app48226">
+                  <lem><hi rend="antiqua">proximas</hi></lem>
+                  <rdg wit="#La #Th"><wit wit="#La">La</wit> nach <wit wit="#Th">Th</wit>: <hi rend="antiqua">proxima</hi>
+                  </rdg>
+                  <rdg wit="#Bu"><abbr>V</abbr>(<wit wit="#Bu">Bu</wit>): sc. <hi rend="antiqua">monades</hi>
+                  </rdg>
+               </app>
+               <app from="#app48226a">
+                  <lem><hi rend="antiqua">arcet</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">arcebit</hi>
+                  </rdg>
+               </app>
+               <app from="#app48227">
+                  <lem><hi rend="antiqua">e g,</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">e g</hi>
+                  </rdg>
+               </app>
+              <app from="#app48233">
+                  <lem><hi rend="antiqua">extrapositione</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">extra positione</hi>
+                  </rdg>
+               </app>
+               <app from="#app48234">
+                  <lem><hi rend="antiqua">est in</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">estin</hi>
+                  </rdg>
+               </app>
+               <app from="#app48305">
+                  <lem><hi rend="antiqua">propiori</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">propriori</hi>
+                  </rdg>
+               </app>
+               <app from="#app48321">
+                  <lem><hi rend="antiqua">qvarum</hi></lem>
+                  <rdg wit="#Ti"><wit wit="#Ti">Ti</wit>: <hi rend="antiqua">qvorum</hi>
+                  </rdg>
+               </app>
+               <app from="#app48325">
+                  <lem><hi rend="antiqua">procul</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">Procul</hi>
+                  </rdg>
+               </app>
+               <app from="#app48325a">
+                  <lem><hi rend="antiqua">Vis</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">Vix</hi>
+                  </rdg>
+               </app>
+               <app from="#app48326">
+                  <lem><hi rend="antiqua">actio</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">actia</hi>
+                  </rdg>
+               </app>
+               <app from="#app48327">
+                  <lem><hi rend="antiqua">propius
+						propiusqve</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">proprius
+						propriusqve</hi>
+                  </rdg>
+               </app>
+               <app from="#app48409">
+                  <lem><hi rend="antiqua">exadversum</hi></lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">ex adversum</hi>
+                  </rdg>
+               </app>
+               <app from="#app48417">
+                  <lem><hi rend="antiqua">longinqvo</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">longiqvo</hi>
+                  </rdg>
+               </app>
+               <app from="#app48425">
+                  <lem><hi rend="antiqua">superficie</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">superfice</hi>
+                  </rdg>
+               </app>
+              <app from="#app48512">
+                  <lem><hi rend="antiqua">nominatae</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">nominatas</hi>
+                  </rdg>
+               </app>
+               <app from="#app48524">
+                  <lem><hi rend="antiqua">vi</hi></lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>:
+						<hi rend="antiqua">vis</hi>
+                  </rdg>
+               </app>
+               <app from="#app48527">
+                  <lem><hi rend="antiqua">qvorum</hi></lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">qvarum</hi>
+                  </rdg>
+               </app>
+              <app from="#app48617">
+                  <lem><hi rend="antiqua">exigua materia</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">exiguam materiam</hi>
+                  </rdg>
+               </app>
+              <app from="#app48701">
+                  <lem><hi rend="antiqua">praesentiae</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">praesentia</hi>
+                  </rdg>
+               </app>
+               <app from="#app48706">
+                  <lem><hi rend="antiqua">exporrectae</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">ex
+						porrectae</hi>
+                  </rdg>
+               </app>
+               <app from="#app48707">
+                  <lem><hi rend="antiqua">propius</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">proprius</hi>
+                  </rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P10En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en47523">
+               <hi rend="antiqua">cum Gryphes facilius
+                  eqvis</hi>] Vgl. die Hirtengedichte Vergils (<hi rend="smallCaps">Virgilius</hi>,
+               <hi rend="smallCaps italic">Eclogae</hi>, VIII, 26–28), wo sich das Folgende findet: „<foreign xml:lang="la">Quid
+                  non speremus amantes? / iungentur iam gryphes equis, aevoque sequenti cum
+                  canibus timidi venient ad pocula dammae.</foreign>“ Übersetzt: „Was müssen wir Liebenden
+               da nicht erwarten? / Nunmehr paart sich dem Rosse der Greif, in
+               künftigen Zeiten kommen die furchtsamen Hirsche mit Hunden gemeinsam
+               zur Tränke.“ (<hi rend="smallCaps">Vergil</hi> 1995, 67)</note>
+            <note type="editorial" xml:id="en48313">
+               <hi rend="antiqua">Contactus vulgo …
+                  definitur</hi>] Vgl. <hi rend="smallCaps">Baumgarten</hi> 1750, § 223:
+               „<foreign xml:lang="la">Substantia in substantiam propius influxens illi praesens est, et proxime
+                  praesens alteri substantiae, alteram contingit, vt adeo sit praesentia influxus
+                  propior, et immediata praesentia contactus.</foreign>”</note>
+            <note type="editorial" xml:id="en48424">
+               <hi rend="antiqua">Keillii</hi>] John Keill (1671–1721) war einer der wichtigsten Newtonianer der Zeit und
+               einer der engagiertesten Verteidiger Newtons. Vgl. aus der Einleitung zu seinem
+               Hauptwerk: „<foreign xml:lang="la">Qualitas seu virtus omnis […] undique a centro per rectas lineas
+                  propagatur […]</foreign>.“ (<hi rend="smallCaps">Keill</hi> 1710, 4) Vgl. zu seinen Theorien über
+               Anziehungskräfte neben <hi rend="smallCaps">Keill</hi> 1710 auch <hi rend="smallCaps">Keill</hi> 1739;
+               <hi rend="smallCaps">Keill</hi> 1741.</note>
+            <note type="editorial" xml:id="en48610">
+               <hi rend="antiqua">Newtoni,
+                  Keillii</hi>] Vgl. die Sacherläuterung zu 
+               <ref type="editorialNote" target="#en48424">528<hi rend="sup">31</hi></ref>. Bezüglich der Hypothesen über
+               den leeren Raum hatte Keill in der ersten Auflage seines Hauptwerks (1701) in
+               Newtons Sinne Theorien anderer angegriffen. Darauf replizierte unter anderem
+               Christian <hi rend="smallCaps">Wolff</hi> (1709). Der Streit setzte sich in den <hi rend="italic">Acta
+                  Eruditorum</hi> 1710 fort, etwa mit <hi rend="smallCaps">Keill</hi> 1710b. Vgl. dazu auch
+               <hi rend="smallCaps">Newton</hi>, <hi rend="italic">Principia</hi> (1687), 3. Buch, Prop. 6,
+               Coroll. 3 und 4.</note>
+            <note type="editorial" xml:id="en48614">
+               <hi rend="antiqua">elementorum textura … bullularum
+                  tenuissimarum</hi>] Vgl. <hi rend="smallCaps">Leibniz</hi> 1671. Im zweiten
+               Teil der <hi rend="italic">Hypothesis physica nova</hi> stellt Leibniz die Theorie der
+               Bläschen als der ‚<foreign xml:lang="la">semina rerum</foreign>‘ und ‚<foreign xml:lang="la">stamina specierum</foreign>‘ vor. Die festeren
+               Stoffe enthalten als Blasen den Aether in sich eingeschlossen, woraus ihre
+               verschiedene Dichte sich erkläre.</note>
+            <note type="editorial" xml:id="en48615">
+               <hi rend="antiqua">elementorum textura …
+                  ramorum et spirarum</hi>] Vgl. <hi rend="smallCaps">Descartes</hi> 1644, Teil 3, Artikel 90–93 (<hi rend="smallCaps">Descartes</hi> 1905,
+               157–162).</note>
+            <note type="editorial" xml:id="en48713">
+               <hi rend="antiqua">Coroll. prop. X. linea
+                  5.</hi>] Gemeint ist <ref type="textRef" target="#tr53023">530<hi rend="sup">23-26</hi></ref>.</note>
+         </div>
+      </body>
+   </text>
+</TEI>

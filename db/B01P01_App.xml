@@ -1,0 +1,2971 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="1" subtype="criticalApparatus">
+					Gedanken von der wahren Schätzung der lebendigen Kräfte
+				</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4129-3981">
+						<surname>Pulte</surname>
+						<forename>Helmut</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0002-3775-686X">
+						<surname>Burt</surname>
+						<forename>Fabian</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Mitarbeit</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition,
+							Bereitstellung der Schnittstellen </note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie
+							Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+					Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen
+					Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">Berlin-Brandenburgische
+						Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung
+						I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+						Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Wahre Schätzung</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">
+							Kant's Werke
+						</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="1">
+							Gedanken von der wahren Schätzung der lebendigen Kräfte
+						</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4129-3981">
+								<surname>Pulte</surname>
+								<forename>Helmut</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">1–158</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482
+						</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">
+							Erste Abteilung <lb/>Werke – Neuedition
+						</biblScope>
+						<biblScope unit="volume" n="1">
+							Band 1
+						</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de">German</language>
+				<language ident="la">Latin</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-09-23" who="#EF">Corrected</change>
+			<change when="2023-12-13" who="#EF">Corrected</change>
+			<change when="2023-11-13" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P01App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app00803">
+                  <lem>um</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>:
+					und</rdg>
+               </app>
+               <app from="#app00823">
+                  <lem>wollten</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: wollen</rdg>
+               </app>
+              <app from="#app01024">
+                  <lem>hatte</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: hätte</rdg>
+               </app>
+            	<app from="#app01025">
+            		<lem>Ich … fortzusetzen</lem>
+            		<rdg wit="#Ti">
+            			<wit wit="#Ti">Ti</wit>: <hi rend="italic">hervorgehoben</hi></rdg>
+            	</app>
+               <app from="#app01413">
+                  <lem>gleich noch stark</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: gleich
+					stark</rdg>
+               </app>
+               <app from="#app01416">
+                  <lem>Lehrgebäuden</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+					Lehrgebäude</rdg>
+               </app>
+               <app from="#app01817">
+                  <lem>
+                     <hi rend="antiqua">vim
+						activam</hi>
+                  </lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">vim motricem</hi>
+                  </rdg>
+               </app>
+               <app from="#app01918">
+                  <lem>sie</lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: er</rdg>
+               </app>
+               <app from="#app01934">
+                  <lem>diesen</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: diesem</rdg>
+               </app>
+               <app from="#app02223">
+                  <lem>es</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: sie</rdg>
+               </app>
+               <app from="#app02427">
+                  <lem>davor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: dafür</rdg>
+               </app>
+            	<app from="#app02505">
+            		<lem>andern</lem>
+            		<rdg wit="#Web">
+            			<wit wit="#Web">Web</wit>: anderem</rdg>
+            	</app>
+               <app from="#app02723">
+                  <lem>dieses seine</lem>
+               	<rdg><abbr>V</abbr>: sc. dieses Körpers A seine</rdg>
+                  <rdg wit="#Ti"><wit wit="#Ti">Ti</wit>:
+					diese seine</rdg>
+               </app>
+              <app from="#app02808">
+                  <lem>allen</lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: allem</rdg>
+               </app>
+            	<app from="#app02823">
+            		<lem>zweyten</lem>
+            		<rdg wit="#La2 #Thi #A">mit <wit wit="La2">La2</wit> nach <abbr>V</abbr>(<wit wit="Thi">Thi</wit>) zu <wit wit="#A">A</wit>: ersten
+            		</rdg>
+            	</app>
+            	<app from="#app02828">
+            		<lem>werde. Da</lem>
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: werde, da</rdg>
+            	</app>
+            	<app from="#app02902">
+            		<lem>ersten</lem>
+            		<rdg wit="#La2 #Thi #A">mit <wit wit="La2">La2</wit> nach <abbr>V</abbr>(<wit wit="Thi">Thi</wit>) zu <wit wit="#A">A</wit>: zweyten
+            		</rdg>
+            	</app>
+               <app from="#app02906">
+                  <lem>so will mit</lem>
+                  <rdg wit="#Voi">
+                     <wit wit="#Voi">Voi</wit>: so will
+					ich mit</rdg>
+               </app>
+            	<app from="#app03120">
+               	<lem>wende mich</lem>
+               	<rdg wit="#Web">
+               		<wit wit="#Web">Web</wit>:
+               		wende ich mich</rdg>
+               </app>
+               <app from="#app03208">
+                  <lem>keiner</lem>
+               	<rdg wit="#Ti">
+               		<wit wit="#Ti">Ti</wit>:
+               		Keinen</rdg>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>:
+						keinem</rdg>
+                  <rdg wit="#Bu">
+                     <wit wit="#Bu">Bu</wit>: keiner
+					Seite</rdg>
+               </app>
+            	<app from="#app03708">
+            		<lem>er</lem>
+            		<rdg wit="#Ha">
+            			<wit wit="#Ha">Ha</wit>: es</rdg>
+            	</app>
+            	<app from="#app03828">
+            		<lem>sich</lem>
+            		<rdg wit="#Ha #A">mit
+            			<wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: sie</rdg>
+            	</app>
+               <app from="#app03935">
+                  <lem><hi rend="spaced">Quadrat</hi></lem>
+                  <rdg wit="#La">
+                  	<wit wit="#La">La</wit>: <hi rend="spaced">Quadrat</hi>
+					der Geschwindigkeit</rdg>
+               </app>
+               <app from="#app04134">
+               	<lem>den … Parallelogram</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: dem
+                  	… Parallelogramm</rdg>
+                  <rdg wit="#SchuRo">
+                  	<wit wit="#SchuRo">Schu/Ro</wit>: den … Parallelogrammen</rdg>
+               </app>
+            	<app from="#app04136">
+            		<lem>dem</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: den</rdg>
+            	</app>
+               <app from="#app04401">
+                  <lem>sey</lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: seyn</rdg>
+               	<rdg wit="#SchuRo"><wit wit="#SchRo">Schu/Ro</wit>: sind</rdg>
+               </app>
+               <app from="#app04424">
+                  <lem>sie nichts</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: sie in
+					nichts</rdg>
+               	<rdg wit="#SchuRo"><wit wit="#SchRo">Schu/Ro</wit>: sie nicht</rdg>
+               </app>
+            	<app from="#app04425">
+            		<lem>seyn</lem>
+            		<rdg wit="#Voi">
+            			<wit wit="#Voi">Voi</wit>: sind</rdg>
+            		</app>
+               <app from="#app04610">
+                  <lem>verhalten</lem>
+                  <rdg wit="#A">zu <wit wit="#A">A</wit>: verhalte</rdg>
+               </app>
+               <app from="#app04709">
+                  <lem>stärker</lem>
+                  <rdg wit="#La"><abbr>V</abbr>(<wit wit="#La">La</wit>): sc.
+					weniger</rdg>
+               </app>
+               <app from="#app04711">
+                  <lem>davor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: dafür</rdg>
+               </app>
+               <app from="#app04732">
+                  <lem>
+                     <hi rend="antiqua">aB</hi>
+                  </lem>
+                  <rdg wit="#La #A">
+					mit <abbr>V</abbr>(<wit wit="#La">La</wit>) zu <wit wit="#A">A</wit>: <hi rend="antiqua">ab</hi>
+                  </rdg>
+               </app>
+            	<app from="#app04804">
+            		<lem>
+            			<hi rend="antiqua">Factum</hi>
+            		</lem>
+            		<rdg wit="#Ha2"><wit wit="#Ha2">Ha2</wit>: Product
+            		</rdg>
+            	</app>
+               <app from="#app04826">
+                  <lem>gleichfalls</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="italic">fehlt</hi></rdg>
+               </app>
+              <app from="#app05204">
+                  <lem>derselben</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: demselben</rdg>
+               </app>
+            	<app from="#app05205">
+            		<lem>Kraft</lem>
+            		<rdg wit="#Ti">
+            			<wit wit="#Ti">Ti</wit>: der Kraft</rdg>
+            	</app>
+               <app from="#app05210">
+                  <lem>seine</lem>
+                  <rdg> <abbr>V</abbr>: sc. der Kugel</rdg>
+               </app>
+               <app from="#app05212">
+                  <lem>hiedurch</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>:
+					hindurch</rdg>
+               </app>
+               <app from="#app05219">
+                  <lem>dem Körper <hi rend="antiqua">A</hi>
+                  </lem>
+                  <rdg wit="#A">zu <wit wit="#A">A</wit>: dem Körper <hi rend="antiqua">B</hi>
+                  </rdg>
+               </app>
+               <app from="#app05304">
+                  <lem>ausrichten können</lem>
+                  <rdg> <abbr>V</abbr>: sc. habe 
+					ausrichten können</rdg>
+               </app>
+               <app from="#app05403">
+                  <lem>
+                     <hi rend="antiqua">BE</hi>
+                  </lem>
+                  <rdg wit="#La #A">
+					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">Bc</hi>
+                  </rdg>
+               </app>
+               <app from="#app05408">
+                  <lem>
+                     <hi rend="antiqua">BE</hi>
+                  </lem>
+                  <rdg wit="#La #A">
+					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">Bc</hi>
+                  </rdg>
+               </app>
+               <app from="#app05424">
+                  <lem>könne</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+					können</rdg>
+               </app>
+            	<app from="#app05427">
+            		<lem>bekannt</lem>
+            		<rdg wit="#Ha"><wit wit="#Ha">Ha</wit>: unbekannt</rdg>
+            	</app>
+               <app from="#app06405">
+                  <lem>davor</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: dafür</rdg>
+               </app>
+            	<app from="#app06831">
+                  <lem>derselben</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>:
+					desselben</rdg>
+               </app>
+            	<app from="#app07115">
+            		<lem>Körper, dessen</lem>
+            		<rdg wit="#Ha1">
+            			<wit wit="#Ha1">Ha1</wit>:
+            			Körper unelastischer sey, dessen</rdg>
+            	</app>
+            	<app from="#app07116">
+            		<lem>doch … kan,</lem>
+            		<rdg wit="#Ha1">
+            			<wit wit="#Ha1">Ha1</wit>: <hi rend="italic">fehlt</hi></rdg>
+            	</app>
+            	<app from="#app07120">
+            		<lem>welche … jene</lem>
+            		<rdg wit="#Ha1">
+            			<wit wit="#Ha1">Ha1</wit>: welchen … jener</rdg>
+            	</app>
+            	<app from="#app07224">
+            		<lem>Ausnahme</lem>
+            		<rdg wit="#Ha1">
+            			<wit wit="#Ha1">Ha1</wit>: Annahme</rdg>
+            	</app>
+               <app from="#app07230">
+                  <lem>der</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: dem</rdg>
+               </app>
+            	<app from="#app07523">
+            		<lem>elastischer</lem>
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: der</rdg>
+            	</app>
+            	<app from="#app07608">
+            		<lem>hervorzubringen</lem>
+            		<rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>:
+            			hervorbringen</rdg>
+            	</app>
+               <app from="#app07819">
+                  <lem>Ich bilde mir</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: Ich bilde
+					mir ein</rdg>
+               </app>
+               <app from="#app07830">
+                  <lem>sich der</lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: sich die</rdg>
+               </app>
+            	<app from="#app07917">
+            		<lem>kleiner</lem>
+            		<rdg wit="#Web #A">mit
+            			<wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: keiner</rdg>
+            	</app>
+               <app from="#app08113">
+                  <lem>Diagonallinie</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>:
+					Diagonallogie</rdg>
+               </app>
+               <app from="#app08204">
+                  <lem>entgegenstehenden</lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: entstehenden</rdg>
+               </app>
+               <app from="#app08215">
+                  <lem>die Schlüße</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: den Schlüssen</rdg>
+               </app>
+            	<app from="#app08323">
+            		<lem>
+            			<hi rend="antiqua">ba=AB</hi>
+            		</lem>
+            		<rdg wit="#La #A">mit
+            			<wit wit="#La">La</wit>
+            			zu <wit wit="#A">A</wit>: <hi rend="antiqua">bA=AB</hi></rdg>
+            	</app>
+               <app from="#app08334">
+                  <lem>
+                     <hi rend="antiqua">FE</hi>
+                  </lem>
+                  <rdg wit="#Ha #A">
+					mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">FC</hi>
+                  </rdg>
+               </app>
+            	<app from="#app08419">
+            		<lem>Seiten</lem>
+            		<rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>: Seitē</rdg>
+            	</app>
+               <app from="#app08429">
+                  <lem>seyn</lem>
+                  <rdg wit="#Hi #A">mit <wit wit="#Hi">Hi</wit> zu <wit wit="#A">A</wit>:
+					sey</rdg>
+               </app>
+               <app from="#app08535">
+                  <lem>
+                     <hi rend="antiqua">sinui</hi>
+                  </lem>
+                  <rdg wit="#A">zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">sinu</hi>
+                  </rdg>
+               </app>
+               <app from="#app08820">
+                  <lem>
+                     <hi rend="antiqua">bd</hi>
+                  </lem>
+                  <rdg wit="#La #A">
+					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">be</hi>
+                  </rdg>
+               </app>
+               <app from="#app08822">
+                  <lem>
+                     <hi rend="antiqua">cd</hi>
+                  </lem>
+                  <rdg wit="#La #A">
+					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">ce</hi>
+                  </rdg>
+               </app>
+               <app from="#app09118">
+                  <lem>
+                     <hi rend="antiqua">Sinus</hi> wie 1 ist</lem>
+                  <rdg wit="#La"><abbr>V</abbr>(<wit wit="#La">La</wit>): <hi rend="antiqua">Sinus</hi>
+					einen Grad Geschwindigkeit ergiebt</rdg>
+               </app>
+               <app from="#app09405">
+                  <lem>hergebracht</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: hervorgebracht</rdg>
+               </app>
+            	<app from="#app09626">
+            		<lem><choice><sic>vorbeugt</sic><corr>vorbeuget</corr></choice></lem>
+
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: vorbeuge</rdg>
+            	</app>
+               <app from="#app09718">
+                  <lem>ziehen werden</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>: ziehen,
+					werden</rdg>
+               </app>
+               <app from="#app09824">
+                  <lem>begreifen</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>:
+					begriffen</rdg>
+               </app>
+              <app from="#app09915">
+                  <lem>folgt</lem>
+                  <rdg wit="#Web"><wit wit="#Web">Web</wit>:
+					folge</rdg>
+               </app>
+               <app from="#app10003">
+                  <lem>der Verhältniß</lem>
+                  <rdg> <abbr>V</abbr>: den Verhältnissen</rdg>
+               </app>
+               <app from="#app10004">
+                  <lem>Seitenlinie</lem>
+                  <rdg wit="#Hi">
+                     <wit wit="#Hi">Hi</wit>:
+					Seitenlinien</rdg>
+               </app>
+            	<app from="#app10114">
+            		<lem>dieselbe</lem>
+            		<rdg wit="#SchuRo">
+            			<wit wit="#SchuRo">Schu/Ro</wit>: denselben</rdg>
+            	</app>
+               <app from="#app10117">
+                  <lem>seine</lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: ihre</rdg>
+               </app>
+            	<app from="#app10118P01" to="#app10118P02">
+               	<lem>er … er … er</lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: sie …
+                  	sie …
+                  	sie</rdg>
+               </app>
+            	<app from="#app10119">
+            		<lem>er</lem>
+            		<rdg wit="#SchuRo"><wit wit="#SchuRo">Schu/Ro</wit>: sie
+            		</rdg>
+            	</app>
+            	<!-- Druckfehler im Druck 2023, 1. Auflage; korrigiert: -->
+            	<!--  
+                <app from="#app10119">
+                    <choice><sic><lem>er</lem></sic>
+                    <rdg wit="#SchuRo"><wit wit="#SchuRo">Schu/Ro</wit>: sie
+                    </rdg>
+                    	<corr></corr></choice>
+                </app>-->
+            	<app from="#app10206">
+            		<lem>Körpers … Kugel</lem>
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: Körpers in … Kugel in</rdg>
+            	</app>
+            	<app from="#app10208">
+            		<lem>Körper 3 <hi rend="antiqua">B</hi> … Kugel 3 <hi rend="antiqua">A</hi></lem>
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: 
+            			Körper <hi rend="antiqua">B</hi> … Kugel <hi rend="antiqua">A</hi></rdg>
+            	</app>
+               <app from="#app10212">
+                  <lem>seinen</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: ihren</rdg>
+               </app>
+               <app from="#app10217">
+                  <lem>seine</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: ihre</rdg>
+               </app>
+            	<app from="#app10308">
+            		<lem>aus 3 <hi rend="antiqua">A</hi></lem>
+            		<rdg wit="#Ha2">
+            			<wit wit="#Ha2">Ha2</wit>: aus 4 <hi rend="antiqua">A</hi></rdg>
+            	</app>
+            	<app from="#app10310">
+            		<lem>dieselbe</lem>
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: derselbe</rdg>
+            	</app>
+               <app from="#app10312">
+                  <lem>übertretenen</lem>
+                  <rdg wit="#Ha1">
+                     <wit wit="#Ha1">Ha1</wit>: übertragenen</rdg>
+               </app>
+            	<app from="#app10333">
+            		<lem>Körper</lem>
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: Körper in</rdg>
+            	</app>
+               <app from="#app10404">
+                  <lem>
+                  	<hi rend="antiqua">A</hi> empfängt
+                  </lem>
+                  <rdg wit="#Pe #A">
+                  	mit <wit wit="#Pe">Pe</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">B</hi> empfängt
+                  </rdg>
+               </app>
+            	<app from="#app10426">
+            		<lem>
+            			Körpers … Körper
+            		</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: Körpers in … Körpers in
+            		</rdg>
+            	</app>
+            	<app from="#app10429">
+            		<lem>womit 3
+            			<hi rend="antiqua">A</hi>
+            		</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: womit der Körper aus 3 <hi rend="antiqua">A</hi>
+            		</rdg>
+            	</app>
+            	<app from="#app10510">
+            		<lem>Körper
+            		</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: Körper in
+            		</rdg>
+            	</app>
+               <app from="#app10512">
+                  <lem>2 <hi rend="antiqua">Ba</hi>
+                  </lem>
+                  <rdg wit="#La #A">
+					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: 3 <hi rend="antiqua">Ba</hi>
+                  </rdg>
+               </app>
+            	<app from="#app10515">
+            		<lem>Körper
+            		</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: Körper in
+            		</rdg>
+            	</app>
+            	<app from="#app10517">
+            		<lem>erlangt 3 <hi rend="antiqua">A</hi>
+            		</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: erlangt der Körper in 3 <hi rend="antiqua">A</hi>
+            		</rdg>
+            	</app>
+            	<app from="#app10524">
+            		<lem>Körpers
+            		</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: Körpers in 
+            		</rdg>
+            	</app>
+            	<app from="#app10615">
+            		<lem>ohne
+            		</lem>
+            		<rdg wit="#Ha2"><wit wit="#Ha2">Ha2</wit>: nicht ohne
+            		</rdg>
+            	</app>
+               <app from="#app10625">
+               	<lem><hi rend="antiqua">p. 442</hi></lem>
+               	<rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">p. 542</hi>
+					</rdg>
+               </app>
+            	<app from="#app10630">
+            		<lem><hi rend="antiqua">Quae</hi></lem>
+            		<rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">Quo</hi></rdg>
+            	</app>
+            	<app from="#app10924">
+            		<lem><hi rend="antiqua">illis</hi></lem>
+            		<rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">iis</hi></rdg>
+            	</app>
+            	<app from="#app10925">
+            		<lem><hi rend="antiqua">quo</hi></lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: <hi rend="antiqua">quae</hi></rdg>
+            	</app>
+            	<app from="#app11014">
+            		<lem>die Kugel
+            			<hi rend="antiqua">B</hi>
+            		</lem>
+            		<rdg wit="#Ha #A">
+            			mit <wit wit="#Ha">Ha</wit>
+            			zu <wit wit="#A">A</wit>: die Kugel <hi rend="antiqua">1 B</hi>
+            		</rdg>
+            	</app>
+            	<app from="#app11017">
+            		<lem>niederzudrücken</lem>
+            		<rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: wiederzudrücken</rdg>
+            	</app>
+            	<app from="#app11022">
+            		<lem>in viertheiliger Entfernung</lem>
+            		<rdg wit="#La">
+            			<abbr>V</abbr>(<wit wit="#La">La</wit>): in einfacher
+            			Entfernung</rdg>
+            	</app>
+            	<app from="#app11033">
+            		<lem>womit <hi rend="antiqua">A</hi></lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: womit 1 <hi rend="antiqua">A</hi></rdg>
+            	</app>
+            	<app from="#app11116">
+            		<lem>Feder</lem>
+            		<rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>:
+            			Federn</rdg>
+            	</app>
+            	<app from="#app11123">
+            		<lem>aufspringen</lem>
+            		<rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: ausspringen</rdg>
+            	</app>
+            	<app from="#app11203">
+            		<lem>seines Vortheils</lem>
+            		<rdg> <abbr>V</abbr>: sc. seinen
+            			Vorteil</rdg>
+            	</app>
+            	<app from="#app11210">
+            		<lem>mir</lem>
+            		<rdg> <abbr>V</abbr>: sc. von mir</rdg>
+            	</app>
+            	<app from="#app11418">
+            		<lem>verzehret</lem>
+            		<rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: versehret</rdg>
+            	</app>
+            	<app from="#app11620">
+            		<lem><hi rend="antiqua">se habeat</hi></lem>
+            		<rdg wit="#Ha2"><wit wit="#Ha2">Ha2</wit>: <hi rend="antiqua">se habet</hi></rdg>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: <hi rend="antiqua">sese habet</hi></rdg>
+            	</app>
+            	<app from="#app11621">
+            		<lem><hi rend="antiqua">diversae … idem, … eaedem … diversum</hi></lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: <hi rend="antiqua">eaedem … diversum, … diversae … idem</hi></rdg>
+            	</app>
+               <app from="#app11801">
+                  <lem>Versuchtesten</lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>:
+					versuchtesten</rdg>
+               </app>
+            	<app from="#app11802">
+            		<lem>erreichen.</lem>
+            		<rdg wit="#Ha"><wit wit="#Ha">Ha</wit>:
+            			erreichen?</rdg>
+            	</app>
+               <app from="#app11910">
+                  <lem>nur</lem>
+                  <rdg> <abbr>V</abbr>: nun</rdg>
+               </app>
+            	<app from="#app12026">
+            		<lem>
+            			<hi rend="antiqua">BC</hi>
+            		</lem>
+            		<rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">Bc</hi>
+            		</rdg>
+            	</app>
+               <app from="#app12121">
+                  <lem>
+                     <hi rend="antiqua">ille</hi>
+                  </lem>
+                  <rdg wit="#La2"><abbr>V</abbr>(<wit wit="#La2">La2</wit>): <hi rend="antiqua">illa</hi>
+                  </rdg>
+               </app>
+               <app from="#app12131">
+                  <lem>
+                     <hi rend="antiqua">AC</hi>
+                  </lem>
+                  <rdg wit="#La #A">
+					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">AB</hi>
+                  </rdg>
+               </app>
+            	<app from="#app12209">
+            		<lem>
+            			<hi rend="antiqua">Cb</hi>
+            		</lem>
+            		<rdg wit="#Ha"><wit wit="#Ha">Ha</wit>: <hi rend="antiqua">CB</hi>
+            		</rdg>
+            	</app>
+            	<app from="#app12304">
+            		<lem>
+            			<hi rend="antiqua">B duplum</hi>
+            		</lem>
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: <hi rend="antiqua">B sit duplum</hi>
+            		</rdg>
+            	</app>
+               <app from="#app12307">
+                  <lem>
+                     <hi rend="antiqua">C</hi>
+                  </lem>
+                  <rdg wit="#La #A">
+					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">B</hi>
+                  </rdg>
+               </app>
+               <app from="#app12317">
+                  <lem>vor sich</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: für sich</rdg>
+               </app>
+               <app from="#app12319">
+                  <lem>denselben</lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>:
+					demselben</rdg>
+               </app>
+            	<app from="#app12331">
+            		<lem>dennoch</lem>
+            		<rdg wit="#Ha"><wit wit="#Ha">Ha</wit>:
+            			demnach</rdg>
+            	</app>
+              <app from="#app12613">
+                  <lem>§ 113.</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: §. 113a</rdg>
+              	<rdg wit="#SchuRo">
+              		<wit wit="#SchuRo">Schu/Ro</wit>: §. 113. b.</rdg>
+               </app>
+            	<app from="#app13018">
+            		<lem><hi rend="spaced">hatte</hi></lem>
+            		<rdg wit="#Ha">
+            			<wit wit="#Ha">Ha</wit>: <hi rend="spaced">hätte</hi></rdg>
+            	</app>
+               <app from="#app13101">
+                  <lem>Körper an*, der</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: Körper an (Taf. II. Fig. 22.), der</rdg>
+               </app>
+               <app from="#app13114">
+                  <lem>hätte</lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: hätten</rdg>
+               </app>
+               <app from="#app13115">
+                  <lem>
+                     <hi rend="antiqua">LlC</hi>
+                  </lem>
+                  <rdg wit="#Ha #A">
+					mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">L E C</hi>
+                  </rdg>
+               </app>
+               <app from="#app13118">
+                  <lem>
+                     <hi rend="antiqua">LlC</hi>
+                  </lem>
+                  <rdg wit="#Ha #A">
+					mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">L E C</hi>
+                  </rdg>
+               </app>
+            	<app from="#app13132">
+            		<lem><hi rend="antiqua">G gi</hi></lem>
+            		<rdg wit="#Ha">
+            			<wit wit="#Ha">Ha</wit>: <hi rend="antiqua">G gI</hi></rdg>
+            	</app>
+            	<app from="#app13202">
+            		<lem><hi rend="antiqua">Ggi</hi></lem>
+            		<rdg wit="#Ha">
+            			<wit wit="#Ha">Ha</wit>: <hi rend="antiqua">GgI</hi></rdg>
+            	</app>
+            	<app from="#app13203">
+            		<lem><hi rend="antiqua">Eeg</hi></lem>
+            		<rdg wit="#SchuRo">
+            			<wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">EGg</hi></rdg>
+            	</app>
+            	<app from="#app13215">
+            		<lem>dennoch</lem>
+            		<rdg wit="#Ha2">
+            			<wit wit="#Ha2">Ha2</wit>: demnach</rdg>
+            	</app>
+               <app from="#app13224">
+                  <lem>seltsamen und ungereimten</lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: Seltsamem und Ungereimtem</rdg>
+               </app>
+               <app from="#app13237">
+                  <lem>heruntersetzet</lem>
+                  <rdg wit="#Bu #Erh"><wit wit="#Bu">Bu</wit> 
+                  	mit <abbr>V</abbr>(<wit wit="#Erh">Erh</wit>): heruntersetzen</rdg>
+               </app>
+            	<app from="#app13301">
+            		<lem>erkläret</lem>
+            		<rdg wit="#Bu #Erh"><wit wit="#Bu">Bu</wit> mit <abbr>V</abbr>(<wit wit="#Erh">Erh</wit>): erklären</rdg>
+            	</app>
+            	<app from="#app13406">
+            		<lem><hi rend="antiqua">videmus</hi></lem>
+            		<rdg wit="#La">
+            			<wit wit="#La">La</wit>: <hi rend="antiqua">videt</hi></rdg>
+            	</app>
+               <app from="#app13429">
+                  <lem>Federn <hi rend="antiqua">a</hi>, … <hi rend="antiqua">d</hi>
+                  </lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="italic">Verweis</hi> (Fig.
+					23.)</rdg>
+               	<rdg wit="#La">
+               		<wit wit="#La">La</wit>: <hi rend="italic">Verweis</hi> Fig.
+               		<hi rend="antiqua">XXIV.</hi></rdg>
+               </app>
+               <app from="#app13434">
+                  <lem>Federn</lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>:
+						<hi rend="italic">Verweis</hi> (Fig. 24.)</rdg>
+               	<rdg wit="#La">
+               		<wit wit="#La">La</wit>: <hi rend="italic">Verweis</hi> Fig.
+               		<hi rend="antiqua">XXV.</hi></rdg>
+               </app>
+               <app from="#app13504">
+                  <lem>vor sich</lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: für sich</rdg>
+               </app>
+               <app from="#app13609">
+                  <lem>welchen</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>:
+					welcher</rdg>
+               </app>
+               <app from="#app13801">
+                  <lem>habe</lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: haben</rdg>
+               </app>
+            	<app from="#app14109">
+            		<lem>kleinen</lem>
+            		<rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>:
+            			keinen</rdg>
+            	</app>
+               <app from="#app14416">
+                  <lem>ist sie in</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: ist
+					in</rdg>
+               </app>
+            	<app from="#app14519">
+            		<lem>kleiner</lem>
+            		<rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>:
+            			keiner</rdg>
+            	</app>
+            	<app from="#app14522">
+            		<lem>von … etwas</lem>
+            		<rdg wit="#Ha2"><wit wit="#Ha2">Ha2</wit>: von … sich etwas</rdg>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: sich von … etwas</rdg>
+            	</app>
+               <app from="#app14715">
+                  <lem>Zwischenzeit</lem>
+                  <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>:
+					Zwischenheit</rdg>
+               </app>
+               <app from="#app14719">
+                  <lem>Zwischenzeit</lem>
+                  <rdg wit="#Voi #A">mit <wit wit="#Voi">Voi</wit> zu <wit wit="#A">A</wit>:
+					Zwischenheit</rdg>
+               </app>
+               <app from="#app14726">
+                  <lem>welchen</lem>
+                  <rdg wit="#A">zu <wit wit="#A">A</wit>: welcher</rdg>
+               </app>
+            	<app from="#app14804">
+            		<lem>dem Quadrate</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: das Quadrat</rdg>
+            	</app>
+            	<app from="#app15031">
+            		<lem><hi rend="antiqua">dependit</hi></lem>
+            		<rdg wit="#Ha"><wit wit="#Ha">Ha</wit>: <hi rend="antiqua">dependet</hi></rdg>
+            	</app>
+               <app from="#app15210">
+                  <lem>Daniel</lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: Nicolaus</rdg>
+               </app>
+            	<app from="#app15212">
+            		<lem>
+            			<hi rend="antiqua">dv=pdt</hi>
+            		</lem>
+            		<rdg wit="#Ha #A">mit
+            			<wit wit="#Ha">Ha</wit>
+            			zu <wit wit="#A">A</wit>: <hi rend="antiqua">dv-pdt</hi>
+            		</rdg>
+            	</app>
+               <app from="#app15213">
+                  <lem>Geschwindigkeit</lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>:
+					lebendigen Kraft</rdg>
+               </app>
+               <app from="#app15214">
+                  <lem>der</lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: den</rdg>
+               </app>
+            	<app from="#app15229">
+            		<lem>Fehlschluß</lem>
+            		<rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu
+            			<wit wit="#A">A</wit>: Fehlschuß</rdg>
+            	</app>
+               <app from="#app15303">
+                  <lem>
+                     <hi rend="antiqua">dV</hi>
+                  </lem>
+                  <rdg wit="#La #A">mit <abbr>V</abbr>(<wit wit="#La">La</wit>) zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">dv</hi>
+                  </rdg>
+               </app>
+               <app from="#app15304">
+                  <lem>
+                     <hi rend="spaced antiqua">gMudt
+                     </hi>
+                  </lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>:
+						<hi rend="spaced antiqua">gMdt</hi>
+                  </rdg>
+               </app>
+               <app from="#app15435">
+                  <lem>unendlich kleinen</lem>
+                  <rdg><abbr>V</abbr>: sc. Kraft</rdg>
+               </app>
+               <app from="#app15517">
+                  <lem>kleinen</lem>
+                  <rdg wit="#Voi">
+                     <wit wit="#Voi">Voi</wit>:
+					kleinem</rdg>
+               </app>
+               <app from="#app15519">
+                  <lem>seiner</lem>
+                  <rdg wit="#La"><abbr>V</abbr>(<wit wit="#La">La</wit>): ihrer</rdg>
+               </app>
+               <app from="#app15720">
+                  <lem>welche</lem>
+                  <rdg wit="#Web">
+                     <wit wit="#Web">Web</wit>:
+					welchen</rdg>
+               </app>
+               <app from="#app15807">
+                  <lem>Ursache</lem>
+                  <rdg wit="#SchuRo #A">mit <wit wit="#SchuRo">Schu/Ro</wit> zu <wit wit="#A">A</wit>:
+					Ursachen</rdg>
+               </app>
+               <app from="#app15823">
+                  <lem>er</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: sie</rdg>
+               </app>
+               <app from="#app15829">
+                  <lem>seinen</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: ihren</rdg>
+               </app>
+               <app from="#app15830">
+                  <lem>ihm</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: ihr</rdg>
+               </app>
+               <app from="#app15924">
+                  <lem>eine nach der</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: einer nach
+					dem</rdg>
+               </app>
+               <app from="#app16214">
+                  <lem>welche</lem>
+                  <rdg wit="#Bu #A">mit <wit wit="#Bu">Bu</wit> zu <wit wit="#A">A</wit>:
+					welches</rdg>
+               </app>
+            	<app from="#app16501">
+            		<lem>er</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: es</rdg>
+            	</app>
+            	<app from="#app16517">
+            		<lem>dieses sein</lem>
+            		<rdg wit="#Ha"><wit wit="#Ha">Ha</wit>: dieser sein</rdg>
+            	</app>
+            	<app from="#app16518">
+            		<lem>der zwar … denn dieser</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: das zwar … denn dieses</rdg>
+            	</app>
+            	<app from="#app16520">
+            		<lem>seine … seiner</lem>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: ihre … ihrer</rdg>
+            	</app>
+            	<app from="#app16527">
+            		<lem>daraus, weil wie …, daß die</lem>
+            		<rdg wit="#Ti"><wit wit="#Ti">Ti</wit>: daraus, weil wie wir annehmen, das</rdg>
+            		<rdg wit="#Ha1"><wit wit="#Ha1">Ha1</wit>:  daraus, weil, wie wir annehmen, die</rdg>
+            		<rdg wit="#Ha2"><wit wit="#Ha2">Ha2</wit>: daraus, dass, wie wir annehmen, die</rdg>
+            		<rdg wit="#La"><wit wit="#La">La</wit>: daraus, weil, wie wir annehmen, die</rdg>
+            	</app>
+               <app from="#app16533">
+                  <lem>§ 138</lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: §
+					38</rdg>
+               </app>
+            	<app from="#app16705">
+            		<lem>gehet</lem>
+            		<rdg wit="#Ha1"><wit wit="#Ha1">Ha1</wit>: hänget</rdg>
+            	</app>
+               <app from="#app17001">
+                  <lem>§ 143, 144, 145</lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: § 43,
+					44, 45</rdg>
+               </app>
+               <app from="#app17101">
+                  <lem>welcher</lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: welche</rdg>
+               </app>
+              <app from="#app18114">
+                  <lem>muste</lem>
+                  <rdg wit="#A">zu <wit wit="#A">A</wit>:
+					musten</rdg>
+               </app>
+               </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P01En">
+               <head>Sacherläuterungen</head>
+               <note type="editorial" xml:id="en00301">Dem Hochedelgebohrnen …
+						<hi rend="spaced">Kant</hi>] Johann Christoph Bohlius (1703–1785), Professor der Medizin an der Universität
+					Königsberg. Kants Student und früher Biograph Ludwig Ernst Borowski über ihn:
+					„Dem D. Bohlius, der in seiner [Kants, H. P.] Kindheit und Jugend, ihm und seinen Eltern wohl gethan
+					hatte, widmete er die erste seiner Schriften. Das geschah aus reiner
+					Dankbarkeit!“ (<hi rend="smallCaps">Borowski</hi> 1804, 194) Bohlius wurde 1785 Rektor der
+					Universität und starb im gleichen Jahr; Kant übernahm das Amt 1786 (<hi rend="smallCaps">Dietzsch</hi> 2004, 231–233, 303).</note>
+               <note type="editorial" xml:id="en00702">
+                  <hi rend="antiqua">Nihil
+						magis</hi> … <hi rend="antiqua">itur</hi>] Im
+					Original „<foreign xml:lang="la">Nihil ergo
+					magis praestandum est, quam ne pecorum ritu sequamur antecedentium gregem,
+					pergentes non qua eundum est, sed qua itur.</foreign>“ (<hi rend="smallCaps">Seneca</hi>, <hi rend="smallCaps italic">De vita beata</hi>, I, 3)
+					Übersetzung (We): „Auf nichts haben wir mehr zu achten, als daß wir
+					nicht wie das Vieh der Herde der Vorangehenden folgen und entlangtrotten, nicht
+					wo man gehen soll, sondern wo man geht.“</note>
+            	<note type="editorial" xml:id="en00719">Herrn von <hi rend="spaced">Leibnitz, Wolfen, Hermanns, Bernoulli,
+						Bülfingers</hi>] Gemeint sind der Reihe nach: Leibniz (bei
+					Kant auch: von Leibniz, Leibnizen), Gottfried Wilhelm (1646–1716), deutscher
+					Philosoph, Mathematiker und Universalgelehrter; Wolff (bei Kant auch: von Wolff,
+					Wolffen), Christian (1679–1754), deutscher Philosoph; Hermann, Jacob (1678–1733), Schweizer Mathematiker; Bernoulli, Johann I
+					(1667–1748), Schweizer Mathematiker und (trotz Verwendung des Singulars
+					‚Bernoulli‘ bei Kant) auch dessen zweiter Sohn Daniel
+					(1700–1782), Mathematiker und Physiker. (Zur Begründung: Im
+					Einleitungsparagraphen XIII spricht Kant von den ‚zwey Herren Bernoulli‘; siehe <ref type="textRef" target="#tr01207">12<hi rend="sup">7</hi></ref>)
+					Zuletzt: Bilfinger (bei Kant: Bülfinger), Georg Bernhard (1693–1750), deutscher
+					Philosoph, Mathematiker und Theologe. Zu Kants Bezugnahme auf deren
+					Publikationen im Einzelnen siehe die weiteren Sacherläuterungen an Ort und
+					Stelle.</note>
+            	<note type="editorial" xml:id="en00803">Timoleon] Timoleon aus Korinth (ca. 411–337 v. Chr.), griechischer Politiker und Feldherr.</note>
+               <note type="editorial" xml:id="en00832">Parnaß] Gebirge in Zentralgriechenland, nach der griechischen Mythologie dem Lichtgott
+					Apollon geweiht und Wohnsitz der Göttinnen der Künste (Musen).</note>
+               <note type="editorial" xml:id="en01104">Der Leser … Blätter] Siehe hierzu den editorischen Bericht,
+               	<ref type="editorialReport" target="#er559">Teil 1.1.</ref></note>
+            	 <note type="editorial" xml:id="en01409">Quadrat] Nach Leibniz’ Konzept der lebendigen Kraft (<hi rend="italic">vis viva</hi>) ist
+					diese der Quantität der Materie (heute: Masse, <hi rend="italic">m</hi>) und dem
+						<hi rend="italic">Quadrat der Geschwindigkeit</hi> (<hi rend="italic">v</hi>) eines
+               	bewegten Körpers proportional (<hi rend="italic">V ~ m v<hi rend="sup">2</hi>
+                  </hi>). Vgl.
+					hierzu <hi rend="smallCaps">Leibniz</hi> 1686, 162 f.</note>
+               <note type="editorial" xml:id="en01412">todter Druck] Offenbar in Anlehnung an Leibniz, der
+					passive und aktive Kraft unterscheidet. Passive Kraft (<hi rend="italic">vis
+						passiva</hi>) ist widerstehend, aktive Kraft (<hi rend="italic">vis
+						activa</hi>) bewegend und wiederum in lebendige (<hi rend="italic">vis
+						viva</hi>) und tote Kraft (<hi rend="italic">vis mortua</hi>) zu
+					unterscheiden: Erstere bringt wirkliche Bewegung hervor, letztere nur eine
+					Tendenz zur Bewegung: „<foreign xml:lang="la">Hinc <hi rend="italic">Vis</hi> [<hi rend="italic">activa</hi>,
+						H. P.] quoque duplex: alia elementaris,
+					quam &amp; <hi rend="italic">mortuam</hi> appello, quia in ea nondum existit motus,
+					sed tantum solicitatio ad motum, […] alia vero vis ordinaria est, cum motu
+					actuali conjuncta, quam voco <hi rend="italic">vivam</hi>. Et vis mortuae quidem
+					exemplum est ipsa vis centrifuga, itemque vis gravitatis seu centripeta; vis
+					etiam qua Elastrum tensum se restituere incipit.</foreign>“ (<hi rend="smallCaps">Leibniz</hi> 1695, 149)
+					Übersetzung: „Hier ergibt sich also eine neue, zwiefache Unterscheidung der
+					[aktiven, H. P.] Kraft: die eine nämlich
+						– ich bezeichne sie auch als tote Kraft
+						– enthält erst das Element der Kraft,
+					weil in ihr noch nicht die Bewegung selbst, sondern nur der Anreiz zur Bewegung
+					gegeben ist […]. Die andere Kraft hingegen, ich nenne sie auch lebendige Kraft,
+					ist die gewöhnliche, mit der zugleich eine tatsächliche Bewegung gegeben ist.
+					Ein Beispiel für die tote Kraft ist die Zentrifugalkraft, weiterhin die Schwere
+					oder Zentripetalkraft, ferner auch die Kraft, durch die ein gespannter
+					elastischer Körper seinen ursprünglichen Zustand wiederherzustellen sucht.“
+						(<hi rend="smallCaps">Leibniz</hi> 1966 I, 263)
+					Schwere (Gravitation), von Leibniz hier als ein Beispiel für tote Kräfte
+					aufgeführt, kann als Druck wirken (z. B. als Druck eines ruhenden Steines auf seine Unterlage).
+					Ruhe und Bewegung sind aber bei ihm nicht entgegengesetzt: Sein
+					Kontinuitätsprinzip verlangt, den Ruhezustand eines Körpers als einen mit
+					unendlich kleiner Geschwindigkeit aufzufassen; dem korrespondiert die Tendenz
+					bzw. das Streben ruhender Körper zur Bewegung, das er mathematisch als ein aus
+					infinitesimalen Elementen zusammengesetztes, auf eine gleichförmige Bewegung
+					abzielendes Streben konzipiert, bei der sich die Geschwindigkeit
+						(<hi rend="italic">v</hi>) proportional zum Weg (<hi rend="italic">s</hi>) verhält, also
+					konstant ist (vgl. <hi rend="smallCaps">Leibniz</hi> 1695, 147 f.).
+					Das Streben eines Körpers ist zudem proportional zu seiner Masse
+						(<hi rend="italic">m</hi>), sodass Leibniz ein Maß der toten Kraft – ungeachtet des Ruhezustands des fraglichen Körpers
+						– im Produkt beider sieht
+						(<hi rend="italic">T ~ m v</hi>). Seiner metaphysischen Kraftkonzeption zufolge
+					korrespondiert daher der toten Kraft auf mathematischer Ebene die cartesianische
+					Bewegungsgröße <hi rend="italic">m v</hi>,
+					während sich die lebendige Kraft (<hi rend="italic">vis viva</hi>) proportional zum
+               	Quadrat der Geschwindigkeit verhält (<hi rend="italic">V ~ m v<hi rend="sup">2</hi>
+                  </hi>). Zu
+					Leibniz’ Kraftbegriff und dessen diversen Ausdifferenzierungen allgemein vgl.
+						<hi rend="smallCaps">Stammel</hi> 1982, zur Unterscheidung der <hi rend="italic">vis activa</hi> in
+						<hi rend="italic">vis viva</hi> und <hi rend="italic">vis mortua</hi> insbes.
+					251–293.</note>
+            	<note type="editorial" xml:id="en01501">Die zwey Herren <hi rend="spaced">Bernoulli</hi>, Herr von <hi rend="spaced">Leibnitz</hi> und 
+            		<hi rend="spaced">Herrmann</hi>] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en00719">5<hi rend="sup">18–19</hi></ref>.</note>
+            	<note type="editorial" xml:id="en01509">Cartesius] Descartes (bei Kant auch: Cartes, Cartesius), René (1596-1650), französischer Philosoph und Mathematiker.</note>
+            	<note type="editorial" xml:id="en01527">Die Herren … <hi rend="antiqua">Musschenbroeck</hi>] Gemeint sind: Poleni, Giovanni
+					(1683–1761), italienischer Mathematiker, Physiker, Historiker und Ingenieur;
+					s’Gravesande, Willem Jacob (1688–1742), holländischer Physiker, Mathematiker und
+					Philosoph; Musschenbroek, Pieter (Petrus) van (1692–1761), holländischer
+					Physiker und Mediziner. Mit letzterem setzt sich Kant offenbar erst spät (im
+					Jahr 1747) näher auseinander. Siehe dazu Sacherläuterung zu <ref type="editorialNote" target="#en11807">102<hi rend="sup">8-11</hi></ref>
+            		und zu <ref type="editorialNote" target="#en17130">148<hi rend="sup">23</hi></ref> sowie den editorischen
+            		Bericht, <ref type="editorialReport" target="#er559">Teil 1.1.</ref></note>
+               <note type="editorial" xml:id="en01716">Entelechie] Als <foreign xml:lang="gr">ἐντελέχεια</foreign> von Aristoteles (vgl.
+					inbes. <hi rend="smallCaps italic">Metaphysik
+                  </hi> IX, 3, 8) in die Philosophie eingeführter Kunstausdruck,
+					der ein dem Sein innewohnendes Vermögen der Vollendung, insbes. der
+					Verwirklichung seines immanenten <hi rend="italic">Telos</hi> bezeichnet bzw.
+					modaltheoretisch den Übergang einer im Sein angelegten Möglichkeit zur
+					Wirklichkeit. Spezifischer wird ‚Entelechie‘ auch gebraucht zur Bezeichnung des
+					immanenten Potentials bzw. der immanenten Kraft eines Stoffes oder
+					Stoffkomplexes (etwa eines Organismus) zur Realisierung seiner inneren Anlagen.
+					Die Verwendung bei Kant scheint durch Leibniz vermittelt: Neben der
+					o. g. Unterscheidung von Kräften (siehe
+						Sacherläuterung zu <ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) differenziert er aktive und auch passive
+               	Kräfte nochmals danach, ob sie primitiv, d. h. einem einzelnen Körper wesentlich und immanent sind,
+               	oder aber derivativ, d. h. in der
+					Wechselwirkung von Körpern hervortreten und sich mathematisch in den Gesetzen
+					der Kraftübertragung manifestieren. Die primitive Kraft eines Körpers ist nach
+						<hi rend="smallCaps">Leibniz</hi> seine Entelechie (vgl. 1695, 146 f.;
+					vgl. auch 1694, 112). Kants ‚wesentliche Kraft‘ erbt, vermittelt durch Leibniz,
+					die Merkmale <hi rend="italic">Immanenz</hi> und <hi rend="italic">Essentialität</hi> von
+					Aristoteles’ Entelechie. Vgl. hierzu auch <hi rend="smallCaps">Schönfeld</hi> 2000,
+						40 f.</note>
+               <note type="editorial" xml:id="en01722">
+                  <hi rend="antiqua">Est
+						aliquid</hi> … <hi rend="antiqua">prius</hi>] Ausführlich im Original: „<foreign xml:lang="la">In rebus corporeis esse aliquid praeter extensionem,
+					imo extensione prius, alibi admonuimus, nempe ipsam vim naturae ubique ab Autore
+					inditam, quae non in simplici facultate consistit, qua scholae contentae fuisse
+					videntur, sed praeterea conatu sive nisu instruitur, effectum plenum habituro,
+					nisi contrario conatu impediatur.</foreign>“ (<hi rend="smallCaps">Leibniz</hi> 1695, 145) Übersetzung:
+					„Wir haben an einem anderen Orte ausgeführt, daß in den materiellen Dingen etwas
+					enthalten ist, was zu der bloßen Ausdehnung hinzukommt, ja ihr vorangeht:
+					nämlich eine natürliche <hi rend="italic">Kraft</hi>, die vom Schöpfer den Dingen
+					eingepflanzt worden ist. Sie besteht nicht in jener einfachen ‚Fähigkeit‘, mit
+					der die Schulphilosophie sich begnügte, sondern wird außerdem durch ein Streben
+					oder eine Tendenz bezeichnet, die, wenn sie nicht durch ein gegensätzliches
+					Streben gehemmt wird, auch zur vollen Wirksamkeit gelangt.“ (<hi rend="smallCaps">Leibniz</hi>
+						1966 I, 256)</note>
+               <note type="editorial" xml:id="en01803">würkenden Kraft] ‚Vis activa‘ bei <hi rend="smallCaps">Leibniz</hi>,
+					ausgestattet mit Wirksamkeit (<hi rend="italic">virtus</hi>); vgl. 1695, 146; bereits
+					1694 auch in <hi rend="italic">De primae philosophiae</hi>, 111 f.
+               	Siehe Sacherläuterung zu <ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>.</note>
+               <note type="editorial" xml:id="en01811">bewegende Kraft … <hi rend="antiqua">motricem</hi>] Als Bezeichnung eines inhärenten Vermögens, Bewegung hervorzurufen, bereits in
+					der frühneuzeitlichen Naturphilosophie geläufig (vgl. <hi rend="smallCaps">Jammer</hi> 1957;
+						<hi rend="smallCaps">Westfall</hi> 1971). <hi rend="smallCaps">Leibniz</hi> verwendet sie in kritischer
+					Absetzung von Descartes (vgl. 1686, 161) für sein Kraftmaß,
+						<hi rend="italic">bevor</hi> er die Unterscheidung von lebendiger und toter Kraft
+               	einführte (siehe Sacherläuterung zu <ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) und dann <hi rend="italic">vis
+               		viva</hi> gebraucht. Spätere Verwendung u. a. bei Christian <hi rend="smallCaps">Wolff</hi>, der <hi rend="italic">vis
+						motrix</hi> synonym zu <hi rend="italic">vis activa</hi> gebraucht (vgl. 1737,
+						119 f., § 138). Kant
+						kritisiert das Konzept als zirkulär; siehe die 
+               	<ref type="editorialNote" target="#en01815">folgende Sacherläuterung</ref>.</note>
+               <note type="editorial" xml:id="en01815">
+                  <hi rend="antiqua">vi
+						calorifica</hi> … <hi rend="antiqua">frigifaciente</hi>] Erwärmende bzw. abkühlende Kraft; hier als
+					Beispiel für die Einführung von Scheinerklärungen. Spezifische verborgene Kräfte
+					als Ursachen für spezifische Phänomenklassen einzuführen heißt, nichts zu
+					erklären. Vermutlich Anspielung auf die in den Kontroversen des 18. Jahrhunderts
+					zum Status von Kräften verschiedentlich, u. a. von George Berkeley, vertretene Auffassung, eine
+						<hi rend="italic">solche</hi> Einführung von Kräften käme einer Art
+					Wiedereinführung okkulter Qualitäten der Scholastik gleich (vgl. <hi rend="smallCaps">Koyré</hi>
+					1968, <hi rend="smallCaps">Pulte</hi> 1989).</note>
+               <note type="editorial" xml:id="en01925">Die Substanz … würket] Kants erstes Argument gegen die
+					Gleichsetzung (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01811">14<hi rend="sup">33-34</hi></ref>) von wirkender Kraft
+						(<hi rend="italic">vis activa</hi>) und bewegender Kraft (<hi rend="italic">vis
+						motrix</hi>): Wirkung beinhaltet für ihn ein <hi rend="italic">bestimmtes</hi>
+					Potential, das sukzessive in der Zeit ausgeübt werden kann; die Bezeichnung
+						<hi rend="italic">vis motrix</hi> bringt diese Möglichkeit nicht zum Ausdruck.</note>
+               <note type="editorial" xml:id="en02015">Was thut … könne] Kants zweites Argument gegen die
+					Gleichsetzung von wirkender und bewegender Kraft: Wäre beobachtbare Bewegung die
+					einzige Wirkung von Kraft, könnte nicht erklärt werden, wie die Materie auf den
+					Geist einwirkt und dort Vorstellungen hervorbringt. Zu Kants frühestem Versuch,
+					ausgehend von diesem Argument im Weiteren das Körper-Geist-Problem zu lösen,
+					vgl. <hi rend="smallCaps">Polonoff</hi> 1973, <hi rend="smallCaps">Shell</hi> 1996.</note>
+               <note type="editorial" xml:id="en02104">scharfsinnigen Schriftsteller] Gemeint ist wahrscheinlich Martin Knutzen
+					(1713–1751), Philosoph und Lehrer Kants in Königsberg (vgl. <hi rend="smallCaps">Erdmann</hi>
+						1876, 143; <hi rend="smallCaps">Adickes</hi> 1924, 84, Anm. 1; <hi rend="smallCaps">Watkins</hi> 1995a, 289, Anm. 16; kritisch zu dieser Zuordnung aber <hi rend="smallCaps">Kühn</hi> 2004,
+					110–117). Knutzen vertritt gegen Leibniz’ prästabilierte Harmonie (siehe dazu
+					auch Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en17115">148<hi rend="sup">9–22</hi></ref>) eine Theorie des physikalischen
+					Einflusses der Körper aufeinander und – zur Lösung des Körper-Geist-Problems – auch des Körpers auf die Seele, worauf Kant sich implizit
+					bezieht (vgl. <hi rend="smallCaps">Knutzen</hi> 1745, Sectio I); zur Bedeutung Knutzens für Kant vgl. <hi rend="smallCaps">Erdmann</hi>
+					1876 und <hi rend="smallCaps">Waschkies</hi> 1987.</note>
+               <note type="editorial" xml:id="en02135">Entweder ist … verhanden sey] ‚Selbständige Wesen‘ tragen ihre
+					Bestimmungen in sich allein und existieren ohne Relationen zu anderen Wesen.
+					‚Welt‘ hingegen ist für Kant ein relationaler Begriff (siehe Sacherläuterung zu
+               	<ref type="editorialNote" target="#en02334">19<hi rend="sup">37–38</hi></ref>). Aus beiden Definitionen leitet er die Möglichkeit der
+					Existenz selbstständiger Wesen außerhalb der realen Welt ab.</note>
+               <note type="editorial" xml:id="en02229">Es ist … habe] Überlegung Kants, dass es unendlich viele
+					Klassen von Substanzen geben könnte, die keine Relationen zu Substanzen in der
+					realen Welt aufweisen, wohl aber (jeweils) untereinander. Sie würden, nach
+					seinem Weltbegriff (siehe Sacherläuterung zu <ref type="editorialNote" target="#en02334">19<hi rend="sup">37–38</hi></ref>), unendlich
+					viele Welten konstituieren.</note>
+               <note type="editorial" xml:id="en02313">Weil ich … wahrnehme] Anspielung auf 
+               	Leibniz' <hi rend="italic">Théodicee</hi>, Abh. II, § 351 (<hi rend="smallCaps">Leibniz</hi> 
+               	1710, 374 f.; <hi rend="smallCaps">Leibniz</hi> 1879, 543 f.). Die Stelle enthält keinen
+					entsprechenden Beweisversuch, sondern lediglich einen allgemeinen Verweis auf
+					einen Beweis ‚der Geometer‘, der die von Leibniz behauptete <hi rend="italic">geometrische
+						Notwendigkeit</hi> der Dreidimensionalität des Raumes unterstreichen
+					soll.</note>
+            	<note type="editorial" xml:id="en02334">
+            		<hi rend="antiqua">Mundus
+            			est</hi> … <hi rend="antiqua">series</hi>] Übersetzung (We): „Die Welt ist die Reihe aller gleichzeitigen und
+            		aufeinander folgenden unter sich verknüpften zufälligen Dinge.“ Kants Bestimmung
+            		von Welt (<hi rend="italic">mundus</hi>) steht in der leibniz-wolffschen Tradition; konkret
+            		paraphrasiert er hier wohl Wolff: „<foreign xml:lang="la">Series entium finitorum tam simultaneorum,
+            		quam successivorum inter se connexorum dicitur <hi rend="italic">Mundus</hi>, sive
+            		etiam <hi rend="italic">Universum</hi>.</foreign>“ (<hi rend="smallCaps">Wolff</hi> 1737, 44, § 48) <hi rend="smallCaps">Waschkies</hi> (1987, 62, Anm. 1) weist auf deutliche Parallelen zur Verwendung von
+            		<hi rend="italic">mundus</hi> in Kants späterer Dissertation hin; vgl.
+            		<hi rend="italic">De forma</hi>, Sectio I, §§ 1–2.</note>
+               <note type="editorial" xml:id="en02419">Diesem zu … würken] Kants eigener Erklärungsversuch der
+					Dreidimensionalität des Raumes durch das newtonsche Gravitationsgesetz: Bei
+					einer punktförmig gedachten, anziehenden Masse ist das 
+					⅟<hi rend="sub">r²</hi>-Gesetz
+					anschaulich so zu verstehen, dass die Anziehungskraft umgekehrt proportional zur
+					Größe der Oberfläche einer dreidimensionalen, den Massenpunkt konzentrisch
+					umgebenden Kugel ist. Die vorgestellte Gesamtheit der ‚Würkungen‘ der Kraft
+					bleibt daher, bei sukzessiver Vergrößerung des Radius der dreidimensionalen
+					Kugel, konstant. Ein Anziehungsgesetz höherer Potenz (etwa gemäß 
+					⅟<hi rend="sub">r³</hi>) würde eine höherdimensionale Anordnung von Substanzen,
+               	d. h. einen höherdimensionalen Raum
+					konstituieren. Während nach Kant eine ‚höchste Geometrie‘ aller möglichen
+					Raumtypen dem Verstand möglich wäre, entziehen sich höherdimensionale Räume der
+					Vorstellung. Eine Begründung sieht Kant offenbar darin, dass das 
+					⅟<hi rend="sub">r²</hi>-Gesetz der
+					Anziehung eine Analogie in der Gesetzmäßigkeit der Lichtausbreitung hat, die er
+					andeutungsweise mit der visuellen Wahrnehmung in Verbindung bringt (‚nach dem
+					Gesetze der umgekehrten doppelten Verhältniß der Weiten die Eindrücke von
+					draussen empfängt‘). Der dreidimensionale euklidische Raum wird durch das (von
+					Gott gewählte) newtonsche Gravitationsgesetz konstituiert. Zur gesamten
+					Argumentation vgl. auch <hi rend="smallCaps">Polonoff</hi> 1973, 47 f.,
+					und <hi rend="smallCaps">Friedman</hi> 1992, 25 f.</note>
+               <note type="editorial" xml:id="en02525">Es ist … sind] Schlussfolgerung, wonach eine Vielzahl von
+					Welten nur dann prinzipiell möglich (aber nicht wahrscheinlich) ist, wenn
+					ontologisch verschiedene Räume möglich sind. Bezieht sich offenbar implizit und
+					affirmativ auf Leibniz’ Lehre von der besten aller möglichen Welten: Ihr zufolge
+					hat Gott, unter allen möglichen Welten, ‚nur‘ die eine, beste, realisieren
+					wollen. Mehrere Welten würden nach Kant die Schaffung wesentlich verschiedener
+					Raumarten erfordern, also einer harmonischen göttlichen Ordnung widersprechen.
+					Insofern unterstützt Kants Schlussfolgerung Leibniz’ Lehre; vgl.
+						<hi rend="smallCaps">Schönfeld</hi> 2000, 41 f.</note>
+               <note type="editorial" xml:id="en02535">Die neueste … Bewegung] Kritische Bezugnahme auf Christian
+						<hi rend="smallCaps">Wolff</hi> 1737 (128, § 149):
+						„<foreign xml:lang="la"><hi rend="italic">Vis motrix consistit in continuo conatu mutandi locum.</hi></foreign>“
+               	Siehe hierzu Sacherläuterung zu <ref type="editorialNote" target="#en01811">14<hi rend="sup">33–34</hi></ref>.</note>
+               <note type="editorial" xml:id="en02614">Der berühmte … Hamberger] Georg Erhard <hi rend="smallCaps">Hamberger</hi>
+					(1697–1755), deutscher Mediziner und Physiker, in seinen <hi rend="italic">Elementa
+						physices</hi> führt er die Undurchdringlichkeit der Körper auf eine „<foreign xml:lang="la">vis
+					insita</foreign>“ zurück (1727, 7, § 36), die nach
+               	allen Richtungen wirkt (a. a. O.,
+						7 f., §§ 38–40).</note>
+               <note type="editorial" xml:id="en02805">Die Begriffe … desselben] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>.</note>
+               <note type="editorial" xml:id="en02812">Daher theile … werden] Die Unterscheidung der beiden
+					Bewegungsarten knüpft an Leibniz’ Unterscheidung von <foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign>
+               	(Maß: <hi rend="italic">V ~ m v<hi rend="sup">2</hi>
+               	</hi>) und <foreign xml:lang="la"><hi rend="italic">vis
+                  	mortua</hi></foreign> (Maß: <hi rend="italic">T ~ m v</hi>)
+					an (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) und ist bei Kant nicht zu
+					verstehen ohne die erst später erläuterte Wirkung der Körper im ‚subtilen Raume‘
+						(§ 17), weil die Größen der Kräfte nur
+					anhand ihrer Wirkungen bestimmbar sind (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02907">24<hi rend="sup">27</hi>-25<hi rend="sup">11</hi></ref>). Die Unterscheidung wurde zu Recht als Rückfall in eine
+					vor-newtonsche Mechanik kritisiert (etwa: <hi rend="smallCaps">Adickes</hi> 1924, 80–82), beruht
+					aber eben auch nicht auf Newtons Annahme der Existenz eines
+						<hi rend="italic">leeren</hi> Raumes.</note>
+               <note type="editorial" xml:id="en02824">Man begreift … hat] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>: Kant rekonstruiert die Bewegung erster Art als verursacht
+					durch eine äußere Kraft, die dem Körper eine große Geschwindigkeit
+						<hi rend="italic">v</hi> mit entsprechender innerer <hi rend="italic">vis viva</hi>
+               	(<hi rend="italic">V ~ m v<hi rend="sup">2</hi>
+                  </hi>) erteilt; die Geschwindigkeit
+					wird hier durch den widerstehenden Raum nicht verringert und ist frei (zur
+					Begründung siehe § 17). Die
+					Bewegung zweiter Art rekonstruiert er als durch einen andauernden äußeren Druck
+					bzw. eine <hi rend="italic">vis mortua</hi> (<hi rend="italic">T ~ m v</hi>) verursacht, wodurch dem
+					Körper eine kleine Geschwindigkeit <hi rend="italic">v</hi> erteilt wird, die durch
+					den widerstehenden Raum (siehe § 17) zum
+					Verschwinden gebracht wird. Im ersten Fall setzt er als Maß einer inneren Kraft
+						<hi rend="italic">V</hi>, im zweiten Fall als Maß einer äußeren Kraft
+						<hi rend="italic">T</hi> an. <hi rend="italic">V</hi> hat für Kant gegenüber
+						<hi rend="italic">T</hi> ‚etwas unendliches‘, weil in diesem zweiten (anders als
+					im ersten) Fall die Geschwindigkeit <hi rend="italic">v</hi> unmittelbar nach Ende der
+					Krafteinwirkung verschwindet, aber grundsätzlich <hi rend="italic">auch</hi> aufgrund
+					der Dimensionsverschiedenheit von <hi rend="italic">V</hi> und <hi rend="italic">T</hi>
+					bezüglich der Geschwindigkeit <hi rend="italic">v</hi>; zu letzterem Argument siehe
+					den folgenden § 17 und die
+					Sacherläuterung zu <ref type="editorialNote" target="#en11506">99<hi rend="sup">22-37</hi></ref>.</note>
+               <note type="editorial" xml:id="en02901">wie Herr … hat] Wolff nimmt, entgegen Kants Zuschreibung,
+					keine Identifikation von Bewegung und totem Druck bzw. <hi rend="italic">vis
+						mortua</hi> vor, sondern folgt Leibniz (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) darin, dass die <hi rend="italic">vis mortua</hi> nur eine
+					Tendenz (<hi rend="italic">conatus</hi>) zur Bewegung beinhaltet:
+						„<foreign xml:lang="la"><hi rend="italic">Vis</hi> dicitur <hi rend="italic">mortua</hi>, quae in solo conatu
+					ad motum subsistit.</foreign>“ (<hi rend="smallCaps">Wolff</hi> 1737,  259, § 356).</note>
+               <note type="editorial" xml:id="en02907">Wenn ein … Verhältniß] Kants metaphysische Begründung für das in
+						§ 16 behauptete Kraftmaß
+               	<hi rend="italic">V ~ m v<hi rend="sup">2</hi>
+                  </hi> der selbst erhaltenden Bewegung
+               	erster Art (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02824">24<hi rend="sup">8-11</hi></ref>): Gegen Newton, aber mit
+					Descartes und Leibniz geht Kant davon aus, dass der Raum nicht leer, sondern ein
+					(von einem subtilen Äther erfülltes) Plenum ist (siehe auch §§ 104, 133, 146). Die Kraft eines andauernd bewegten Körpers
+					wird nach Kant über die Summe seiner Wirkungen im Raum gemessen. Die Wirkung
+					setzt sich zusammen aus den Einzelwirkungen auf die im Raum befindlichen feinen
+					Teilchen. Die Einzelwirkungen sind proportional zur cartesianischen
+					Bewegungsgröße <hi rend="italic">m v</hi>
+					des Körpers. Die Gesamtzahl der Teilchen, auf die der Körper einwirkt, setzt
+					Kant zudem ebenfalls proportional zur Geschwindigkeit. Hieraus resultiert,
+					aufsummiert, das Gesamtmaß der Kraft <hi rend="italic">V ~ m v<hi rend="sup">2</hi>
+                  </hi>. Kant gibt
+               	hier einen Begründungsvorschlag für das Maß <hi rend="italic">m v<hi rend="sup">2</hi>
+                  </hi> der
+						<hi rend="italic">vis viva</hi>, der von Leibniz’ ‚mathematischer‘ Begründung
+					ausdrücklich als ein metaphysischer abgesetzt wird. Er steht in klarem
+					Widerspruch zu Newtons Begründung der Mechanik, insbes. zu dessen
+					Trägheitsprinzip. Die scharfe Kritik von <hi rend="smallCaps">Adickes</hi> (1924,
+						91 f.) an Kants Vorschlag ist maßgeblich vor diesem
+					Hintergrund zu sehen.</note>
+               <note type="editorial" xml:id="en02935">dem letzten Capitel] Gemeint ist das ganze <hi rend="italic">Dritte Hauptstück</hi>
+						(§§ 114–163).</note>
+               <note type="editorial" xml:id="en03028">Ich darf … können] Hinweis darauf, dass die (bisherige)
+					metaphysische Erörterung zur Problemlösung nicht hinreicht und (im <hi rend="italic">Zweyten
+					Hauptstück</hi>) durch eine mathematische Untersuchung zu ergänzen ist. Letztere
+					wiederum ist, für sich genommen, ebenfalls nicht hinreichend. Vielmehr bedarf es
+					der (im <hi rend="italic">Dritten Hauptstück</hi> versuchten) Integration beider Ansätze (siehe
+						§§ 114–115). <hi rend="smallCaps">Petrocchi</hi> (2004,
+					177–182) weist darauf hin, dass die anschließende Metaphysikkritik Kants einen
+					Einfluss von John Lockes Nachlassschrift <hi rend="italic">On the Conduct of the
+						Understanding</hi> zu erkennen gibt.</note>
+               <note type="editorial" xml:id="en03205">Abhandlung die … hat] Zu Bilfinger siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18–19</hi></ref>; Kant bezieht sich auf dessen 1728 erschienenen Aufsatz
+						<hi rend="italic">De Viribus</hi> (<hi rend="smallCaps">Bilfinger</hi> 1728, insbes. 87,
+						§ XVI). Zu Kants ‚irenischer‘ Bezugnahme
+					auf Bilfingers vermittelnde Haltung vgl. <hi rend="smallCaps">Hinske</hi> 1970, 123–127; siehe
+               	auch Sacherläuterung zu <ref type="editorialNote" target="#en09313">80<hi rend="sup">20–26</hi></ref>.</note>
+               <note type="editorial" xml:id="en03307">allein Leibnitz … Gesetzes] Bezug auf <hi rend="smallCaps">Leibniz’</hi> <hi rend="italic">Brevis
+						demonstratio</hi> von 1686; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01409">11<hi rend="sup">19</hi></ref>.</note>
+               <note type="editorial" xml:id="en03311">Cartes hatte … geschätzet] Gemeint ist René Descartes (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01508">12<hi rend="sup">14</hi></ref>); Kant nimmt Bezug auf dessen <hi rend="italic">Principia
+						Philosophiae</hi> (1644, insbes. pars sec., 61–63, §§ XXXVI–XXXVII).</note>
+               <note type="editorial" xml:id="en03410">
+                  <hi rend="spaced">todten Druck</hi> …
+						schlechthin] Zum ‚todten
+					Druck‘ siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>, zur Geschwindigkeit
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02824">24<hi rend="sup">10-13</hi></ref>.</note>
+               <note type="editorial" xml:id="en03501">Man nennet … ist] ‚Würklich‘ ist demnach eine Bewegung, wenn
+					sie frei bzw. eine Bewegung erster Art im Sinne von § 15 ist; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02824">24<hi rend="sup">10-13</hi></ref>.</note>
+               <note type="editorial" xml:id="en03514">§ 25] Zu
+						§ 25 gibt Kant eine längere Erläuterung
+					zu Beginn des § 113, der in der
+					Durchnummerierung des Originals versehentlich zweimal auftritt. Hier gemeint ist
+					der Beginn des ‚zweiten‘ § 113 mit der
+					Überschrift ‚Zusätze und Erläuterungen, die einige Stücke dieses Capitels
+					betreffen‘. Kant bezeichnet dort das ‚Theorem‘
+					des § 25 als ‚die vornehmste Grundveste
+					unserer gegenwärtigen Betrachtungen‘ (<ref type="editorialNote" target="#en12618">109<hi rend="sup">22-23</hi></ref>). Gemeint sein dürfte die im Folgenden
+					entwickelte (und in § 113 wieder
+					aufgegriffene) Idee, dass aus der Kontinuität der Zeit auch eine Kontinuität des
+					Übergangs vom Zustand der Ruhe zum Zustand der Bewegung folgt  und daher die – in der leibnizschen Dynamik anzutreffende – qualitative Unterscheidung von <hi rend="italic">vis
+						mortua</hi> und <hi rend="italic">vis viva</hi> (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref> und zu 
+               	<ref type="editorialNote" target="#en02812">23<hi rend="sup">29</hi>-24<hi rend="sup">8</hi></ref>) philosophisch problematisch
+					ist. Zum Kontinuitätsprinzip bei Kant siehe auch Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en10502">91<hi rend="sup">6-9</hi></ref>.</note>
+               <note type="editorial" xml:id="en03630">Nach der … <hi rend="antiqua">posita
+						ratione ponitur rationatum</hi>] Sinngemäß: „Mit dem Grund ist die Folge
+					gesetzt.“ Vgl. hierzu ähnlich Alexander Gottlieb Baumgarten (1714–1762) in
+					seiner <hi rend="italic">Metaphysik</hi>: „<foreign xml:lang="la">§. XXX. Posita ratione, hinc et sufficiente
+						§. 21. ponitur rationatum</foreign>“ (<hi rend="smallCaps">Baumgarten</hi> 1739, 6). In § 21 (a. a. O.,
+					5) definiert Baumgarten den zureichenden Grund für etwas Einzelnes. Gemeint ist
+					also, dass dann, wenn ein zureichender Grund für etwas Einzelnes gesetzt ist,
+					auch eine Folge gesetzt wird, d. h. es gilt
+					dann der Schluss vom Grund auf die Folge.</note>
+               <note type="editorial" xml:id="en03703">Gesetze der
+						<hi rend="spaced">Continuität</hi>] Nach Veröffentlichung von <hi rend="italic">Brevis
+						demonstratio</hi> (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01409">11<hi rend="sup">19</hi></ref>) im Jahre
+					1686 wurde es von Leibniz in der Auseinandersetzung um die wahren Gesetze der
+					Bewegung erstmals gegen Descartes wie auch gegen Malebranche vorgebracht im
+						<hi rend="italic">Extrait d’une Lettre de M. L. sur un Principe Général</hi> […],
+					publiziert im Juli 1687: „<foreign xml:lang="fr"><hi rend="italic">datis ordinatis, etiam quaesita sunt
+						ordinata.</hi></foreign>“ (<hi rend="smallCaps">Leibniz</hi> 1687b, 746) Frei übersetzt nach
+					Buchenau: „<hi rend="italic">Einer geregelten Ordnung im Gegebenen entspricht eine
+						geregelte Ordnung im Gesuchten.</hi>“ (<hi rend="smallCaps">Leibniz</hi>
+						1966 I, 84) Für Kant wesentlich ist
+						Leibniz’ Anwendung des Prinzips auf die Bewegungslehre (a. a. O., 747). Übersetzung: „Übertragen
+						wir jetzt dasselbe Prinzip auf die Physik, so kann man z. B. die Ruhe als eine unendlich kleine Geschwindigkeit oder
+					als eine unendlich große Langsamkeit ansehen. […] Durch Vernachlässigung dieses
+					Umstandes ist selbst Descartes bei all seinem Genie in der Feststellung der
+					Naturgesetze zu Irrtümern verleitet worden.“ (<hi rend="smallCaps">Leibniz</hi>
+						1966 I, 86)</note>
+               <note type="editorial" xml:id="en03803">Es ist … hat] Kant greift dieses Problem in
+						§ 117 wieder auf, wenn er die Intension
+						als Grundlage der Aktivität eines Körpers, d. h. als sein Bestreben zur Erhaltung der Bewegung, einführt
+					und die Kraft als ‚Product aus der Geschwindigkeit in die Intension‘ (siehe Sacherläuterung zu
+               	<ref type="editorialNote" target="#en14124">122<hi rend="sup">5</hi></ref>) bestimmt. Näher hierzu <hi rend="smallCaps">Polonoff</hi> 1973,
+					54–56.</note>
+               <note type="editorial" xml:id="en03912">nach der … <hi rend="antiqua">suarum</hi>] Übersetzung (We): „Folgen stehen im Verhältnis zu ihren
+					Gründen.“</note>
+               <note type="editorial" xml:id="en03928">
+                  <hi rend="spaced">schlechten
+						Geschwindigkeit</hi>] Hier erstmals und im Folgenden wiederholt gebraucht für die einfach genommene
+					Geschwindigkeit <hi rend="italic">v</hi> eines Körpers als Maß für den ‚toten Druck‘
+					bzw. die ‚tote Kraft‘ (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) im
+					Unterschied zur ‚guten‘ lebendigen Kraft (<hi rend="italic">vis viva</hi>), die mit
+               	dem Quadrat der Geschwindigkeit (<hi rend="italic">~ v<hi rend="sup">2</hi>
+                  </hi>) gemessen
+					wird. Die Bezeichnung ‚schlecht‘ soll offenbar anzeigen, dass er zwar die
+					Begründung der Leibnizianer für die Erhaltung der lebendigen Kraft als verfehlt
+					ansieht, letztlich (im <hi rend="italic">Dritten Hauptstück</hi>) aber doch für sie Partei ergreift.
+					Kants erste These besagt, dass das Prinzip der Kontinuität (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03703">31<hi rend="sup">3</hi></ref>) nicht dazu nötigt, Descartes’ ‚tote
+					Kraft‘ an die Bedingung der Abwesenheit von Bewegung (Ruhe) zu binden.</note>
+               <note type="editorial" xml:id="en03932">
+                  <hi rend="spaced">Betrachtung der</hi> …
+						<hi rend="spaced">Zeit</hi>] Für die lebendige Kraft ist diese Betrachtung sekundär, da ihr Maß von der
+					Zeit nicht abhängt. Kants zweite These, wonach im Lichte des
+					Kontinuitätsprinzips neben der Zeit der Bewegung auch ‚die Würklichkeit der
+					Bewegung überhaupt‘ kein zureichender Grund für die lebendige Kraft und ihr Maß
+					sei, soll offenbar besagen, dass Bewegung ‚nur‘ eine notwendige Bedingung für
+					das Auftreten lebendiger Kraft darstellt. Demnach könnte es Bewegung (mit einer
+					Geschwindigkeit <hi rend="italic">v</hi>) geben, die nicht von einer lebendigen Kraft
+               	(<hi rend="italic">~ v<hi rend="sup">2</hi>
+                  </hi>) begleitet wird. Die zweite
+					These wäre schlüssig nur bei Annahme einer Bewegung ohne ponderable Masse (etwa
+					eines masselosen Ätherteilchens, siehe die Andeutungen Kants in § 17), während hier stets von der Bewegung von
+						<hi rend="italic">Körpern</hi> die Rede ist. Zu Geschwindigkeit und Masse als
+					mangelnden Gründen der lebendigen Kraft siehe auch den folgenden § 28 
+					(<ref type="editorialNote" target="#en04026">34<hi rend="sup">3-4</hi></ref> 
+               	bzw. <ref type="editorialNote" target="#en04032">34<hi rend="sup">9</hi></ref>).</note>
+            	<note type="editorial" xml:id="en04106">es würde … <hi rend="antiqua">ratio</hi>] D. h. die Folge würde größer sein als der
+					Grund; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03912">32<hi rend="sup">38-39</hi></ref>.</note>
+               <note type="editorial" xml:id="en04109">Nach so … wenden] Diesbezüglich konträr zu Kant (und ohne
+					dessen Kenntnis) positioniert sich bereits 1743 der französische Mathematiker und Philosoph
+					Jean le Rond <hi rend="smallCaps">d’Alembert</hi> (1717–1783), der die Kontroverse als bloßen
+					Wortstreit versteht, der der philosophischen Beschäftigung unwürdig sei („[…]
+					une dispute de mots plus indigne encore d’occuper des Philosophes“; 1743, xxi)
+					und allein durch die Mathematik entschieden werden könne.</note>
+               <note type="editorial" xml:id="en04125">Die zweyte …
+						<hi rend="spaced">werden</hi>] Kants ‚zweyte Folge‘ zugunsten des
+					cartesianischen Kraftmaßes schließt die Argumentation gegen eine mathematische
+					Begründbarkeit der Erhaltung der lebendigen Kraft ab – vom Standpunkt der Mechanik der Zeit (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04117">34<hi rend="sup">22-37</hi></ref>) eine unzulässige
+					Schlussfolgerung.</note>
+               <note type="editorial" xml:id="en04226">Es ist … Schuhe] Vgl. <hi rend="smallCaps">Leibniz</hi> 1686, insbes. 162.</note>
+               <note type="editorial" xml:id="en04232">Regel des … erklären] Fehlrekonstruktion der leibnizschen
+					Begründung, die nicht an Descartes’ Behandlung des Hebels, sondern an Huygens
+					und Galilei anschließt. Descartes selber lehnte das Prinzip der virtuellen
+					Geschwindigkeiten, das mit dem Hebel ins Spiel kommt, ab. Vgl. hierzu näher
+						<hi rend="smallCaps">Stammel</hi> 1982, 99–123. <hi rend="smallCaps">Leibniz</hi> wiederum geht fehl, wenn er
+					(in <hi rend="italic">Brevis demonstratio</hi>, 1686, 162) Descartes dafür kritisiert,
+					dass er die Kraft eines bewegten Körpers mit dem virtuellen Moment
+					(<hi rend="italic">m dv</hi>) gleichsetzt, das bei der Behandlung einfacher
+					Maschinen (u. a. dem Hebel)
+					in der Statik verwendet wird. Vgl. hierzu <hi rend="smallCaps">Iltis</hi> 1971, 25 f.</note>
+               <note type="editorial" xml:id="en04308">Schnellwaage] Fungiert hier als Beispiel bzw. praktische
+					Anwendung des Hebels; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en10131">87<hi rend="sup">31-32</hi></ref>.</note>
+               <note type="editorial" xml:id="en04313">§ 31] Kant
+					fügt den §§ 31–36 in Teil II vom ‚zweiten‘
+						§ 113 (zur Nummerierung siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03514">29<hi rend="sup">20</hi></ref>) einige ‚Zusätze‘ an, die die
+					nachfolgenden Argumentationen untermauern sollen.</note>
+               <note type="editorial" xml:id="en04322">Herr <hi rend="spaced">Herrmann</hi>] Zu <hi rend="smallCaps">Hermann</hi> siehe Sacherläuterung
+					zu 
+               	<ref type="editorialNote" target="#en01501">5<hi rend="sup">18-19</hi></ref>. Kant bezieht sich auf dessen Abhandlung <hi rend="italic">De
+						mensura</hi> (1728), insbes. 20–23 (§ 14).</note>
+               <note type="editorial" xml:id="en04403">der Cartesianer] In einer ersten Entgegnung auf Leibniz’
+						<hi rend="italic">Brevis demonstratio</hi> übt noch im Jahr 1686 der Abbé François
+					de Catelan (auch: Catalan, Sekretär von Nicolas Malebranche, Lebensdaten
+					unbekannt, gest. nach 1719) Kritik an Leibniz’ Ansatz und weist darauf hin, dass
+					das Maß der bewegenden Kraft von der <hi rend="italic">Zeit</hi> abhänge, in der eine
+               	Kraft auf einen Körper einwirke (<hi rend="smallCaps">Catelan</hi> 1686). Ebenfalls vom cartesianischen Standpunkt übt
+					dann 1689 Denis <hi rend="smallCaps">Papin</hi> (1642–1712) Kritik an Leibniz’ Kraftmaß; zu den Beiträgen
+					beider siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en10110">87<hi rend="sup">12-13</hi></ref>. Gemeint sein dürfte
+					hier aber eher noch Jean de <hi rend="smallCaps">Mairan</hi> (1678–1771), der 1741 in seiner
+						<hi rend="italic">Dissertation</hi>, insbes. 24–64 (1741, Ch. III–VII), Leibniz’ Kraftmaß kritisiert und – ähnlich wie Catelan – geltend macht, dass die Wirkung einer äußeren Kraft auf
+					einen Körper der <hi rend="italic">Zeit proportional</hi> sei. Mit seiner Position
+					wurde Kant wahrscheinlich durch Du Châtelet bekannt; siehe dazu Sacherläuterung
+					zu 
+               	<ref type="editorialNote" target="#en04514">47<hi rend="sup">8-20</hi></ref>. Hermann dagegen argumentiert, dass diese Wirkung dem durchlaufenen
+						<hi rend="italic">Raum proportional</hi> sei. Der folgende § 32 soll zeigen, dass die Cartesianer hier gegen Hermann im
+					Recht sind.</note>
+               <note type="editorial" xml:id="en04511">
+                  <hi rend="spaced">Marquisin von
+                  	Chastelet</hi>] Marquise Gabrielle Émilie Le Tonnelier de Breteuil, Marquise Du Châtelet
+					(1706–1743, auch Chastelet), französische Physikerin und Naturphilosophin, Übersetzerin und
+					Kommentatorin von Newtons <hi rend="italic">Principia</hi>. Näheres zu Kants Kritik an
+					ihrer Position im ‚zweiten‘ § 113 (zur
+					Nummerierung siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03514">29<hi rend="sup">20</hi></ref>) unter der Überschrift
+					‚Zusätze und Erläuterungen, die einige Stücke dieses Capitels betreffen‘, dort
+						Teil II. Hier bezieht sich Kant mittelbar
+					auf ihre früheste Verteidigung der lebendigen Kräfte in den
+						<hi rend="italic">Institutions</hi> von 1740 (<hi rend="smallCaps">Châtelet</hi> 1743, 421–423,
+						§ 567) und ihre anschließende
+					Auseinandersetzung mit Mairan; siehe dazu die 
+               	<ref type="editorialNote" target="#en04514">folgende Sacherläuterung</ref>.</note>
+               <note type="editorial" xml:id="en04514">Allein aus … wahrzunehmen] Zu Mairan siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04403">37<hi rend="sup">1-2</hi></ref>. Er argumentiert gegen Du Châtelet in einer <hi rend="italic">Lettre</hi>
+						(<hi rend="smallCaps">Mairan</hi> 1741), auf die Du <hi rend="smallCaps">Châtelet</hi> im gleichen Jahr mit
+					einer <hi rend="italic">Réponse</hi> (1741) reagiert, auf die sich Kant hier bezieht.
+						<hi rend="smallCaps">Waschkies</hi> (1987, 515, Anm.) macht sehr wahrscheinlich, dass Kant
+					die genannten Schriften nicht im französischen Original gelesen, sondern durch
+					eine um die o. g. Briefe
+					erweiterte deutsche Übersetzung von Du Châtelets <hi rend="italic">Institutions</hi>
+					kennengelernt hat, die 1743 als <hi rend="italic">Naturlehre</hi> (<hi rend="smallCaps">Châtelet</hi>
+					1743) erschien. Mairans <hi rend="italic">Lettre</hi> wird dort wiedergebeben als
+					„Schreiben des Herrn von Mairan […] An die Frau Marquisinn von Chastellet ueber
+					die Frage von den lebendigen Kräften“ (<hi rend="smallCaps">Châtelet</hi> 1743, 489–521) und die
+               	<hi rend="italic">Réponse</hi> als „Der Frau Marquisinn von Chastellet Antwort Auf
+               	das Schreiben des Herrn von Mairan“ (a. a. O., 522–563). Siehe hierzu auch
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en05510">47<hi rend="sup">8-20</hi></ref> und zu 
+               	<ref type="editorialNote" target="#en05529">47<hi rend="sup">21-24</hi></ref>.</note>
+               <note type="editorial" xml:id="en04613">Herr <hi rend="spaced">Lichtscheid</hi>] Ferdinand Helffrich <hi rend="smallCaps">Lichtscheid</hi>
+					(1661–1707), Theologe und Konsistorialrat in Berlin; Kant bezieht sich auf
+					dessen <hi rend="italic">Considerations</hi> (1691), vgl. dort insbes.
+						495 f. und Fig. II, 498.</note>
+               <note type="editorial" xml:id="en04717">Allein Herr … könnte] Vgl. hierzu <hi rend="smallCaps">Leibniz</hi> 1691b zu
+						<hi rend="smallCaps">Lichtscheids</hi>
+                  <hi rend="italic">Considerations</hi> (1691, 500).</note>
+               <note type="editorial" xml:id="en05007">Ich will … anführen] Christopher Wren (1632–1723), 
+               	englischer Mathematiker
+					und Architekt; John Wallis (1616–1703), englischer Mathematiker und Sprachforscher;
+					Christian Huygens (1629–1695), holländischer Mathematiker, Physiker und Astronom. Kant
+					verweist implizit auf die Aufsätze von <hi rend="smallCaps">Wren</hi>, <hi rend="smallCaps">Wallis</hi>, <hi rend="smallCaps">Huygens</hi> zu den Gesetzen
+					des Stoßes, die 1669 in den <hi rend="italic">Philosophical Transactions</hi> der
+					Londoner <hi rend="italic">Royal Society</hi> erschienen. Mit <hi rend="smallCaps">Polonoff</hi> (1973,
+					39) ist nicht davon auszugehen, dass Kant diese Aufsätze studiert hat.</note>
+               <note type="editorial" xml:id="en05008">Der Herr … seyn] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>.
+					Kant bezieht sich auf den zweiten Band von <hi rend="smallCaps">Wolffs</hi> <hi rend="italic">Elementa matheseos
+							universae</hi>, der 1733 erschien; vgl. dort insbes. „Elementa
+					mechanicae et staticae“, Cap. XII,
+					164–198.</note>
+               <note type="editorial" xml:id="en05103">Herr <hi rend="spaced">Herrmann</hi> …
+						hatte] Zu Hermann
+					siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>, Bezug hier auf dessen <hi rend="italic">De
+						mensura</hi> (1728, 14, § 11).</note>
+               <note type="editorial" xml:id="en05234">Den Körper … eingeschoben] Vgl. <hi rend="smallCaps">Hermann</hi> 1728,
+						15 f. (§ 11).</note>
+               <note type="editorial" xml:id="en05306">Wir wollen … wollen] Zur folgenden Argumentation vgl.
+						<hi rend="smallCaps">Hermann</hi> 1728, 14–29 (§§ 11–17).</note>
+               <note type="editorial" xml:id="en05432">Federkraft] gebraucht Kant hier und im Weiteren, dem
+					Sprachgebrauch der Zeit folgend, synonym zu ‚Elastizität‘.</note>
+               <note type="editorial" xml:id="en05509">Streit der …
+						<hi rend="spaced">Mairan</hi>] Siehe hierzu Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04514">38<hi rend="sup">7-13</hi></ref>.</note>
+               <note type="editorial" xml:id="en05515">
+                  <hi rend="spaced">Die elastische</hi> …
+							<hi rend="spaced">etc. etc.</hi>] Paraphrase von <hi rend="smallCaps">Mairan</hi> 1741,
+						25 f., nach der deutschen Übersetzung in Du <hi rend="smallCaps">Châtelet</hi>
+					1743, 505 f.</note>
+               <note type="editorial" xml:id="en05529">
+                  <hi rend="spaced">es sey</hi> …
+						<hi rend="spaced">gründen</hi>] Paraphrase von Du <hi rend="smallCaps">Châtelet</hi> 1741,
+					31, nach der deutschen Übersetzung in Du <hi rend="smallCaps">Châtelet</hi> 1743, 551.</note>
+               <note type="editorial" xml:id="en05601">§ 45] Kant
+					fügt den §§ 45–47 im ‚zweiten‘ § 113 (zur Nummerierung siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03514">29<hi rend="sup">20</hi></ref>), Teil III ‚Zusätze‘
+					an, die die nachfolgenden Argumentationen untermauern sollen.</note>
+               <note type="editorial" xml:id="en05602">Herrn <hi rend="spaced">Jurin</hi>] James <hi rend="smallCaps">Jurin</hi> 
+               	(1684–1750), englischer Arzt;
+					Mitglied der <hi rend="italic">Royal Society</hi> und deren Sekretär; vgl. seine
+						<hi rend="italic">Dissertationes</hi> (1732), dort 111–127
+						(Dissertatio IX), insbes.
+					121, Demonstratio III. Kant
+					bezieht sich offenbar auf eine Rezension Christian Wolffs dieses Werks in den
+						<hi rend="italic">Acta Eruditorum</hi> von 1735 (<hi rend="smallCaps">Wolff</hi> 1735).</note>
+               <note type="editorial" xml:id="en05610">Frau von … Naturlehre] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04514">38<hi rend="sup">7-13</hi></ref>;
+					konkreter Bezug zu Du <hi rend="smallCaps">Châtelet</hi> 1743, 476–478
+						(§ 563).</note>
+               <note type="editorial" xml:id="en05612">Herrn <hi rend="spaced">Bernoulli</hi>] Gemeint ist Johann I Bernoulli, siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>.</note>
+               <note type="editorial" xml:id="en05613">Der Herr … Körper] <hi rend="smallCaps">J. Bernoulli</hi> verteidigte in
+					mehreren Schriften Leibniz’ Erhaltung der lebendigen Kraft, zuerst im
+						<hi rend="italic">Discours</hi> (1727), auf den Du <hi rend="smallCaps">Châtelet</hi> sich in der
+						<hi rend="italic">Naturlehre</hi> (1743, 477) beruft. Kant fasst Bernoullis
+					Argumentation nach der Darstellung dort (439–441) zusammen; Fig. IX bei Kant entspricht im Wesentlichen Fig. 80 (Abbildungstafel im Anhang, unpaginiert) in der
+						<hi rend="italic">Naturlehre</hi>. Vgl. auch <hi rend="smallCaps">J. Bernoullis</hi>
+                  <hi rend="italic">De vera notione</hi> (1735, insbes. 218 f.,
+						§§ XXI–XXII), erschienen in den
+						<hi rend="italic">Acta Eruditorum</hi> direkt im Anschluss an Wolffs Rezension von
+					Jurins Buch (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en05602">47<hi rend="sup">28</hi></ref>).</note>
+               <note type="editorial" xml:id="en05724">Es sind … <hi rend="antiqua">RB</hi>] Die
+					hier zusammenfassend behauptete, in § 47 um Schlussfolgerungen ergänzte Widerlegung der
+					Argumentation Bernoullis scheint auch Kant nicht zufriedengestellt zu haben: Sie
+					wird im später hinzugefügten, ‚zweiten‘ § 113 (zur Nummerierung siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03514">29<hi rend="sup">20</hi></ref>), Teil III erneut
+					aufgegriffen und ergänzt.</note>
+               <note type="editorial" xml:id="en05819">Bis hieher … ertheilet. Er nahm … könte] Nachdem Kant im Vorangegangenen die
+					‚mathematische‘ Beweisführung von Leibniz und seinen Anhängern zu widerlegen
+					suchte, wendet er sich mit § 48 dem
+					‚metaphysischen Grund‘, den die Leibnizianer für die Erhaltung der lebendigen
+					Kräfte in Anschlag bringen, zu, insbesondere den kosmologischen und
+					theologischen Implikationen dieses Grundes. Vgl. auch <hi rend="smallCaps">Polonoff</hi> 1973,
+						61 f. und <hi rend="smallCaps">Waschkies</hi> 1987, 459 f.
+					Der Schlusssatz zu Leibniz und Newton dürfte eine Anspielung auf den
+					Leibniz-Clarke-Briefwechsel sein, in dem Leibniz (Brief vom November 1715) den
+					Vorwurf an Newton und seine Anhänger richtet, an einen ‚schlechten
+					Uhrmacher-Gott‘ zu glauben, weil sie über kein Erhaltungsprinzip verfügten:
+					„Nach ihrer Ansicht muß Gott von Zeit zu Zeit seine Uhr aufziehen – sonst bleibt sie stehen. Er hat nicht genügend Einsicht
+					besessen, um ihr eine immerwährende Bewegung zu verleihen.“ (<hi rend="smallCaps">Leibniz</hi>
+						1966 I, 120) Der Briefwechsel war in
+					deutscher Sprache seit 1720 verfügbar (<hi rend="smallCaps">Leibniz</hi> 1720; vgl.
+               	a. a. O., 2).</note>
+               <note type="editorial" xml:id="en05911">Denn wenn … könne] Kant bereitet mit dieser Argumentation die
+					weitere Kritik an Leibniz’ Begründung der Erhaltung der <hi rend="italic">vis
+						viva</hi> vor, die er in § 51 mit
+					Hamberger näher ausführt; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en06030">51<hi rend="sup">33-38</hi></ref>.</note>
+               <note type="editorial" xml:id="en05933">dritten Hauptstücke] Gemeint ist das ganze Hauptstück
+						(§§ 114–163), dort aber wohl insbes.
+						§ 114.</note>
+               <note type="editorial" xml:id="en06006">Wir bestreiten … <hi rend="antiqua">cognoscendi</hi>] Kant 
+               	spricht sich hier, dem <hi rend="italic">Dritten
+					Hauptstück</hi> vorgreifend, für Leibniz’ Kraftmaß aus, bestreitet aber, dass eine
+					abstrakt-mathematische Betrachtung, die er Leibniz und seinen Anhängern
+					unterstellt, hierfür eine angemessene Erkenntnisweise (‚modum cognoscendi‘)
+					darstellt. Siehe auch Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en10723">93<hi rend="sup">4-11</hi></ref>.</note>
+               <note type="editorial" xml:id="en06022">mit künstlich … Wirbeln] Nach der von Kant kritisierten Auffassung
+					des älteren Mechanismus, dass die Bewegung von Materie nur durch andere bewegte
+					Materie verursacht sein könne, ist – für
+					Descartes und seine Anhänger ebenso wie für Leibniz und seine Anhänger
+						– die Bewegung der Planeten verursacht
+					durch die Wirbelbewegung ‚feiner‘, nicht unmittelbar wahrnehmbarer Materie; vgl.
+					hierzu <hi rend="smallCaps">Aiton</hi> 1972.</note>
+               <note type="editorial" xml:id="en06030">Herr <hi rend="spaced">Hamberger</hi> …
+						ist] <hi rend="smallCaps">Hamberger</hi>
+					erklärt in seinem Lehrbuch <hi rend="italic">Elementa physices</hi> (1727; siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02614">22<hi rend="sup">8</hi></ref>) die Entstehung von Bewegung, etwa durch
+					eine <hi rend="italic">scheinbar</hi> fernwirkende Gravitationskraft, mit Hilfe der
+					Annahme eines <hi rend="italic">ruhenden</hi> Äthers, der den Körpern keinen
+					Widerstand entgegensetzt und selber ein Dichtegefälle aufweist. Das
+					Dichtegefälle resultiert in einem Druck auf die im Äther befindlichen Körper,
+					der sie – wenn sie nicht anderweitig gehindert
+					werden – in Bewegung versetzt. Zu Hambergers
+					mechanistischem Programm im Ganzen vgl. a. a. O., „Praefatio“ (unpaginiert), zur
+					Anwendung auf die Bewegungsentstehung im Falle von Gravitation insbes.
+					a. a. O., 72 f.
+					und 409 f. (§§ 181 bzw.
+					740–741). Obwohl Kant Hambergers Ansatz als ‚unvollkommen‘ kritisiert, greift er
+					noch in seinem späteren Werk <hi rend="italic">Allgemeine Naturgeschichte und Theorie des
+						Himmels</hi> (1755) auf ihn zurück (vgl. <hi rend="italic">Theorie des
+							Himmels</hi>, <ref type="textRef" target="#tr22901">229 f.</ref>; hierzu auch <hi rend="smallCaps">Sternberg</hi>
+					1909, 29 f.). Die metaphysische Bedeutung dieses Ansatzes
+					expliziert Kant am Ende des Paragraphen: Er erlaubt eine ‚Erklärung‘ der
+					Entstehung von Bewegung ohne Annahme einer ersten, bereits bewegten Materie im
+					Sinne Descartes’ und ohne Annahme einer unmittelbaren Einwirkung Gottes als
+					‚erstem Beweger‘.</note>
+               <note type="editorial" xml:id="en06235">Laßt uns … <hi rend="antiqua">Ergo
+							&amp;c. &amp;c.</hi>] Für <hi rend="smallCaps">Leibniz</hi> ist neben der
+					Fallbewegung (vgl. 1686; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01409">11<hi rend="sup">19</hi></ref>) der Stoß
+					elastischer Körper zentral für die Verteidigung der <hi rend="italic">Vis-viva</hi>-Erhaltung: <hi rend="smallCaps">Leibniz’</hi> Ablehnung des Atomismus und dem
+					Kontinuitätsprinzip (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03703">31<hi rend="sup">3</hi></ref>) zufolge sind
+					alle Körper elastisch (vgl. auch 1695, 150–152); der Stoß elastischer Körper ist
+					daher in seiner Mechanik paradigmatisch für die Wechselwirkung physischer
+					Körper. Gegen Leibniz, aber auch gegen Huygens und andere vertritt Kant für
+					diesen Stoßprozess eine <hi rend="italic">Zunahme</hi> der lebendigen Kraft. Dabei
+					scheint er mit der Betonung der unterschiedlichen Größe auf die zuvor
+						(§ 51) behandelte Äthertheorie anspielen
+					zu wollen. Zur andauernden Kontroverse über die <hi rend="italic">Vis-viva</hi>-Erhaltung beim elastischen Stoß vgl. auch <hi rend="smallCaps">Scott</hi> 1970 und
+						<hi rend="smallCaps">Iltis</hi> 1971.</note>
+               <note type="editorial" xml:id="en06305">Unter den … erweisen] Die hier von Kant beanspruchte Widerlegung
+					Leibniz’ scheitert im Weiteren daran, dass er unzulässige Annahmen über die
+					Wirksamkeit der Elastizität bei Veränderung der Geschwindigkeiten der Körper A
+					und B während des Stoßes – sie soll
+					erst bei Gleichheit der Geschwindigkeiten von A und B eintreten – in Verbindung mit dem dritten newtonschen Bewegungsgesetz
+					einführt: Das cartesianische Maß der Kraft (<hi rend="italic">m v</hi>), mit Newtons Gesetz
+               	kompatibel, und das leibnizsche Maß der Kraft (<hi rend="italic">m v<hi rend="sup">2</hi>
+                  </hi>) laufen
+					daher bei Kant durcheinander, was die gesamte Argumentation ungültig werden
+					lässt.</note>
+               <note type="editorial" xml:id="en06702">von einer … habe] Bezug offenbar auf Mairans Kritik an Du
+					Châtelets Parteinahme für die Erhaltung der lebendigen Kräfte (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04511">38<hi rend="sup">3-4</hi></ref> und zu 
+               	<ref type="editorialNote" target="#en04514">38<hi rend="sup">7-13</hi></ref>): Mairan
+					macht geltend, dass – im Sinne
+					einer Weiterentwicklung der cartesianischen Erhaltungsauffassung – bei der Messung der ‚wahren‘ Kraft die
+						<hi rend="italic">Richtung</hi> der Bewegung der Körper vor und nach dem Stoß
+					berücksichtigt werden müsse. Bewegt sich eine kleinere elastische Masse A nach
+					dem Stoß mit einer größeren Masse B in umgekehrter Richtung, will
+						<hi rend="smallCaps">Mairan</hi> dies im <hi rend="italic">Lettre</hi> (1741, 25) durch eine
+					„quantité négative“ der Kraft berücksichtigt sehen. Kant paraphrasiert die
+					deutsche Übersetzung in Du <hi rend="smallCaps">Châtelets</hi>
+                  <hi rend="italic">Naturlehre</hi> (1743, 505), wo von der „verneinende[n] Grösse bey
+					dem Körper“ die Rede ist. Das Argument setzt bei Mairan wie bei Kant voraus,
+					dass die Erhaltungsgröße an die gerichtete (modern: vektorielle) Geschwindigkeit
+						<hi rend="italic">v</hi> gebunden ist und folglich keine ungerichtete (modern:
+               	skalare) Größe wie <hi rend="italic">m v<hi rend="sup">2</hi>
+                  </hi> sein kann, beinhaltet also eine
+						<hi rend="italic">petitio principii</hi>.</note>
+               <note type="editorial" xml:id="en06720">
+                  <hi rend="spaced">Sie glaubte</hi> …
+						<hi rend="spaced">zurückschlüge</hi>] Paraphrase wiederum von Du
+						<hi rend="smallCaps">Châtelets</hi>
+                  <hi rend="italic">Réponse</hi> (1741, 30) nach der deutschen Übersetzung in ihrer
+						<hi rend="italic">Naturlehre</hi> (1743, 549). Kants weitere Ausführungen berühren
+					den Status negativer Größen in der Naturphilosophie, die er in seiner späteren
+					Schrift <hi rend="italic">Versuch den Begriff der negativen Größen in die Weltweisheit
+						einzuführen</hi> (1763) von einem allgemeineren Standpunkt
+					thematisiert.</note>
+               <note type="editorial" xml:id="en06807">Nun werden … vertheidigen] Auftakt zu Kants erkenntnistheoretischer
+					und methodologischer Kritik der leibnizschen Verteidigung der <hi rend="italic">Vis-viva</hi>-Erhaltung für <hi rend="italic">alle</hi> Stoßprozesse. Zu Leibniz’
+					Position siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en06235">53<hi rend="sup">24-28</hi></ref>, zur
+					Ablehnung insbes. der Annahme inelastischer Körper daneben <hi rend="smallCaps">Leibniz</hi>,
+						<hi rend="italic">Essay de dynamique</hi> (1860, 228–231). Der
+						<hi rend="italic">Essay</hi> war Kant noch nicht bekannt; seine Veröffentlichung
+					erfolgte erst 1860 in Leibniz’ <hi rend="italic">Mathematischen Schriften</hi> 
+               	(<hi rend="smallCaps">Leibniz</hi>, <hi rend="smallCaps italic">GM</hi>).</note>
+               <note type="editorial" xml:id="en07111">Wir haben gesagt] Siehe hierzu <ref type="textRef" target="#tr05923">§ 61</ref>.</note>
+               <note type="editorial" xml:id="en07134">Dergleichen Körper … seyn] Während Kant hier gegen Leibniz’ Erhaltung
+					der lebendigen Kraft die Möglichkeit vollkommen harter und unelastischer Körper
+					ins Spiel bringt, billigt er vollkommen harten Körpern in § 65 zu, dass bei ihrem Stoß keine Kraft verloren geht;
+					siehe <ref type="textRef" target="#tr06318">74<hi rend="sup">1-3</hi></ref>
+               	<!-- Druckfehler im Druck 2023, 1. Auflage: falsche Seitenangabe -->
+               	<!-- <choice><sic><ref type="textRef" target="#tr06318">74<hi rend="sup">1-3</hi></ref></sic>
+						<corr><ref type="textRef" target="#tr06318">63<hi rend="sup">18-19</hi></ref></corr>< /choice>-->.
+               </note>
+               <note type="editorial" xml:id="en07215">Herrn <hi rend="spaced">Bernoulli</hi>] Gemeint ist Johann I Bernoulli; siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>. Die nachfolgende Verwendung des
+               	‚Federmodells‘ für den Stoß findet sich u. a. in <hi rend="smallCaps">J. Bernoullis</hi>
+                  <hi rend="italic">Discours</hi> (1727, 20 und Fig. 2 im Anhang). Kant selbst macht davon bereits früher
+					verschiedentlich Gebrauch (siehe §§ 41, 45, 53, 54
+					und die Fig. VIII, IX im Anhang).</note>
+               <note type="editorial" xml:id="en07401">denn wenn … finden] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en07134">61<hi rend="sup">24-25</hi></ref>.</note>
+               <note type="editorial" xml:id="en07502">Es ist … kan] Kants Argumentation in § 66 steht in Widerspruch zu seinen Ausführungen in
+               	§ 157; vgl. <hi rend="smallCaps">Arana Cañedo Argüelles</hi> 1988, 397.</note>
+               <note type="editorial" xml:id="en07528">schlechte Geschwindigkeit] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03928">33<hi rend="sup">12-13</hi></ref>. Für Kant ist hier die Geschwindigkeit eine ‚schlechte‘
+					Größe daneben auch deshalb, weil er wiederholt für die Entstehung der Bewegung
+					aus Ruhe argumentiert (siehe auch Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en06030">51<hi rend="sup">33-38</hi></ref>), so
+					auch in der Kausalbetrachtung des folgenden § 68.</note>
+               <note type="editorial" xml:id="en07835">Herr <hi rend="spaced">Bülfinger</hi>] Zu Bilfinger siehe 
+               	Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>.</note>
+               <note type="editorial" xml:id="en07903">Wir finden … <hi rend="antiqua">Petropolitani</hi>] Gemeint ist <hi rend="smallCaps">Bilfingers</hi> Aufsatz
+						<hi rend="italic">De viribus</hi> (1728, dort insbes. 48–62).</note>
+               <note type="editorial" xml:id="en08036">
+                  <hi rend="antiqua">fallaciae ignorationis
+						elenchi</hi>] Fehlschluss, der eine andere Behauptung beweist als die, die
+					tatsächlich zu beweisen wäre.</note>
+               <note type="editorial" xml:id="en08309">
+                  <hi rend="spaced">Function</hi>] Zur „Function“ bei <hi rend="smallCaps">Bilfinger</hi>: vgl.
+					1728, 50.</note>
+               <note type="editorial" xml:id="en08321">Wir nehmen … veranlassen] Vgl. <hi rend="smallCaps">Bilfinger</hi> 1728,
+						56 f.</note>
+               <note type="editorial" xml:id="en08420">Wir sehen … zweifeln] Kants Resümee in § 84 und die nachfolgenden Ausführungen machen deutlich,
+					dass ihn seine berechtigte Kritik an Bilfingers vermeintlicher Begründung der
+					Erhaltung der lebendigen Kraft bei zusammengesetzten Bewegungen in eine
+					Vermischung geometrisch-kinematischer Argumentationen zu linearen Bewegungen und
+					dynamischer Argumentationen zu wirkenden Kräften hineinzieht, aus der
+					verschiedene unhaltbare Schlussfolgerungen resultieren, so etwa die zum Kraftmaß
+					bei ‚schräger‘ Bewegung in § 79 (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en08513">73<hi rend="sup">19-29</hi></ref>) oder zur Kreisbewegung unter Einfluss
+					der Gravitation in § 80 (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en08703">74<hi rend="sup">38</hi>-75<hi rend="sup">20</hi></ref>).</note>
+               <note type="editorial" xml:id="en08506">Aus der … ist] Mit ‚<foreign xml:lang="la">angulus incidentiae</foreign>‘ ist hier der
+					Einfallswinkel gemeint, den die Bewegungsrichtung eines Körpers mit der Fläche,
+					auf die er auftrifft, bildet. ‚<foreign xml:lang="la">Sinus totius</foreign>‘ ist der Sinus von 90°,
+               	d. h. 1. Die von Kant vorgebrachte Regel,
+					wonach im fraglichen Fall die Summe der Quadrate der Einfallswinkel gleich 1
+					ist, findet sich in <hi rend="smallCaps">Wolffs</hi>
+                  <hi rend="italic">Elementa Matheseos Universae</hi> (1733, Bd. II, 171, Theorema 83). Vgl. auch La, 526 und
+               	<hi rend="smallCaps">Arana Cañedo Argüelles</hi> 1988, 404 f.</note>
+               <note type="editorial" xml:id="en08513">Allein hieraus … besitzet] Kants Betrachtung lässt bezüglich des
+					leibnizschen Kraftmaßes die Berücksichtigung der dynamischen Wirkung auf die vom
+					bewegten Körper ‚schräg‘ getroffenen Flächen, die er offenbar rein geometrisch
+					denkt, vermissen. In Bezug auf seine Überlegung zur sukzessiven Aufteilung des
+					cartesianischen Kraftmaßes liegt zudem auch auf rein geometrisch-kinematischer
+					Ebene ein Fehlschluss vor.</note>
+            	<note type="editorial" xml:id="en08534">Einfallswinkels] Vgl. La, 326. Die Ausgabe Schuberts/Rosenkranz'
+					enthält nach
+					„Einfallswinkels“ folgende Anmerkung von Schubert: „In meinem Exemplare, welches
+					Kant selbst gebraucht hat, war von seiner Hand, mit der ihm in den Jahren 
+					1750–70 eigenthümlichen festen Handschrift
+					an den Rand geschrieben: <hi rend="italic">Haec sententia per cogitationes meas
+						posteriores correcta est, sed salva nihilominus manent ea, quae inde
+						dericantur.</hi>“ Übersetzung des Herausgebers: „<hi rend="italic">Dieser Satz ist durch meine späteren
+						Überlegungen korrigiert, aber dennoch bleiben die Dinge unbeschadet, die
+						sich daraus ableiten lassen.</hi>“ (Schu/Ro, 107) Kants nachträgliche Korrektur ist
+					offenbar nur auf die angestellte Rechnung zum Einfallswinkel zu beziehen,
+					während er an den weiteren Schlussfolgerungen hieraus festgehalten hat.</note>
+               <note type="editorial" xml:id="en08702">Ich … <hi rend="antiqua">Lemma</hi> 1] Kants dritte Annahme kann aus <hi rend="smallCaps">Leibniz’</hi>
+                  <hi rend="italic">Brevis demonstratio</hi> (1686; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01409">11<hi rend="sup">19</hi></ref>) entlehnt sein, verkennt dann aber, dass Leibniz dort eine
+					durch Gravitation erzwungene <hi rend="italic">geradlinige</hi> Fallbewegung und nicht
+					eine durch Gravitation erzwungene <hi rend="italic">kreisförmige</hi> Bewegung
+					behandelt. Die weitere Argumentation erinnert äußerlich an Newtons approximative
+					Behandlung von Bewegungen unter einer Zentralkraft mit Hilfe von Polygonen (vgl.
+					etwa: <hi rend="smallCaps">Newton</hi> 1687, Lib. I,
+						Sec. II, Prop. I, 37; vgl. auch den folgenden § 81). Im Weiteren übersieht dann Kants Aufsummierung
+					unendlich vieler, quasi-infinitesimaler ‚Kraftelemente‘ zu einer endlichen
+					Kraft, die nach Leibniz’ Kraftmaß dem rotierenden Körper verloren gehen müsse,
+					dass die Gravitation im Falle der Kreisbewegung stets senkrecht zur
+					Geschwindigkeitsrichtung des Körpers wirkt und sich daher weder der
+					Geschwindigkeitsbetrag noch (folglich) der Betrag der lebendigen Kraft
+					verändert. Kants Erläuterung in § 81
+					unterstreicht, dass er zwischen Richtungs- und Betragsänderungen nicht
+					hinreichend unterscheidet, diejenige in § 82, dass er seine dritte Annahme den ‚Leibnizianern‘ für
+					eine kreisförmige Bewegung unter Einwirkung einer zentralen Gravitationskraft
+						<hi rend="italic">unterstellt</hi>.</note>
+               <note type="editorial" xml:id="en09001">
+                  <hi rend="antiqua">Sinui verso
+						bi</hi>] Bei
+					einem Einheitskreis mit Mittelpunkt D und einem Kreisbogen AB ist der Sinus des
+					zum Bogen gehörenden Zentralwinkels die Sekante AC (mit Fußpunkt C). Der ‚<foreign xml:lang="la">sinus
+					versus</foreign>‘ bezeichnet hier den Abstand BC auf dem zur Sekante senkrecht stehenden
+					Radius BD. Vgl. <hi rend="smallCaps">Wolff</hi> 1716, 1284. Fasst man den Kreisbogen als beliebig
+               	klein auf, d. h. als Differential, so ist der
+					‚<foreign xml:lang="la">sinus versus</foreign>‘ ein Differential zweiter Ordnung.</note>
+               <note type="editorial" xml:id="en09113">Der Bernoullische …
+						anführet] Vgl. <hi rend="smallCaps">J.
+						Bernoulli</hi> 1727, 51–53 (Ch. IX) und
+						<hi rend="smallCaps">Wolff</hi> 1733, 77 f.</note>
+               <note type="editorial" xml:id="en09207">Er bestehet … Kraft] Zu Mairan siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04403">37<hi rend="sup">1-2</hi></ref>; zum fraglichen Beispiel vgl. <hi rend="smallCaps">Mairan</hi> 1741, 31–34,
+					bzw. Du <hi rend="smallCaps">Châtelet</hi> 1743, 508–511. Zu Hermann siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>.</note>
+               <note type="editorial" xml:id="en09233">Frau von … Naturlehre] Zu Du Châtelets
+						<hi rend="italic">Naturlehre</hi> siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04514">38<hi rend="sup">7-13</hi></ref>
+					und zu deren Rezeption durch Kant vgl. <hi rend="smallCaps">Waschkies</hi> 1987, 436 und 515.</note>
+               <note type="editorial" xml:id="en09314">Man muß … wird] Kant setzt hier zu einer ausführlichen
+					Methodenreflexion an, die dazu dienen soll, den Streit um das wahre Kraftmaß
+					durch Analyse der Schlüssigkeit und Reichweite der Prämissen beider Parteien
+					beizulegen. Bereits in § 88 stellt Kant
+					die Bedeutung dieser Reflexion für das ganze Werk heraus. Deren Bezugspunkte wie
+					auch deren Bedeutung für die spätere Philosophie Kants werden unterschiedlich
+					beurteilt; vgl. hierzu insbes. <hi rend="smallCaps">Adickes</hi> 1924, 133–137, <hi rend="smallCaps">Hinske</hi>
+					1970, 123–133, <hi rend="smallCaps">Menzel</hi> 1911, 143–149, <hi rend="smallCaps">Petrocchi</hi> 2004, 182–189,
+						<hi rend="smallCaps">Polonoff</hi> 1973, 59–61, sowie die dort zitierte weitere Literatur.
+               	Hinske misst Kants „irenischer“, d. h.
+					friedfertiger und versöhnender, Methode, wie sie hier entwickelt wird, erhebliche
+					Relevanz für seine spätere Philosophie bei und weist zudem – bei aller Kritik, die Kant inhaltlich an dessen Position
+					übt, – auf Einflüsse Bilfingers auf seine
+					Methodenreflexion hin; vgl. <hi rend="smallCaps">Hinske</hi> 1970, 124 f.
+					und <hi rend="smallCaps">Bilfinger</hi> 1728, 85, 87 (§§ XIII, XVIII).</note>
+               <note type="editorial" xml:id="en09835">Herr <hi rend="spaced">Bülfinger</hi>] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03205">26<hi rend="sup">33-34</hi></ref>.
+               </note>
+               <note type="editorial" xml:id="en09910">Er bemerket … <hi rend="antiqua">mortuo</hi>] Vgl. hierzu <hi rend="smallCaps">Bilfinger</hi> 1728, 97 
+               	(§ XXXII), zum Zusatz a. a. O., 98 (§ XXXIII). Letzterer beginnt so: „<foreign xml:lang="la">Sed vitium est <hi rend="italic">in
+						progressu</hi>. Cum de vivis agitur viribus, per ego: In motibus
+					isochronis actiones sunt, uti vires, per § 27; igitur cum aequalitate actionum
+					adest virium aequalitas.</foreign>“ Kants Paraphrase des mittleren Satzes lässt sich so
+					wiedergeben: „Nur bei Bewegungen, die in gleich langen Zeiten erfolgen,
+					verhalten sich die Aktionen wie die Kräfte; nicht beim toten Druck“.</note>
+               <note type="editorial" xml:id="en10110">die Einwürfe … dargestellet] Zu <hi rend="smallCaps">Catelan</hi> siehe Sacherläuterung
+					zu 
+               	<ref type="editorialNote" target="#en04403">37<hi rend="sup">1-2</hi></ref>; auf dessen <hi rend="italic">Courte remarque</hi> (1686)
+					reagiert <hi rend="smallCaps">Leibniz</hi> Anfang des Jahres 1687 mit einer
+						<hi rend="italic">Replique</hi> (1687a), die im Juni 1687 <hi rend="smallCaps">Catelans</hi>
+                  <hi rend="italic">Remarque</hi> und im September des gleichen Jahres eine zweite
+					Entgegnung von <hi rend="smallCaps">Leibniz</hi>, die <hi rend="italic">Réponse</hi> (1687c), nach sich
+					zieht. Eine weitere, mittelbar gegen Catelan gerichtete Stellungnahme gab
+						<hi rend="smallCaps">Leibniz</hi> in einem Brief ab, der formell an Nicolas Malebranche, für
+					den Catelan arbeitete, tatsächlich aber an Pierre Bayle gerichtet war
+						(<hi rend="italic">Extrait d’une lettre</hi>, 1687b). Alle genannten Beiträge
+					erschienen in den <hi rend="italic">Nouvelles de la République des Lettres</hi>.
+					Dagegen hat Leibniz den von Kant angesprochenen späteren Aufsatz <hi rend="italic">De
+						causa gravitatis</hi> im Jahre 1690 in den <hi rend="italic">Acta
+						Eruditorum</hi> veröffentlicht. Er richtet sich nicht nur gegen Catelans
+					Verteidigung des cartesianischen Kraftmaßes, sondern auch gegen die Einwände,
+					die Denis <hi rend="smallCaps">Papin</hi> (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04403">37<hi rend="sup">1-2</hi></ref>) in dem
+					Beitrag <hi rend="italic">De gravitatis causa</hi> (1689), der im Jahr zuvor in der
+					gleichen Zeitschrift erschien, gegen Leibniz’ Kraftmaß gerichtet hatte. Soweit
+					die Abhandlung nicht die Erklärung der Gravitation durch eine Wirbeltheorie,
+					sondern das wahre Kraftmaß betrifft, steht – wie in der Auseinandersetzung mit Catelan – die Frage im Mittelpunkt, ob die Kraft über ihre Wirkung
+					in der Zeit (Cartesianer) oder entlang des Weges (Leibniz, mit Bezug auf den
+					freien Fall) zu messen sei. Zur weiteren Auseinandersetzung zwischen Leibniz und
+					Papin siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en10625">92<hi rend="sup">8-14</hi></ref>.</note>
+               <note type="editorial" xml:id="en10115">Eine Kugel … fort] Vgl. <hi rend="smallCaps">Leibniz</hi> 1690,
+						235 f. Fig. XIV, auf die
+					Kant hier verweist, entspricht bis auf Bezeichnungsdetails der „Fig. 4“, die
+					Leibniz dort auf S. 235 nennt und
+					die in der Zeitschrift zwischen S. 411 und
+						S. 412 auf einem separaten, sonst leeren
+					Blatt mit der handschriftlichen Paginierung „pag. 411“ abgedruckt ist.</note>
+               <note type="editorial" xml:id="en10131">inclinirte Schnellwaage 3 <hi rend="antiqua">A</hi> 3 <hi rend="antiqua">B</hi>] Gemeint
+					ist eine Interpretation der Geraden 3A 3B in Fig. XIV, bei der
+					die Abschnitte 3A F bzw.
+						F 3B als ungleich lange Arme eines
+					geneigten Hebels mit Drehpunkt F verstanden werden. Mit F als Aufhängepunkt und
+					einem bestimmten Gewicht (hier etwa: 3A) an einem Hebelarm wird bei der
+					traditionellen Schnellwaage das unbekannte Gewicht eines Wägegutes (hier etwa:
+					3B), das am Ende des anderen Hebelarmes aufgehängt wird, mit Hilfe des
+					Hebelgesetzes ermittelt.</note>
+               <note type="editorial" xml:id="en10224">immerwährende Bewegung] Kant referiert ein an der fraglichen
+					Apparatur exemplifiziertes <hi rend="italic">reductio ad absurdum</hi>-Argument aus
+						<hi rend="smallCaps">Leibniz’</hi>
+                  <hi rend="italic">De causa gravitatis</hi> (1690), das dort in der Feststellung
+					gipfelt, dass bei Annahme des cartesianischen Kraftmaßes ein <hi rend="italic">perpetuum
+						mobile</hi> realisierbar sein müsse, was in der Mechanik der Zeit
+               	(aufgrund von Reibungsverlusten bei allen Bewegungsprozessen) bereits den meisten Naturforschern als
+					ausgeschlossen galt. Kants verfehlte Kritik an Leibniz hingegen mündet in den
+					folgenden §§ 93–97 in der Feststellung, dass bei
+					Vorgängen der beschriebenen Art immerwährende Bewegung durchaus möglich sei.</note>
+               <note type="editorial" xml:id="en10301">
+                  <hi rend="antiqua">Si
+						Pergama</hi> … <hi rend="antiqua spaced">Aeneid.
+                  </hi>] Übersetzung (We): „Hätte
+					Pergamon von meiner Rechten verteidigt werden können, so wäre es von ihr auch
+					verteidigt worden.“
+						(<hi rend="smallCaps">Vergil,
+							Aeneis</hi> II,
+					291–292).</note>
+               <note type="editorial" xml:id="en10522">Es ist … hervorthut] Der von Kant behauptete ‚Sprung‘ soll
+					offenbar einen Widerspruch zu Leibniz’ Kontinuitätsprinzip markieren, beruht
+					aber auf Kants Vergleichung des ‚Drucks‘ der Schwere im Falle der Ruhe mit
+					infinitesimaler Bewegung (vgl. § 95). Nach
+					Leibniz’ Dynamik ist dies nicht statthaft, weil <hi rend="italic">vis mortua</hi> und
+						<hi rend="italic">vis viva</hi> qualitativ verschieden sind. Siehe auch
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02812">23<hi rend="sup">29</hi>-24<hi rend="sup">8</hi></ref> und zu 
+               	<ref type="editorialNote" target="#en03703">31<hi rend="sup">3</hi></ref>.</note>
+               <note type="editorial" xml:id="en10613">das große … <hi rend="antiqua">plenae</hi>] Vgl. etwa <hi rend="smallCaps">Leibniz</hi> 1690, 234, sowie das nachfolgende Leibniz-Zitat.</note>
+               <note type="editorial" xml:id="en10625">
+                  <hi rend="antiqua">Sequeretur
+						etiam</hi> … <hi rend="antiqua">conditoris</hi>] Übersetzung (We): „Das hätte
+					auch zur Folge, daß die Ursache nicht wiederhergestellt und an die Stelle ihrer
+					Wirkung gesetzt werden könnte; wie sehr dies der Regel der Natur und den Gründen
+					der Dinge widerspricht, ist leicht einzusehen. Und die Folge wäre: daß, da die
+					Wirkungen immer abnähmen, aber niemals zunähmen, die Natur selber der Dinge
+					stetig nachließe, wobei die Vollkommenheit vermindert würde, und daß sie sich
+					niemals wieder erheben und das Verlorene wieder erlangen könnte ohne ein Wunder.
+					Was im Felde der Physik sicher der Weisheit und Beständigkeit des Urhebers
+					widerspricht.“ Kant gibt hier Leibniz etwas frei und verkürzt wieder. Das Zitat
+					lautet im Original: „<foreign xml:lang="la">Sequeretur etiam, causam non posse iterum restitui suoque
+					effectui surrogari, quod quantum abhorreat a more naturae &amp; rationibus
+					rerum, facile intelligitur. Et consequens esset, decrescentibus semper
+					effectibus, nec unquam rursus crescentibus, ipsam rerum naturam continue
+					declinare perfectione imminuta; (fere ut in moralibus secundum Poetam, aetas
+					parentum pejor avis, tulit nos nequiores &amp;c.) nec unquam resurgere &amp;
+					amissa recuperare posse sine miraculo. Quae in Physicis certe abhorrent a
+					sapientia constantiaque Conditoris.</foreign>“ (<hi rend="smallCaps">Leibniz</hi> 1691a, 442) Leibniz
+					reagiert mit der zitierten Schrift auf eine weitere (siehe Sacherläuterung zu
+               	<ref type="editorialNote" target="#en10110">87<hi rend="sup">12-13</hi></ref>) Kritik von <hi rend="smallCaps">Papin</hi>, <hi rend="italic">Mechanicorum de
+						viribus motricibus sententia</hi> (1691), die im gleichen Band der
+						<hi rend="italic">Acta Eruditorum</hi> erschien.</note>
+               <note type="editorial" xml:id="en10705">
+                  <hi rend="antiqua">Nec
+						DEVS</hi> … <hi rend="antiqua">Inciderit</hi>] Übersetzung (We): „Auch soll kein Gott ins Spiel kommen, wenn
+					nicht eine Verwicklung eingetreten ist, die einen Retter verdient.“
+						(<hi rend="smallCaps">Horaz</hi>,
+							<hi rend="smallCaps italic">De arte poetica</hi>, 191–192)</note>
+               <note type="editorial" xml:id="en10723">Denn die … leisten] Kants Resümee macht deutlich, wie weit er
+					in seiner Erstlingsschrift von der späteren Hochschätzung der Mathematik als
+					Mittel eigentlicher Naturerkenntnis entfernt ist. In der Tat stellt sich hier
+					die Frage, welchen Wert mathematische Begriffe zu diesem Ende überhaupt haben
+					können, wenn sie von den der Natur angemessenen Begriffen ‚weit unterschieden‘
+					sind. Vgl. zu dieser Problematik auch <hi rend="smallCaps">Schönfeld</hi> 2000, 64–66.</note>
+               <note type="editorial" xml:id="en10732">Herr <hi rend="spaced">Papin</hi> …
+						geführet] Siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en10625">92<hi rend="sup">8-14</hi></ref>.</note>
+               <note type="editorial" xml:id="en10805">
+                  <hi rend="antiqua">Quomodo
+						autem</hi> … <hi rend="antiqua">legitimam</hi>] Zitat aus <hi rend="smallCaps">Papin</hi> 1691, 9. Kant lässt Kommata aus zwischen „B“ und
+               	„<foreign xml:lang="la">juxta</foreign>“, zwischen „<foreign xml:lang="la">Cartesium</foreign>“ und „<foreign xml:lang="la">obtineri</foreign>“ sowie zwischen „<foreign xml:lang="la">perpetuus</foreign>“ und
+               	„<foreign xml:lang="la">evidentissime</foreign>“; den Doppelpunkt hinter „<foreign xml:lang="la">demonstrat</foreign>“ ersetzt Kant durch ein
+               	Komma, und statt „<foreign xml:lang="la">cl. Viri</foreign>“ schreibt er ‚<foreign xml:lang="la">Cl. Vir.</foreign>‘. Übersetzung (We): „Wie aber durch Übertragung der ganzen Kraft des Körpers A in den
+					Körper B nach Cartesius eine immerwährende Bewegung behauptet werden könne,
+					beweist er aufs einleuchtendste und glaubt so den Kartesianern ihre
+					Ungereimtheit nachgewiesen zu haben. Ich räume ein, daß sowohl eine
+					immerwährende Bewegung ungereimt als auch der Beweis des berühmten Mannes aus
+					der vorausgesetzten Übertragung rechtmäßig ist.“</note>
+               <note type="editorial" xml:id="en10814">
+                  <hi rend="antiqua">Sed
+						Hypothesis</hi> … <hi rend="antiqua">&amp;c</hi>] Das Zitat setzt das vorherige unmittelbar
+					fort (<hi rend="smallCaps">Papin</hi> 1691, 9) und wird im Original mit einem Semikolon angeschlossen. Kant
+               	schreibt „<foreign xml:lang="la">Sed</foreign>“ groß statt klein und lässt die Kommata zwischen „<foreign xml:lang="la">possibilitatem</foreign>“
+               	und „<foreign xml:lang="la">translationis</foreign>“ sowie zwischen „B“ und „<foreign xml:lang="la">pernego</foreign>“ aus. Übersetzung (We): „Aber ich leugne entschieden die Möglichkeit seiner Voraussetzung
+					von der Übertragung der ganzen Kraft aus dem Körper A in den Körper B,
+					usw.“</note>
+               <note type="editorial" xml:id="en10921">
+                  <hi rend="antiqua">Cum
+                  	florentiae</hi> … <hi rend="antiqua">dignas</hi>] Zitat aus <hi rend="smallCaps">Leibniz</hi> 1691a, 443. Kant schreibt „<foreign xml:lang="la">Florentiae</foreign>“ klein, ‚<foreign xml:lang="la">iis</foreign>‘
+               	statt „<foreign xml:lang="la">illis</foreign>“, ‚<foreign xml:lang="la">dotalium</foreign>‘ statt „<foreign xml:lang="la">totalium</foreign>“, fügt zwischen „<foreign xml:lang="la">demonstrationem</foreign>“ und
+					„<foreign xml:lang="la">pro</foreign>“ sowie zwischen „<foreign xml:lang="la">ipsis</foreign>“ und „<foreign xml:lang="la">quae</foreign>“ Kommata ein, schreibt ‚<foreign xml:lang="la">quo Cl. Papinus</foreign>‘
+					statt „<foreign xml:lang="la">quae <hi rend="italic">Clariss. Papinus</hi></foreign>“ und lässt das Komma zwischen
+               	„<foreign xml:lang="la">debeo</foreign>“ und „<foreign xml:lang="la">imo</foreign>“ weg. Übersetzung (We): „Als ich in Florenz war,
+					habe ich einem Freunde noch einen anderen Beweis für die Möglichkeit einer
+					Übertragung der ganzen Kräfte usw. von einem größeren Körper in einen kleineren
+					ruhenden gegeben, der eben denen durchaus nahekommt, die der berühmte Papin sehr
+					geschickt zu meiner Unterstützung ausgedacht hat, wofür ich ihm Dank schulde, ja
+					auch seiner Gutherzigkeit entsprechend abstatte.“</note>
+               <note type="editorial" xml:id="en11035">Dieses erhellet … beylegen] Siehe hierzu Sacherläuterung zu
+               	<ref type="editorialNote" target="#en07134">61<hi rend="sup">24-25</hi></ref>.</note>
+            	<note type="editorial" xml:id="en11105">
+            		<hi rend="antiqua">momenta</hi>
+            		der Geschwindigkeit] Gemeint
+            		sind die Produkte der jeweiligen Geschwindigkeiten und Gewichtskräfte der
+            		beteiligten Körper. Vgl. <hi rend="smallCaps">Wolff</hi> 1716, 907.</note>
+               <note type="editorial" xml:id="en11217">
+                  <hi rend="antiqua">vires
+						in</hi> … <hi rend="antiqua">pinus</hi>] Übersetzung (We): „er stieß mit seiner Kraft ins Leere und überdies
+					fiel er, schwer wie er war, mit ungeheurem Gewicht schwer zu Boden; wie manchmal
+					eine hohle Kiefer aus dem Erymanthos oder dem hohen Ida entwurzelt fällt.“
+						(<hi rend="smallCaps">Vergil</hi>,
+							<hi rend="smallCaps italic">Aeneis</hi> V, 446–449)</note>
+               <note type="editorial" xml:id="en11231">Dieses würde … könne] Anspielung auf das Alte Testament. Im
+					Gegensatz zu den mächtigen Zedern des Libanons, die von Gott gepflanzt sein
+					sollen (Psalm 104, 16),
+					symbolisiert Ysop als kleinwüchsige Pflanze die Kleinheit des Menschen. Unter
+					anderem Zedernholz und Ysop werden zur rituellen Reinigung eines Hauses
+					empfohlen (3. Moses 14,
+					51–52).</note>
+               <note type="editorial" xml:id="en11320">Herr <hi rend="spaced">Wolf</hi> … hat] Gemeint ist die von Christian
+						<hi rend="smallCaps">Wolff</hi> (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>) im Dezember
+					1726 bei den Petersburger Kommentaren eingereichte und 1728 in deren erstem Band
+					veröffentlichte Schrift <hi rend="italic">Principia Dynamica</hi>.</note>
+               <note type="editorial" xml:id="en11405">Herr Wolf … Grunde] Vgl. <hi rend="smallCaps">Wolff</hi> 1728, 221 (Scholion
+					1).</note>
+               <note type="editorial" xml:id="en11416">
+                  <hi rend="antiqua">effectus
+						inocuos</hi>] Vgl. <hi rend="smallCaps">Wolff</hi> 1728, 221 (Definitio 7).
+					Der „<foreign xml:lang="la">effectus innocuos</foreign>“ bei Wolff korrespondiert mit dem „<foreign xml:lang="fr">l’Effect formel</foreign>“ bei
+						<hi rend="smallCaps">Leibniz</hi>; vgl. dessen <hi rend="italic">Essay de dynamique</hi> (1860,
+					221). Siehe dazu auch Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en06807">58<hi rend="sup">6-10</hi></ref>.</note>
+               <note type="editorial" xml:id="en11420">
+                  <hi rend="antiqua">Si duo</hi>
+					… <hi rend="antiqua">spatia</hi>] Übersetzung (We): „Wenn zwei
+					Bewegliche durch ungleiche Räume hindurchgetragen werden, so sind die
+					unschädlichen Wirkungen wie die Räume.“ Das Zitat lautet im Original: „<foreign xml:lang="la">Si duo
+					mobilia aequalia per spatia inaequalia transferuntur, effectus sunt ut spatia.</foreign>“
+						(<hi rend="smallCaps">Wolff</hi> 1728, 224, Theorema 6).
+               	Der Kontext erhellt, dass Kants Weglassung von „<foreign xml:lang="la">aequalia</foreign>“ nach „<foreign xml:lang="la">mobilia</foreign>“ und
+               	Hinzufügung von ‚<foreign xml:lang="la">innocui</foreign>‘ nach „<foreign xml:lang="la">effectus</foreign>“ nicht sinnentstellend ist.</note>
+               <note type="editorial" xml:id="en11506">Dieses zu … war] Zu Kants Argumentation hier siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02907">24<hi rend="sup">27</hi>-25<hi rend="sup">11</hi></ref>. Zu unterstreichen ist, dass diese
+					Argumentation weder dem Verständnis der gleichförmigen Bewegung in der Dynamik
+					von Leibniz und Wolff gerecht wird noch mit der newtonschen Bewegungslehre
+					übereinstimmt.</note>
+               <note type="editorial" xml:id="en11523">§ 105] Kant fügt dem § 105
+					im ‚zweiten‘ § 113 (zur Nummerierung siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03514">29<hi rend="sup">20</hi></ref>), Teil IV,
+					eine ‚Erläuterung‘ an, die die Kritik an Wolff verdeutlichen soll.</note>
+               <note type="editorial" xml:id="en11532">
+                  <hi rend="spaced">Weil in</hi> …
+						<hi rend="spaced">zusammen</hi>] Paraphrase von <hi rend="smallCaps">Wolff</hi> 1728, 226
+						(Theorema 9, Demonstratio).</note>
+               <note type="editorial" xml:id="en11536">
+                  <hi rend="antiqua">Actiones,
+						quibus</hi> … <hi rend="antiqua">celeritates</hi>] Zitat aus <hi rend="smallCaps">Wolff</hi> 1728, 228
+						(Theorema 10). Übersetzung (We):
+					„Aktionen, durch welche die gleiche Wirkung hervorgebracht wird, sind wie die
+					Geschwindigkeiten.“</note>
+               <note type="editorial" xml:id="en11610">
+                  <hi rend="spaced">Weil jedermann</hi> …
+						<hi rend="spaced">seyn</hi>] Vgl. <hi rend="smallCaps">Wolff</hi> 1728, 229 (Theorema 10,
+						Demonstratio II).</note>
+               <note type="editorial" xml:id="en11618">
+                  <hi rend="antiqua">Quoniam
+						hic</hi> … <hi rend="antiqua">&amp;c.</hi>] Zitat aus <hi rend="smallCaps">Wolff</hi> 1728, 229
+						(Theorema 10, Demonstratio II).
+						Kant setzt zwischen „<foreign xml:lang="la">temporum</foreign>“ und „<foreign xml:lang="la">ratio</foreign>“ ein Semikolon statt eines Kommas;
+					statt „<foreign xml:lang="la">sese habet</foreign>“ schreibt Kant ‚<foreign xml:lang="la">se habeat</foreign>‘ und setzt dahinter einen
+					Doppelpunkt statt eines Semikolons; außerdem vertauscht er die letzten beiden
+					Satzteile, er setzt „<foreign xml:lang="la">sive massae diversae &amp; tempus idem“ vor „sive massae
+					sint eadem &amp; tempus diversum</foreign>“. Übersetzung (We): „Da ja hier das
+					Verhältnis der Massen dasselbe ist wie im vorigen Fall das der Zeiten, das
+					Verhältnis der Geschwindigkeiten aber das gleiche bleibt: so ist es einerlei, ob
+					die Massen ungleich und die Zeit gleich, oder ob die Massen gleich und die Zeit
+					ungleich sind usw.“</note>
+               <note type="editorial" xml:id="en11715">
+                  <hi rend="spaced">Es ist</hi> …
+						<hi rend="spaced">seyn</hi>] Kants Schlussfolgerung aus den vorangegangenen Überlegungen verkennt die Rolle
+					der Aktion als Kraftmaß für die Zeit in der Leibniz-Wolff’schen Dynamik. Vgl.
+					dazu <hi rend="smallCaps">Pulte</hi> 1989, 56–62.</note>
+               <note type="editorial" xml:id="en11735">Das dritte Capitel] Gemeint ist wieder (siehe Sacherläuterung
+					zu 
+               	<ref type="editorialNote" target="#en02935">25<hi rend="sup">39</hi></ref>) das ganze <hi rend="italic">Dritte Hauptstück</hi> (§§ 114–163). 
+               	Es ist wahrscheinlich, dass § 106
+					ursprünglich hierzu überleiten sollte und alle folgenden Textabschnitte vor
+						§ 114 nachträglich –
+					möglicherweise im Frühjahr 1747 (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en11807">102<hi rend="sup">8-11</hi></ref>) – eingefügt wurden. Siehe hierzu
+               	auch den <ref type="editorialReport" target="#er558">editorischen Bericht</ref>.</note>
+            	<note type="editorial" xml:id="en11807">die, vom … sind] Zu Musschenbroek siehe
+               	Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01527">12<hi rend="sup">33</hi></ref>. Dessen Lehrwerk <hi rend="italic">Elementa
+						physicae</hi> (Leyden 1734, Venedig 1745) wurde nach der zweiten
+					lateinischen Auflage von dem Leipziger Literaten und Philosophen Johann
+					Christoph Gottsched (1700–1766) unter dem Titel <hi rend="italic">Grundlehren der
+						Naturwissenschaft</hi> ins Deutsche übersetzt und 1747 veröffentlicht (<hi rend="smallCaps">Musschenbroek</hi> 1747),
+					also nach dem vorgeblichen Erscheinungsjahr 1746 von Kants Erstlingsschrift.</note>
+               <note type="editorial" xml:id="en11825">Laßt uns … haben] Kant bezieht sich im Folgenden auf
+						<hi rend="smallCaps">Musschenbroek</hi> 1747, 94–99 (§§ 180–189). Fig. XVI und XVII bei Kant entsprechen
+					den Fig. 19 und 20 bei Musschenbroek. Zu Fig. XVIII
+					bei Kant fehlt in den <hi rend="italic">Grundlehren</hi> das
+					Gegenstück (Fig. 21); Fig. XIX
+					findet sich dort wieder als Fig. 22, allerdings ohne die
+					gestrichelten Lotlinien und die Bezeichnungen der Fußpunkte f, h, […].</note>
+               <note type="editorial" xml:id="en11926">Methode des … hat] Gemeint ist die Indivisibilienmethode des
+					italienischen Mathematikers Bonaventura Cavalieri (1598–1647), wonach der
+					Flächeninhalt einer Figur (hier: des Dreiecks ABC) durch unendlich viele
+					Strecken (hier: DE, FG, …) ‚ausgeschöpft‘ werden kann. Kant paraphrasiert hier
+					und im Folgenden <hi rend="smallCaps">Musschenbroek</hi> 1747, 98 f.
+						(§ 190).</note>
+               <note type="editorial" xml:id="en12015">Wie sich … Kraft] Im Original: „Wie sich aber verhält die
+					Anzahl der Kräfte, die in den Körper wirken; so verhält sich auch die in dem
+					Körper hervor gebrachte Kraft […].“ (<hi rend="smallCaps">Musschenbroek</hi> 1747, 99,
+						§ 190)</note>
+               <note type="editorial" xml:id="en12121">
+                  <hi rend="antiqua">Vulneribus
+						foecunda</hi> … <hi rend="antiqua">esset</hi>] Übersetzung (We): „Durch ihre Wunden war jene fruchtbar: und
+					keinen der hundert Köpfe schlug man ungestraft ab, vielmehr wurde der Nacken
+					durch zweifach nachwachsende stärker.“
+						(<hi rend="smallCaps">Ovid</hi>,
+							<hi rend="smallCaps italic">Metamorphosen</hi> IX,
+					70–73)</note>
+               <note type="editorial" xml:id="en12130">inclinirte Schnellwaage] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en10131">87<hi rend="sup">31-32</hi></ref>. An diesem Exempel wiederholt Kant nachfolgend im
+					Wesentlichen seine Argumentation aus § 100.</note>
+               <note type="editorial" xml:id="en12231">Herr Jurin] Zu Jurin siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en05602">47<hi rend="sup">28</hi></ref>.</note>
+               <note type="editorial" xml:id="en12301">
+                  <hi rend="antiqua">Cum</hi> …
+                     <hi rend="spaced antiqua">in
+						C</hi>] Bezug auf <hi rend="smallCaps">Leibniz’</hi> 1695 in den
+						<hi rend="italic">Acta Eruditorum</hi> erschienenen Aufsatz <hi rend="italic">Specimen
+						Dynamicum</hi> (1695, 155). Übersetzung (We): „Als ich
+					mithin verschiedene Körper, oder solche, die verschiedene Geschwindigkeiten
+					haben, vergleichen wollte, habe ich freilich leicht gesehen: wenn der Körper A
+					einfach ist und B doppelt, die Geschwindigkeit beider aber gleich, so ist auch
+					die Kraft von jenem einfach, von diesem doppelt, weil schlechthin alles, was in
+					jenem einmal, in diesem zweimal gesetzt ist. Denn in B ist zweimal ein Körper,
+					der dem A gleich und von gleicher Geschwindigkeit ist, und keiner mehr. Aber
+					wenn die Körper A und C gleich sind, die Geschwindigkeit jedoch in A einfach und
+					in C doppelt ist, sah ich, daß nicht schlechthin alles, was in A ist, in C
+					verdoppelt wird, usw.“ Im Original beginnt der Schlusssatz bei Leibniz mit „<foreign xml:lang="la">Sed
+					si corpora A&amp;B sint aequalia</foreign>“. Den Setzfehler (B statt C) hat Kant von
+					Leibniz übernommen; er steht nicht in Einklang mit der gezogenen
+					Schlussfolgerung und ist daher im Text der vorliegenden Edition korrigiert. Bei
+					Leibniz endet der letzte Satz mit „<foreign xml:lang="la">duplari in C, cum dupletur quidem
+					celeritas, non tamen &amp; corpus.</foreign>“ Die Hervorhebungen im Text wurden von Kant
+               	vorgenommen. Kant fügt zwischen „<foreign xml:lang="la">diversa</foreign>“ und „<foreign xml:lang="la">aut</foreign>“ ein Komma ein, setzt zwischen
+               	„<foreign xml:lang="la">vidi</foreign>“ und „<foreign xml:lang="la">si</foreign>“ statt eines Kommas einen Doppelpunkt, lässt das „<foreign xml:lang="la">sit</foreign>“ zwischen
+               	„B“ und „<foreign xml:lang="la">duplum</foreign>“ weg, setzt zwischen „<foreign xml:lang="la">aequalis</foreign>“ und „<foreign xml:lang="la">illius</foreign>“ ein Komma statt
+               	eines Semikolons, fügt zwischen „<foreign xml:lang="la">aequale</foreign>“ und „&amp;“ ein Komma ein, lässt das
+               	Komma weg zwischen „<foreign xml:lang="la">aequivelox</foreign>“ und „<foreign xml:lang="la">nec</foreign>“, fügt ein Komma ein zwischen „<foreign xml:lang="la">simpla</foreign>“
+               	und „&amp;“ und lässt die Kommata weg zwischen „<foreign xml:lang="la">videbam</foreign>“ und „<foreign xml:lang="la">non</foreign>“ sowie
+               	zwischen „<foreign xml:lang="la">est</foreign>“ und „<foreign xml:lang="la">duplari</foreign>“.</note>
+               <note type="editorial" xml:id="en12311">Er nahm … wegführet] Zu diesem Beispiel und der folgenden
+					Argumentation vgl. <hi rend="smallCaps">Jurin</hi> 1732, 118–121.</note>
+               <note type="editorial" xml:id="en12402">Marquisin von
+						<hi rend="spaced">Chastelet</hi>] Zu Du Châtelet siehe Sacherläuterung zu
+               	<ref type="editorialNote" target="#en04511">38<hi rend="sup">3-4</hi></ref>.</note>
+               <note type="editorial" xml:id="en12408">Sie hat … vermisset] Kant bezieht sich offenbar wieder (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04514">38<hi rend="sup">7-13</hi></ref>) auf Du <hi rend="smallCaps">Châtelet</hi> 1743, hier
+					479–482 (§ 585).</note>
+               <note type="editorial" xml:id="en12415">
+                  <hi rend="antiqua">fallaciam ignorationis
+						elenchi</hi>] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en08036">69<hi rend="sup">25</hi></ref>.</note>
+               <note type="editorial" xml:id="en12431">Herr <hi rend="spaced">Richter</hi> …
+						vorgebracht] Gemeint ist
+					der Mathematiker Georg Friedrich Richter (1691–1742), der 1735 in der
+					Zeitschrift <hi rend="italic">Acta Eruditorum</hi> eine <hi rend="italic">Responsio</hi> auf
+					Jurin veröffentlicht hat. Zu seinem von Kant im Folgenden dargestellten Argument
+					vgl. <hi rend="smallCaps">Richter</hi> 1735, 511 f. Kants Entgegnung lässt erkennen,
+					dass er bezüglich der Kontroversen über die Relativität bzw. Absolutheit von
+					Bewegung, ausgetragen vor allem zwischen den Anhängern von
+					Leibniz und Newton, bereits früh ganz auf der Seite Newtons steht.</note>
+               <note type="editorial" xml:id="en12606">Herr Richter … wickeln] Vgl. hierzu <hi rend="smallCaps">Richter</hi> 1735,
+					512–514.</note>
+               <note type="editorial" xml:id="en12617">Erläuterung zum 25ten §] Siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03514">29<hi rend="sup">20</hi></ref>.</note>
+               <note type="editorial" xml:id="en12725">Denen Leibnitzianern … habe] Zu Leibniz’ Kontinuitätsprinzip siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref> und zu 
+               	<ref type="editorialNote" target="#en03703">31<hi rend="sup">3</hi></ref>, zu Kants
+					Verwendungen des Prinzips siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03514">29<hi rend="sup">20</hi></ref> und zu
+               	<ref type="editorialNote" target="#en10522">91<hi rend="sup">6-9</hi></ref>.</note>
+               <note type="editorial" xml:id="en12815">Herr <hi rend="spaced">Johann</hi> …
+						worden] Zu Bernoulli siehe
+						Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>; die weiteren Ausführungen beziehen
+					sich auf <hi rend="smallCaps">J. Bernoulli</hi> 1735, 217 f.
+						(§ XIX).</note>
+               <note type="editorial" xml:id="en12822">
+                  <hi rend="antiqua">Desine
+						igitur</hi> … <hi rend="antiqua">scirpo</hi>] Mit „<foreign xml:lang="la">desine igitur quaerere nodum in scirpo</foreign>“ endet § XIX
+					von <hi rend="smallCaps">J. Bernoulli</hi> 1735, 218. Übersetzung (We): „Man höre
+               	also auf, einen Knoten an der Binse zu suchen“, d. h.
+					also, ein Problem da zu suchen, wo es keines gibt (eben bei einer
+					‚Binsenweisheit‘).</note>
+               <note type="editorial" xml:id="en12823">Die Frau … Bereitschaft] Vgl. Du <hi rend="smallCaps">Châtelet</hi> 1743,
+						459 f. (§ 569).</note>
+               <note type="editorial" xml:id="en12911">Unter diesen … Zeit] Kants Argumentation für die
+					Berücksichtigung der Zeit erscheint insofern unbegründet, als die verschiedenen
+					‚Drückungen‘ ja auch parallel zu einem Zeitpunkt erfolgen könnten. Er fasst hier
+					aber mit dem ‚Druck der Schwere‘ nur zeitlich aufeinanderfolgende Wirkungen
+					durch die ‚schwermachende Materie‘, d. h.
+					einen Äther, ins Auge. Siehe dazu Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02907">24<hi rend="sup">27</hi>-25<hi rend="sup">11</hi></ref> und
+					zu 
+               	<ref type="editorialNote" target="#en06030">51<hi rend="sup">33-38</hi></ref>. Dem gleichen Einwand ist auch Kants nachfolgendes
+					Beispiel zum schrägen Wurf ausgesetzt.</note>
+               <note type="editorial" xml:id="en13006">Der Herr … machet] Vgl. <hi rend="smallCaps">Mairan</hi> 1728, 67–81
+						(Ch. IX) und Du <hi rend="smallCaps">Châtelet</hi> 1743, 464–469
+						(§ 574). Die weitere Schilderung der Kontroverse bezieht sich
+					auf <hi rend="smallCaps">Mairan</hi> 1741 und Du <hi rend="smallCaps">Châtelet</hi> 1741; beide Texte sind übersetzt in
+					Du <hi rend="smallCaps">Châtelet</hi> 1743 (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04514">38<hi rend="sup">7-13</hi></ref>);
+					vgl. dort 489–530 (insbes. 495 f.) bzw. 522–563 (insbes.
+						531 f.).</note>
+               <note type="editorial" xml:id="en13220">Ich kan … angreifet] Die nachfolgenden Ausführungen richten
+					sich auf einen Vergleich Du <hi rend="smallCaps">Châtelets</hi> von Mairans hypothetischer
+					Argumentation zu Kräfteverteilungen mit Geldausgaben, der diese Argumentation
+					offenbar ins Lächerliche ziehen soll; vgl. 1743, 533 f.</note>
+               <note type="editorial" xml:id="en13301">
+                  <hi rend="antiqua">ridendo dicere
+						verum</hi>] Übersetzung (We): „Lachend die Wahrheit sagen.“ Vgl.
+               	Horaz' <hi rend="italic">Satiren</hi>, I, 1, 24–25:
+               	„<foreign xml:lang="la">ridentem dicere verum / Quid vetat?</foreign>“ (<hi rend="smallCaps">Horaz</hi>  1985, 256) Wörtlich nach Horaz bringt Du
+						<hi rend="smallCaps">Châtelet</hi> das Zitat zu Beginn ihres Vergleichs vor; vgl. 1743, 533.</note>
+               <note type="editorial" xml:id="en13324">Mich deucht … hineinbringt] Kant ergänzt hier seine Argumentation
+					gegen Johann Bernoullis Verteidigung der Erhaltung der lebendigen Kraft beim
+					elastischen Stoß (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en05613">47<hi rend="sup">39</hi>-48<hi rend="sup">29</hi></ref>),
+					von der er bei Abfassung von § 45 offenbar nur mittelbar (über Du
+					Châtelet) Kenntnis hatte.</note>
+               <note type="editorial" xml:id="en13403">
+                  <hi rend="antiqua">Non
+						capio</hi> … <hi rend="antiqua">queat</hi>] Zitat aus <hi rend="smallCaps">J. Bernoulli</hi> 1735, 219 (§ XXIII). 
+               	Bernoulli schreibt „<foreign xml:lang="la">adversarios</foreign>“ und „<foreign xml:lang="la">scepticus</foreign>“ groß.
+					Übersetzung (We): „Ich begreife nicht, was der hartnäckigste Gegner,
+					selbst wenn er Skeptiker wäre, diesem völlig einleuchtenden Beweis
+					entgegensetzen könnte.“</note>
+               <note type="editorial" xml:id="en13405">
+                  <hi rend="antiqua">Certe,
+						in</hi> … <hi rend="antiqua">ascendere</hi>] Zitat aus <hi rend="smallCaps">J. Bernoulli</hi> 1735, 222 (§ XXVII). Kant schreibt ‚diescere‘ statt „discere“ und
+					‚<foreign xml:lang="la">ascendere</foreign>‘ statt „<foreign xml:lang="la">adscendere</foreign>“. Bernoulli hebt „<foreign xml:lang="la">discere</foreign>“ und „<foreign xml:lang="la">solem horizontem
+					adscendere</foreign>“ durch Kursivierung hervor. Übersetzung (We): „Sicher
+					steht es nicht in unserer Macht, einen dazu zu zwingen, daß er zugebe, es werde
+					Tag, wenn wir die Sonne am Horizont aufsteigen sehen.“</note>
+               <note type="editorial" xml:id="en13416">In eben … zusammensetzen] Bezug auf <hi rend="smallCaps">J. Bernoulli</hi> 1735, 215
+						(§ XIV). Die Fig. 23, 24, 25 bei Kant entsprechen
+					schematisch, aber nicht nach Bezeichnungen, den Fig. 3,
+					n.1, n.2, n.3 bei Bernoulli, die dort in Tab. III
+					wiedergegeben werden. Kant lässt in der folgenden ‚<foreign xml:lang="la">Cautele</foreign>‘ außer Acht, dass
+					Bernoulli ein idealisiertes Gedankenexperiment mit einem vollkommen elastischen
+					Körper durchführt; vgl. a. a. O.,
+					216 (§ XV).</note>
+               <note type="editorial" xml:id="en13532">
+                  <hi rend="antiqua">aequales
+						rationes</hi> …<hi rend="antiqua">
+						possunt</hi>] Übersetzung (We): „gleiche Verhältnisse können eines an die Stelle
+					des anderen gesetzt werden.“ Es handelt sich weder hier noch im Anschluss um ein
+					Zitat aus <hi rend="smallCaps">Wolff</hi> 1728, siehe aber Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en11618">100<hi rend="sup">31-34</hi></ref>.</note>
+               <note type="editorial" xml:id="en13534">
+                  <hi rend="antiqua">Tempora,
+						quibus</hi> … <hi rend="antiqua">celeritates</hi>] Übersetzung (We): „Die Zeiten,
+					in denen zwei Bewegliche, <hi rend="italic">wenn sie gleich sind,</hi> dieselben
+					Wirkungen ausüben, sind umgekehrt wie die Geschwindigkeiten.“</note>
+               <note type="editorial" xml:id="en13602">
+                  <hi rend="antiqua">Massae
+						<hi rend="spaced">corporum</hi></hi> … <hi rend="antiqua">celeritates</hi>] Übersetzung (We): „Die Massen
+						<hi rend="italic">ungleicher Körper</hi>, die dieselben Wirkungen ausüben, sind
+					umgekehrt wie die Geschwindigkeiten.“ Bei Wolff heißt es im zweiten Teil des
+					Beweises von Theorema 10, um das es Kant hier geht: „<foreign xml:lang="la">Si
+					idem effectus producitur eodem tempore, mobili existente diverso; celeritates
+						C &amp; <hi rend="italic">c</hi> sunt reciproce
+					ut massae M &amp; <hi rend="italic">m</hi> (§ 46.).</foreign>“ (<hi rend="smallCaps">Wolff</hi> 1728, 229, Theorema 10,
+						Demonstratio II). Mit § 46
+					verweist Wolff auf das vorhergehende Corollarium 12 zu
+					Theorema 9; a. a. O.,
+					228.</note>
+               <note type="editorial" xml:id="en13611">
+               	<hi rend="antiqua">NB</hi>] Abkürzung für ‚<foreign xml:lang="la">notabene</foreign>‘, d. h.
+					wohlgemerkt.</note>
+               <note type="editorial" xml:id="en13614">also verhalten … ist] Gegenüber der eher pauschalen Kritik in
+						§ 105 differenziert Kant hier zwischen beiden Fällen
+					(Gleichheit der Massen und Wirkungen bei Ungleichheit der Zeit bzw. Gleichheit
+					der Wirkungen und Zeit bei Ungleichheit der Massen) und ihren unterschiedlichen
+					Voraussetzungen. Die im Folgenden behaupteten Widersprüche werden jedoch
+					weiterhin (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en11715">101<hi rend="sup">24-26</hi></ref>) dem
+					leibniz-wolffschen Aktionsbegriff nicht gerecht.</note>
+               <note type="editorial" xml:id="en13621">
+                  <hi rend="antiqua">Actiones,
+						quibus</hi> … <hi rend="antiqua">celeritates</hi>] Übersetzung (We): „Die
+					Aktionen, wodurch gleiche Körper dieselben Wirkungen ausüben, sind wie die
+					Geschwindigkeiten.“ Es handelt sich wiederum (wie auch im Folgenden) nicht um
+					ein wörtliches Zitat aus <hi rend="smallCaps">Wolff</hi> 1728; vgl. aber dort 228 f.,
+						Theorema 10.</note>
+               <note type="editorial" xml:id="en13624">
+                  <hi rend="antiqua">Actiones,
+						quibus</hi> … <hi rend="antiqua">massae</hi>] Übersetzung (We): „Die Aktionen, wodurch ungleiche Körper
+					dieselben Wirkungen ausüben, sind auch wie deren Geschwindigkeiten; ihre
+					Geschwindigkeiten aber sind umgekehrt wie die Massen.“</note>
+               <note type="editorial" xml:id="en13805">Eben dieses … haben] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>.</note>
+            	<note type="editorial" xml:id="en13811">Er kan …
+            		<hi rend="spaced">Anaxarchus</hi>] Bezug auf die der Überlieferung nach
+            		letzten Worte des Philosophen Anaxarchus, der als Mitstreiter und Freund von
+            		Alexander dem Großen nach dessen Tod in die Hände des Tyrannen Nikokreon von
+            		Kypros fiel, der ihn foltern und erschlagen ließ. Vgl. etwa <hi rend="smallCaps">Diogenes
+            			Laertius</hi> 1990, 190 f. (IX, 61).</note>
+               <note type="editorial" xml:id="en13908">Indessen haben … appelliren] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en11735">101<hi rend="sup">41</hi>-102<hi rend="sup">1</hi></ref>. Kant knüpft in § 114
+					an das bereits früher verschiedentlich artikulierte Leitargument an, dass die
+					Mathematik <hi rend="italic">per se</hi> keine Naturerkenntnis gewährt, sondern dazu
+					einer Ergänzung durch die Metaphysik bedarf. Im <hi rend="italic">Zweiten Hauptstück</hi> finden sich
+					entsprechende Hinweise insbes. in den §§ 28,
+					49, 50, 62, 88, 90, 91. Kants frühe Auffassung zum Verhältnis von Mathematik und
+					Metaphysik ist möglicherweise von Baumgarten (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03630">30<hi rend="sup">31</hi></ref>) oder von Christian August Crusius (1715–1775) beeinflusst.
+					Vgl. hierzu <hi rend="smallCaps">Baumgarten</hi> 1739, 81–94 (Cap. II)
+					bzw. <hi rend="smallCaps">Crusius</hi> 1745, 188–198 (§§ 116–119).</note>
+               <note type="editorial" xml:id="en14010">Die Mathematik … lässet] Kant rekapituliert hier die beiden
+					Schlussfolgerungen, die er aus seiner Analyse der ‚Wirklichkeit der Bewegung‘
+					(siehe § 27) in § 28 für die Mathematik gezogen
+					hat.</note>
+               <note type="editorial" xml:id="en14107">Jurinischen Falles, § 110] Zu
+					Jurin siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en12311">106<hi rend="sup">28-31</hi></ref>. Die von Kant behauptete
+					Analogie ist insofern nicht schlüssig, als er das Verhältnis von Ruhe und
+					Bewegung als Verhältnis von <hi rend="italic">unendlich</hi> kleiner Geschwindigkeit
+					und endlicher Bewegung konzipiert, bei der erstere zudem eine
+						<hi rend="italic">Einheit</hi> darstellen soll.</note>
+               <note type="editorial" xml:id="en14124">Intension] <hi rend="italic">Intension</hi> in der
+               	Bedeutung Kants, d. h. als ein inneres Streben zur
+					Aufrechterhaltung der Bewegung jenseits der Trägheit, weckt Assoziationen an die
+					mittelalterliche Impetustheorie. Das Wort findet aber in der Bewegungslehre vor
+					Kant keine terminologische Verwendung; Ausdrücke wie <hi rend="italic">conatus</hi>
+					oder <hi rend="italic">nisus</hi> sind eher geläufig, um ein Streben eines Körpers zu
+					bezeichnen. Kant führt den Begriff offenbar in der Absicht ein, zwischen einer
+					rein mathematischen und einer metaphysischen Behandlung von Kräften zu
+					vermitteln: Das Produkt aus Geschwindigkeit und Intension soll die Kraft eines
+					Körpers sein, die quantitativ unter gewissen Umständen –
+					wenn nämlich die Intension in der Zeit andauert (siehe § 119)
+					– durch Leibniz’ Maß <hi rend="italic">m v<hi rend="sup">2</hi>
+                  </hi> dargestellt werden kann. Hat
+					ein Körper nur eine momentane Intension, ist sein Kraftmaß das cartesianische
+               	<hi rend="italic">m v</hi> (siehe
+						§ 118). (Dass hier die Masse <hi rend="italic">m</hi> stets
+					mitzudenken ist, wird beiläufig am Ende von § 119
+					erwähnt.) Kant knüpft hier an die im <hi rend="italic">Ersten Hauptstück</hi> (§ 15)
+					getroffene Unterscheidung zweier Hauptarten der Bewegung an –
+					der freien, auf dauerndem inneren Antrieb beruhenden und der erzwungenen, durch
+					äußere Verursachung hervorgerufenen; siehe auch § 120.
+					Zur Problematik dieser Unterscheidung siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en02812">23<hi rend="sup">29</hi>-24<hi rend="sup">8</hi></ref>.</note>
+               <note type="editorial" xml:id="en14228">Bey einer … seyn] Kant bedient sich der geometrischen
+					Beschreibung, dass eine andauernde Intension ‚wie eine Linie‘ und die zugehörige
+					Kraft ‚wie das Quadrat‘ sei, während bei einer nur augenblicklichen Intension
+					diese ‚wie ein Punkt‘ und die zugehörige Kraft ‚wie eine Linie‘ sei. Fasst man,
+					modernisierend und analytischer betrachtet, im ersten Fall die unendlich kleine
+					Intension als Geschwindigkeitsdifferential <hi rend="italic">dv</hi> auf, so würde das
+               	Kraftmaß durch Aufsummation (Integration) über <hi rend="italic">m v dv</hi> gebildet und ergäbe
+               	(bis auf den Faktor ½) die leibnizsche <hi rend="italic">vis viva</hi>
+               	<hi rend="italic">m v<hi rend="sup">2</hi>
+                  </hi>. Im zweiten Fall wäre die
+					Intension mathematisch als Einheit (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en14107">121<hi rend="sup">24-25</hi></ref>) zu denken, und es ergäbe sich das cartesianische Kraftmaß
+               	<hi rend="italic">m v 1 = m v</hi>. Eine solche
+					‚Übersetzung‘ wäre aber aus kantischer Sicht nichts als ein Behelf, denn Kants
+					geometrische Ausdrucksweise ist eher als eine analogische zu verstehen, in der
+					geometrische Bilder <hi rend="italic">metaphysische</hi> Thesen zur Dynamik der Körper
+					veranschaulichen sollen: Die Mathematik kann hier nicht mehr ausrichten, nur die
+						<hi rend="italic">Metaphysik</hi> liefert nach Kant die eigentliche Lösung des
+					Problems des wahren Kraftmaßes.</note>
+               <note type="editorial" xml:id="en14422">In demselben … ist] Bezugnahme auf Leibniz’ Unterscheidung von
+						<hi rend="italic">vis mortua</hi> und <hi rend="italic">vis viva</hi>; siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>.</note>
+               <note type="editorial" xml:id="en14520">Dieses giebt … überführen] Siehe zu diesem Kontinuitätsargument
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03514">29<hi rend="sup">20</hi></ref> und zu 
+               	<ref type="editorialNote" target="#en10522">91<hi rend="sup">6-9</hi></ref>.</note>
+               <note type="editorial" xml:id="en14625">
+                  <hi rend="spaced">Lebendigwerdung,</hi> oder
+                     <hi rend="antiqua spaced">Vivification</hi>] Der Prozess der Lebendigwerdung oder
+               	‚Vivification‘ ist nach der vorhergehenden Argumentation ein kontinuierlicher
+					Prozess, in dem die externe Verursachung lediglich als ein initialer Stimulus zu
+					verstehen ist: Die dabei aufgewandte Kraft ist der von Kant unterstellten
+					inneren Naturkraft nicht etwa gleich, sondern ‚erweckt‘ letztere, die latent
+					vorhanden ist und in einem Prozess der Selbstverstärkung immer weiter anwächst.
+					Beim Auftreffen des Köpers auf Widerstände wird sie dann als lebendige Kraft
+               	<hi rend="italic">m v<hi rend="sup">2</hi>
+                  </hi>
+               	gemessen. Kants Idee der ‚Vivification‘ setzt nicht nur traditionelle
+					metaphysische Annahmen (wie <foreign xml:lang="la"><hi rend="italic">aequat causa effectum</hi></foreign>) außer Kraft,
+					sondern widerspricht auch den Prinzipien der newtonschen (und selbst der
+					leibnizschen) Mechanik.</note>
+               <note type="editorial" xml:id="en14718">18ten §] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03028">26<hi rend="sup">5-9</hi></ref>.</note>
+               <note type="editorial" xml:id="en14807">schlechten Geschwindigkeit] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03928">33<hi rend="sup">12-13</hi></ref>.</note>
+               <note type="editorial" xml:id="en14907">Es heißt … widersprechen] Kants Resümee des § 125
+					liefert einen weiteren Beleg für die ‚irenische‘ Methode, die seiner
+					Untersuchung grundsätzlich eigen ist; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en09313">80<hi rend="sup">20-26</hi></ref>.</note>
+               <note type="editorial" xml:id="en14917">Die freye … Natur] Kant hebt hier darauf ab, dass die
+					Existenz lebendiger Kräfte nicht durch notwendige Körpereigenschaften, sondern
+					durch die Erfahrung verbürgt sei. Siehe hierzu auch § 130
+					und §§ 157–162.</note>
+               <note type="editorial" xml:id="en14923">Indessen ist … erlaube] Siehe hierzu die 
+               	<ref type="editorialNote" target="#en15007">folgende Sacherläuterung</ref>.</note>
+               <note type="editorial" xml:id="en15007">Ich werde … seyn] Der Satz steht (mindestens) in Spannung zu
+               	der in § 126 vertretenen These, dass die Mathematik ‚keine freye
+               	Bewegung erlaube‘. Später (§ 129) spricht Kant sogar von Fällen
+               	der Erhaltung der lebendigen Kraft, ‚die durchaus geometrisch nothwendig
+					seyn‘.</note>
+               <note type="editorial" xml:id="en15027">oben] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en12822">111<hi rend="sup">15</hi></ref>.</note>
+               <note type="editorial" xml:id="en15029">
+                  <hi rend="antiqua">Vis
+						viva</hi> … <hi rend="antiqua">&amp;c.</hi>] Übersetzung (We): „Die
+					lebendige Kraft ist etwas Reales und Substantielles, das durch sich besteht,
+					und, soviel an ihm liegt, nicht von einem anderen abhängt; […] Die tote Kraft ist
+					nichts Unbedingtes und durch sich selber Dauerndes usw. usw.“ Es handelt sich
+					z. T. um ein ungenaues Zitat, zum Teil um eine
+					interpretierende Wiedergabe des weiteren Textes. Im Original heißt es zunächst:
+					„<foreign xml:lang="la">Hinc patet, <hi rend="italic">vim vivam</hi> (quae aptius vocaretur <hi rend="italic">facultas
+						agendi</hi>, Gallice <hi rend="italic">le pouvoir</hi>) esse aliquid
+						<hi rend="italic">reale &amp; substantiale</hi>, quod per se subsistit, &amp;,
+					quantum in se est, non dependet ab alio.</foreign>“ (<hi rend="smallCaps">J. Bernoulli</hi> 1735, 211,
+						§ III). Im Verlauf des folgenden Paragraphen schreibt
+						Bernoulli dann: „<foreign xml:lang="la">Est igitur vis viva aliquid absolutum &amp; sine correlato.
+					Altera vero, nempe vis mortua, seu pressio, est relativum quid, quod supponit
+					duo a se invicem diversa, scilicet causam prementem, undecunque illa veniat,
+					&amp; deinde corpus, quod premitur. Cessante causa premente, cessat &amp; ipsa
+					pressio, perit effectus cum causa, nisi quatenus corpus cedit prementi, &amp;
+					successive in motum concitatur, quo ipso generatur vis viva in corpore
+					aliquandiu presso, quae semel generata sit substantialis, ac perire, vel
+					diminui, nequit, quin tantundem, quantum periisse visum est, in aliud vel alia
+					corpora transierit.</foreign>“ (<hi rend="smallCaps">J. Bernoulli</hi> 1735, 212, § IV)</note>
+               <note type="editorial" xml:id="en15111">
+                  <hi rend="antiqua">realis &amp;
+						substantialis</hi> … <hi rend="antiqua">aliquid</hi>] Übersetzung (We): „Realen und Substantiellen, das durch sich
+					besteht und etwas Unbedingtes ist“.</note>
+               <note type="editorial" xml:id="en15122">
+                  <hi rend="antiqua">quod
+						non</hi> … <hi rend="antiqua">alio</hi>] Übersetzung (We): „was nichts Unbedingtes ist, sondern von etwas
+					anderem abhängen wird“.</note>
+               <note type="editorial" xml:id="en15134">Wir haben … giebt] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en14917">128<hi rend="sup">30-35</hi></ref>. Der Nachweis der lebendigen Kraft bedarf des
+					empirischen Nachweises von freier Bewegung, was –
+					wie Kant weiter ausführt – diese Kraft selber als etwas
+					‚hypothetisches und zufälliges‘ erscheinen lässt.</note>
+               <note type="editorial" xml:id="en15209">Theodicee] Leibniz’ <hi rend="italic">Théodicée</hi>
+					enthält keinen Beleg für Kants Behauptung. Tatsächlich hat Leibniz versucht, die
+					Erhaltung der lebendigen Kraft <hi rend="italic">apriorisch</hi> zu beweisen (vgl.
+						<hi rend="smallCaps">Pulte</hi> 1989, 58–62). Was sich in der <hi rend="italic">Théodicée</hi>
+					findet, ist eine allgemeine, nicht auf die Erhaltungsdiskussion bezogene Aussage
+					über die Kontingenz der physischen Dinge relativ zu Gott: „<hi rend="italic">Gott ist der
+						erste Grund der Dinge</hi>, denn alle beschränkten Dinge, wie alles, was
+					wir sehen und erfahren sind zufällig und haben nichts in sich, was ihr Dasein
+					nothwendig macht, da offenbar die Zeit, der Raum und der Stoff in sich selbst
+					geeint, gleichförmig und dabei, gleichgültig gegen alles andere, auch ganz
+					andere Bewegungen und Gestalten und eine andere Ordnung annehmen konnten. Man
+					muss deshalb den <hi rend="italic">Grund für das Dasein der Welt</hi>, welches die
+					volle Ansammlung der <hi rend="italic">zufälligen</hi> Dinge ist, aufsuchen und man
+					muss ihn in derjenigen <hi rend="italic">Substanz</hi> suchen, <hi rend="italic">welche den
+						Grund ihres Daseins in sich selbst hat</hi> und deshalb ewig und
+               	<hi rend="italic">nothwendig</hi> ist.“ (<hi rend="smallCaps">Leibniz</hi> 1879, Teil 1, § 7; <hi rend="smallCaps">Leibniz</hi> 1710, 101 f. ).</note>
+               <note type="editorial" xml:id="en15210">Herr Daniel Bernoulli] Kant schreibt im Original ‚Nicolaus
+					Bernoulli‘. Die Bernoulli-Dynastie kennt einen Nicolaus I
+					(1687–1759) und einen Nicolaus II (1695–1726). Es kann aber als
+					sicher gelten, dass Kant hier Daniel Bernoulli (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>) meint (vgl. La, 532): Daniel hat in den Petersburger
+					Kommentaren die Abhandlung <hi rend="italic">Examen
+						principiorum</hi> (<hi rend="smallCaps">D. Bernoulli</hi> 1728) veröffentlicht, auf die Kant sich bezieht. Die
+					Namensverwechslung dürfte daher rühren, dass von Nicolaus II
+					unmittelbar vorher im gleichen Band der Beitrag <hi rend="italic">De motu
+						corporum</hi> (<hi rend="smallCaps">N. Bernoulli</hi> 1728) erschienen ist.</note>
+               <note type="editorial" xml:id="en15212">nemlich, daß … müsse] Die von Kant als ‚Grundäquation‘
+               	bezeichnete Formel <hi rend="italic">dv = p dt</hi> mit
+						<hi rend="italic">v</hi> als Geschwindigkeit, <hi rend="italic">t</hi> als Zeit und
+						<hi rend="italic">p</hi> (‚<foreign xml:lang="la">pressio</foreign>‘) als direktiver Kraft ist eine damals
+					geläufige Darstellung des (heute) sogenannten zweiten newtonschen Axioms bzw.
+					Bewegungsgesetzes. Daniel Bernoulli kritisiert das Gesetz als lediglich
+					kontingent wahr, um den Vorrang notwendiger Prinzipien der Statik beim Aufbau
+					einer umfassenden Mechanik zu betonen; vgl. <hi rend="smallCaps">D. Bernoulli</hi> 1728, 127
+						(§ I). Der epistemische Status des zweiten Bewegungsgesetzes
+					(und anderer) wird in der Zeit lebhaft diskutiert, vgl. <hi rend="smallCaps">Pulte</hi> 2005.</note>
+               <note type="editorial" xml:id="en15220">Und dennoch … ist] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en15007">129<hi rend="sup">14-17</hi></ref>.</note>
+               <note type="editorial" xml:id="en15224">Herr Hermann] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en00719">5<hi rend="sup">18-19</hi></ref>.</note>
+               <note type="editorial" xml:id="en15234">„Weil der …
+						<hi rend="spaced">Größen</hi>.“] Kants Übersetzung ist ungenau. Hermann
+					selber schreibt: „<foreign xml:lang="la">Cum incrementum istud vis vivae <hi rend="italic">d</hi>V, nascatur
+					a gravitate <hi rend="italic">g</hi> in corpus C agente, quod corpus jam habeat
+					celeritatem <hi rend="italic">u</hi>, &amp; massam M, atque adeo motus quantitatem
+						M<hi rend="italic">u</hi>, quantitatis huius motus necessario ratio habenda est,
+					nam in hoc statu in quo est mobile, celeritas ab ipso inseparabilis est;
+					componetur igitur incrementum vis vivae, ex hisce tribus, nempe ex <hi rend="italic">g</hi>, M<hi rend="italic">u</hi> &amp; <hi rend="italic">dt</hi>, eritque adeo
+					necessario dV=<hi rend="italic">g</hi>M<hi rend="italic">udt</hi>, non vero ut vulgo
+					supponitur, dV=gMdt.</foreign>“ (<hi rend="smallCaps">Hermann</hi> 1728, 24, § 24;
+					uneinheitliche Hervorhebungen aus dem Original übernommen). Mit Lasswitz (La,
+					529) ist festzustellen, dass Kant die Größen und Formeln Hermanns
+					durcheinanderbringt: Statt Hermanns Zusammensetzung von dV nach den Faktoren
+						M <hi rend="italic">u</hi> (Bewegungsgröße), <hi rend="italic">g</hi>
+					(Gravitationsbeschleunigung) und <hi rend="italic">dt</hi> (Zeitelement) führt Kant
+               	die Faktoren M (Masse), <hi rend="italic">u</hi> (Geschwindigkeit) und g <hi rend="italic">dt</hi> (Geschwindigkeitselement) auf. Hermann
+					setzt, begründet durch Proportionalitätsüberlegungen, das Element dV der
+						<hi rend="italic">vis viva</hi> keineswegs willkürlich aus ‚seinen‘ drei Faktoren
+               	zusammen: dV=<hi rend="italic">g</hi> M <hi rend="italic">u dt</hi>. Kants Darstellung
+					von dV gibt diese Überlegungen nicht wieder. Zudem schreibt er im Original
+					‚gleich <hi rend="italic">g M dt</hi>‘, gibt also das als Resultat an, was Hermann
+					bestreitet (Hervorhebungen nach Original). Hier dürfte es sich um einen Schreib-
+					oder Druckfehler handeln, sodass eine entsprechende Konjektur vorgenommen
+					wurde.</note>
+               <note type="editorial" xml:id="en15312">Ich habe … schoß] Kants Beobachtung kann keine Allgemeinheit
+					beanspruchen, da in der Regel die Mündungsgeschwindigkeit einer Gewehrkugel ihre
+					Höchstgeschwindigkeit ist, die mit zunehmender Entfernung von der Mündung aufgrund des Luftwiderstands abnimmt. Falls eine „Flinte“ verwendet wurde, bei der
+					die durch die Explosion im Gewehrlauf hervorgerufene Gasexpansion in einem
+					kleineren Abstand außerhalb der Mündung noch andauert, ist Kants Beobachtung auf
+					diese andauernde Expansion zurückzuführen, nicht jedoch auf eine Erklärung durch
+					sein ‚Lehrgebäude‘.</note>
+               <note type="editorial" xml:id="en15424">Denn alsdenn … worden] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en10522">91<hi rend="sup">6-9</hi></ref>.</note>
+               <note type="editorial" xml:id="en15520">
+                  <hi rend="antiqua">Corpus
+						quodvis</hi> … <hi rend="antiqua">cogatur</hi>] Übersetzung (We): „Jeder Körper setzt seinen Zustand der Ruhe oder der
+					gleichförmigen geradlinigen Bewegung fort, wenn er nicht von einer äußeren
+					Ursache gezwungen wird, den Zustand zu ändern.“ Kant folgt nicht genau Newtons
+					Formulierung des ersten Bewegungsgesetzes in der Erstauflage von dessen Hauptwerk:
+					„<foreign xml:lang="la">Corpus omne perseverare in statu suo quiescendi vel movendi uniformiter in
+					directum, nisi quatenus illud a viribus impressis cogitur statum suum mutare.</foreign>“
+						(<hi rend="smallCaps">Newton</hi> 1687, 12). In späteren Auflagen wird diese Formulierung
+					nicht oder nur geringfügig modifiziert. In der Amsterdamer Ausgabe von 1714, die
+					zu Kants Bibliothek gehörte (vgl. <hi rend="smallCaps">Warda</hi> 1922, 12), finden sich offenbar keine
+					Abweichungen von der Erstausgabe. In jedem Fall ist Kants vorangegangene
+					Forderung, das Trägheitsgesetz erst ‚von einem gewissen Grade Geschwindigkeit
+					an‘ gelten zu lassen, insofern befremdlich, als das Gesetz auch für den Zustand
+					der Ruhe formuliert ist; Kants Einschränkung ist den Grundlagen der newtonschen
+					Mechanik diametral entgegengesetzt.</note>
+               <note type="editorial" xml:id="en15604">Diese Regel … selber] Kant fordert hier eine Berücksichtigung
+					seiner Kraftspekulationen bei einer Neufassung der Gesetze für den Fall der
+					Bewegung eines Körpers in einem widerstehenden Medium, der u. a.
+					von <hi rend="smallCaps">Newton</hi> in seinen <hi rend="italic">Principia</hi> (1687, <hi rend="italic">Liber
+						Secundus</hi>) behandelt wurde. Es bleibt offen, ob diese Forderung auch
+					für die Bewegung im Äther, dem Kant auch einen gewissen Widerstand beimisst
+					(siehe §§ 17, 104), gelten soll.</note>
+            	<note type="editorial" xml:id="en15632">Nun ist … darthut] Mit <hi rend="smallCaps">Arana Cañedo Argüelles</hi> (1988, 460) kann
+					angenommen werden, dass Kant hier der wolffschen Ontologie folgt: „<foreign xml:lang="la">Omne ens
+					mutabile finitum est &amp; omne finitum mutabile.</foreign>“ (<hi rend="smallCaps">Wolff</hi> 1728, 41,
+						§ 45).</note>
+               <note type="editorial" xml:id="en15713">Hieraus fliesset … ist] Es ist nicht erkennbar, wie Kants Postulat
+					eines spezifischen Maßes der ‚Naturkraft‘, die jedem Körper innewohne und seine
+					lebendige Kraft der Größe nach begrenze, aus den vorhergehenden Thesen ableitbar
+					ist, noch, wie aus der im Folgenden behaupteten, anthropomorph anmutenden
+					Vielfalt der Körper und Naturkräfte eine allgemeine Gesetzlichkeit von
+					Bewegungen gewonnen werden könnte.</note>
+               <note type="editorial" xml:id="en15815">Dieses zu … umkehren] Siehe Fig. 21 zu
+					Kants folgendem, verfehltem Beweisversuch.</note>
+               <note type="editorial" xml:id="en15912">Wenn die … war] Während Kant mit dem <hi rend="italic">Dritten Hauptstück</hi>
+					(siehe § 114) beansprucht, <hi rend="italic">gegen</hi> eine
+					mathematische Behandlung der Frage des wahren Kraftmaßes eine metaphysische
+					Lösung aufzuzeigen, ist das hier vorgebrachte Hauptargument zur ‚Verteilung‘ der
+					lebendigen Kraft auf verschiedene Hindernisse ein rein mathematisches: Die
+					Quadratzahl der Summe endlich vieler Größen ist größer als die Summe der
+					Quadrate der einzelnen Größen. Das am Ende von § 137
+					fälschlich behauptete und in § 138 an weiteren Beispielen
+					ausgeführte ‚Verschwinden‘ der lebendigen Kraft ohne Übertragung auf andere
+					Hindernisse beruht lediglich auf der Anwendung dieses Satzes und konterkariert
+					Kants eigentliche Zielsetzung, in diesem Hauptstück Leibniz’ <foreign xml:lang="la"><hi rend="italic">vis
+						viva</hi></foreign> als dynamisches Konzept zu ‚rehabilitieren‘.</note>
+               <note type="editorial" xml:id="en16213">Sehet also … nicht auch auf] Kant argumentiert im 
+               	<hi rend="italic">Zweyten Hauptstück</hi>
+					(insbes. §§ 31–37) gegen die leibnizsche Auffassung, dass die Kraft,
+					mit der ein Körper den Widerstand der Schwere überwindet, proportional zum
+					Quadrat seiner Geschwindigkeit sei. Hier wird dieser Standpunkt einerseits
+					bekräftigt, andererseits wird in Bezug auf Kants Kraftkonzept (‚unsere lebendigen
+					Kräfte‘) behauptet, diese Kraft sei indifferent gegenüber der Bewegung unter
+					Einfluss der Schwere, ohne dass gezeigt wird, wie dieses Konzept im fraglichen
+					Fall vom leibnizschen unterschieden werden könnte.</note>
+               <note type="editorial" xml:id="en16306">denn auf … hätten] Das Beispiel ist nicht geeignet, den von
+					Kant auch hier behaupteten Kraftverlust zu demonstrieren: Die Wirkung einer
+					Ramme (‚Mauerbrecher‘) durch einen weichen Körper (‚Wollsäcke‘) wird gedämpft
+					durch die (relative) Verlangsamung des Stoßprozesses und die Verteilung des
+					Stoßes auf einen größeren Raum, sagt aber nichts über einen Verlust an
+					lebendiger Kraft: Vielmehr geht vom leibnizschen Standpunkt die lebendige Kraft
+					der Ramme im Wesentlichen auf die Bestandteile des weichen Körpers über, und
+					dies ist auch nachweisbar (über dessen Erwärmung). Der auch im folgenden
+						§ 141 behauptete Vorrang der These vom wahren Kraftverlust
+					gegenüber anderen Erklärungsansätzen ist also durchaus unbegründet. Siehe auch
+					Sacherläuterung zu 
+					<ref type="editorialNote" target="#en16716">144<hi rend="sup">25</hi>–145<hi rend="sup">7</hi></ref>.</note>
+               <note type="editorial" xml:id="en16323">Nunmehro wollen … kan] Nachdem Kant zuvor die Erhaltung der
+               	lebendigen Kraft <hi rend="italic">m v<hi rend="sup">2</hi>
+                  </hi> für
+					beliebig kleine (§ 132) und große (§ 133)
+					Geschwindigkeiten für sich im negativen Sinne entschieden hatte, dehnt er die an
+					sich berechtigte Untersuchung der Allgemeinheit des Erhaltungsgesetzes auf
+					beliebig kleine Massen aus. Er bedient sich im Weiteren wiederum des
+					Kontinuitätsprinzips (siehe §§ 143, 145), um auch hier
+					Anwendungsgrenzen behaupten zu können (siehe § 144).</note>
+               <note type="editorial" xml:id="en16423">Die Sache … berühren] Kant beruft sich hier auf die von Newton
+					und seinen Schülern vertretene Gravitationstheorie, um dafür zu argumentieren,
+					dass die ‚Solicitation‘ der Schwere auch auf die innersten, beliebig kleinen
+					Massen der Körper wirkt und kraft seiner früheren Argumentation (für beliebig
+					kleine Geschwindigkeiten) eine Manifestation der lebendigen Kraft verhindert.
+					Was Kant nicht erörtert, ist, dass nach der ‚wahren Naturlehre‘ Newtons
+					vollkommen harte Körper existieren, insbesondere die Atome vollkommen hart sind,
+					was impliziert, dass solche Körper im direkten Stoß miteinander strikt
+					sprunghafte Geschwindigkeitsänderungen erleiden (vgl. <hi rend="smallCaps">Scott</hi> 1970).
+					Dieser Aspekt wird durch Kants weitere Argumentation auf der Grundlage des
+					Kontinuitätsprinzips nicht berücksichtigt.</note>
+               <note type="editorial" xml:id="en16716">So muß … geschiehet] Kants vierter Punkt des § 145
+					geht ersichtlich über die Zusammenfassung der vorangehenden Ausführungen zu
+					beliebig kleinen Massen hinaus und führt nun mit der Veränderung der Figur eine
+					weitere Restriktion für die Regel ein, die Wirkung einer bewegten Masse durch
+					die lebendige Kraft zu bestimmen. Das herangezogene Beispiel –
+					Überführung einer kompakten Goldkugel in ein flächenartiges Goldblatt mit
+					gleicher Masse – ist bei Berücksichtigung aller
+					Umstände (Luftwiderstand, Art des Hindernisses etc.) ganz ähnlichen Einwänden
+					ausgesetzt wie das frühere ‚Mauerbrecher-Beispiel‘ (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en16306">140<hi rend="sup">27-31</hi></ref>) und ist daher auch nicht geeignet, den behaupteten
+					Verlust an lebendiger Kraft (im Falle des Goldblatts) zu belegen. In beiden
+					Beispielen operiert Kant mit Alltagsintuitionen, die der Abstraktionslage der
+					Erhaltungsdiskussion, wie sie sich im Anschluss an Descartes und Leibniz
+					entwickelt hat, nicht gerecht wird. Diese Argumentationsweise setzt sich auch im
+					Folgenden fort; siehe § 147.</note>
+               <note type="editorial" xml:id="en16807">daß flüßige … hat] Kant bezieht sich auf den 1686
+					erschienenen <hi rend="italic">Traité du mouvement des eaux</hi> des französischen
+					Experimentalphysikers und Naturforschers Edmé <hi rend="smallCaps">Mariotte</hi> (ca. 1620–1684);
+					vgl. 1686, 205 (IV. Regle). Auf den folgenden Seiten
+					205–210 beschreibt Mariotte die Experimente, mit denen er diese Regel geprüft
+					hat. Auf ihn ist Kant offenbar durch Jurin bzw. Wolff aufmerksam geworden; siehe
+					die <ref type="editorialNote" target="#en1681">folgende Sacherläuterung</ref>.</note>
+               <note type="editorial" xml:id="en16811">solches nicht … hat] Kant vertritt hier keine eigene These
+					bezüglich der anzusetzenden zweiten Potenz (‚Quadrat‘) oder dritten Potenz
+					(‚Würfel‘) der Geschwindigkeit, sondern folgt <hi rend="smallCaps">Jurin</hi>: Dessen
+						<hi rend="italic">Dissertationes</hi> (1732) (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en05602">47<hi rend="sup">28</hi></ref>) wurden in den <hi rend="italic">Acta Eruditorum</hi> von Wolff
+					rezensiert (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en05613">47<hi rend="sup">39</hi>-48<hi rend="sup">29</hi></ref>). Vgl.
+					Beschreibung und Jurin-Zitat in <hi rend="smallCaps">Wolff</hi> 1732, 209 bzw. <hi rend="smallCaps">Jurin</hi>
+					1732, 120 (Dissertatio IX).</note>
+               <note type="editorial" xml:id="en16826">Herr Richter … abzuwenden] Siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en12413">108<hi rend="sup">8-12</hi></ref>. Konkret bezieht sich Kant auf <hi rend="smallCaps">Richter</hi> 1735,
+					insbes. 513 f.</note>
+               <note type="editorial" xml:id="en16916">Denn jedermann … zweifelt] Weitere Beispiele, die auf
+					Alltagsintuitionen setzen; siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en16716">144<hi rend="sup">25</hi>-145<hi rend="sup">7</hi></ref>.</note>
+               <note type="editorial" xml:id="en17004">Zu denenjenigen … werden] Zur Behandlung des elastischen Stoßes
+					siehe <hi rend="italic">Zweytes Hauptstück</hi>, §§ 52–57.</note>
+               <note type="editorial" xml:id="en17115">Das beliebte … darzulegen] § 150
+					kann, insbes. mit der Bezugnahme auf die ‚Regeln der allgemeinen Harmonie und
+					Ordnung‘, als ein (indirektes) Bekenntnis zu Leibniz’ Lehre der prästabilierten
+					Harmonie gelesen werden bzw. in Kants Umdeutung der Lehre der lebendigen Kräfte
+					auch als Anspruch auf deren Weiterentwicklung (vgl. <hi rend="smallCaps">Kühn</hi> 2004,
+						214 f.).</note>
+               <note type="editorial" xml:id="en17130">§ 151] Mit Lasswitz (La, 529) ist davon
+					auszugehen, dass § 151 und auch die folgenden
+						§§ 152–156 nachträglich eingefügt wurden. Obwohl
+						<hi rend="smallCaps">Musschenbroek</hi> bereits früh erwähnt wird (siehe Sacherläuterung zu
+               	<ref type="editorialNote" target="#en01527">12<hi rend="sup">33</hi></ref>), beschäftigt sich Kant erst 1747 näher mit dessen
+						<hi rend="italic">Grundlehren</hi> (1747), die in den §§ 151–156 im Vordergrund stehen; siehe 
+               	Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en11807">102<hi rend="sup">8-11</hi></ref> und den 
+               	editorischen Bericht, <ref type="editorialReport" target="#er564">Teil 1.2.</ref></note>
+            	<note type="editorial" xml:id="en17203">hochberühmten Herrn …
+						<hi rend="spaced">Musschenbröck</hi>] Zu Musschenbroek siehe Sacherläuterung zu
+            		<ref type="editorialNote" target="#en01527">12<hi rend="sup">33</hi></ref>.</note>
+               <note type="editorial" xml:id="en17222">Der Beweis … schätzen] Kant fasst hier <hi rend="smallCaps">Musschenbroek</hi>
+               	1747, 100 f. (§ 194) zusammen. In Lasswitz’ Edition
+					(La) ist zum besseren Verständnis eine Darstellung angefügt, die sich
+						<hi rend="italic">nicht</hi> in Kants Original befindet (vgl. La, 529:
+						Tab. II, Fig. 26). Sie ist Fig. 1 in
+						Tab. II von Musschenbroeks <hi rend="italic">Grundlehren</hi>
+					nachgebildet und wird auch hier als Fig. 26
+					abgedruckt.</note>
+               <note type="editorial" xml:id="en17404">Herr von … Kraft] Ebenfalls eine freie Zusammenfassung von
+						<hi rend="smallCaps">Musschenbroek</hi> 1747, 101 (§ 194).</note>
+               <note type="editorial" xml:id="en17418">Allein, wenn … Ausspannung] Kant argumentiert hier, dass mit der Masse
+					des Körpers, der durch die Feder bewegt wird, auch die Einwirkungszeit und somit
+					die erteilte lebendige Kraft vergrößert wird (siehe auch § 155).
+						<hi rend="smallCaps">Musschenbroek</hi> zeigt hingegen direkt im Anschluss an die Darstellung
+					seines Experiments, dass die Einwirkungszeit keine Rolle spielt; vgl. 1747, 107
+						(§ 206).</note>
+               <note type="editorial" xml:id="en17527">Vertheidiger des … Leibnitz] Gemeint ist wieder Musschenbroek, siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01527">12<hi rend="sup">33</hi></ref>.</note>
+               <note type="editorial" xml:id="en17620">Ich habe … verursachten] Gemeint ist der italienische Astronom und
+					Geograph Giovanni Battista Riccioli (1598–1671); zu s’Gravesande, Poleni und
+					Musschenbroek siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01527">12<hi rend="sup">33</hi></ref>.</note>
+               <note type="editorial" xml:id="en17627">Ich will … wurden] Die aufgeführten Versuche wurden zumeist
+					mit Talg (‚Unschlitt‘), Butter, weichem Wachs oder weichem Ton durchgeführt.
+					Vgl. <hi rend="smallCaps">Riccioli</hi> 1651, 381–384 (Lib. IX,
+						Sect. IV, Cap. XVI); <hi rend="smallCaps">s’Gravesande</hi> 1742,
+						Bd. I, 229–254 (Lib. II,
+						Cap. III); <hi rend="smallCaps">Poleni</hi> 1718, 47–65 (§§ 99–131, auch mit Experimenten zum Wasserfluss und den
+					lebendigen Kräften hierbei); <hi rend="smallCaps">Musschenbroek</hi> 1747, 98 f.
+						(§ 206). Vor allem auf den letztgenannten Beleg bezieht sich
+					Kant im Weiteren. Die ‚Leibnizianer‘ sieht er in ihrer Einschätzung im Recht,
+					dass die fraglichen Experimente wichtige empirische Belege für die lebendige
+					Kraft als ‚wahres Maß‘ liefern.</note>
+               <note type="editorial" xml:id="en17729">Sie wandten … gemacht] Vgl. etwa <hi rend="smallCaps">Mairan</hi> 1728, 28–30
+						(§ 17). In Mairans Auseinandersetzung mit Du Châtelet (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en04514">38<hi rend="sup">7-13</hi></ref>) geht er nur indirekt auf deren
+					Vorwurf ein, dass die Cartesianer die fraglichen Experimente zugunsten von
+					Leibniz’ Kraftmaß ohne Begründung verwerfen. Vgl. Du <hi rend="smallCaps">Châtelet</hi> 1743,
+						470 f. (§ 576, ihr Vorwurf) und
+						514 f. (Mairans Entgegnung).</note>
+               <note type="editorial" xml:id="en17805">Ich weiß … zernichten] Kant bezieht sich offenbar wieder (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en17627">152<hi rend="sup">28-36</hi></ref>) direkt auf <hi rend="smallCaps">Musschenbroek</hi>
+						1747, 107 f. (§§ 206–208).</note>
+               <note type="editorial" xml:id="en18007">Es ist … geschehe] Kant knüpft hier an die verfehlte
+					Argumentation der §§ 137 und 138 an und will zeigen,
+					dass beim Auftreffen eines Körpers auf eine weiche Masse der Widerstand
+					(‚Renisus‘) jedes Elementes dieser Masse ein endliches Maß hat; siehe dagegen
+					die <ref type="editorialNote" target="#en18021">folgende Sacherläuterung</ref>.</note>
+            	<note type="editorial" xml:id="en18021">Wenn man … W. Z. E.] Der vermeintliche Beweis bringt
+					Geschwindigkeit und Widerstand durcheinander und fußt einmal mehr auf
+					spekulativen Infinitesimalbetrachtungen: Wird Widerstand als direktive Kraft
+					aufgefasst, die der Bewegungsrichtung des eindringenden, kugelförmigen Körpers
+					entgegengerichtet ist, kann jedes der postulierten, unendlich dünnen
+					‚Cirkel-Scheibchen‘ der weichen Masse nur einen unendlich kleinen Widerstand
+					leisten. Die Eindringgeschwindigkeit <hi rend="italic">v</hi> des Körpers dagegen ist beim ersten
+					Kontakt mit dieser Masse seiner Momentangeschwindigkeit zum fraglichen Zeitpunkt
+					gleich und nimmt von da an bis zur Ruhe (<hi rend="italic">v = 0</hi>) kontinuierlich ab,
+					ist also, nach Kants Modellierung des Prozesses, am Ende verschwindend
+					klein.</note>
+               <note type="editorial" xml:id="en18102">So haben … mißgönnen] Kant gibt in seinen Schlussbemerkungen
+					eine letzte Probe des ‚irenischen‘ Grundzuges seines Denkens (siehe
+					Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en03205">26<hi rend="sup">33-34</hi></ref> und zu 
+               	<ref type="editorialNote" target="#en09313">80<hi rend="sup">20-26</hi></ref>), der in
+					seiner zwischenzeitlichen, ausgedehnten Kritik an den Positionen von Descartes
+					und vor allem von Leibniz – unterstellt man tatsächlich auch
+					hier ein Prinzip der Kontinuität – wohl nur in ‚infinitesimalen
+					Dosen‘ zu bemerken ist.</note>
+         </div>
+      </body>
+   </text>
+</TEI>

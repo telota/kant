@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="7" subtype="criticalApparatus">
+               Von den Ursachen der Erderschütterungen
+            </title>
+            <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0002-5982-4800">
+                  <surname>Pollok</surname>
+                  <forename>Anne</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0001-7554-6743">
+                  <surname>Pollok</surname>
+                  <forename>Konstantin</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+                            Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung I, „Werke“, der 
+                        Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Erdbeben</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">
+                     Kant's Werke
+                  </title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="7">
+                     Von den Ursachen der Erderschütterungen
+                  </title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0002-5982-4800">
+                        <surname>Pollok</surname>
+                        <forename>Anne</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0001-7554-6743">
+                        <surname>Pollok</surname>
+                        <forename>Konstantin</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">451–460</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482</idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">
+                     Erste Abteilung <lb/>Werke – Neuedition
+                  </biblScope>
+                  <biblScope unit="volume" n="1">
+                     Band 1
+                  </biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-09" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P07App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app41905">
+                  <lem>thun</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: geben</rdg>
+               </app>
+               <app from="#app41924">
+                  <lem>vor demjenigen</lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: vor dasjenige</rdg>
+               </app>
+               <app from="#app42011">
+                  <lem>hierin</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: damit</rdg>
+               </app>
+               <app from="#app42027">
+                  <lem>nach</lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: und</rdg>
+               </app>
+               <app from="#app42034">
+                  <lem>seiner</lem>
+                  <rdg wit="#Ra #A">mit <wit wit="#Ra">Ra</wit> zu <wit wit="#A">A</wit>: ihrer</rdg>
+               </app>
+               <app from="#app42101">
+                  <lem>muß?</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: muss.</rdg>
+               </app>
+               <app from="#app42115">
+                  <lem>worden</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: werden</rdg>
+               </app>
+               <app from="#app42214">
+                  <lem>unterirdisch</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: unterirdische</rdg>
+               </app>
+               <app from="#app42215">
+                  <lem>seyn</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: sind</rdg>
+               </app>
+               <app from="#app42227">
+                  <lem>lassen; nun</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: lassen. Nun</rdg>
+               </app>
+               <app from="#app42302">
+                  <lem>darüber fest</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: fest darüber</rdg>
+               </app>
+               <app from="#app42322">
+                  <lem>Vesuv</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: der Vesuv</rdg>
+               </app>
+               <app from="#app42409">
+                  <lem>Huysum</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: Husum</rdg>
+               </app>
+               <app from="#app42414">
+                  <lem>werden, entweder</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: werden. Entweder</rdg>
+               </app>
+               <app from="#app42510">
+                  <lem>2- oder 300</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: 200 oder 300</rdg>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: 2 oder 300</rdg>
+               </app>
+               <app from="#app42515">
+                  <lem>einen</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: einem</rdg>
+               </app>
+               <app from="#app42518">
+                  <lem>an holsteinischen</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: an den holsteinischen</rdg>
+               </app>
+               <app from="#app42520">
+                  <lem>seyn</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: sind</rdg>
+               </app>
+               <app from="#app42628">
+                  <lem>vor</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: für</rdg>
+               </app>
+               <app from="#app42628a">
+                  <lem>gewarten</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: erwarten</rdg>
+               </app>
+               <app from="#app42629">
+                  <lem>vor</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: für</rdg>
+               </app>
+               <app from="#app42629a">
+                  <lem>vor</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: für</rdg>
+               </app>
+               <app from="#app42630a">
+                  <lem>das</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: die</rdg>
+               </app>
+               <app from="#app42630b">
+                  <lem>welchen</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: welchem</rdg>
+                </app>
+               <app from="#app42631">
+                  <lem>einander</lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: nach einander</rdg>
+               </app>
+               <app from="#app42710">
+                  <lem>ausführlichern</lem>
+                  <rdg wit="#Ra">
+                     <wit wit="#Ra">Ra</wit>: ausführlichen</rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P07En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en42008">Island und Lissabon … in Bewegung gesetzt
+               worden] Siehe dazu die
+               Erläuterung zu 
+               <ref type="editorialNote" target="#en42701">460<hi rend="sup">10-11</hi></ref>.</note>
+            <note type="editorial" xml:id="en42134">
+               <hi rend="antiqua">Gentils</hi>
+               Reise … nach <hi rend="antiqua">Buffons</hi>
+               Anführung] Vgl. Gentil,
+               <hi rend="italic">Voyage</hi>, Bd. 1, 121. Le Gentil de la Barbinais
+               (1685–1731) schrieb über seine Weltreise (1714 bis 1718) einen dreibändigen
+               Reisebericht (<hi rend="smallCaps">Le Gentil 1728</hi>), der zuerst 1725 und
+               1727 in Paris (bei Flahaut) und dann ebd. 1728 (bei Briasson) erschien, sowie ab
+               1728 u.&#8239;a. in Amsterdam. Kant bezieht sich auf <hi rend="smallCaps">Buffon</hi>,
+               <hi rend="smallCaps italic">Naturgeschichte</hi>, Bd. 1, 521 f.
+               (1. Teil der dt. Ausgabe, 273).</note>
+            <note type="editorial" xml:id="en42237">Man nimmt … ausbrechen.] Dies ist eines der berühmten Experimente
+               des französischen Chemikers Nicolas Lémery (1645–1715), zuerst 1700
+               veröffentlicht (<hi rend="smallCaps">Lémery</hi> 1700, bes. 418 f.
+               und 424–427). Vgl. auch <hi rend="italic">Betrachtung Erdbeben</hi>, 
+               <ref type="editorialNote" target="#en47103">500<hi rend="sup">22</hi></ref>: „Lemerischen Experimente“.</note>
+            <note type="editorial" xml:id="en42425">Versuch des Herrn <hi rend="antiqua">Carree</hi>] Kant bezieht sich auf den französischen
+               Mathematiker Louis Carré (1663–1711) und seine zuerst 1706 veröffentlichte
+               Abhandlung (<hi rend="smallCaps">Carré</hi> 1706).</note>
+            <note type="editorial" xml:id="en42701">im vorigen Stücke] Kant bezieht sich hier auf den ersten Teil
+               seines Aufsatzes, der eine Woche früher erschienen war, vermutlich auf 
+               <ref type="textRef" target="#tr45404">454<hi rend="sup">4-6</hi></ref> („davon Island und Lissabon […] in Bewegung gesetzet
+               worden“). Er korrigiert nach <hi rend="italic">Staats- u. Gelehrte Zeitung Des
+                  Hamburgischen unpartheyischen Correspondenten</hi>, Num. 199, Dienstag,
+               16. Dezember 1755, S. 2 [im Original ungezählt]. Dort lautet die entscheidende
+               Nachricht: „Copenhagen, den 8 December. […] Da die heutige Post noch nicht
+               angelangt ist und man mit der letztern von dem großen Schaden, den das Erdbeben
+               vom 1sten November in verschiedenen ansehnlichen Handelsstädten in Europa
+               angerichtet, sehr klagliche Nachrichten empfangen hat, wodurch sowol auswärtig,
+               als hier, die Handlung in Unordnung gerathen; so ist gegenwärtig allhier der
+               Cours der Wechsel nicht reguliret. […] Mit Briefen von Norder-Syssel in Island
+               vom 15ten Sept. dieses Jahrs hat man, daß daselbst am 11ten gedachten Monats,
+               und zwar in besagtem Syssel und im Husewiger District, ein ziemlich starkes
+               Erdbeben verspüret worden, welches sich zuerst gleich nach Mitternacht geäußert,
+               aber bis den Nachmittag des folgenden Tages fortgedauert hat.“</note>
+         </div>
+      </body>
+   </text>
+</TEI>

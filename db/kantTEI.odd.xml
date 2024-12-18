@@ -1,0 +1,1449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kant Online-Dokumentation</title>
+                <principal xml:id="GN">Gerald Neumann</principal>
+                <editor xml:id="EF">Edna Fricke</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition>2024-06-27 -- Version: 0.1.0 </edition>
+            </editionStmt>
+            <publicationStmt>
+                <authority>Gerald Neumann</authority>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital</p>
+                <p>https://www.tei-c.org/release/doc/tei-p5-doc/en/html/TD.html</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc status="draft">
+            <change when="2024-10-28">content addition</change>
+            <change when="2024-09-13" who="#EF">content addition and correction</change>
+            <change when="2024-06-27" who="#GN #EF">content addition</change>
+	        <change when="2021-06-22" who="#GN">Initial creation</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <divGen type="toc" xml:id="toc"/>
+            <div xml:id="about">
+                <head>Überblick Kant-Online TEI P5 Encoding Guidelines</head>
+                <p>Diese Guidelines (TEI P5 ODD Customization) geben einen Überblick über die Auszeichnungsrichtlinien des <ref type="newWindow" target="http://kant-digital.bbaw.de">Projektes Kant-Online</ref> in <ref type="newWindow" target="http://www.tei-c.org/Guidelines/P5/">TEI P5</ref>.</p>
+                <p>Die Guidelines sind im Rahmen des DFG-Projektes "Neuedition der Abteilung I, Werke, der Akademie-Ausgabe von Kant’s gesammelten Schriften" entstanden. Sie sind in vielfacher Hinsicht angeregt durch die Dokumentation des Projektes <ref type="newWindow" target="http://livingstoneonline.org">Livingstone Online</ref>.</p>
+				<p>An den Guidelines haben mitgewirkt: Gerald Neumann, Edna Fricke.</p>
+                <p>Die Guidelines sind unter der Lizenz <ref type="newWindow" target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</ref> verfügbar.</p>
+            </div>
+            <div xml:id="header">
+                <head>Der TEI Header</head>
+                <p>Jedes TEI-Dokument hat ein <gi>teiHeader</gi>-Element am Anfang des Dokumentes, in welchem alle notwendigen 
+                    und verfügbaren Metadaten enthalten sind. Für ausführliche Informationen bitte die 
+                    <ref type="newWindow" target="https://www.deutschestextarchiv.de/doku/basisformat/mdAuszeichnung.html">entsprechende Seite beim DTABf</ref> konsultieren. 
+                    Ein beispielhaftes <gi>teiHeader</gi>-Element sieht folgendermaßen aus:
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:space="preserve">
+                        <teiHeader>
+                            <fileDesc>
+                                <titleStmt>
+				                    <!-- [Titelangaben, Mitarbeit, Geldgeber] -->
+                                   <title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="1" subtype="editedText">Gedanken von der wahren Schätzung der
+					lebendigen Kräfte </title>
+                                   <author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+                                   <editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4129-3981">
+						<surname>Pulte</surname>
+						<forename>Helmut</forename>
+					</persName>
+				</editor>
+                                    <respStmt>
+					<persName ref="https://orcid.org/0000-0002-3775-686X">
+						<surname>Burt</surname>
+						<forename>Fabian</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Mitarbeit</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen </note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+                                    <funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien"> Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+                                </titleStmt>
+                                <editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+                                <publicationStmt>
+                                    <publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+                                    <pubPlace>Berlin, Germany</pubPlace>
+                                    <date>2023</date>
+				                    <availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+                            </publicationStmt>
+                                <sourceDesc>
+                                    <bibl>Wahre Schätzung</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="1">Gedanken von der wahren Schätzung der lebendigen
+							Kräfte</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4129-3981">
+								<surname>Pulte</surname>
+								<forename>Helmut</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">1–158</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>Walter de Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+                                </sourceDesc>
+                            </fileDesc>
+                            <encodingDesc>
+                                <variantEncoding method="double-end-point" location="external"/>
+                         </encodingDesc>
+                            <profileDesc>
+                                <langUsage>
+                                <language ident="ge">Deutsch</language>
+                                    <language ident="la">Latein</language>
+                                </langUsage>
+                            </profileDesc>
+                            <revisionDesc>
+                                <revisionDesc>
+				<change when="2024-09-24" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2024-03-06" who="#GN">Corrected</change>
+			<change when="2023-12-10" who="#EF">Corrected</change>
+			<change when="2023-11-13" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+                            </revisionDesc>
+                    </teiHeader>
+                    </egXML>
+                </p>
+                <p>Im oben beschriebenen <gi>teiHeader</gi> gibt es Bereiche, die in allen Dokumenten gleich sind und andere Teile, wie z. B. die Editoren, die Mitarbeitenden, die Titelangaben, 
+                    die an das jeweilige Dokument angepasst werden müssen.</p>
+               </div>
+            <div xml:id="body">
+                <head>Die Textstruktur</head>
+                <div xml:id="body-text">
+                    <head>Body- und Text-Abschnitt</head>
+                    <p> Die Texte befinden sich jeweils innerhalb des <gi>body</gi>- und <gi>text</gi>-Elements. 
+                    Für größere Unterstrukturen, wie Kapitel, Unterkapitel, aber auch Widmungsbriefe, Inhaltsverzeichnisse etc., gibt es die 
+                    <gi>div</gi>s. Dabei definiert das Attribut <att>n</att> mittels seines Zahlenwerts (<val>1,2,3 </val>etc.) 
+                    auf welcher Ebene das <gi>div</gi> steht. Für Textabschnitte, die eine besondere Struktur 
+                    haben, wird ein <att>type</att>-Attribut genutzt, dessen Wert diesen Abschnitt spezifiziert, z. B. 
+                    <att>type</att>=<val>"titlePage"</val> bei Titelseiten in der Schrift.
+                        <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:space="preserve">
+                            <body>
+                                <text>
+                                    <div n="1">
+                                        <div type="titlePage">
+                                            <p>Titelseite</p>
+                                        </div>
+                                        <div n="2">
+                                            <head>Überschrift</head>
+                                            <p>Kapitel</p>
+                                            <div n="3">
+                                                <head>Überschrift</head>
+                                                <p>Unterkapitel</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </text>    
+                            </body>
+                        </egXML>                    
+                    </p>
+                    <p>
+                        <specList>
+                        <specDesc key="body"/>
+                        <specDesc key="text"/>
+                        <specDesc key="div" atts="n type"/>
+                        </specList>
+                    </p>
+                </div>
+                <div xml:id="pagebreak">
+                    <head>Seitenumbruch</head>
+                    <p>Die Seitenumbrüche sind mit einem <gi>pb</gi>-Element ausgezeichnet. Das <att>ed</att>-Attribut spezifiziert die Ausgabe,  <att>n</att> gibt die 
+                    Seitenzahl der jeweiligen Ausgabe wider, mit <att>xml:id</att> erhalten die <gi>pb</gi>s einen eindeutigen Wert, über den sie referenziert werden können.
+                    Bei den Seitenumbrüchen unterscheiden wir zwischen den historischen und den Seitenumbrüchen der aktuellen Ausgabe:
+                    </p>
+                    <list type="ordered">
+                        <item>Erstdruck:<egXML xmlns="http://www.tei-c.org/ns/Examples" xml:space="preserve"><pb ed="firstPrint" n="240" xml:id="B01S0181Z16fp"/></egXML>Wie im Druck erfolgt die Online-Darstellung als Pipe ("|").</item>
+                        <item>alte Akademieausgabe: <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:space="preserve"><pb ed="oldAA" n="186" xml:id="B01S0186"/></egXML>Wie im Druck erfolgt die Online-Darstellung als Slash ("/"). </item>
+                        <item>aktuelle Akademieausgabe (Haupttext): <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:space="preserve"><pb ed="newAA" n="17"/></egXML>An diesen Stellen wird auch online die Seite umgebrochen. Erfolgt 
+                        der Umbruch inmitten eines Wortes, wird das Element um das Attribut <tag>break="no"</tag> erweitert, damit in 
+                            der Ansicht ein Bindestrich eingefügt wird: <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:space="preserve"><pb ed="newAA" n="17" break="no"/></egXML></item>
+                        <item>aktuelle Akademieausgabe (Umbruch in der Fußnote oder Marginalie): <egXML xmlns="http://www.tei-c.org/ns/Examples" xml:space="preserve"><pb ed="mun" n="155"/></egXML>, wenn nötig ebenfalls mit <att>break</att>. 
+                        Dieser Umbruch wird online mit einer Doppelpipe ("||") dargestellt, da aus Benutzer*innenfreundlichkeit die Fußnoten und Marginalien in Gänze auf einer 
+                        Seite angezeigt werden sollen.</item>
+                    </list>
+                    <p>Bei dieser digitalen Edition handelt es sich, in Bezug auf die Printedition, um eine seitengetreue Edition, Zeilentreue ist nicht angestrebt. In Ausnahmefällen sind 
+                        trotzdem <gi>lb</gi>s verarbeitet. Dies ist bei Zitaten und Briefabschlüssen der Fall.
+                        Auf Titelseiten oder bei Überschriften sind die Umbrüche durch einzelne <gi>p</gi>- bzw. 
+                        <gi>head</gi>-Elemente ersetzt.</p>
+                    <p><specList>
+                        <specDesc key="pb" atts="n ed"/>
+                        <specDesc key="lb"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="head">
+                    <head>Überschriften</head>
+                    <p>Überschriften werden mit einem  
+                        <gi>head</gi>-Element codiert. Bei längeren zeilenübergreifenden Überschriften, die durch unterschiedliche Schriftgrößen und/oder Laufweiten gegliedert sind,
+                        wurde dies übernommen und durch mehrere aufeinanderfolgende
+                        <gi>head</gi>s mit den jeweiligen <att>rend</att>-Werten, die von <val>head_01</val> bis <val>head_12</val> reichen,
+                       nachgebildet.
+                    </p>
+                    <p><specList>
+                        <specDesc key="head" atts="rend"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="paragraph">
+                    <head>Paragraphen</head>
+                    <p>Auf die <gi>head</gi>s folgen ein oder mehrere <gi>p</gi>-Elemente, in denen die einzelnen Absätze des Textes verwertet werden. Wenn der Absatz im Druck durch eine Art von Einzug gekennzeichnet ist, wurde diese im XML mit <att>rend</att> angegeben.</p>
+                    <p>Es gibt folgende Attribut-Werte: <val>indent</val> (erste Zeile des Absatzes ist eingerückt), <val>hanging</val> (nur die erste Zeile des Absatzes ist nicht eingerückt), <val>block</val> (der gesamte Absatz ist eingerückt; die erste Zeile zusätzlich), <val>center</val> (der ganze Absatz ist zentriert). Wenn <gi>p</gi> über kein 
+                        <att>rend</att>-Attribut verfügt, ist der Absatz komplett linksbündig.
+                        <egXML xmlns="http://www.tei-c.org/ns/Examples"><p rend="indent">Ein Paragraph mit Einzug.</p></egXML></p>
+                    <p><specList>
+                        <specDesc key="p" atts="rend"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="word-separation">
+                    <head>Worttrennung</head>
+                    <p>Wird ein Wort z. B. durch einen <gi>pb</gi> getrennt, wird um das Wort ein <gi>w</gi>-Element mit <att>lemma</att>="[unterbrochenes Wort]" eingefügt.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+<w lemma="Beweisthum">Be<pb ed="AA" n="12"/>weisthum</w>
+                    </egXML>
+                    <p><specList>
+                            <specDesc key="w" atts="lemma"/>
+                        </specList>
+                    </p>
+                </div>   
+                <div xml:id="text-alignment">
+                    <head>Textanordnung</head>
+                    <p>Im XML-Code ist vermerkt, wie Textteile im Drucklayout angeordnet sind. Das wird über das Attribut <att>rend</att> geregelt. Ist ein Textteil nicht linksbündig, werden als Werte 
+                        <val>right</val> für rechtsbündig oder <val>center</val> für zentriert genutzt. Dies kann bei Absätzen <gi>p</gi> der Fall sein (die noch mehr Werte haben können aufgrund der Einzüge), 
+                        siehe <ptr target="#paragraph"/>, in <gi>salute</gi>, <gi>signed</gi>, bei <gi>bibl</gi> und <gi>quote</gi>, wobei hier noch die Werte <val>hanging</val> oder <val>indented</val> auftreten können, oder einem <gi>hi</gi>-Element, wenn es nur einen nicht anderweitig spezifizierten Textteil betrifft.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <p rend="right">Rechtsbündiger Absatz</p>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="p"/>
+                        <specDesc key="salute"/>
+                        <specDesc key="signed"/>
+                        <specDesc key="bibl"/>
+                        <specDesc key="quote"/>
+                        <specDesc key="hi"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="footnote">
+                    <head>Fußnoten</head>
+                    <p>Fußnoten sind im Fließtext an der Stelle des Fußnotenankers eingefügt, das Zeichen des Ankers ist in <att>n</att> definiert, über <att>xml:id</att> werden die Fußnoten durchnummeriert. Die Struktur ist folgende:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <note place="foot" n="*" xml:id="fn51">
+                            <p rend="indent">[Einer oder mehrere Paragraphen]</p>
+                        </note>
+                    </egXML> 
+                    <p>Wie oben unter den Seitenumbrüchen <ptr target="#pagebreak"/> erwähnt, wird ein Umbruch innerhalb einer Fußnote folgendermaßen codiert, ggf. ergänzt um <att>break</att>=<val>no</val>:
+                    </p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><pb ed="mun" n="155"/></egXML>
+                    <p><specList>
+                        <specDesc key="note" atts="n place xml:id"/>
+                        <specDesc key="pb" atts="ed"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="marginalia">
+                    <head>Marginalien</head>
+                    <p>Marginalien sind im Fließtext an der Stelle eingefügt, auf deren Höhe sie am Rand erscheinen sollen. Mit <att>xml:id</att> werden die Marginalien durchnummeriert. Die Struktur ist folgende:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <note place="margin" xml:id="mn23">
+                            <p rend="indent">[Einer oder mehrere Paragraphen]</p>
+                        </note>
+                    </egXML>
+                    <p>Wie oben unter den Seitenumbrüchen <ptr target="#pagebreak"/> erwähnt wird ein Umbruch innerhalb einer Marginalie folgendermaßen, nach dem gleichen Schema wie bei den Fußnoten, codiert:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><pb ed="mun" n="155"/></egXML>
+                    <p><specList>
+                        <specDesc key="note" atts="n place xml:id"/>
+                        <specDesc key="pb" atts="ed"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="titlepage">
+                    <head>Titelseiten</head>
+                    <p>Bei den ausgezeichneten Titelseiten handelt es sich nicht um die Titelseite des neuen gedruckten Bandes, sondern die mitedierten Titelseiten der jeweiliegn Schriften der alten Drucke. Daher ist das <gi>div</gi> über <att>type</att>=<val>titlePage</val> spezifiziert. 
+                       Die Zeilen sind in einzelnen <gi>p</gi>-Elementen erfasst, 
+                        die mit <att>rend</att> in ihrer Schriftgröße und Laufweite, denen in ihren Kombinationen
+                       ebenfalls die Werte von <val>head_01</val> bis <val>head_12</val> ausgezeichnet werden, um das Druckbild adäquat nachzubilden.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <div n="1" type="titlePage">
+                            <p rend="head_01">Gedanken</p>
+                            <p rend="head_02">von der wahren Schätzung</p>
+                        </div>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="div" atts="type"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="table-of-contents">
+                    <head>Inhaltsverzeichnisse</head>
+                    <p>Inhaltsverzeichnisse sind ebenfalls nach dem <ref type="newWindow" target="https://www.deutschestextarchiv.de/doku/basisformat/">DTABf</ref> codiert. Eine Ausnahme bilden die <tag>p rend="hanging"</tag> innerhalb eines <gi>item</gi>, wenn es sich, wie in <hi rend="italics">Theorie des Himmels</hi>, um längere Absätze mit einem hängenden Einzug handelt.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><div n="1" type="contents">
+                            <head rend="head_02">[Überschrift]</head>
+                            <list>
+                                <item rend="head_03">Erster
+                                    Theil.
+                                    <list>
+                                        <item>
+                                             <p rend="hanging">[...]</p>
+                                        </item>
+                                    </list>
+                                </item>
+                            </list>
+                        </div>
+                    </egXML>
+                    <p>Wenn die Inhaltsverzeichnisse auch Seitenzahlen aufweisen, sind diese im entsprechenden <gi>item</gi>-Element in einem <gi>ref</gi> wiedergegeben.</p>
+                    <p><specList>
+                        <specDesc key="div" atts="type"/>
+                        <specDesc key="p" atts="rend"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="dedication-letter">
+                    <head>Widmungen und Briefe</head>
+                    <p>Briefstrukturen sind innerhalb eines <gi>div</gi>s mit der Spezifizierung <tag>div @type="dedication"</tag> bei Widmungsbriefen oder @type="letter" bei schlichten Briefen gefasst und folgen der allgemeinen Briefstruktur mit der Anrede im <gi>opener</gi>, dem Briefinhalt in einem <gi>p</gi> und dem Briefschluss im <gi>closer</gi>. Innerhalb des <gi>opener</gi> oder <gi>closer</gi> kann es mehr als ein <gi>salute</gi>-Element geben, da insbesondere bei den Widmungen sehr lange und im Druck mit unterschiedlichen Schriftgrößen und Laufweiten versehenen Grußformeln existieren, sodass diese wegen der unterschiedlichen <att>rend</att>-Werte wieder aufgesplittet wurden. Außerdem werden in den Elementen des <gi>closer</gi> mittels <tag>closer @rend="right"</tag> Angaben darüber gemacht, wenn z. B. die Datumsangabe (<gi>dateline</gi>) und/oder der Verfasser (<gi>signed</gi>) rechtsbündig gesetzt sind. Unterbricht <gi>dateline</gi> die Grußformel, sind die <gi>salute</gi>s mit den Attributen <att>xml:id</att> und entweder <att>next</att> oder <att>prev</att> versehen, um die Zusammengehörigkeit zu signalisieren. Vgl. dafür auch beim <ref type="newWindow" target="https://www.deutschestextarchiv.de/doku/basisformat/">DTABf</ref>, Unterbrechungen im Briefschluss.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <div n="1" type="dedication">
+                            <opener>
+                                <salute rend="head_01">[...]</salute>
+                            </opener>
+                            <p>[Text in einem oder mehreren Paragraphen]</p>
+                            <closer>
+                                <salute>[Grußformel]</salute>
+                                <dateline>[Wenn vorhanden]</dateline>
+                                <signed>[Verfasser]</signed>
+                            </closer>
+                        </div>
+                    </egXML>
+                    <p>Wenn ein Brief im Textfluss gesetzt ist und nicht - wie die Widmungsbriefe - unabhängig, ergibt sich folgende Änderung in der Struktur:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <floatingText>
+                            <body>
+                                <div type="letter">
+                                    <opener>[...]</opener>
+                                    <p>[...]</p>
+                                    <closer>[...]</closer>
+                                </div>
+                            </body>
+                        </floatingText>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="div" atts="type"/>
+                        <specDesc key="floatingText"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="citation">
+                    <head>Zitate</head>
+                    <p>Zitate werden nur ausgezeichnet, wenn sie im Text hervorgehoben sind, d. h. vom Fließtext abgesetzt und eingerückt. 
+                        Die Zitate können entweder leicht eingerückt stehen (<att>rend</att>=<val>indented</val>) oder zentriert 
+                        (<att>rend</att>=<val>center</val>). Diese <att>rend</att>-Werte finden sich in <gi>quote</gi>. Für die Angabe des Verfassers gibt es in <gi>bibl</gi> ebenfalls über das Attribut <att>rend</att> die Information, ob er rechtsbündig (<val>right</val>) oder zentriert (<val>center</val>) steht. 
+                        Diese Werte sind nur eine grobe Orientierung am Druck, in dem das Layout wesentlich feinere Nuancen aufweist, auch abhängig der Zeilenlänge, die online vereinfacht wurden. 
+                        Zeilenumbrüche im Zitat sind mit <gi>lb</gi> markiert.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <cit>
+                            <quote rend="center">[Zitat]</quote>
+                            <bibl rend="center">[Verfasser]</bibl>
+                        </cit>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="cit"/>
+                        <specDesc key="quote"/>
+                        <specDesc key="bibl"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="list">
+                    <head>Listen</head>
+                    <p>Wie auch die Inhaltsverzeichnisse, die strukturell Listen sind, sind diese demnach gleich abgebaut. Abweichend vom DTABf kann <gi>list</gi> das Attribut <att>rend</att> aufweisen, das spezifiziert, ob es sich um eine nummerierte ("numbered"), eine mit Aufzählungszeichen o.ä. versehene ("bulleted") Tabelle handelt oder um eine, die nicht eingrückt ist, sondern im Erscheinungsbild nur aus einzeiligen Absätzen besteht ("inline"). Hier sind auch Kombinationen der Werte möglich. In <gi>item</gi> wiederum erfolgt bei nummerierten Listen über <att>n</att> die Angabe, welche Art von Nummerierung gilt, das können Werte wie "1", "2", "3" oder auch "a", "b", "c" sein. Beispiel für eine verschachtelte Liste:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <list rend="numbered">
+                            <head>[Titel der Liste, falls vorhanden]</head>
+                            <item>[...]</item>
+                            <item>
+                                <list rend="bulleted">
+                                    <item>[...]</item>
+                                    <item>[...]</item>
+                                </list>
+                            </item>
+                            <item>[...]</item>
+                        </list>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="list" atts="rend"/>
+                        <specDesc key="item" atts="rend"/>
+                    </specList>
+                    </p>
+                </div> 
+                <div xml:id="table">
+                    <head>Tabellen</head>
+                    <p>Tabellen sind über die Elemente <gi>table</gi>, <gi>row</gi> und <gi>cell</gi> strukturiert. In <gi>table</gi> wird angegeben, 
+                        wie viele Reihen (<att>rows</att>) und Spalten (<att>cols</att>) die Tabelle hat. 
+                        Diese Attribute können auch in einem <gi>cell</gi>-Element vorkommen, wenn sich diese Zelle über mehrere Reihen oder Spalten erstreckt.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <table rows="3" cols="3">
+                            <row>
+                                <cell>[...]</cell>
+                                <cell>[...]</cell>
+                                <cell>[...]</cell>
+                            </row>
+                            […]
+                        </table>
+                    </egXML>
+                    <p>In manchen Schriften kommen auch Diagramme vor, die an Baumdiagramme oder Stammbäume erinnern. Auch diese werden als Tabellen ausgezeichnet. 
+                        Sie erhalten jedoch in <gi>cell</gi> ein <att>rend</att>=<val>bottomBraced</val>, wenn unterhalb der Zelle eine horizontale Klammer folgt.</p>
+                    <p><specList>
+                        <specDesc key="table" atts="rows cols"/>
+                        <specDesc key="row"/>
+                        <specDesc key="cell"/>
+                    </specList>
+                    </p>
+                </div>
+                <div xml:id="parting-line">
+                    <head>Trennlinien</head>
+                    <p>Es gibt drei Varianten von Trennlinien bzw. abgrenzenden Markierungen: In dem Element <gi>milestone</gi> können die Werte für <att>rend</att> <val>line</val> für eine lange durchgezogene Linie sein, <val>short</val> für eine kurze durchgezogene Linie 
+                        oder <val>asterisk</val> für drei im Dreieck gesetzte Sternchen.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <milestone unit="section" rend="line"/>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="milestone" atts="unit rend"/>
+                    </specList>
+                    </p>  
+                </div>
+            </div>
+            <div xml:id="editorial-apparatus">
+                <head>Editionsapparat</head>
+                <div xml:id="apparatus">
+                    <head>Kritischer Apparat</head>
+                    <p>Die TEI-XML-Daten beruhen auf den NLM-XML-Daten des Verlags. Da dieser für den kritischen Apparat eine separate Datei genutzt hat, haben auch wir es bei dem ausgelagerten Apparat belassen 
+                        (wie auch dem Header in der <gi>encodingDesc</gi> zu sehen). Gemäß den TEI-P5-Richtlinien, wird im jeweiliegen Eintrag eines Lemmas im <gi>app</gi>-Element 
+                        mit <att>from</att> auf das Lemma im Text verwiesen. Falls das Lemma über bestimmte Elemente hinweg geht, wie <gi>p</gi>s, muss im Text innerhalb der einzelnen 
+                        <gi>p</gi>s das Lemma erneut mit einer neuen <att>xml:id</att> markiert werden (vgl. X. X.). Da wir es hier mit mehr als einer ID zu tun haben, wird das <gi>app</gi>-Element 
+                        um das Attribut <att>to</att> erweitert, um den Endpunkt des Lemmas zu vermerken.</p>
+                    <p>Das Lemma selbst ist in <gi>lem</gi> enthalten bzw. verkürzt, wenn es länger als drei Wörter ist. Im Element <gi>rdg</gi> sind die anderen Lesarten mit ihrem jeweiliegen Textzeugen 
+                        (in <att>wit</att>) verzeichnet. Da sich die Apparateinträge oft nicht allein auf die Textzeugen mit der Lesart beschränken, sondern Formulierungen wie "mit A zu B" existieren, 
+                        werden auch die Zeugen nochmals innerhalb von <gi>rdg</gi> in einem <gi>wit</gi>-Element genannt. Auch hier mit dem Attribut <att>wit</att>, über das auf die Siglenliste im editorischen 
+                        Bericht der jeweiligen Schrift verwiesen wird (erst umsetzbar, wenn auch die Berichte in XML vorliegen).</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <text>
+                            <body>
+                                <div type="apparatus" xml:id="B001P01App">
+                                    <listApp>
+                                        <head>Apparat</head>
+                                        <app from="#app00803">
+                                            <lem>um</lem>
+                                            <rdg wit="#Web #A">mit <wit wit="#Web">Web</wit> zu <wit wit="#A">A</wit>:
+                                                und</rdg>
+                                        </app>
+                                        <app from="#app34509P01" to="app34509P02">
+                                            <lem>gegen welche … sind, die</lem>
+                                            <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: 
+                                                welche, … sind, gegen die</rdg>
+                                        </app>
+                                        [...]
+                                    </listApp>
+                                </div>
+                            </body>
+                        </text>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="listApp"/>
+                        <specDesc key="app" atts="from to"/>
+                        <specDesc key="lem"/>
+                        <specDesc key="rdg"/>
+                        <specDesc key="wit" atts="wit"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="explanation">
+                    <head>Sacherläuterungen</head>
+                    <p>Die Sacherläuterungen sind (vorübergehend) in der Datei des kritischen Apparats enthalten. Eigentlich sind sie Teil des editorischen Berichts und werden zukünftig auch in diesen verarbeitet.</p>
+                    <p>Unabhängig davon sind die Sacherläuterungen innerhalb eines <gi>listAnnotation</gi> in einzelnen <gi>note</gi> s codiert. Die <gi>note</gi> enthält die Attribute <att>type</att>=<val>editorial</val> sowie ein <att>xml:id</att>, 
+                        über das die Sacherläuterung referenzierbar ist.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <div type="editorialNotes" xml:id="B001P01En">
+                                <head>Sacherläuterungen</head>
+                                <note type="editorial" xml:id="en00301">[Eine Sacherläuterung]</note>
+                                […]
+                        </div>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="head"/>
+                        <specDesc key="note" atts="type"/>
+                    </specList>
+                    </p> 
+                </div>
+            </div>
+            <div xml:id="highligthing">
+                <head>Hervorhebungen im Text</head>
+                <p>Kombination von mehr als einer Hervorhebung bei <att>rend</att> sind möglich, wie z. B. 
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="antiqua smallCaps"/></egXML></p>
+                <div xml:id="antiqua">
+                    <head>Antiqua</head>
+                    <p>Die Vermerkung der in alten Drucken nicht in Fraktur geschriebenen Textparts. Hier wird die Unterscheidung mittels seriefen- und serifenloser Schrift vorgenommen. 
+                        In den Texten sind i.d.R. alle fremdsprachlichen Teile in serifenloser Schrift.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="antiqua">Text</hi></egXML>
+                    <p><specList>
+                        <specDesc key="hi" atts="rend"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="bold">
+                    <head>Fettdruck</head>
+                    <p>Dies wird umgesetzt mit:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="bold">Text</hi></egXML>
+                    <p><specList>
+                        <specDesc key="hi" atts="rend"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="spaced">
+                    <head>gesperrte Schrift</head>
+                    <p>Gesperrte Schrift kam im Druck zum Einsatz, wenn Unterstreichungen vorlagen. Dies wird auch in der digitalen Edition so übernommen:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="spaced">Text</hi></egXML>
+                    <p><specList>
+                        <specDesc key="hi" atts="rend"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="smallCaps">
+                    <head>Kapitälchen</head>
+                    <p>Dies wird umgesetzt mit:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="smallCaps">Text</hi></egXML>
+                    <p><specList>
+                        <specDesc key="hi" atts="rend"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="italic">
+                    <head>Kursivschrift</head>
+                    <p>Dies wird umgesetzt mit:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="italic">Text</hi></egXML>
+                    <p><specList>
+                        <specDesc key="hi" atts="rend"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="uppercase">
+                    <head>Versalien</head>
+                    <p>Bei der Verwendung von Großbuchstaben (Versalien) im Druck, wird dies umgesetzt mit:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><hi rend="uppercase">Text</hi></egXML>
+                    <p><specList>
+                        <specDesc key="hi" atts="rend"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="smaller-larger">
+                    <head>Schriftgrößen und Laufweiten</head>
+                    <p>Zum Einen gibt es die Werte <att>rend</att>=<val>smaller</val> oder 
+                        <att>rend</att>=<val>larger</val> - diese beziehen sich auf die relative Größe des Grundtextes. <att>rend</att> 
+                        wird in dem Element <gi>hi</gi> verwendet. Außerdem gibt es Abstufungen bei Größe und Laufweite - angelehnt am Druckbild -, 
+                        die überwiegend die Überschriften und Drucktitelseiten, aber auch Teile der Briefe, wie die Anrede, betriffen. 
+                        Hier ist bei <att>rend</att> ein Wert eingetragen, z. B. <val>head_03</val>. Dies umfasst die Kombination aus der Laufweite und der 
+                        Schriftgröße. 
+                        Die Werte reichen von <val>head_01</val> bis <val>head_12</val>.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><p rend="smaller"/>
+                    <head rend="head_02">Text</head></egXML>
+                    <p><specList>
+                        <specDesc key="head"/>
+                    </specList>
+                    </p> 
+                </div>
+            </div>
+            <div xml:id="links">
+                <head>Verweise im Text</head>
+                <div xml:id="lemmata">
+                    <head>Lemmata</head>
+                    <p>Apparateinträge im Text werden mit einem <gi>ref</gi>-Element erfasst. Jedes Lemma erhält eine eindeutig zuweisbare 
+                        <att>xml:id</att> und das Attribut <att>type</att>=<val>critApp</val>. Überschreitet das Lemma Paragraphen oder vergeichbare 
+                        Strukturen, kommen die Attribute <att>next</att> und <att>prev</att> hinzu, die die Zusammenhörigkeit dieser <gi>ref</gi>s signalisieren. 
+                        Zudem wird am Ende der <att>xml:id</att> beim ersten Lemma-Teil ein "P01" angehängt, beim zweiten ein "P02" etc.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <ref type="critApp" xml:id="app18517">[Lemma]</ref>
+                        <ref type="critApp" xml:id="app18517P01" next="app18517P02">[Lemma]</ref>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="ref" atts="type xml:id"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="explanation-link">
+                    <head>Sacherläuterungen</head>
+                    <p>Lemmata, die Sachanmerkungen beinhalten, werden ebenfalls in einem <gi>ref</gi> markiert. Sie führen das Attribut <att>type</att>=<val>editorialNote</val> und ein <att>target</att>-Attribut, 
+                        das auf die Sachanmerkung im editorischen Bericht verweist. Ebenso fallen die Verweise innerhalb einer Sachanmerkung zu einer anderen aus.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <ref type="editorialNote" target="#en18501" xml:id="en00301P01">[Text oder Seitenzahl]</ref>
+                    </egXML>
+                    <p>Wie bei den Lemmata zum kritischen Apparat, können auch die der Sachanmerkungen länger sein und größere XML-Strukturen übergreifen. Daher kann es auch hier zu der Ergänzung eines <att>next</att>/<att>prev</att> 
+                        (oder auch beider, bei mehr als zwei Teilen) kommen. Außerdem muss hier zusätzlich ein <att>xml:id</att>-Attribut hinzugefügt werden, in dem durch die Endung "P01", etc.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <ref type="editorialNote" target="#en00301" xml:id="en00301P01" next="#en00301P02">Dem</ref>
+                        <ref type="editorialNote" target="#en00301" xml:id="en00301P02" prev="#en00301P01" next="#en00301P03">Hochedelgebohrnen, Hochgelahr-</ref>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="ref" atts="target type xml:id"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="link">
+                    <head>Querverweise</head>
+                    <div xml:id="link1">
+                        <p>Bei den Querverweisen innerhalb des kantischen Texts, wird der Teil, der auf den Bezugspunkt verweist, mittels <gi>ref</gi> codiert:</p>
+                        <egXML xmlns="http://www.tei-c.org/ns/Examples"><ref type="textRef" target="#tr18016"/></egXML>
+                        <p>Der Bezugspunkt benötigt kein eigenes Element, da sich die Verweise auf Kapitel oder Absätze beziehen, 
+                            d.h. die entsprechenden auszeichnenden Elemente, wie <gi>head</gi> oder <gi>p</gi>, erhalten ein <att>xml:id</att>-Attribut, auf das von dem <gi>ref</gi> in <att>target</att> verwiesen wird: z. B.</p>
+                        <egXML xmlns="http://www.tei-c.org/ns/Examples"><head rend="head_01" xml:id="tr18016"/></egXML>
+                        <p><specList>
+                            <specDesc key="ref" atts="target type"/>
+                        </specList>
+                        </p> 
+                    </div>
+                    <div xml:id="link2">
+                        <p>Verweise aus den editorischen Berichten in den kantischen Text enthalten ebenfalls ein <att>type</att>=<val>textRef</val>. 
+                            Als Bezugspunkt wird im Text ein <gi>anchor</gi>-Element gesetzt, dass den Start der referenzierten Textstelle markiert:</p>
+                        <egXML xmlns="http://www.tei-c.org/ns/Examples"><anchor type="textRefStart" xml:id="tr16415"/></egXML>
+                        <p><specList>
+                            <specDesc key="anchor" atts="type xml:id"/>
+                        </specList>
+                        </p> 
+                    </div>
+                    <div xml:id="link3">
+                        <p>Außerdem gibt es noch Verweise aus dem kritischen Apparat oder den Sachanmerkungen in die editorischen Berichte. Das geschieht mit: </p>
+                        <egXML xmlns="http://www.tei-c.org/ns/Examples"><ref type="editorialReport" target="#er70601"/></egXML>
+                        <p>In den Berichten kann der Bezugspunkt entweder mit einem <att>xml:id</att>-Attribut in einem <gi>head</gi> erfolgen, wenn auf ein konkretes Kapitel verwiesen wird, oder, 
+                            analog zu 2., mit <gi>anchor</gi>. Hier wird lediglich bei <att>type</att> der Wert zu <val>editorialReportStart</val> geändert:</p>
+                        <egXML xmlns="http://www.tei-c.org/ns/Examples"><anchor type="editorialReportStart" xml:id="tr16415"/></egXML>
+                        <p><specList>
+                            <specDesc key="ref" atts="target type xml:id"/>
+                        </specList>
+                        </p> 
+                    </div>
+                </div>
+                <div xml:id="parallel-view">
+                    <head>Verknüpfung für die Parallelansicht</head>
+                    <p>Bei Kants rein lateinischen Schriften werden die Texte auf XML-Ebene mit der deutschen Übersetzung für die Parallelansicht verknüpft. Das geschieht in den <gi>head</gi>- und <gi>p</gi>-Elementen über die Attribute <att>xml:id</att> und <att>corresp</att>.</p>
+                    <p>Im lateinischen Text:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <head rend="head_02" xml:id="la059" corresp="#de059">[Überschrift]</head>
+                        <p rend="indent" xml:id="la060" corresp="#de060">[Absatz]</p>
+                    </egXML>
+                    <p>Die Entsprechung in der Übersetzung:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <head rend="head_02" xml:id="la059" corresp="#de059">[Überschrift]</head>
+                        <p rend="indent" xml:id="de060" corresp="#la060">[Absatz]</p>   
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="head" atts="rend corresp xml:id"/>
+                        <specDesc key="p" atts="rend corresp xml:id"/>
+                    </specList>
+                    </p> 
+                </div>
+            </div>
+            <div xml:id="content">
+                <head>Inhaltliche Auszeichnungen</head>
+                <div xml:id="person">
+                    <head>Personen</head>
+                    <p>In den kantischen Texten werden sämtliche Personen ausgezeichnet, die auf das kumulierte Personenverzeichnis aller Bände referieren. Die Spezifizierung 
+                        der Personen erfolgt über einen unique Identifier, der in <att>key</att> angegeben ist:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName></egXML>
+                    <p>Wenn die Personen lediglich indirekt genannt werden, wird statt <gi>persName</gi> das Element <gi>rs</gi> benutzt. 
+                        Dies enthält zum Einen das Attribut <att>type</att>=<val>person</val> sowie ebenfalls den jeweiliegen <att>key</att>-Wert der Person.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples"><rs type="person" key="plato">Philosoph</rs></egXML>
+                    <p><specList>
+                        <specDesc key="persName" atts="key"/>
+                        <specDesc key="rs" atts="type key"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="language">
+                    <head>Sprachen</head>
+                    <p>Fremdsprachen werden mit dem <gi>foreign</gi>-Element und <att>xml:lang</att> definiert. <att>xml:lang</att> kann folgende Werte annehmen: 
+                        <val>la</val> (Latein), <val>gr</val> (Griechisch, i. d. R. Alt-Griechisch), <val>en</val> (Englisch), <val>it</val> (Italienisch), <val>fr</val> (Französich) 
+                        und <val>he</val> (Hebräisch). Deutsch gilt als Standard und wird nicht ausgezeichnet. Die Ausnahme bilden hier die rein lateinischen Texten. 
+                        Bei diesen wird die Sprache bereits im <gi>text</gi>-Element mit dem Attribut <att>xml:lang</att>=<val>la</val> markiert, da für den gesamten Text geltend.</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <text xml:lang="la"/>
+                        <foreign xml:lang="gr">Text</foreign>
+                    </egXML>
+                    <p>Außerdem sind die in den jeweiliegen Texten genutzen Sprachen (allerdings nur bei den Schriften Kants, also den edierten Stücken) in der <gi>profileDesc</gi>, in den Metadaten, vermerkt.</p>
+                    <p><specList>
+                        <specDesc key="text" atts="xml:lang"/>
+                        <specDesc key="foreign" atts="xml:lang"/>
+                    </specList>
+                    </p> 
+                </div>
+                <div xml:id="abbreviation">
+                    <head>Abkürzungen</head>
+                    <p>Abkürzungen sind bisher nur mit <gi>abbr</gi> ausgezeichnet, aber nicht in den Daten selbst aufgelöst. Hier ist ein Blick in das Abkürzungsverzeichnis des jeweiligen editorischen Berichts nötig - das Gros sind aber gängige und bekannte Abkürzungen.</p>
+                    <p><specList>
+                        <specDesc key="abbr"/>
+                        </specList>
+                    </p>
+                </div>
+                <div xml:id="figure">
+                    <head>Abbildungen</head>
+                    <p>Abbildungen im Text werden folgendermaßen ausgezeichnet:</p>
+                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                        <figure xml:id="B01S0588Bild01">
+                            <graphic url="images/band1/B01S0588Bild01.png" width="85%"/>
+                        </figure>
+                    </egXML>
+                    <p><specList>
+                        <specDesc key="figure" atts="xml:id"/>
+                        <specDesc key="graphic" atts="url width"/>
+                    </specList>
+                    </p>
+                </div>
+            </div>            
+             <div xml:id="editor">
+                 <head>Editorische Eingriffe</head>
+                 <div xml:id="errata">
+                     <head>Druckfehler</head>
+                     <p>Druckfehler, die in der alten Akademieausgabe aufgefallen sind, sind in den editorischen Berichten aufgelistet. In den aktuellen XML-Daten werden nur die Fehler ausgezeichnet, die in der jetzigen Druck-Ausgabe unterlaufen und bereits aufgefallen sind:</p>
+                     <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                         <choice>
+                             <sic>[...]</sic>
+                             <corr>[...]</corr>
+                         </choice>
+                     </egXML>
+                     <p><specList>
+                         <specDesc key="choice"/>
+                         <specDesc key="sic"/>
+                         <specDesc key="corr"/>
+                     </specList>
+                     </p>
+                 </div>
+             </div>         
+         </body>
+        <back>
+            <div xml:id="element-summary">
+                <head>Summary of Elements</head>
+                <p>
+                    <label>Analysis Module</label>
+                    <specList>
+                        <specDesc key="w"/>
+                    </specList>
+                </p>
+                <p>
+                    <label>Core Module</label>
+                    <specList>
+                        <specDesc key="abbr"/>
+                        <specDesc key="add"/>
+                        <specDesc key="addrLine"/>
+                        <specDesc key="address"/>
+                        <specDesc key="author"/>
+                        <specDesc key="bibl"/>
+                        <specDesc key="biblScope"/>
+                        <specDesc key="biblStruct"/>
+                        <specDesc key="cb"/>
+                        <specDesc key="choice"/>
+                        <specDesc key="corr"/>
+                        <specDesc key="date"/>
+                        <specDesc key="del"/>
+                        <specDesc key="desc"/>
+                        <specDesc key="editor"/>
+                        <specDesc key="expan"/>
+                        <specDesc key="foreign"/>
+                        <specDesc key="gap"/>
+                        <specDesc key="gb"/>
+                        <specDesc key="gloss"/>
+                        <specDesc key="graphic"/>
+                        <specDesc key="head"/>
+                        <specDesc key="hi"/>
+                        <specDesc key="imprint"/>
+                        <specDesc key="item"/>
+                        <specDesc key="label"/>
+                        <specDesc key="lb"/>
+                        <specDesc key="list"/>
+						<specDesc key="listBibl"/>
+                        <specDesc key="measure"/>
+                        <specDesc key="milestone"/>
+                        <specDesc key="monogr"/>
+                        <specDesc key="name"/>
+                        <specDesc key="note"/>
+                        <specDesc key="orig"/>
+                        <specDesc key="p"/>
+                        <specDesc key="pb"/>
+                        <specDesc key="pubPlace"/>
+                        <specDesc key="publisher"/>
+                        <specDesc key="q"/>
+                        <specDesc key="quote"/>
+                        <specDesc key="ref"/>
+                        <specDesc key="reg"/>
+                        <specDesc key="resp"/>
+                        <specDesc key="respStmt"/>
+                        <specDesc key="sic"/>
+                        <specDesc key="term"/>
+                        <specDesc key="title"/>
+                        <specDesc key="unclear"/>
+                    </specList>
+                </p>
+				<p>
+					<label>Dictionaries</label>
+					<specList>
+						<specDesc key="def"/>
+						<specDesc key="entry"/>
+						<specDesc key="form"/>
+						<specDesc key="lang"/>
+						<specDesc key="orth"/>
+					</specList>
+				</p>
+                <p>
+                    <label>Figures Module</label>
+                    <specList>
+                        <specDesc key="figure"/>
+                        <specDesc key="figDesc"/>
+                        <specDesc key="table"/>
+                        <specDesc key="row"/>
+                        <specDesc key="cell"/>
+                    </specList>
+                </p>
+                <p>
+                    <label>Header Module</label>
+                    <specList>
+                        <specDesc key="authority"/>
+                        <specDesc key="availability"/>
+                        <specDesc key="category"/>
+                        <specDesc key="catDesc"/>
+                        <specDesc key="change"/>
+                        <specDesc key="classDecl"/>
+                        <specDesc key="edition"/>
+                        <specDesc key="editionStmt"/>
+                        <specDesc key="encodingDesc"/>
+                        <specDesc key="fileDesc"/>
+                        <specDesc key="funder"/>
+                        <specDesc key="handNote"/>
+                        <specDesc key="idno"/>
+                        <specDesc key="keywords"/>
+                        <specDesc key="langUsage"/>
+                        <specDesc key="language"/>
+                        <specDesc key="licence"/>
+                        <specDesc key="listChange"/>
+                        <specDesc key="listPrefixDef"/>
+                        <specDesc key="notesStmt"/>
+                        <specDesc key="prefixDef"/>
+                        <specDesc key="principal"/>
+                        <specDesc key="profileDesc"/>
+                        <specDesc key="projectDesc"/>
+                        <specDesc key="publicationStmt"/>
+                        <specDesc key="rendition"/>
+                        <specDesc key="revisionDesc"/>
+                        <specDesc key="sourceDesc"/>
+                        <specDesc key="styleDefDecl"/>
+                        <specDesc key="tagsDecl"/>
+                        <specDesc key="taxonomy"/>
+                        <specDesc key="textClass"/>
+                        <specDesc key="teiHeader"/>
+                        <specDesc key="titleStmt"/>
+                    </specList>
+                </p>
+                <p>
+                    <label>Linking Module</label>
+                    <specList>
+                        <specDesc key="ab"/>
+                        <specDesc key="anchor"/>
+                        <specDesc key="link"/>
+                        <specDesc key="linkGrp"/>
+                        <specDesc key="seg"/>
+                    </specList>
+                </p>
+                <p>
+                    <label>Manuscript Description Module</label>
+                    <specList>
+                        <specDesc key="accMat"/>
+                        <specDesc key="acquisition"/>
+                        <specDesc key="additional"/>
+                        <specDesc key="adminInfo"/>
+                        <specDesc key="altIdentifier"/>
+                        <specDesc key="collection"/>
+                        <specDesc key="condition"/>
+                        <specDesc key="custEvent"/>
+                        <specDesc key="custodialHist"/>
+                        <specDesc key="decoDesc"/>
+                        <specDesc key="decoNote"/>
+                        <specDesc key="depth"/>
+                        <specDesc key="dim"/>
+                        <specDesc key="dimensions"/>
+                        <specDesc key="foliation"/>
+                        <specDesc key="handDesc"/>
+                        <specDesc key="height"/>
+                        <specDesc key="history"/>
+                        <specDesc key="institution"/>
+                        <specDesc key="layout"/>
+                        <specDesc key="layoutDesc"/>
+                        <specDesc key="locus"/>
+                        <specDesc key="locusGrp"/>
+                        <specDesc key="material"/>
+                        <specDesc key="msContents"/>
+                        <specDesc key="msDesc"/>
+                        <specDesc key="msIdentifier"/>
+                        <specDesc key="msItem"/>
+                        <specDesc key="msName"/>
+                        <specDesc key="msPart"/>
+                        <specDesc key="objectDesc"/>
+                        <specDesc key="objectType"/>
+                        <specDesc key="origDate"/>
+                        <specDesc key="origPlace"/>
+                        <specDesc key="origin"/>
+                        <specDesc key="physDesc"/>
+                        <specDesc key="provenance"/>
+                        <specDesc key="recordHist"/>
+                        <specDesc key="repository"/>
+                        <specDesc key="scriptDesc"/>
+                        <specDesc key="seal"/>
+                        <specDesc key="sealDesc"/>
+                        <specDesc key="signatures"/>
+                        <specDesc key="stamp"/>
+                        <specDesc key="summary"/>
+                        <specDesc key="support"/>
+                        <specDesc key="supportDesc"/>
+                        <specDesc key="surrogates"/>
+                        <specDesc key="width"/>
+                    </specList>
+                </p>
+                <p>
+                    <label>Names and Dates Module</label>
+                    <specList>
+                        <specDesc key="addName"/>
+                        <specDesc key="affiliation"/>
+                        <specDesc key="age"/>
+                        <specDesc key="birth"/>
+                        <specDesc key="bloc"/>
+                        <specDesc key="country"/>
+                        <specDesc key="death"/>
+                        <specDesc key="education"/>
+                        <specDesc key="event"/>
+                        <specDesc key="faith"/>
+                        <specDesc key="forename"/>
+                        <specDesc key="geo"/>
+                        <specDesc key="geogFeat"/>
+                        <specDesc key="geogName"/>
+                        <specDesc key="listEvent"/>
+                        <specDesc key="listOrg"/>
+                        <specDesc key="listPerson"/>
+                        <specDesc key="listPlace"/>
+                        <specDesc key="location"/>
+                        <specDesc key="nationality"/>
+                        <specDesc key="occupation"/>
+                        <specDesc key="offset"/>
+                        <specDesc key="org"/>
+                        <specDesc key="orgName"/>
+                        <specDesc key="persName"/>
+                        <specDesc key="person"/>
+                        <specDesc key="place"/>
+                        <specDesc key="placeName"/>
+                        <specDesc key="region"/>
+                        <specDesc key="roleName"/>
+                        <specDesc key="settlement"/>
+                        <specDesc key="state"/>
+                        <specDesc key="surname"/>
+                        <specDesc key="trait"/>
+                    </specList>
+                </p>
+                <p>
+                    <label>Text Critical Apparatus Module</label>
+                    <specList>
+                        <specDesc key="app"/>
+                        <specDesc key="rdg"/>
+                    </specList>
+                </p>
+                <p>
+                    <label>Text Structure Module</label>
+                    <specList>
+                        <specDesc key="TEI"/>
+                        <specDesc key="back"/>
+                        <specDesc key="body"/>
+                        <specDesc key="closer"/>
+                        <specDesc key="dateline"/>
+                        <specDesc key="div"/>
+                        <specDesc key="front"/>
+                        <specDesc key="opener"/>
+                        <specDesc key="postscript"/>
+                        <specDesc key="salute"/>
+                        <specDesc key="signed"/>
+                        <specDesc key="text"/>
+                        <specDesc key="trailer"/>
+                    </specList>
+                </p>
+                <p>
+                    <label>Transcription Module</label>
+                    <specList>
+                        <specDesc key="addSpan"/>
+                        <specDesc key="damage"/>
+                        <specDesc key="damageSpan"/>
+                        <specDesc key="delSpan"/>
+                        <specDesc key="facsimile"/>
+                        <specDesc key="fw"/>
+                        <specDesc key="handNotes"/>
+                        <specDesc key="handShift"/>
+                        <specDesc key="listTranspose"/>
+                        <specDesc key="metamark"/>
+                        <specDesc key="mod"/>
+                        <specDesc key="redo"/>
+                        <specDesc key="restore"/>
+                        <specDesc key="retrace"/>
+                        <specDesc key="space"/>
+                        <specDesc key="subst"/>
+                        <specDesc key="supplied"/>
+                        <specDesc key="surface"/>
+                        <specDesc key="surfaceGrp"/>
+                        <specDesc key="surplus"/>
+                        <specDesc key="transpose"/>
+                        <specDesc key="undo"/>
+                        <specDesc key="zone"/>
+                    </specList>
+                </p>
+            </div>
+<div xml:id="schema-specification">
+                <head>Formal declaration and Reference Pages</head>
+<schemaSpec ident="leap" xml:lang="en" start="TEI">
+                    <moduleRef key="analysis" include="w"/>
+                    <moduleRef key="core" include="abbr add addrLine address author bibl biblScope                         biblStruct cb choice corr date del desc editor expan foreign gap gb gloss                         graphic head hi imprint item label lb list listBibl measure measureGrp milestone                         monogr name note orig p pb pubPlace publisher q quote ref reg resp respStmt                         sic term title unclear"/>
+					<moduleRef key="dictionaries" include="def entry form lang orth"/>
+                    <moduleRef key="figures" include="figure figDesc table row cell"/>
+<moduleRef key="header" include="authority availability category catDesc change                         classDecl edition editionStmt encodingDesc fileDesc funder handNote idno                         keywords langUsage language licence listChange listPrefixDef notesStmt                         prefixDef principal profileDesc projectDesc publicationStmt rendition                         revisionDesc sourceDesc styleDefDecl tagsDecl taxonomy textClass teiHeader                         titleStmt"/>
+<moduleRef key="linking" include="ab anchor link linkGrp seg"/>
+<moduleRef key="msdescription" include="accMat acquisition additional                         adminInfo altIdentifier collection condition   custEvent custodialHist                         decoDesc decoNote depth dim dimensions foliation   handDesc height history                         institution layout layoutDesc locus locusGrp   material msContents msDesc                         msIdentifier msItem msName msPart objectDesc   objectType origDate origPlace origin                         physDesc provenance recordHist   repository scriptDesc seal sealDesc                         signatures stamp summary support   supportDesc surrogates width      "/>
+                    <moduleRef key="namesdates" include="addName affiliation age birth bloc country                         death education event faith forename geo geogFeat geogName listEvent listOrg                         listPerson listPlace location nationality occupation offset org orgName                         persName person place placeName region roleName settlement state surname                         trait"/>
+                    <moduleRef key="tei"/>
+                    <moduleRef key="textcrit" include="app rdg"/>
+                    <moduleRef key="textstructure" include="TEI back body closer dateline div front                         opener postscript salute signed text trailer"/>
+                    <moduleRef key="transcr" include="addSpan damage damageSpan delSpan                         facsimile fw handNotes   handShift listTranspose metamark mod redo restore                         retrace space subst supplied surface surfaceGrp surplus transpose undo zone"/>
+<elementSpec ident="gap" module="core" mode="change">
+                        <attList>
+                            <attDef ident="agent" mode="change">
+                                <valList mode="replace" type="semi" xml:id="gap-agent">
+                                    <valItem ident="blot">
+                                        <desc>There is a blotting</desc>
+                                    </valItem>
+                                    <valItem ident="fading">
+                                        <desc>There is fading</desc>
+                                    </valItem>
+                                    <valItem ident="hole">
+                                        <desc>There is a hole</desc>
+                                    </valItem>
+                                    <valItem ident="illegible">
+                                        <desc>There is illegible text</desc>
+                                    </valItem>
+                                    <valItem ident="overwriting">
+                                        <desc>There is overwriting</desc>
+                                    </valItem>
+                                    <valItem ident="stain">
+                                        <desc>There is a stain</desc>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+</attList>
+                    </elementSpec>
+<classSpec ident="att.global" type="atts" mode="change" module="tei">
+                        <attList>
+                            <attDef ident="xml:base" mode="delete"/>
+                            <attDef ident="xml:space" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                    <classSpec ident="att.global.rendition" type="atts" mode="change" module="tei">
+                        <attList>
+                            <attDef ident="rendition" mode="delete"/>
+                            <attDef ident="rend" mode="change">
+                               <valList mode="replace" type="closed" xml:id="rend-valList">
+                                    <valItem ident="above">
+                                        <desc>rendered above the line</desc>
+                                    </valItem>
+                                    <valItem ident="below">
+                                        <desc>rendered below the line</desc>
+                                    </valItem>
+                                    <valItem ident="caps">
+                                        <desc>rendered as capitals</desc>
+                                    </valItem>
+                                    <valItem ident="center">
+                                        <desc>aligned in the center</desc>
+                                    </valItem>
+                                    <valItem ident="diagonal">
+                                        <desc>rendered diagonally</desc>
+                                    </valItem>
+                                   <valItem ident="dotted-double-line">
+                                        <desc>rendering is of a dotted double line</desc>
+                                    </valItem>
+                                    <valItem ident="dotted-line">
+                                        <desc>rendering is of a dotted line</desc>
+                                    </valItem>
+                                    <valItem ident="dotted-underline">
+                                        <desc>dotted underline</desc>
+                                    </valItem>
+                                    <valItem ident="double-line">
+                                        <desc>rendering is of a double line</desc>
+                                    </valItem>
+                                  <valItem ident="double-underline">
+                                        <desc>double-underlined</desc>
+                                    </valItem>
+                                    <valItem ident="half-line">
+                                        <desc>rendering is of a half line</desc>
+                                    </valItem>
+                                    <valItem ident="indent">
+                                        <desc>rendered as indented (e.g. first line in a
+                                            paragraph)</desc>
+                                    </valItem>
+                                    <valItem ident="italic">
+                                        <desc>rendered italic</desc>
+                                    </valItem>
+                                    <valItem ident="large">
+                                        <desc>rendering is of large size</desc>
+                                    </valItem>
+                                    <valItem ident="left">
+                                        <desc>aligned to the left (default)</desc>
+                                    </valItem>
+                                    <valItem ident="line">
+                                        <desc>rendering is of a line</desc>
+                                    </valItem>
+                                    <valItem ident="no-indent">
+                                        <desc>rendered as not indented</desc>
+                                    </valItem>
+                                    <valItem ident="normal">
+                                        <desc>rendering returns to 'normal'</desc>
+                                    </valItem>
+                                    <valItem ident="other">
+                                        <desc>other rendering</desc>
+                                    </valItem>
+                                    <valItem ident="overline">
+                                        <desc>overlined</desc>
+                                    </valItem>
+                                    <valItem ident="quarter-line">
+                                        <desc>rendering is of a quarter line</desc>
+                                    </valItem>
+                                    <valItem ident="right">
+                                        <desc>aligned to the right</desc>
+                                    </valItem>
+                                    <valItem ident="sub">
+                                        <desc>rendered in subscript</desc>
+                                    </valItem>
+                                    <valItem ident="sup">
+                                        <desc>rendered in superscript</desc>
+                                    </valItem>
+                                    <valItem ident="small">
+                                        <desc>rendered as smaller</desc>
+                                    </valItem>
+                                    <valItem ident="smallcaps">
+                                        <desc>rendered as smallcaps</desc>
+                                    </valItem>
+                                    <valItem ident="three-quarter-line">
+                                        <desc>rendering is of a three-quarter line</desc>
+                                    </valItem>
+                                    <valItem ident="triple-line">
+                                        <desc>rendering is of a triple line</desc>
+                                    </valItem>
+                                    <valItem ident="triple-underline"><!-- Adrian -->
+                                        <desc>triple-underlined</desc>
+                                    </valItem>
+                                    <valItem ident="underline">
+                                        <desc>underlined</desc>
+                                    </valItem>
+                                    <valItem ident="upside-down">
+                                        <desc>rendered upside-down</desc>
+                                    </valItem>
+                                    <valItem ident="vertical">
+                                        <desc>rendered vertically</desc>
+                                    </valItem>
+                                    <valItem ident="black">
+                                        <desc>rendered in black</desc>
+                                    </valItem>
+                                    <valItem ident="blue">
+                                        <desc>rendered in blue</desc>
+                                    </valItem>
+                                    <valItem ident="brown">
+                                        <desc>rendered in brown</desc>
+                                    </valItem>
+                                    <valItem ident="gray">
+                                        <desc>rendered in gray</desc>
+                                    </valItem>
+                                    <valItem ident="green">
+                                        <desc>rendered in green</desc>
+                                    </valItem>
+                                    <valItem ident="orange">
+                                        <desc>rendered in orange</desc>
+                                    </valItem>
+                                    <valItem ident="purple">
+                                        <desc>rendered in purple</desc>
+                                    </valItem>
+                                    <valItem ident="red">
+                                        <desc>rendered in red</desc>
+                                    </valItem>
+                                    <valItem ident="yellow">
+                                        <desc>rendered in yellow</desc>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </classSpec>
+<classSpec ident="att.dimensions" type="atts" mode="change" module="tei">
+                        <attList>
+                            <attDef ident="unit" mode="change">
+                               <valList mode="replace" type="closed" xml:id="unit-valList">
+                                    <valItem ident="mm">
+                                        <desc>Millimetres</desc>
+                                    </valItem>
+                                    <valItem ident="chars">
+                                        <desc>Characters in the text</desc>
+                                    </valItem>
+                                    <valItem ident="words">
+                                        <desc>Words in the text</desc>
+                                    </valItem>
+                                    <valItem ident="lines">
+                                        <desc>Lines in the text</desc>
+                                    </valItem>
+                                    <valItem ident="pages">
+                                        <desc>Pages in the text</desc>
+                                    </valItem>
+                                    <valItem ident="section">
+                                        <desc>Section in the text</desc>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </classSpec>
+ <classSpec ident="att.placement" type="atts" mode="change" module="tei">
+                        <attList>
+                            <attDef ident="place" mode="change">
+                                <valList mode="replace" type="closed" xml:id="place-valList">
+                                    <valItem ident="above">
+                                        <desc>above the line</desc>
+                                    </valItem>
+
+                                    <valItem ident="below">
+                                        <desc>below the line</desc>
+                                    </valItem>
+                                    <valItem ident="bottom">
+                                        <desc>at the foot of the page</desc>
+                                    </valItem>
+                                    <valItem ident="end">
+                                        <desc>at the end of e.g. chapter or volume.</desc>
+                                    </valItem>
+                                    <valItem ident="inline">
+                                        <desc>within the body of the text.</desc>
+                                    </valItem>
+                                    <valItem ident="inspace">
+                                        <desc>in a predefined space, for example left by an earlier
+                                            scribe.</desc>
+                                    </valItem>
+                                    <valItem ident="marginleft">
+                                        <desc>in the left margin</desc>
+                                    </valItem>
+                                    <valItem ident="marginright">
+                                        <desc>in right margin</desc>
+                                    </valItem>
+                                    <valItem ident="margintop">
+                                        <desc>in the top margin</desc>
+                                    </valItem>
+                                    <valItem ident="marginbottom">
+                                        <desc>in the bottom margin</desc>
+                                    </valItem>
+                                    <valItem ident="over-text">
+                                        <desc>over pre-existing text</desc>
+                                    </valItem>
+                                    <valItem ident="top">
+                                        <desc>at the top of the page</desc>
+                                    </valItem>
+                                </valList>
+                            </attDef>
+                        </attList>
+                    </classSpec>
+<classSpec ident="att.pointing" type="atts" mode="change" module="tei">
+                        <attList>
+                            <attDef ident="evaluate" mode="delete"/>
+                            <attDef ident="targetLang" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                    <classSpec ident="att.typed" mode="change" module="tei" type="atts">
+                        <attList>
+                            <attDef ident="subtype" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                    <classSpec ident="att.personal" mode="change" module="tei" type="atts">
+                        <attList>
+                            <attDef ident="sort" mode="delete"/>
+                        </attList>
+                    </classSpec>
+<classSpec ident="att.datable.iso" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.declaring" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.duration" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.internetMedia" mode="delete" module="tei" type="atts"/>
+                   <classSpec ident="att.divLike" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.segLike" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.fragmentable" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.datable.custom" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.translatable" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.cReferencing" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.edition" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.pointing.group" mode="delete" module="tei" type="atts"/>
+                    <classSpec ident="att.canonical" mode="change" module="tei" type="atts">
+                        <attList>
+                            <attDef ident="key" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                    <classSpec ident="att.global.linking" mode="change" module="tei" type="atts">
+                        <attList>
+                            <attDef ident="synch" mode="delete"/>
+                            <attDef ident="sameAs" mode="delete"/>
+                            <attDef ident="copyOf" mode="delete"/>
+                            <attDef ident="next" mode="delete"/>
+                            <attDef ident="prev" mode="delete"/>
+                            <attDef ident="exclude" mode="delete"/>
+                            <attDef ident="select" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                    <classSpec ident="att.naming" mode="change" module="tei" type="atts">
+                        <attList>
+                            <attDef ident="nymRef" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                    <classSpec ident="att.editLike" mode="change" module="tei" type="atts">
+                        <attList>
+                            <attDef ident="evidence" mode="delete"/>
+                            <attDef ident="instant" mode="delete"/>
+                        </attList>
+                    </classSpec>
+                </schemaSpec>
+            </div>
+        </back>
+    </text>
+</TEI>

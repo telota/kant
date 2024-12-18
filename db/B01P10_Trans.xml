@@ -1,0 +1,991 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="10" subtype="translation">Monadologia physica</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4081-401X">
+						<surname>Hohenegger</surname>
+						<forename>Hansmichael</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0002-0322-4734">
+						<surname>Lamarra</surname>
+						<forename>Antonio</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-5535-5894">
+						<surname>Pozzo</surname>
+						<forename>Riccardo</forename>
+					</persName>
+				</editor>
+				<editor role="translator">
+					<persName ref="https://d-nb.info/gnd/117377201">
+						<surname>Tieftrunk</surname>
+						<forename>Johann Heinrich</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder>
+					<note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Monadologia physica</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="10">Monadologia physica</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4081-401X">
+								<surname>Hohenegger</surname>
+								<forename>Hansmichael</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0002-0322-4734">
+								<surname>Lamarra</surname>
+								<forename>Antonio</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-5535-5894">
+								<surname>Pozzo</surname>
+								<forename>Riccardo</forename>
+							</persName>
+						</editor>
+						<editor role="translator">
+							<persName ref="https://d-nb.info/gnd/117377201">
+								<surname>Tieftrunk</surname>
+								<forename>Johann Heinrich</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">502–538</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-10-24" who="#GN">Corrected</change>
+			<change when="2024-09-23" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-20" who="#EF">Corrected</change>
+			<change when="2023-11-16" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+      <body>
+      	   <pb ed="AA" n="0"/>
+         	<div n="1" type="titlePage">
+         		<p rend="head_03" xml:id="de001" corresp="#la00"><hi rend="uppercase">Nutzen der
+						Verbindung der Metaphysik mit der Geometrie</hi></p>
+         	   <p rend="head_04"><hi rend="uppercase">in der Natur-Philosophie,</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase">von welcher</hi></p>
+         	   <p rend="head_11"><hi rend="smallCaps">der erste Versuch</hi></p>
+         	   <p rend="head_08"><hi rend="uppercase">die physische</hi></p>
+         	   <p rend="head_07"><hi rend="uppercase">Monadologie</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase">enthält</hi></p>
+         	   <p rend="head_06"><hi rend="smallCaps">welche,</hi></p>
+         	   <p rend="head_04" xml:id="de002" corresp="#la002"><hi rend="uppercase">mit Bewilligung der
+						wohllöblichen philosophischen Facultät</hi></p>
+         		<p rend="head_05"><hi rend="uppercase">in einer öffentlichen, um Sitz und Stimme in
+						derselben zu erlangen zu haltenden Disputation,</hi></p>
+         		<p rend="head_04" xml:id="de003" corresp="#la003"><hi rend="uppercase">am 10ten April in den Stunden
+						von 8 bis 12 Uhr</hi></p>
+         		<p rend="head_05" xml:id="de004" corresp="#la004"><hi rend="uppercase">in dem philosophischen
+						Hörsaal</hi></p>
+         		<p rend="head_11" xml:id="de005" corresp="#la005"><hi rend="uppercase">vertheidigen wird</hi></p>
+         		<p rend="head_08" xml:id="de006" corresp="#la006"><hi rend="uppercase"><hi rend="antiqua">M.</hi> Immanuel Kant,</hi></p>
+         		<p rend="head_11" xml:id="de007" corresp="#la007"><hi rend="uppercase">Respondent wird seyn</hi></p>
+         		<p rend="head_09" xml:id="de008" corresp="#la008"><hi rend="uppercase">Lucas David Vogel,</hi></p>
+         		<p rend="head_05" xml:id="de009" corresp="#la009"><hi rend="uppercase">aus Königsberg, der
+						Gottesgelahrtheit Beflissener;</hi></p>
+         		<p rend="head_11" xml:id="de010" corresp="#la010"><hi rend="uppercase">Opponenten werden seyn</hi></p>
+         		<p rend="head_04" xml:id="de011" corresp="#la011"><hi rend="uppercase">Ludwig Ernst Borowski,</hi></p>
+         		<p rend="head_05" xml:id="de012" corresp="#la012"><hi rend="uppercase">aus Königsberg, der
+						Gottesgelahrtheit Beflissener;</hi></p>
+         		<p rend="head_04" xml:id="de013" corresp="#la013"><hi rend="uppercase">Georg Ludwig
+					Mühlenkampf,</hi></p>
+         		<p rend="head_05" xml:id="de014" corresp="#la014"><hi rend="uppercase">aus Trempe, der
+						Gottesgelahrtheit Beflissener,</hi></p>
+         		<p rend="head_05" xml:id="de015" corresp="#la015"><hi rend="uppercase">und</hi></p>
+         		<p rend="head_04" xml:id="de016" corresp="#la016"><hi rend="uppercase">Ludwig Johann
+					Krusemark,</hi></p>
+         		<p rend="head_05" xml:id="de017" corresp="#la017"><hi rend="uppercase">aus Koritz, der
+						Gottesgelahrtheit Beflissener.</hi></p>
+         		<p rend="head_05" xml:id="de018" corresp="#la018"><hi rend="uppercase">Im Jahr 1756.</hi></p>
+				<milestone unit="section" rend="line"/>
+         	   <p rend="head_11"><hi rend="uppercase">Königsberg,</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase">In den Lettern Ihrer Heiligen Königlichen
+						Majestät und der Universitätsdruckerei J. H. Hartungs.</hi></p>
+			</div>
+      	   <pb ed="AA" n="1"/>
+         	<div n="1" type="dedication">
+				<opener>
+					<salute rend="head_08" xml:id="de019" corresp="#la019"><hi rend="uppercase">Dem vornehmsten,
+							edelmüthigsten und vortrefflichsten</hi></salute>
+					<salute rend="head_09" xml:id="de020" corresp="#la020"><hi rend="uppercase">Manne,</hi></salute>
+					<salute rend="head_08" xml:id="de021" corresp="#la021"><hi rend="uppercase">dem
+						Herrn</hi></salute>
+					<salute rend="head_01" xml:id="de022" corresp="#la022"><hi rend="uppercase">Wilhelm Ludwig <hi rend="smaller">von der</hi> Groeben,</hi></salute>
+					<salute rend="head_03" xml:id="de023" corresp="#la023"><hi rend="uppercase">beflissenster Diener
+							des Königs der Preußen und Geheimer Kriegsrat,</hi></salute>
+					<salute rend="head_04" xml:id="de024" corresp="#la024"><hi rend="uppercase">außerordentlicher
+							Vorsitzender des Höchsten Berufungsgerichts Preußens,</hi></salute>
+					<salute rend="head_05" xml:id="de025" corresp="#la025"><hi rend="uppercase">wachsamster Beschützer
+							unserer Albertina,</hi></salute>
+					<salute rend="head_05" xml:id="de026" corresp="#la026"><hi rend="uppercase">und zudem
+						auch</hi></salute>
+					<salute rend="head_04" xml:id="de027" corresp="#la027"><hi rend="uppercase">ehrwürdigster Direktor
+							des Stipendienkollegiums,</hi></salute>
+					<salute rend="head_04" xml:id="de028" corresp="#la028"><hi rend="uppercase">Grundherr der
+							Ländereien</hi></salute>
+					<salute rend="head_05" xml:id="de029" corresp="#la029"><hi rend="uppercase">Tharau, Karschau und
+							der übrigen,</hi></salute>
+					<salute rend="head_10" xml:id="de030" corresp="#la030"><hi rend="uppercase">unvergleichlicher
+							Förderer der Musen</hi></salute>
+					<salute rend="head_04" xml:id="de031" corresp="#la031"><hi rend="uppercase">Seinem Edelmut in
+							Freundschaft</hi></salute>
+					<salute rend="head_05" xml:id="de032" corresp="#la032"><hi rend="uppercase">zugeneigt.</hi></salute>
+				</opener>
+         		<p/>
+         		<p rend="head_05" xml:id="de034" corresp="#la034">Die folgenden Seiten widmen in
+					hingebungsvollstem Sinne</p>
+         		
+				<closer>
+					<signed rend="head_04" xml:id="de035" corresp="#la035"><hi rend="larger">der Vorsitzende und
+							der Respondent.</hi>
+					</signed>
+				</closer>
+			</div>
+      	   <pb ed="AA" n="2"/>
+         	<div n="1">
+         		<head rend="head_03" xml:id="de036" corresp="#la036">Vorerinnerung.</head>
+         		<p rend="indent" xml:id="de037" corresp="#la037">
+					<hi rend="initial">D</hi>ie einsichtsvollern Philosophen, welche sich mit
+					Erforschung der natürlichen Dinge beschäftigen, sind einstimmig der Meinung, daß
+					man mit möglichster Sorgfalt verhüten müsse, daß nicht etwa grundlose und auf
+					einer bloßen Sucht, Vermuthungen vorzubringen, beruhende Erdichtungen sich in
+					die Naturwissenschaft einschleichen, oder daß kein Versuch ohne Zustimmung der
+					Erfahrung und ohne Anweisung der Geometrie vergebens angestellt werde.
+					Allerdings konnte kein der Philosophie mehr heilsamer und nützlicher Rath
+					ausgedacht werden. Allein, weil es kaum einem unter den Sterblichen möglich ist,
+					auf dem geraden Weg der Wahrheit mit festem Schritt so fort zu gehen, daß er
+					nicht bisweilen auf eine von beyden Seiten ausschweifen sollte, so haben sich
+					einige an diese Regel so fest gebunden, daß sie bey Erforschung der Wahrheit es
+					nie wagten, sich in das offene Meer zu begeben, sondern es gerathener fanden, an
+					dem Ufer hin zu fahren und nichts als wahr zuzugeben, als was durch das Zeugniß
+					der Erfahrung unmittelbar bekannt wird. Auf diesem Wege ist es zwar
+					möglich die Naturgesetze zu erklären, den Ursprung und die Ursachen der Gesetze
+					aber können wir so nicht finden. Denn wer sich lediglich an die Erscheinungen
+					hält, der ist von der verborgenern Erkenntniß der ersten Ursachen immer gleich
+					weit entfernt, und wird die Wissenschaft der Natur der Körper selbst eben so
+					wenig erreichen, als der, welcher sich einbildete, er werde, wenn er den Gipfel
+					eines Berges hinan immer höher und höher steige, endlich den Himmel mit der Hand
+					erlangen können.</p>
+         		<p rend="indent" xml:id="de038" corresp="#la038">Demnach ist die Metaphysik, welche die meisten in
+					der Naturlehre recht füglich entbehren zu können wähnen, hier gerade die einzige
+					Hülfe und zündet allein das Licht an. Denn die Körper bestehen aus Theilen; und
+					es beruht nicht wenig darauf, daß deutlich erklärt werde, wie diese
+					zusammenhangen, ob sie durch die bloße Mitgegenwart, oder durch einen
+					wechselseitigen Kampf der Kräfte den Raum erfüllen. Auf welche Weise aber wird
+					es angehen können, bey dieser Unternehmung die Metaphysik <pb ed="AA" n="3"/>mit der Geometrie zu
+					verbinden, da es leichter zu seyn scheint, Greife mit Pferden zu vereinigen, als
+					die Transcendentalphilosophie mit der Geometrie? Denn indem jene die Theilbarkeit des
+					Raums ins Unendliche standhaft läugnet, behauptet diese dieselbe mit ihrer
+					gewöhnlichen Gewißheit und Evidenz. Die letztere will, daß zu freyen Bewegungen
+					ein leerer Raum unentbehrlich sey, die erstere verwirft ihn schlechterdings.
+					Diese beweist, daß die Anziehung oder allgemeine Schwere aus mechanischen
+					Ursachen nicht erklärbar sey, sondern von innern, in der Ruhe und in die
+					Entfernung wirkenden Kräften der Körper herkomme; jene verweist dieses unter die
+					leeren Träume der Einbildung.</p>
+         		<p rend="indent" xml:id="de039" corresp="#la039">Da es nun offenbar kein leichtes Unternehmen ist,
+					diesen Streit zu schlichten, so habe ich diesfalls wenigstens einen Versuch
+					machen wollen, und lade zugleich andere ein, deren Kräfte dieser Arbeit mehr
+					gewachsen sind, zu vollenden, was ich zu leisten hier den Anfang zu machen mich
+					bemühe.</p>
+         		<p rend="indent" xml:id="de040" corresp="#la040">Schlüßlich setze ich nur hinzu; da das Princip aller
+					innern Thätigkeiten, oder die innere Kraft der Elemente nothwendig eine
+					bewegende, und zwar, weil sie ihre Wirksamkeit auf Außendinge äußert, nach außen
+					zu gerichtete Kraft seyn muß; da wir ferner zur Bewegung mitvorhandener Körper
+					keine andere Kraft denken können, als eine solche, welche dieselben entweder
+					zurückzustoßen oder anzuziehen strebt; da endlich, wenn man bloß ein
+					zurückstoßendes Vermögen setzt, keine Vereinigung der Elemente, wodurch
+					Körper entstehen könnten, sondern vielmehr eine Zerstreuung, wenn man aber bloß
+					ein anziehendes Vermögen derselben annimmt, zwar eine Vereinigung, aber keine
+					bestimmte Ausdehnung derselben, und kein Raum als möglich gedacht werden kann,
+					so kann man gewissermaßen schon im voraus einsehen, daß der, welcher im Stande
+					wäre, diese beyden Principien aus der Natur der Elemente selbst und aus
+					ihren ursprünglichen Eigenschaften abzuleiten, keinen unbeträchtlichen Beytrag
+					zur Erklärung der innern Natur der Körper geleistet haben würde.</p>
+				<milestone unit="section" rend="line"/>
+			</div>
+      	<pb ed="AA" n="4"/>
+      	<div n="1"><head rend="head_11" xml:id="de041" corresp="#la041">Der physischen
+      		Monadologie</head><head rend="head_05" xml:id="de042" corresp="#la042">
+					<hi rend="smallCaps">Erster Abschnitt,</hi>
+      		</head><head rend="head_04" xml:id="de043" corresp="#la043">welcher erklärt, daß das Daseyn physischer
+					Monaden mit der Geometrie verträglich ist.</head><p rend="indent">
+					<hi rend="larger">Erster Satz. <hi rend="uppercase">Definition</hi>. Eine
+						einfache Substanz, Monas <note place="foot" n="*)" xml:id="fn01">
+							<p rend="indent">Weil mein Vorhaben ist, bloß von der Classe einfacher
+								Substanzen zu handeln, welche ursprüngliche Theile der Körper sind,
+								so erinnere ich im voraus, daß ich mich künftig der Ausdrücke: <hi rend="spaced">einfache Substanzen, Monaden, Elemente,
+									Elementartheile der Materie, ursprüngliche Theile des
+									Körpers,</hi> als gleichbedeutender Worte bedienen werde.</p>
+						</note> genannt, ist eine solche, welche nicht aus einer Mehrheit solcher
+						Theile besteht, von denen eine ohne die andere abgesondert existiren
+						kann.</hi>
+				</p><p rend="indent">
+					<hi rend="larger">Zweyter Satz. <hi rend="uppercase">Lehrsatz.</hi> Die Körper
+						bestehen aus Monaden.</hi>
+				</p><p rend="indent" xml:id="de044" corresp="#la044">Die Körper bestehen aus Theilen, welche,
+					abgesondert von einander, ein zur Fortdauer fähiges Daseyn haben. Weil aber die
+					Zusammensetzung solcher Theile bloß ein Verhältniß, folglich eine an sich
+					zufällige Bestimmung derselben ist, welche ihrem Daseyn unbeschadet aufgehoben
+					werden kann, so erhellet, daß die ganze Zusammensetzung eines Körpers vernichtet
+					werden kann und nichts destoweniger die Theile bleiben, welche vorher
+					zusammengesetzt waren. Ist aber alle Zusammensetzung aufgehoben, so haben die
+					übrigbleibenden Theile gar keine Zusammensetzung, sind daher ohne alle Mehrheit
+					der Substanzen, folglich einfach. Folglich besteht jeder Körper aus
+					ursprünglichen schlechthin einfachen Theilen, das heißt, aus Monaden.</p>
+      		<pb ed="AA" n="5"/>
+      		<p rend="indent" xml:id="de045" corresp="#la045"><hi rend="uppercase">Anmerkung.</hi> Absichtlich
+					habe ich bey dem gegenwärtigen Beweis jenes berühmte Princip des Grundes
+					weggelassen, und meinen Lehrsatz durch die gemeine Verknüpfung der Begriffe,
+					welche den Beyfall aller Philosophen hat, bewiesen, aus Besorgniß, es möchten
+					die, welche diesen Grundsatz nicht annehmen, auf solche Weise weniger überzeugt
+					werden.</p><p rend="indent" xml:id="de046" corresp="#la046">
+					<hi rend="larger">Dritter Satz. <hi rend="uppercase">Lehrsatz.</hi> Der Raum,
+						welchen die Körper erfüllen, ist ins Unendliche theilbar, besteht folglich
+						nicht aus ursprünglichen und einfachen Theilen.</hi>
+					</p><p rend="indent" xml:id="de047" corresp="#la047">Es sey eine Linie e f in
+					unbestimmte Weite, das heißt, so verlängert, daß sie nach Belieben immer noch
+					weiter verlängert werden könne, eine andere physische, a b, das heißt, eine
+					solche, welche, wenn man so will, aus ursprünglichen Theilen der Materie bestehe, sey
+					darauf rechtwinklig gestellt. Zur Seite sey eine andere, c d, der erstern gleich
+					aufgerichtet und eben so gestellt, welches, wie man nicht läugnen wird, nicht
+					allein im geometrischen, sondern auch im physischen Sinne möglich ist. Man
+					bemerke auf der Linie e f alle Puncte g, h, i, k und so ins Unbestimmte
+					fort. Erstlich wird niemand in Zweifel ziehen, daß zwischen jeden zwey Puncten,
+					oder, wenn man so will, zwischen zwey gegebenen Monaden eine gerade physische
+					Linie gezogen werden könne. Sie sey also gezogen, c g, so wird die Stelle, wo
+					sie die Perpendicularlinie schneidet, o seyn. Nun denke man sich eine andere
+					physische Linie zwischen den Puncten c und h gezogen, so wird die Stelle u
+					beyden Linien c h und a b gemein, dem Punct a aber näher seyn. Und auf dieselbe
+					Weise werden, wenn man aus demselben Punct c nach allen Puncten auf der Linie
+					e f ins Unendliche fort Linien i k <abbr>u. s. w.</abbr> zieht, die Durchschnittspuncte x,
+					y, <abbr>u. s. w.</abbr> dem Punct a immer näher kommen, wie einem jeden, der auch nichts von
+					Geometrie weiß, an sich klar ist. Und wenn du meinst, daß diese physischen
+					Linien endlich gar zu dicht an einander kommen und sich berühren werden, so daß
+					sie neben einander nicht bestehen können, so kann man die tiefer gezogenen
+					wegnehmen, und es erhellet nichts destoweniger, daß die Stellen des
+					Durchschneidens dem Puncte a immer näher und näher kommen müssen<note place="foot" n="*)" xml:id="fn02">
+						<p rend="indent">Und nie können die Puncte x und y zusammenfallen, weil
+							sonst die Linien c y und c x ebenfalls, folglich auch die Linien c k und
+							c i zusammen fallen und sich decken würden, welches wider die
+							Voraussetzung ist.</p>
+					</note>, je nachdem
+					du auf der Linie von unbestimmter Länge, e f, den Punct immer weiter und weiter
+					bemerkst. Weil aber die Entfernung dieses Punctes sich ins Unendliche fortsetzen
+					läßt, so kann auch die Annäherung des Einschnitts gegen den Punct a in
+					unendlichen Theilen des Zunehmens wachsen. Und dennoch wird auf diese Weise der
+					Einschnitt niemals auf den Punct a fallen, indem, da die Puncte c und a von der
+					Linie e f gleich weit abstehen, die Linie, welche die Puncte a und c vereiniget,
+					wenn man sie nach Belieben verlängert hat, jederzeit eben so weit von der Linie
+					e f <pb ed="AA" n="6"/>abstehen wird, und dieser niemals begegnen kann, welches wider die
+					Voraussetzung ist. Folglich kommt man bey stets fortgesetzter Theilung der Linie
+					o a niemals auf ursprüngliche Theile, die nicht weiter getheilt werden könnten,
+					das heißt, der Raum ist ins Unndliche theilbar, und besteht nicht aus einfachen
+					Theilen. 
+					</p><p rend="indent" xml:id="de048" corresp="#la048"><hi rend="uppercase">Anmerkung.</hi> Diesen
+					von vielen Physikern bereits gebrauchten Beweis habe ich hier angeführet und mit
+					der größtmöglichsten Deutlichkeit auf den physischen Raum angewendet; damit
+					nicht die, welche auf den gemeinen Unterschied zwischen geometrischem und
+					natürlichem Raum viel Gewicht legen, durch irgend eine Ausflucht sich entziehen
+					können. Es giebt zwar noch andere Beweise desselben Satzes: man stelle sich zum
+					Beyspiel, damit ich nur einen davon anführe, einen aus Monaden, wenn man so
+					will, bestehenden gleichseitigen Triangel vor, so können, wenn man dessen zwey
+					Seiten in unbestimmte Weite verlängert, und in diesen die Entfernungen um das
+					doppelte, dreyfache, fünffache, hundertfache <abbr>u. s. w.</abbr> größer als die Seiten des
+					gegebenen Dreyecks annimmt, die Endpuncte dieser durch physische Linien
+					verbunden werden, welche in demselben Verhältniß wie jene größer als die dritte
+					Seite des Dreyecks seyn, und aus eben so viel ganz einfachen Theilchen mehr bestehen
+					werden. Weil aber zwischen jeder dieser Monaden und der, welche an die Spitze
+					des obern Winkels gestellt ist, physische Linien gezogen angenommen werden
+					können, so theilen diese die Grundlinie des gegebenen Dreyecks unendliche Male,
+					bestätigen also die unendliche Theilbarkeit des Raums ausnehmend. Allein wer den
+					oben gegebenen Beweis durch keine vorgefaßte Meinung gehindert begriffen hat,
+					der kann nach meinem Dafürhalten alle andere entbehren.</p>
+      		<p rend="indent" xml:id="de049" corresp="#la049">
+					<hi rend="larger">Vierter Satz. <hi rend="uppercase">Lehrsatz.</hi> Ein ins
+						Unendliche theilbares Zusammengesetztes besteht nicht aus ursprünglichen
+						oder einfachen Theilen.</hi>
+      		</p><p rend="indent" xml:id="de050" corresp="#la050">Da man bey einem ins Unendliche theilbaren
+					Zusammengesetzten durch fortgesetztes Theilen nie auf Theile kommt, die nicht
+					weiter getheilt werden könnten, eine Zusammensetzung aber, die durch Theilung
+					nicht aufgehoben werden mag, gar nicht aufgehoben werden kann, wenn man nicht
+					jedes Daseyn des Zusammengesetzten ganz vernichtet; weil nun die von einem
+					Zusammengesetzten nach Aufhebung aller Zusammensetzung übrigbleibenden Theile
+					einfache genannt werden (erster Satz): so erhellet, daß ein ins Unendliche
+					theilbares Zusammengesetztes aus solchen Theilen nicht bestehe.</p>
+      		<p rend="indent" xml:id="de051" corresp="#la051"><hi rend="uppercase">Anmerkung.</hi> Ich habe,
+					nach geführtem Beweis, daß jeder Körper aus ursprünglichen einfachen Theilen
+					bestehe, und nachdem ich auch die unendliche Theilbarkeit des Raums dargethan,
+					dem Zweck meines Vorhabens gemäß gefunden, zu verhüten, daß niemand die Monaden
+					für <w lemma="unendlich">un<pb ed="AA" n="7" break="no"/>endlich</w> kleine Körpertheilchen halte. Denn daß der Raum, welcher an sich ohne
+					alle Substantialität und bloß die Erscheinungvon dem äußern Verhältniß
+					vereinigter Monaden ist, auch durch eine ins Unendliche fortgesetzte Theilung
+					nicht erschöpft werde, dieß erhellet auf diese Weise zur Genüge; in jedem
+					Zusammengesetzten aber ist die Zusammensetzung nur zufällig, und die
+					wesentlichen Bestandtheile sind die Subjecte der Zusammensetzung, folglich ist
+					es widersinnig, daß solches einer unendlichen Theilung fähig sey. Denn es würde
+					auch daraus folgen, daß jeder ursprüngliche Theil eines Körpers so beschaffen
+					sey, daß er weder mit tausend, noch mit zehntausend, noch mit Millionen andern,
+					mit einem Wort, mit so viel andern Theilen als man will, verbunden, jemals irgendein Theilchen von Materie ausmachen könne; dieß würde offenbar alle
+					Substantialität eines Zusammengesetzten vernichten, und kann folglich von den
+					natürlichen Körpern nicht gelten.</p><p rend="indent" xml:id="de052" corresp="#la052">
+					<hi rend="smallCaps">Zusatz.</hi> Demnach besteht jeder Körper aus einer
+						bestimmten Zahl einfacher Elemente.</p><p rend="indent" xml:id="de053" corresp="#la053">
+					<hi rend="larger">Fünfter Satz. <hi rend="uppercase">Lehrsatz.</hi> Jedes
+						einfache Element eines Körpers, oder jede Monas ist nicht allein im Raum,
+						sondern erfüllt auch einen Raum, ihrer Einfachheit völlig unbeschadet.</hi>
+						</p><p rend="indent" xml:id="de054" corresp="#la054">Da jeder Körper aus einer bestimmten Anzahl
+					einfacher Elemente zusammengesetzt ist, der Raum aber, welchen er einnimmt, eine
+					unendliche Theilung zuläßt, so wird jedes dieser Elemente einen noch weiter
+					theilbaren Raum einnehmen, das heißt, einen der Bezeichnung fähigen Raum
+					erfüllen.</p><p rend="indent" xml:id="de055" corresp="#la055">Da aber die Theilung des Raums
+					nicht eine Absonderung von Theilen ist, von welchen jeder, von dem andern
+					abgesondert, ein eigenes für sich bestehendes Daseyn hätte, sondern bloß eine
+					gewisse Mehrheit oder Quantität im äußern Verhältniß bezeichnet, so erhellet,
+					daß daraus keine Mehrheit der substantiellen Theile folge; und da diese der
+					wesentlichen Einfachheit einer Monas allein zuwider ist, so erhellet vollkommen,
+					daß die Theilbarkeit des Raums der Einfachheit der Monas nicht zuwider
+					ist.</p><p rend="indent" xml:id="de056" corresp="#la056"><hi rend="uppercase">Anmerkung.</hi>
+					Bey Untersuchung der Elemente hat keine Behauptung der Vereinigung der Geometrie
+					mit der Metaphysik mehr entgegen gestanden, als jene vorgefaßte, aber nicht
+					gehörig geprüfte Meinung, als wenn die Theilbarkeit des Raums, welchen ein
+					Element einnehme, auch die mögliche Theilung dieses Elements in seine
+					wesentlichen Bestandtheile bewiese. Und nach der gewöhnlichen Annahme ist dieses
+					so sehr außer allem Zweifel, daß die, welche die Theilung des realen Raums ins
+					Unendliche vertheidigen, von Monaden schlechterdings nichts hören wollen, die
+					hingegen, welche Monaden zugeben, dieser Annahme getreu die Eigenschaften des
+					geometrischen Raums ihrerseits für leere Einbildungen erklären. Da aber aus dem oben
+					Bewiesenen offenbar erhellet, daß weder der Geometer Unrecht hat, noch die dem
+					Metaphysiker ausgemachte Lehrmeinung ohne Wahrheit ist, so <pb ed="AA" n="8"/>muß die beyde
+					veruneinigende Meinung, als wenn ein seiner Substanz nach schlechthin
+					einfaches Element seiner Einfachheit unbeschadet keinen Raum einnehmen könne,
+					nothwendig falsch seyn. Denn eine Linie oder Fläche, welche einen gewissen
+					kleinen Raum in zwey Theile theilt, deutet allerdings an, daß ein Theil des
+					Raums außer dem andern existire. Weil aber der Raum keine Substanz, sondern nur
+					eine gewisse Erscheinung des äußern Verhältnisses von Substanzen ist; so ist
+					dieses, daß ein und dasselbe Verhältniß einer Substanz getheilt werden kann, der
+					Einfachheit, oder, wenn man so will, der Einheit dieser Substanz nicht zuwider.
+					Denn das, was sich auf beyden Seiten der theilenden Linie befindet, ist nicht
+					etwas, das von der Substanz so abgesondert werden kann, daß es auch davon
+					abgesondert ein eigenes Daseyn habe, welches doch zur realen, die Einfachheit
+					aufhebenden Theilung allerdings erforderlich ist, sondern es ist bloß eine auf
+					zwey Seiten einer und derselben Substanz geäußerte Thätigkeit oder Beziehung,
+					und in dieser einige Mehrheit finden, heißt nicht die Substanz selbst in Theile
+					zerlegen.</p><p rend="indent" xml:id="de057" corresp="#la057">
+					<hi rend="larger">Sechster Satz. <hi rend="uppercase">Lehrsatz.</hi> Eine Monas
+						bestimmt den kleinen Raum ihrer Gegenwart nicht durch eine Mehrheit ihrer
+						substantiellen Theile, sondern durch die Sphäre ihrer Wirksamkeit, mit
+						welcher sie die äußern ihr beiderseits gegenwärtigen Monaden von einer
+						weitern Annäherung zu ihr abhält.</hi>
+					</p><p rend="indent" xml:id="de058" corresp="#la058">Da in einer Monas keine
+					Mehrheit von Substanzen ist, gleichwohl jede abgesondert gesetzt, einen Raum
+					einnimmt (aus dem vorigen); so darf man den Grund der Raumerfüllung nicht in dem
+					bloßen Setzen der Substanz, sondern in ihrer Beziehung im Verhältniß zu den
+					äußern suchen. Weil sie aber durch Ausfüllung eines Raums die ihr auf beiden
+					Seiten unmittelbar gegenwärtigen Monaden von der weitern Annäherung zu sich
+					abhält, und folglich in dem Setzen derselben etwas bestimmt, indem sie nämlich
+					das Maß der Nähe begränzt, in welcher dieselben an sie kommen können; so ist
+					offenbar, daß sie eine Thätigkeit äußere, und zwar in einem nach allen
+					Richtungen bestimmten Raum, folglich muß man zugeben, daß sie den Raum durch die
+					Sphäre ihrer Wirksamkeit erfülle.</p><p rend="indent" xml:id="de059" corresp="#la059">
+					<hi rend="larger">Siebenter Satz. <hi rend="uppercase">Aufgabe.</hi> Den Raum,
+						welchen jede Monas durch die Sphäre ihrer Wirksamkeit, ihrer Einfachheit
+						unbeschadet, einnimmt, noch weiter von Schwierigkeiten zu befreyen.</hi>
+					</p><p rend="indent" xml:id="de060" corresp="#la060">Wenn eine Monas, wie wir behaupten, einen
+					begränzten Raum erfüllt, so wird dieser durch jeden andern angränzenden Raum
+					bezeichnet werden können. Es stelle also der kleine Kreis A B C D den kleinen
+					Raum vor, welchen eine Monas durch ihre Wirksamkeit einnimmt, so wird B D der
+					Durchmesser der Sphäre dieser Wirksamkeit seyn, das heißt, die Entfernung, bis
+					auf welche sie andere ihr in B und D gegenwärtige von der weitern Annäherung zu
+					ihr abhält. Aber man sage deswegen ja nicht, daß dieß der Durchmesser der Monade
+					sey, welches allerdings abgeschmackt <pb ed="AA" n="9"/>wäre. Auch ist nichts von unserer Meinung
+					mehr entfernt. Denn da der Raum lediglich aus äußern Beziehungen besteht, so wird
+					alles Innere der Substanz, das heißt, die Substanz selbst als das Subject der
+					äußern Bestimmungen durch den Raum nicht begränzt, sondern man darf in dem Raum
+					nur das suchen, was sich auf das Aeußere der Bestimmungen derselben bezieht.
+					Allein, sagst du, in diesem kleinen Raum existirt eine Substanz und ist in
+					demselben allenthalben zugegen, wer also den Raum theilt, theilt der nicht auch
+					die Substanz? Ich antworte, dieser Raum selbst ist nur der Umfang der
+					äußerlichen Gegenwart dieses Elements. Wer also den Raum theilt, der theilt die
+					extensive Quantität seiner Gegenwart. Allein es giebt außer der äußerlichen
+					Gegenwart, das heißt, außer den bezughaften Bestimmungen der Substanz auch
+					innere, und wären diese nicht, so würden jene kein Subject haben, dem sie
+					anhingen. Die innern sind nicht deswegen im Raum, weil es eben innere sind.
+					Folglich werden sie auch durch die Theilung der äußern Bestimmungen nicht
+					getheilt, folglich wird auch das Subject derselben, das heißt, die Substanz
+					selbst nicht getheilt. Es wäre dieß gerade so, als wenn du sagtest: Gott ist
+					allen erschaffenen Dingen durch den Act der Erhaltung innerlich zugegen; wer
+					also die Masse der erschaffenen Dinge theilt, der theilt Gott, weil er den
+					Umfang seiner Gegenwart theilt, und etwas Ungereimteres läßt sich doch wohl
+					nicht sagen. Mithin hat zwar die Monas, als das ursprüngliche Element eines
+					Körpers, wiefern sie einen Raum erfüllt, zwar eine gewisse extensive Quantität,
+					nämlich den Umfang ihrer Wirksamkeit, aber du wirst in diesem nicht mehrere
+					Bestandtheile finden, von welchen eins, abgesondert von dem andern, das heißt,
+					ohne das andere für sich und allein, eine eigne Subsistenz und Fortdauer habe.
+					Denn was in dem Raum B C D gefunden wird, das kann von dem, was in dem 
+					Raum B A D da ist, nicht so abgesondert werden, daß jedes von
+					beyden für sich existire, weil beydes bloß eine äußere Bestimmung einer und
+					derselben Substanz ist; zufällige Eigenschaften aber existiren nicht ohne ihre
+						Substanzen<note place="foot" n="*)" xml:id="fn03">
+						<p rend="indent">Unter allen Schwierigkeiten, welche unserer Lehrmeinung
+							entgegen stehen können, scheint die wichtigste die zu seyn, welche von
+							dem Außereinanderseyn der Bestimmungen einer und derselben Substanz
+							hergenommen ist. Denn die Thätigkeit der Monas in dem 
+							Raum B C D ist außer der Thätigkeit derselben in dem
+							Raum B D A; sie scheinen also reell von einander
+							verschieden und außer der Substanz befindlich zu seyn. Allein
+							Verhältnisse sind jederzeit sowohl außer einander selbst als auch außer
+							der Substanz, weil diejenigen Wesen, auf welche die Substanz sich
+							bezieht, von der Substanz und von einander reell verschieden sind, und
+							dieses keine substantielle Mehrheit andeutet.</p>
+					</note>.
+			  </p>
+      		<pb ed="AA" n="10"/>
+      		<p rend="indent" xml:id="de061" corresp="#la061">
+					<hi rend="larger">Achter Satz. <hi rend="uppercase">Lehrsatz.</hi> Die Kraft,
+						mit welcher ein einfaches Element eines Körpers seinen Raum einnimmt, ist
+						einerley mit der, welche man sonst <hi rend="spaced">Undurchdringlichkeit</hi> nennt, und wenn man jene nicht zugeben will,
+						so kann diese nicht Statt finden.</hi>
+					</p><p rend="indent" xml:id="de062" corresp="#la062">Undurchdringlichkeit ist die Eigenschaft eines
+					Körpers, vermöge welcher er von dem Raum, den er einnimmt, die ihn berührenden
+					Dinge abhält. Da aber aus dem Vorhergehenden bekannt ist, daß der Raum, den ein
+					Körper einnimmt, (wenn man die Theile desselben ohne ein Leeres dazwischen so
+					dicht als möglich an einander liegend sich vorstellt,) aus kleinern Räumen
+					zusammengesetzt ist, von welchen jeder durch ein einfaches Element erfüllt wird;
+					da ferner zur Abhaltung der in den erfüllten Raum äußerlich eindringenden
+					Körper, das heißt, zur Undurchdringlichkeit ein Widerstreben, sogar eine gewisse
+					Kraft erforderlich ist, in dem Vorhergehenden aber bewiesen ist, daß die
+					Elemente ihren bestimmten Raum durch eine gewisse Thätigkeit andere Elemente,
+					welche in denselben eindringen wollen, abzuhalten, erfüllen, so erhellet, daß
+					die Undurchdringlichkeit der Körper von keiner andern als derselben natürlichen
+					Kraft der Elemente abhange. Welches das erste war.</p>
+      		<p rend="indent" xml:id="de063" corresp="#la063">Es sey ferner die Linie a g aus ursprünglichen Elementen der
+					Materie oder Monaden zusammengesetzt. Wenn jedes dieser Elemente d durch die
+					Gegenwart seiner Substanz bloß den Ort bezeichnete und keinen Raum einnähme, so
+					würde der Ort d die gegebene Linie a g zerschneiden, und dann wird er, weil er
+					auf diese Weise andeutet, wo die eine Hälfte der Linie aufhört und die andere
+					anfängt, beyden Hälften gemein seyn. Allein physische Linien sind nicht gleich,
+					wenn sie nicht aus einer gleichen Anzahl von Elementen bestehen, und die Anzahl
+					der Elemente auf beyden Seiten ist nicht gleich als in der Linie a c und e g,
+					folglich wird der Ort der Monas d den Linien a c, e g gemein seyn, das heißt,
+					die genannten Linien werden sich an dem angegebenen Ort unmittelbar begegnen,
+					und folglich hält das Element d die nächsten e und c von der unmittelbaren
+					Berührung nicht ab, das heißt, es wird nicht undurchdringlich seyn. Sagst du
+					also, der Ort, den die Monas d einnimmt, sey den Linien a c, e g nicht gemein,
+					so wird der Punct x es seyn, wo die Linien a c und d g sich unmittelbar
+					begegnen, und der Punct o, wo die Linien a d und e g einander berühren; weil
+					also der Ort der Monas d verschieden ist von dem Ort x und eben so von dem Ort
+					o, indem sonst, wie vorhin gesagt worden, immer eine unmittelbare Berührung
+					Statt fände; so hast du drey verschiedene Orte x d o, welche ohne Zweifel irgend
+					eine Linie bestimmen. Es wird also die bestimmte Linie durch die unmittelbare
+					Gegenwart der Monas d bestimmt, das heißt, sie ist in dem bestimmten Raum
+					zugegen, und weil sie durch das bloße Setzen ihrer Substanz nicht einen Raum,
+					sondern nur einen Ort einnehmen könnte, so muß nothwendig noch etwas anderes in
+					der Substanz da seyn, welches in den dieselbe auf beyden Seiten <w lemma="beruehrenden">berüh<pb ed="AA" n="11" break="no"/>renden</w>
+					Monaden das Maß der Nähe bestimmt, und jede Kraft von dem nähern Eindringen der
+					Monaden c und e abhält; einer Kraft aber kann nur eine Kraft entgegengesetzt
+					werden; folglich bewirkt dieselbe Kraft, womit eine materielle Monas ihren Raum
+					einnimmt, auch ihre Undurchdringlichkeit. Welches das zweyte war.</p></div>
+      	   <pb ed="AA" n="12"/>
+         	<div n="1">
+         		<head rend="head_03" xml:id="de064" corresp="#la064">
+               <hi rend="smallCaps">Zweyter
+						Abschnitt,</hi>
+            </head>
+         	<head rend="head_04">welcher die allgemeinsten Eigenschaften der physischen
+					Monaden erklärt, wiefern sie in mehrern verschieden sind und zum Verständniß der
+					Natur der Körper etwas beytragen.</head>
+         		<p rend="indent" xml:id="de065" corresp="#la065">
+               <hi rend="larger">Neunter
+               	Satz. <hi rend="uppercase">Definition.</hi> Berührung ist das gegenseitige Einwirken
+						der Undurchdringlichkeitskräfte mehrerer
+						Elemente.</hi>
+            </p>
+         		<p rend="indent" xml:id="de066" corresp="#la066"><hi rend="uppercase">Anmerkung.</hi>					Berührung wird gewöhnlich durch die unmittelbare Gegenwart definirt. Allein,
+					wenn man auch, zumal <hi rend="spaced">äußere</hi> dazu setzte, (weil ohne diesen Zusatz Gott,
+					welcher allen Dingen unmittelbar, aber innerlich zugegen ist, dieselben berühren
+					müßte); so wird die Definition dennoch bey weitem nicht fehlerfrey seyn. Denn
+					weil von andern hinlänglich bewiesen worden ist, daß Körper, die durch leeren
+					Raum von einander entfernt sind, nichts destoweniger coexistiren, folglich auch
+					einander unmittelbar gegenwärtig seyn können, obschon ohne gegenseitige
+					Berührung, so ist die Definition ungezweifelt in so weit fehlerhaft.
+						Ferner wird von
+					der Newtonischen Schule nicht ohne
+					großen
+					Anschein von Wahrheit die unmittelbare Anziehung weit von
+					einander entlegener Körper behauptet, deren Mitgegenwart also ebenfalls ohne
+					gegenseitige Berührung erfolgen würde. Ueberdieß mußt du, wenn du die Definition
+					vertheidigst, welche die unmittelbare Mitgegenwart für den Begriff der Berührung
+					selbst ausgiebt, zuerst den Begriff dieser Gegenwart erklären. Erklärst du ihn wie gewöhnlich
+					durch eine wechselseitige Thätigkeit; worin besteht wohl diese Thätigkeit? Ohne
+					Zweifel sind Körper durch Selbstbewegung thätig. Die Bewegkraft aber, welche
+					sich von einem gegebenen Punct aus äußert, stößt entweder andere Dinge von
+					demselben zurück, oder zieht sie an. Welche von beyden Thätigkeiten bey der
+					Berührung zu verstehen sey, ist an sich klar. Denn wenn ein Körper einem andern
+					Körper immer näher und näher gebracht wird, so sagen wir dann, daß beyde sich
+					einander berühren, sobald die Kraft der Undurchdringlichkeit, das heißt, die
+					zurückstoßende <pb ed="AA" n="13"/>Kraft empfunden wird. Folglich macht diese von verschiedenen
+					Elementen
+					gegen einander geäußerte Wirkung und Rückwirkung den ächten Begriff der
+					Berührung aus.</p>
+         		<p rend="indent" xml:id="de067" corresp="#la067">
+               <hi rend="larger">Zehnter
+               	Satz. <hi rend="uppercase">Lehrsatz.</hi> Durch die Undurchdringlichkeitskraft
+               	allein würden die Körper kein begränztes Volumen haben, wenn nicht eine andere
+						gleichfalls
+						innewohnende
+						Anziehungskraft mit jener gemeinschaftlich die Gränze der Ausdehnung
+						bestimmte.</hi>
+            </p>
+         		<p rend="indent" xml:id="de068" corresp="#la068">Die Undurchdringlichkeitskraft
+					ist eine zurückstoßende, welche alles Aeußere von weiterer Annäherung abhält. Da
+					diese Kraft einem jeden Element angeboren
+					ist, so kann zwar aus der Natur derselben erkannt werden, warum mit zunehmender
+					Entfernung, zu welcher sie sich ausdehnt, der Grad ihrer
+					Thätigkeit
+					abnehme, daß diese aber in einer gegebenen Entfernung ganz aufhöre und null sey,
+					dieß kann man hieraus an sich nicht einsehen. Folglich würde, wenn es auf diese
+					allein ankäme, gar kein Zusammenhang der Körper Statt finden, indem die
+					ursprünglichen
+					Theilchen
+					derselben sich bloß zurückstießen, und ein Körper könnte kein festes in eine
+					bestimmte Gränze eingeschlossenes Volumen haben. Folglich ist es nothwendig, daß dieser
+					Tendenz eine
+					andere
+					von entgegengesetzter, und in einer gegebenen Entfernung von gleicher Richtung
+					entgegengesetzt werde, welche dem einzunehmenden Raum die Gränze bestimme. Diese
+					ist, da sie dem Zurückstoßen entgegen wirkt, die anziehende Kraft. Folglich ist jedem Element
+					außer der Undurchdringlichkeitskraft eine anziehende Kraft nothwendig, und ohne
+					diese anzunehmen, würde man keine bestimmten
+					Volumina der natürlichen
+					Körper als möglich erkennen können.</p>
+         		<p rend="indent" xml:id="de069" corresp="#la069"><hi rend="uppercase">Anmerkung.</hi>					Welche die Gesetze beyder Kräfte, der zurückstoßenden und anziehenden, in den
+					Elementen
+					sind, dieß zu erforschen ist allerdings eine äußerst wichtige Untersuchung, und
+					würdig die scharfsichtigern Köpfe zu beschäftigen. Mir ist es hier genug, das
+					Daseyn derselben, so weit es wegen der nöthigen Kürze möglich war, mit völliger
+					Gewißheit bewiesen zu haben. Um jedoch einiges zu dieser Untersuchung gehörige,
+					wem es gefällt, hier gleichsam von weitem
+					anzudeuten,
+					wird nicht, da die zurückstoßende Kraft von dem innersten Punct des von dem
+					Element
+					eingenommenen Raums aus gegen außen zu wirkt, anzunehmen seyn, daß der Grad
+					derselben in demselben Verhältniß abnehme, in welchem der Raum, in den sie sich
+					ausdehnt, zunimmt? Denn die von einem Punct ausgehende Kraft kann nicht in der bestimmten Sphäre
+					wirksam befunden werden, wenn sie nicht den ganzen unter dem gegebenen
+					Durchmesser befindlichen Raum mit ihrer Thätigkeit erfüllt. Dieß erhellet auf
+					diese Weise. Denn wenn du dir eine von einer gegebenen
+					Fläche
+					nach geraden Linien ausgehende Kraft vorstellst, wie zum Beyspiel das Licht,
+					oder auch nach Keils Meinung die anziehende Kraft selbst, so wird die auf diese
+					Weise in Thätigkeit gebrachte Kraft im Verhältniß der Menge der Linien, welche
+					von dieser Fläche aus gezogen werden können, das heißt, im Verhältniß <pb ed="AA" n="14"/>der
+					thätigen Fläche selbst seyn. Folglich wird, wenn diese Fläche unendlich klein
+					ist, auch diese Kraft unendlich klein, und, wenn jene endlich ein Punct ist,
+					diese völlig null seyn. Folglich kann durch die von einem Punct aus von
+					einander ablaufenden Linien keine in einer gewissen Entfernung einer Bezeichnung
+					fähige Kraft 
+					verbreitet werden. Folglich wird sie auch nicht wirksam befunden werden, wenn
+					sie nicht den ganzen Raum erfüllt, worin sie thätig ist. Aber die sphärischen Räume
+					verhalten sich wie die
+					Kubikzahl
+					der Entfernungen. Folglich wird, da dieselbe Kraft durch einen größern Raum
+					verbreitet, sich im umgekehrten Verhältniß der Räume vermindert, die
+					Undurchdringlichkeitskraft gegenseitig in dem dreyfachen Verhältniß der
+					Entfernungen
+					vom
+					Mittelpunct ihrer Gegenwart seyn.</p>
+         		<p rend="indent" xml:id="de070" corresp="#la070">Im Gegentheil wird, da die
+					Anziehung zwar eine Thätigkeit desselben Elements, aber jener Kraft entgegen
+					gerichtet ist, die sphärische Fläche, auf welche die Anziehung in einer
+					gegebenen Entfernung sich thätig äußert, der örtliche Anfang ihrer Thätigkeit
+						seyn;
+					und diese wird, da die Menge der Puncte, von welchen aus gegen den Mittelpunct
+					ihrer Tendenz hin Linien gezogen werden können, und folglich auch das Quantum
+					der Anziehung bestimmt ist, auf diese Weise zu bezeichnen und auszudrücken
+					möglich und
+					abnehmend seyn im umgekehrten Verhältniß der sphärischen Flächen, das heißt, in
+					dem umgekehrten doppelten der Entfernungen.</p>
+         		<p rend="indent" xml:id="de071" corresp="#la071">Wenn man nun annimmt, daß die
+					zurückstoßende Kraft im dreyfachen, folglich in einem weit größern Verhältniß
+					abnehme, so müssen in einem gewissen Puncte des Durchmessers Anziehung und
+					Zurückstoßung nothwendig gleich seyn. Und dieser Punct wird die Gränze der
+					Undurchdringlichkeit und den Umfang 
+					der äußern Berührung, das heißt, das Volumen bestimmen; denn
+					wenn die Anziehung überwunden ist, so wirkt die zurückstoßende Kraft nicht
+					weiter.</p>
+         		<p rend="indent" xml:id="de072" corresp="#la072"><hi rend="uppercase">Zusatz.</hi>
+					Wenn man
+					dieses
+					Gesetz der
+					innewohnenden
+					Kräfte der
+					Elemente
+					als wahr anerkennt, so wird man auch finden, daß das Volumen aller
+					Elemente,
+					obschon von verschiedener Art und Natur, gleich sey. Denn da es offenbar ist,
+					daß sowohl die zurückstoßenden als die anziehenden Kräfte, weil jede einen
+					bestimmten Grad
+					Intensität
+					hat, in verschiedenen
+					Elementen
+					äußerst verschieden seyn können, in einigen von
+					mehr,
+					in andern von weniger Spannung; so müssen dennoch, weil die doppelte Kraft der
+					Zurückstoßung in derselben doppelten Entfernung ist, und die Kraft der Anziehung
+					eben so, und weil vermöge einer natürlichen Folge alle Bewegkräfte eines
+					Elements,
+					wenn etwas stärker ist als das specifisch doppelte, in demselben Verhältniß
+					stärker sind, die genannten Kräfte in derselben Entfernung jederzeit gleich
+					seyn, und folglich ein gleiches <hi rend="antiqua"><w lemma="volumen">Volu<pb ed="AA" n="15" break="no"/>men</w><span/></hi>
+					des
+					Elements bestimmen, mögen sie von den gleichnamigen Kräften
+					anderer
+					Elemente
+					im Grade noch so verschieden seyn.</p>
+         		<p rend="indent" xml:id="de073" corresp="#la073">
+               <hi rend="larger">Eilfter
+               	Satz. <hi rend="uppercase">Lehrsatz</hi>. <hi rend="spaced">Die Trägheitskraft</hi> ist in jedem Element
+						von bestimmter Quantität, ob sie schon in verschiedenen Elementen sehr
+						verschieden seyn kann.</hi>
+            </p>
+         		<p rend="indent" xml:id="de074" corresp="#la074">Ein bewegter, auf einen andern
+					zugehender Körper würde gar keine Wirksamkeit haben, und durch jedes unendlich
+					kleine Hinderniß in Ruhe gebracht werden, wenn er keine Trägheitskraft hätte,
+					vermöge welcher er in dem Zustand der Bewegung zu beharren strebt. Es ist aber
+					die Trägheitskraft eines Körpers die Summe der Trägheitskräfte aller Elemente,
+					aus welchen er besteht, (und diese nennt man die Masse); folglich würde jedes
+					Element,
+					ob
+					es
+					schon mit einer bestimmten Geschwindigkeit bewegt worden, wenn diese nicht durch
+					die Trägheitskraft multiplicirt würde, gar keine Wirksamkeit der Bewegung haben.
+						Was
+					aber,
+					in ein anderes multiplicirt, ein Quantum giebt, welches größer ist als einer von
+					den Factoren, das ist selbst eine
+					Quantität,
+					und es wird ein anderes bald größeres bald kleineres als dieses angenommen
+					werden können. Folglich wird es in Elementen von anderer Art, entweder eine
+					größere oder kleinere Trägheitskraft geben können, als die eines jeden Elements
+					ist.</p>
+         		<p rend="indent" xml:id="de075" corresp="#la075"><hi rend="uppercase">Erster
+         			Zusatz.</hi> Außer
+					einem
+					jeden gegebenen
+					Element
+					kann es andere geben, deren Trägheitskraft, oder, was in anderer Beziehung
+					dasselbe ist, Bewegkraft um das Doppelte oder Dreyfache größer ist, das heißt,
+					welche sowohl einer gegebenen Geschwindigkeit mit einer doppelt oder dreyfach
+					größern Kraft widerstehen, als
+					auch,
+					mit derselben Geschwindigkeit selbst bewegt, eine doppelt oder dreyfach größere
+					Heftigkeit
+					haben.</p>
+         		<p rend="indent" xml:id="de076" corresp="#la076"><hi rend="uppercase">Zweyter
+         			Zusatz.</hi> Da, wie aus dem Zusatz des vorigen Lehrsatzes bekannt
+					ist, alle
+					Elemente,
+					obschon verschiedener Art, dennoch gleiches Volumen haben, und folglich in einem genau
+					erfüllten Raum jederzeit eine gleiche Anzahl
+					von
+					Elementen
+					enthalten ist, so wird hieraus richtig geschlossen: daß die Körper, wenn man
+					auch annimmt, daß ihnen gar kein Leeres beygemischt, und der ganze Raum
+					vollkommen erfüllt sey, dennoch unter einerley Volumen die verschiedensten Massen
+					enthalten können, indem ihre
+					Elemente
+					eine größere oder geringere Trägheitskraft haben. Denn die Masse der Körper ist
+					bloß die Summe ihrer Trägheitskraft, vermöge welcher sie entweder der Bewegung
+					widerstehen,
+					oder,
+					selbst mit einer gegebenen Geschwindigkeit bewegt, eine gewisse Heftigkeit der
+					Bewegung haben.</p>
+         		<p rend="indent" xml:id="de077" corresp="#la077">Daher gilt von
+					einer
+					kleinern Quantität einer in einem gegebenen Volumen
+					eingeschlossenen Materie nicht immer eine ganz sichere Folge auf eine geringere
+					Dichtigkeit, und auf größere darin befindliche leere Zwischenräume.
+						Denn von zwey
+					Körpern kann jeder entweder gleiche leere Zwischenräume haben, oder gleich dicht
+					seyn, und nichts destoweniger <pb ed="AA" n="16"/>kann einer von beyden eine weit größere Masse
+					haben; indem der Grund der Verschiedenheit ganz in der Natur der Elemente selbst
+					liegt.</p>
+         		<p rend="indent" xml:id="de078" corresp="#la078">
+               <hi rend="larger">Zwölfter
+               	Satz. <hi rend="uppercase">Lehrsatz.</hi> Die specifische Verschiedenheit der
+						Dichtigkeit der in der Welt wahrzunehmenden Körper, kann ohne eine
+						specifische Verschiedenheit der Trägheit ihrer Elemente gar nicht
+						erklärt werden.</hi>
+            </p>
+         		<p rend="indent" xml:id="de079" corresp="#la079">Wenn alle Elemente einerley
+					Trägheitskraft und einerley Volumen hätten, so ist, um die Verschiedenheit der
+					Lockerkeit der Körper zu verstehen, ein absolut Leeres nöthig, welches den
+					Theilen derselben untermischt sey. Denn den Beweisen Newtons, Keils und anderer
+					zufolge, ist in einem auf solche Weise vollkommen erfüllten
+					Medium
+					eine freye Bewegung nicht möglich. Folglich muß man sich, um die unendlich
+					verschiedene specifische Dichtigkeit der
+					Medien, <abbr>z. B.</abbr> des Aethers, der Luft, des Wassers, des Goldes, zu
+					erklären, einer unmäßigen Hypothesensucht überlassen, wornach das Gewebe der
+					Elemente
+					selbst, welches doch der Erkenntniß der Menschen ganz unzugänglich ist, ohne
+					Grund nach bloßem Belieben erdichtet wird, indem man solches bald als äußerst
+					dünne Bläschen, bald als
+					Zweige
+					oder
+					gewundene
+					Federn frey und kühn vorstellt, damit nur die auf so wunderbar
+					verschiedene Weisen ausgedehnte Materie, von welcher ein kleines Quantum einen
+					großen Raum einschließt, gedacht werden könne. Allein man höre die dagegen
+					streitenden Gründe.</p>
+         		<p rend="indent" xml:id="de080" corresp="#la080">Jene kleinen noch so unendlich
+					dünnen
+					Zweige
+					oder jene Bläschen, welche unter einem Häutchen von unendlicher Feinheit eine
+					nach Quantität der Materie große Leere umfassen, müssen nothwendig durch das
+					beständige Zusammenstoßen und Reiben der Körper endlich
+					zerrieben
+					werden, und auf diese Weise die von ihrer Zerstückelung abfallenden
+					Splitter
+					den zwischen ihnen befindlichen leeren Raum ganz erfüllen. Alsdann wird der
+					allenthalben vollkommen erfüllte
+					Weltraum
+					durch eine übermachtige Trägheit erstarren, und alle Bewegungen werden in Kurzem
+					in Ruhe gebracht werden.</p>
+         		<p rend="indent" xml:id="de081" corresp="#la081">Da ferner einer solchen
+					Behauptung zufolge die specifisch lockerern
+					Medien
+					aus Theilen, die sehr von einander abstehen und ein großes Volumen haben,
+					bestehen müssen, auf welche Weise ist es wohl möglich, daß ihnen die
+					Zwischenräume dichterer Körper, welche nach derselben Meinung enger sind,
+					durchdringlich sind, da bekannt ist, daß das Feuer, das magnetische, das
+					electrische Fluidum festere Körper sehr leicht durchdringen? Denn wie Theilchen von größerem
+					Umfang in engere Zwischenräume eingehen sollen, das weiß ich eben so wenig als
+					der Unwissendste.</p>
+         		<p rend="indent" xml:id="de082" corresp="#la082">Wenn man also eine
+					specifische Verschiedenheit der einfachsten
+					Elemente
+					selbst, vermöge welcher bey vollkommener Erfüllung desselben Raums bald eine
+					kleinere bald eine weit größere Masse gebildet werden <pb ed="AA" n="17"/>könne, nicht zugiebt, so
+					wird die Physik an dieser Schwierigkeit jederzeit als an einer Klippe
+					hangen.</p>
+         		<p rend="indent" xml:id="de083" corresp="#la083">
+               <hi rend="larger">Dreyzehnter
+               	Satz. <hi rend="uppercase">Lehrsatz.</hi> Die
+						Elemente
+						eines Körpers haben, auch allein gesetzt, eine vollkommene elastische Kraft, die in
+						verschiedenen verschieden ist, und machen an sich und ohne alle Beymischung
+						einer Leere ein ursprünglich elastisches
+						Medium
+						aus.</hi>
+            </p>
+         		<p rend="indent" xml:id="de084" corresp="#la084">Jedes einfache Element nimmt den
+					Raum seiner Gegenwart durch eine gewisse bestimmte Kraft ein, welche äußere
+					Substanzen von demselben abhält. Da aber jede
+					endliche
+					Kraft einen Grad hat, welcher von einer andern größern übertroffen werden kann,
+					so erhellet, daß dieser zurückstoßenden Kraft eine andere stärkere
+					entgegengesetzt werden kann; und da, um die letztere in derselben Entfernung
+					abzuhalten, die
+					angeborene
+					Kraft des Elements nicht hinreicht, so erhellet, daß jene stärkere Kraft in den
+					von demselben eingenommenen Raum einigermaßen eindringen werde. Da aber alle Kräfte, welche von
+					einem bestimmten Punct aus nach einem Raum hin wirken, mit zunehmender
+					Entfernung von ihm schwächer werden, so folgt, daß diese zurückstoßende Kraft, je
+					näher sie dem Mittelpunct ihrer Wirksamkeit kommt, desto stärker zurück wirke.
+					Und weil die zurückstoßende Kraft, welche in einer gegebenen Entfernung von dem
+					Mittelpunct der Zurückstoßung
+					endlich,
+					in einer bestimmten Proportion der Annäherungen zunimmt, bey dem Mittelpunct
+					selbst nothwendig
+					unendlich
+					ist, so erhellet, daß das Element durch keine gedenkbare Kraft völlig
+					durchdrungen werden kann. Es wird also vollkommen elastisch seyn, und mehrere
+					dieser Art werden durch die vereinigte Federkraft aller ein ursprünglich
+					elastisches
+					Medium ausmachen. Daß diese Federkraft in verschiedenen
+					verschieden sey, erhellet aus dem Zusatz des zehnten Lehrsatzes Zeile 5 ff.</p>
+         		<p rend="indent" xml:id="de085" corresp="#la085"><hi rend="uppercase">Zusatz.</hi>					
+         		    Die Elemente
+					sind vollkommen undurchdringlich, das heißt, sie können durch keine auch noch so
+					große Kraft von dem Raum, den sie einnehmen, völlig ausgeschlossen werden, aber
+					sie lassen sich zusammendrücken und machen
+					ebensolche
+					Körper aus, indem sie der äußern auf sie drückenden Kraft
+					etwas nachgeben. Daher die Entstehung ursprünglich elastischer
+					Medien,
+					unter welchen ich den Aether oder den Feuerstoff im voraus nennen will.</p>
+            <p rend="center">
+               <hi rend="spaced larger uppercase">Ende.</hi>
+            </p>
+            <milestone unit="section" rend="line"/>
+         <pb ed="AA" n="18"/>
+         <pb ed="AA" n="19"/>
+         </div>      
+      </body>
+   </text>
+</TEI>

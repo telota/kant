@@ -1,0 +1,1063 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="5" subtype="translation">Meditationes de igne</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4081-401X">
+						<surname>Hohenegger</surname>
+						<forename>Hansmichael</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0002-0322-4734">
+						<surname>Lamarra</surname>
+						<forename>Antonio</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-5535-5894">
+						<surname>Pozzo</surname>
+						<forename>Riccardo</forename>
+					</persName>
+				</editor>
+				<editor role="translator">
+					<persName ref="https://d-nb.info/gnd/117053171">
+						<surname>Buek</surname>
+						<forename>Otto</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder>
+					<note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>De igne</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="5">Meditationes de igne</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4081-401X">
+								<surname>Hohenegger</surname>
+								<forename>Hansmichael</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0002-0322-4734">
+								<surname>Lamarra</surname>
+								<forename>Antonio</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-5535-5894">
+								<surname>Pozzo</surname>
+								<forename>Riccardo</forename>
+							</persName>
+						</editor>
+						<editor role="translator">
+							<persName ref="https://d-nb.info/gnd/117053171">
+								<surname>Buek</surname>
+								<forename>Otto</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">326–365</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-09-24" who="#GN">Corrected</change>
+			<change when="2024-09-23" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-07" who="#EF">Corrected</change>
+			<change when="2023-11-13" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+   <text>
+      <body>
+         <div n="1" type="titlePage">
+         	<pb ed="AA" n="0"/><p rend="head_03" xml:id="de001" corresp="#la001"><hi rend="uppercase">Kurzgefa</hi>ß<hi rend="uppercase">te
+						Darstellung</hi></p>
+         	   <p rend="head_03"><hi rend="uppercase">einiger Betrachtungen</hi></p>
+         	   <p rend="head_07"><hi rend="uppercase">über das Feuer</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase">welche</hi></p>
+         	   <p rend="head_04"><hi rend="uppercase">behufs geneigter Zulassung zum Examen</hi>,</p>
+         	   <p rend="head_03"><hi rend="uppercase">der hochgeehrten
+						philosophischen Facultät</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase">als Probearbeit</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase">unterthänigst überreicht</hi></p>
+         	   <p rend="head_09"><hi rend="uppercase">Immanuel Kant</hi>,</p>
+         	   <p rend="head_05"><hi rend="uppercase">der Philosophie Beflissener aus Königsberg in
+						Preußen</hi></p>
+				<milestone unit="section" rend="line"/>
+         	   <p rend="head_05"><hi rend="uppercase">Königsberg, den 17. April 1755</hi>.</p>
+			</div>
+      	<div n="1"><pb ed="AA" n="1"/><head rend="head_04" xml:id="de002" corresp="#la002"><hi rend="uppercase">Zweck
+      		der Schrift</hi>.</head><p rend="indent" xml:id="de003" corresp="#la003">Ich habe nicht die
+					Absicht, einen Gegenstand, welcher genügenden Stoff für einen starken Band
+					liefern würde, auf wenigen Seiten zu erschöpfen. Die kurzen Betrachtungen,
+					welche ich hier der geneigten Prüfung der Hochgeehrten Philosophischen
+					Facultät gleichsam nur andeutungsweise überreiche, sollen blos die Grundlinien
+					einer Theorie sein, welche mir den Stoff zu einer ausführlicheren Abhandlung
+					bieten werden, sobald ich die dazu nöthige Muße gefunden habe. Überall habe ich
+					mich sorgfältig gehütet, einer hypothetischen und willkürlichen Beweisführung,
+					wie es wohl zu geschehen pflegt, zu viel Raum zu geben; vielmehr bin ich nach
+					Möglichkeit sorgfältig dem leitenden Faden der Erfahrung und der Geometrie
+					gefolgt, ohne welchen man aus dem Labyrinth der Natur kaum den Ausgang findet.
+					Da die Kraft des Feuers sich vorzüglich in der Verdünnung der Körper und in
+					Auflösung von deren Verbindungen erkennbar macht, so schien es mir einer
+					methodischen und vernunftgemäßen Behandlung zu entsprechen, wenn ich Einiges
+					über den Zusammenhang des Stoffes und über die Natur des Flüssigen
+					vorausschickte.</p></div>
+      	<pb ed="AA" n="2"/>
+      	<div n="1">
+      		<head rend="head_03" xml:id="de004" corresp="#la004"><hi rend="uppercase">Erster
+						Abschnitt</hi>.</head>
+      		<head rend="head_05" xml:id="de005" corresp="#la005">Über die Natur der harten und flüssigen
+					Körper.</head>
+				<div n="2">
+					<head rend="head_04" xml:id="de006" corresp="#la006"><hi rend="uppercase">Lehrsatz I</hi>.</head>
+					<p rend="indent" xml:id="de007" corresp="#la007">
+						<hi rend="larger">Die Flüssigkeit der Körper kann nicht aus der Theilung des
+							Stoffes in sehr kleine glatte Theile, die nur ganz lose
+							zusammenhängen, erklärt werden, wie die meisten Naturforscher nach dem
+							Vorgange von Descartes es thun.</hi>
+					</p>
+					<p rend="indent" xml:id="de008" corresp="#la008">Das Dreieck A B C soll den Längsschnitt eines
+						kegelförmigen Haufens von kleinsten kugelförmigen Theilchen vorstellen. Ich
+						sage nun, daß dieser Haufe unter solchen Umständen keine wagerechte
+						Oberfläche bilden wird, wie dies bei Flüssigkeiten notwendig geschehen
+						würde. Denn von den Theilchen c, e, g, d, f, i, die auf den
+						darunterliegenden a, m, n, h aufliegen, wird jedes einzelne von letzteren
+						umfaßt; sie werden deshalb ihre Lage nicht verändern, wenn sie die andern
+						nicht nach links oder rechts wegtreiben. Nun ist die Kraft v a, womit das
+						obere Theilchen durch seine Schwere drückt und das Theilchen a nach rechts
+						stößt, in Folge der Zusammensetzung der Kräfte nur gleich seiner halben
+						Schwere c o, und dies gilt ebenso für alle andern Elemente des ganzen
+						Haufens. Hieraus erhellt, daß, wenn den äußersten Körperchen, a und z, nur
+						irgend eine Kraft entgegensteht, alsdann der Haufen in der Ebene an seiner
+						Oberfläche keine wagerechte, sondern eine kegelartige Gestalt annehmen wird,
+						wie es mit dem feinen Sand in einer Sanduhr oder irgend einem anderen Stoff,
+						der in sehr feinen Staub zerrieben ist, geschieht.</p>
+				</div>
+      		<pb ed="AA" n="3"/>
+      		<div n="2"><head rend="head_04" xml:id="de009" corresp="#la009"><hi rend="uppercase">Lehrsatz
+      			II</hi>.</head><p rend="indent" xml:id="de010" corresp="#la010">
+						<hi rend="larger">Ein Haufen von noch so feinen und noch so schwach
+							zusammenhängenden Theilchen wird dem statischen Gesetz nicht Genüge
+							leisten und keinen Druck gegen die Seiten ausüben, welcher seiner Höhe
+							entspricht. Er entbehrt also des wesentlichen Merkmals des Flüssigen,
+							wenn die Theilchen einander nicht vermittelst eines elastischen
+							Zwischenstoffes drücken, mit dessen Hülfe sie die Kraft ihrer Schwere
+							gleichmäßig nach allen Richtungen hin mittheilen können.</hi>
+      			</p><p rend="indent" xml:id="de011" corresp="#la011">Denn aus dem
+						vorgehenden Lehrsatze erhellt, daß die aufgehäuften und unmittelbar sich
+						drückenden Theilchen seitlich nicht einen ihrer Höhe entsprechenden Druck
+						ausüben; deshalb muß sich zwischen den elementaren Theilen des Flüssigen ein
+						anderer Stoff befinden, durch dessen Vermittelung sie das Gewicht ihrer
+						Schwere gleichmäßig nach allen Richtungen hin vertheilen können. Ein solcher
+						Stoff, der, wenn er irgendwo gedrückt wird, sich anderswohin mit gleicher
+						Kraft auszudehnen strebt, heißt gewöhnlich elastisch, und es müssen also die
+						festen Moleküle des Flüssigen nicht unmittelbar auf einander, sondern auf
+						einem ihnen beigemischten elastischen Stoff aufliegen, mit dessen Hülfe der
+						ganze obere Druck der Kräfte mit gleicher Stärke nach den Seiten wirkt.
+      			</p><p rend="indent" xml:id="de012" corresp="#la012">Ich werde bald beweisen, daß dieser
+						elastische Stoff, welcher sich zwischen den Elementen des Flüssigen
+						befindet, nur der Wärmestoff ist.</p></div>
+				<div n="2">
+					<head rend="head_04" xml:id="de013" corresp="#la013"><hi rend="uppercase">Lehrsatz
+						III</hi>.</head>
+					<p rend="indent" xml:id="de014" corresp="#la014">
+						<hi rend="larger">Die harten Körper werden, ebenso wie die flüssigen, in
+							ihren kleinsten Theilchen nicht durch unmittelbare Berührung derselben
+							zusammengehalten, sondern auch durch die Vermittelung eines elastischen
+							Stoffes.</hi>
+					</p>
+					<p rend="indent" xml:id="de015" corresp="#la015">Die flüssigen Körper hängen, wie oben erwiesen
+						worden, vermittelst eines gewissen elastischen Stoffes zusammen. Da nun die
+						Metalle, wenn sie aus dem flüssigen Zustande in den harten übergehen, wie
+						andere Körper dieser Art, proportional zur abnehmenden Wärme ein immer
+						kleineres Volumen einnehmen und sich in allen Richtungen verdichten, so
+						erhellt, daß ihre dichten Elemente nicht durch unmittelbare Berührung mit
+						einander verbunden sind, weil ihnen sonst der Raum dazu fehlen würde, um
+						sich einander immer mehr zu nähern. Es müssen deshalb auch die harten Körper
+						zwischen ihren Theilen einen Stoff eingemengt enthalten, vermittelst dessen
+						diese festen Moleküle, ohne einander zu berühren, sich doch gegenseitig
+						anziehen, oder, wenn man lieber will, zusammenhängen, und es müssen daher
+						die harten Körper in dieser Rücksicht mit dem Flüssigen übereinstimmen.</p>
+				</div>
+      		<pb ed="AA" n="4"/>
+      		<div n="2"><head rend="head_05" xml:id="de016" corresp="#la016"><hi rend="uppercase">Lehrsatz
+      			IV</hi>.</head><p rend="indent" xml:id="de017" corresp="#la017">
+						<hi rend="larger">Vermittelst dieses erwähnten Stoffes, durch den die
+							Elemente eines Körpers, obgleich sie einander nicht berühren, sich doch
+							gegenseitig anziehen, sind die Erscheinungen der harten Körper zu
+							erklären.</hi>
+      			</p><p rend="indent" xml:id="de018" corresp="#la018">Die harten Körper,
+      				namentlich wenn sie, wie die Metalle, das Glas <abbr>u. s. w.</abbr>, aus dem flüssigen
+						Zustande in den harten übergegangen sind, haben das Eigenthümliche und
+						höchst Merkwürdige, daß sie durch ein angehängtes Gewicht sich ein wenig
+						ausdehnen, ohne zu brechen; und zwar in der Weise, daß sie das Gewicht, dem
+						sie im Zustande der engsten Annäherung ihrer Theile nachgeben, schon durch
+						eine geringe Entfernung dieser Theile von einander tragen können, daß sie
+						aber bei dem größten Grade ihrer Ausdehnung auch das verhältnißmäßig größte
+						Gewicht zu tragen vermögen. Diese Erscheinung läßt sich nach meiner Ansicht
+						nicht durch eine unmittelbare Berührung der dichten Theilchen der Körper
+						erklären. Denn die Theilchen eines Metallfadens mögen entweder in der Weise
+						wie Figur 1 aneinanderliegen, oder zur möglichsten Vermeidung leerer
+						Zwischenräume in der Art, wie bei Fig. 2, oder wie Parallelepipeda, die sich
+						mit ihren kleinen Oberflächen berühren, wie in Fig. 3, so daß, bei Anhängung des
+						Gewichtes, durch die kleinen Räume a, o, i, e <abbr>u. s. w.</abbr> die Parallelepipeda
+						sich zwar aus der Berührung lösen, aber doch mit den übrigen Oberflächen in
+						Zusammenhang bleiben, so erhellt, daß, wenn das angehängte Gewicht einen
+						solchen Metallfaden auch nur ein wenig in seiner Länge ausdehnt, bei der
+						ersten Annahme, Figur 1, die Theile sofort von einander abreißen werden, da
+						sie nicht mehr mit einander zusammenhängen. Meint man aber, daß die zur
+						Seite liegenden Theile a, b, c, d, bei ihrer Ausdehnung in die Länge, ins
+						Innere eintreten und so das Zerreißen verhindern würden, so wäre doch damit
+						die Dicke des Fadens ein wenig geringer geworden und die Theilchen würden
+						dem Gewichte, dem sie schon vorher nachgegeben haben, noch weniger
+						Widerstand leisten können. Bei der dritten Annahme, Fig. 3, wo diese
+						Theilchen sich mit ihrer ganzen Oberfläche berührt hatten, ist klar, daß da,
+						wo diese Theilchen sich nur noch mit einem Theile ihrer Oberflächen
+						berühren, sie durch das Gewicht gänzlich getrennt werden würden. Hiernach
+						kann in allen Fällen, die man aufstellen mag, der Faden sich nicht
+						ausdehnen, ohne gleichzeitig zu zerreißen. Da nun dies der Erfahrung
+						widerstreitet, so erhellt, daß die Elemente der harten Körper nicht durch
+						unmittelbare Berührung, sondern vermöge eines gewissen Stoffes einander auch
+						noch in einer bestimmten Entfernung anziehen.</p>
+      			<pb ed="AA" n="5"/><p rend="indent" xml:id="de019" corresp="#la019">Ich will es daher wagen, diese Erscheinung bei den harten
+						Körpern mich meiner Hypothese gemäß den beobachteten Naturgesetzen und den
+						Regeln der Geometrie zu erklären. Wenn ein Körper, der aus dem flüssigen
+						Zustande in den harten übergeht, eine solche Lage seiner Elemente annimmt,
+						daß ein elastischer Zwischenstoff sie an der gegenseitigen Berührung hindert
+						und drei Elemente immer ein gleichseitiges Dreieck bilden, wie es die Figur
+						4 zeigt (eine solche Stellung aber werden die Elemente immer erstreben,
+						wenn sie sich durch ihre Anziehung in den kleinsten Raum zusammenziehen), so
+						muß, wenn das angehängte Gewicht das System dieser
+						Theilchen nach der Richtung a d zieht, der Abstand der Körper a und c
+						größer werden, wie Fig. 5 zeigt, während die Entfernungen a b und b c
+						dieselben bleiben werden. Denn das Element b nähert sich dem Punkte d so,
+						daß es mit den beiden Elementen a und c einen größeren Winkel, als vorher
+						(Fig. 4) einschließt. Auf diese Weise bleibt die Dichtigkeit des
+						eingemengten elastischen Zwischenstoffes unvermindert (weil der von dem
+						ausgedehnten Körper eingenommene Raum eigentlich nicht größer geworden ist),
+						und deshalb wird die Anziehung, oder wenn man lieber will, der Zusammenhang
+						der Elemente a und c infolge dieses Bandes nicht vermindert sein. Dagegen
+						ist die Anziehung des Theilchens b, soweit sie a und c verbindet, nach der
+						Ausdehnung oder nach der gegenseitigen Entfernung der Theilchen a und c der
+						Linie a d, Fig. 5, proportional, während sie früher wegen des kleineren
+						Winkels, Fig. 4, kleiner war. Also wächst die Kraft, wodurch die Theilchen,
+						nachdem die Ausdehnung erfolgt ist, von dem Zerreißen abgehalten werden, und
+						zwar im geraden Verhältniß der Linie a d, <abbr>d. h.</abbr> nach der Größe der
+						Ausdehnung.</p></div>
+      		<div n="2"><head rend="head_04" xml:id="de020" corresp="#la020"><hi rend="uppercase">Lehrsatz
+      			V</hi>.</head><p rend="indent" xml:id="de021" corresp="#la021">
+						<hi rend="larger">Das Gesetz, wonach erfahrungsgemäß die Räume bei der
+							Zusammendrückung elastischer Körper den Kräften proportional sind,
+							stimmt genau mit der von mir aufgestellten Hypothese.</hi></p>
+      			<pb ed="AA" n="6"/>
+      			<p rend="indent" xml:id="de022" corresp="#la022">Was man bei harten Körpern gemeinhin eine
+						Zusammendrückung nennt, sollte eher eine Ausweitung oder Ausdehnung genannt
+						werden, denn es leuchtet von selbst ein, daß harte Stoffe viel weniger wie
+						das Wasser durch Druck auf einen engern Raum zusammengepreßt werden können.
+						Es soll also ein elastischer Körper f  e  c  b (Fig. 1) in die Mauer a b in
+						f b fest eingefügt sein und dann so gegen die Mauer gedrückt werden, daß er
+						in die Lage i x f b kommt. Ich behaupte nun zunächst, daß der äußere Rand
+						des elastischen Körpers b c auf diese Weise etwas ausgedehnt werde und daß
+						mit der Zunahme dieser seiner Ausdehnung auch die drückende Kraft in diesem
+						Falle zuzunehmen streben wird. Ferner werden die Kräfte, durch welche der
+						elastische Körper dem Orte seiner Befestigung a b näher gebracht wird, nach
+						den von mir aufgestellten Sätzen sich wie diese Entfernungen verhalten, so
+						lange der Druck ein mäßiger bleibt.</p>
+      			<p rend="indent" xml:id="de023" corresp="#la023">Wenn daher der elastische Körper durch eine drückende Kraft
+						in die 2te Lage und um das Stück c s der Mauer näher gebracht wird, so wird
+						der Abschnitt e c die Lage i x erhalten. Wenn man nun quer durch den Körper
+						die Linie i s dem Abschnitt e c parallel zieht, so wird i f = s o = c m, und
+						x o ist durch die Ausdehnung um den Theil x s größer geworden, als der Rand
+						c m. Fährt man nun mit diesem Druck fort, bis der elastische Körper in die
+						3te Lage g k f b gebracht ist, und zieht man g h ebenfalls parallel zu e c,
+						so wird die Größe der Ausdehnung k h größer, als die Ausdehnung x s sein.
+						Aus dem oben Dargelegten erhellt, daß die 3te Lage eine stärker drückende
+						Kraft verlangt, als die 2te.</p>
+      			<p rend="indent" xml:id="de024" corresp="#la024">Indeß ist
+						nun zu ermitteln, wie die Kräfte sich zu den Räumen verhalten, in welchen
+						die Körper zusammengedrückt worden. Der Rand x b der 2ten Lage ist zwar ein
+						wenig eingebogen; indeß kann er bei mäßigem Druck für geradlinig gelten;
+						ebenso die Linie k b der 3ten Lage. Man nehme ferner an, daß der wagerechte
+						Durchschnitt des elastischen Körpers e c, no. 1, bei seiner Überführung in
+						die andern Lagen durch die Punkte i und g geht, was
+						man hier ohne Irrthum thun kann, weil dies bei einem mäßigen Druck der
+						Wahrheit sehr nahe bleibt. Hiernach ist in dem Dreieck i x s der Winkel x =
+						dem Winkel c, weil der Abschnitt des elastischen Körpers derselbe ist wie im
+						ersten Falle, und der Winkel s seinem Wechselwinkel v gleich ist; mithin
+						sind die Dreiecke s c b und i x s einander ähnlich. Ebenso verhält sich bei
+						dem Dreieck g k h, no. 3, alles wie bei dem Dreieck h c b, und daraus
+						ergiebt sich folgender Schluß:</p>
+      			<pb ed="AA" n="7"/>
+      			<p rend="indent" xml:id="de025" corresp="#la025">
+						<figure xml:id="B01S0375Z14Formel01">
+							<graphic url="images/band1/B01S0375Z14Formel02.png" width="35%"/>
+						</figure>
+						</p><p xml:id="de026" corresp="#la026">d. h. die Größen x s und k h, um welche der äußerste
+						Rand b c des elastischen Körpers ausgedehnt wird, verhalten sich wie die
+						Räume der Zusammendrückung s c und h c.</p>
+      			<p xml:id="de027" corresp="#la027">Da nun nach
+						Lehrsatz IV. feststeht, daß bei meiner Hypothese die ausdehnenden Kräfte mit
+						der Größe der Ausdehnung in gleichem Verhältnisse stehen müssen, so erhellt
+						für diesen Fall, daß die den elastischen Körper zusammendrückenden Kräfte
+						sich wie die Räume der Zusammendrückung verhalten.</p> 
+      			<p rend="indent" xml:id="de028" corresp="#la028">Diese meine Ergebnisse
+						bestätigen vortrefflich das, was de la Hire in den Abhandlungen der
+						Königlichen Akademie der Wissenschaften zu Paris im
+						Jahre 1705 über die beobachteten Zusammendrückungen elastischer Körper
+						veröffentlicht hat. Bei genauer Prüfung wird man kaum eine andere Hypothese
+						aufstellen können, die mit diesen Beobachtungen so genau und passend
+						übereinstimmte.</p><div n="3">
+							<head rend="head_05" xml:id="de029" corresp="#la029">Allgemeiner Zusatz.</head>
+							<p rend="indent" xml:id="de030" corresp="#la030">Jeder Körper also wird, wenn ich Recht
+							habe, in seinen festen Theilen vermittelst eines gewissen elastischen
+							Stoffes wie durch ein Band zusammengehalten. Die elementaren Theilchen
+							werden, obgleich sie durch diesen eingemengten Stoff an ihrer
+							unmittelbaren Berührung gehindert sind, doch vermittelst desselben
+							angezogen und sicherlich weit fester mit einander verbunden, als es
+							durch die unmittelbare Berührung geschehen könnte. Denn die Berührung
+							der Moleküle, die meist rund sind, kann daher nur an einem Punkte
+							stattfinden und muß deshalb ungleich schwächer als ein Zusammenhang
+							sein, der sich über ihre ganze Oberfläche erstreckt. Daher kann die Lage
+							der einzelnen Elemente sich ändern, ohne daß ihr Zusammenhang aufgehoben
+							wird, und es erhellt zugleich, wie mit theilweiser Beseitigung dieses
+							einenden Stoffes die Elemente näher aneinander rücken und das Volumen
+							des Körpers vermindern können, und wie umgekehrt, bei Vermehrung der
+							Menge dieses Stoffes oder seiner Elastizität, der Körper an Volumen
+							zunehmen und seine Theilchen sich von einander ohne Verlust des
+							Zusammenhanges entfernen können, welche Umstände für die Lehre vom Feuer
+							von der größten Bedeutung sind.</p>
+						<milestone unit="section" rend="line"/>
+					</div></div>
+			</div>
+      	<pb ed="AA" n="8"/>
+      	<div n="1">
+      		<head rend="head_03" xml:id="de031" corresp="#la031"><hi rend="uppercase">Zweiter Abschnitt</hi>.</head>
+      		<head rend="head_05" xml:id="de032" corresp="#la032">Über den Stoff des Feuers und seine Modificationen,
+					die Hitze und Kälte.</head>
+            <div n="2">
+            	<head rend="head_04" xml:id="de033" corresp="#la033"><hi rend="uppercase">Lehrsatz VI</hi>.</head>
+              <div n="3">
+              	<head rend="head_05" xml:id="de034" corresp="#la034">Eine Erfahrung.</head>
+              	<p rend="indent" xml:id="de035" corresp="#la035">
+                  <hi rend="larger">Die Gegenwart des Feuers macht sich
+						zunächst durch die Verdünnung aller sowohl flüssiger wie
+						fester
+						Körper bemerkbar, und zwar nach allen Richtungen; sodann, wenn der
+						Zusammenhang allmählich geschwächt ist, durch Auflösung des Gefüges
+						der Körper und endlich durch Zerstreuung ihrer Theile in
+						Dampf. Dagegen vermindert die Kälte das Volumen der Körper, vermehrt den
+						Zusammenhang, macht das Dehnbare und Biegsame spröde und das Flüssige hart.
+						Die Wärme wird hauptsächlich bei harten und spröden Körpern durch Reiben
+						oder Schlagen erzeugt. Sie kann in keinem Körper ins
+						Unermessliche
+						zunehmen. Kein Körper, der bei seinem Warmwerden zu wallen
+						beginnt, kann den Wärmegrad des Kochens übersteigen; wenn er sich aber beim
+						Verbrennen entflammt, so erreicht er meist einen höheren
+						Wärmegrad.</hi>
+             </p>
+              	<p rend="indent" xml:id="de036" corresp="#la036">Die übrigen
+					wichtigern Erscheinungen der Wärme erwähne ich hier nicht, da sie zum Theil in
+					dem Folgenden vorkommen werden.</p>
+            </div>
+          </div>
+      		<pb ed="AA" n="9"/>
+      		<div n="2">
+      			<head rend="head_04" xml:id="de037" corresp="#la037"><hi rend="uppercase">Lehrsatz VII</hi>.</head>
+      			<p rend="indent" xml:id="de038" corresp="#la038">
+                  <hi rend="larger">Der Stoff des Feuers ist nur ein
+						elastischer Stoff, den ich im vorigen Abschnitt beschrieben habe, welcher
+						die Elemente jedweden Körpers, mit dem er vermengt ist, zusammenhält; seine
+						wellenförmige oder zitternde Bewegung ist das, was man Wärme
+						nennt.</hi>
+             </p>
+      			<p rend="indent" xml:id="de039" corresp="#la039">Die Erfahrung lehrt
+					(Lehrsatz
+					VI),
+					daß jeder geriebene oder gestoßene Körper warm wird und sich nach allen
+					Richtungen hin verdünnt. Dies
+					erweist
+					die Gegenwart eines
+					elastischen
+					Etwas,
+					das
+					in der Masse des Körpers enthalten ist und in Folge dieser Anregungen sich
+					auszudehnen strebt. Ferner enthält jeder Körper, nach dem im ersten Abschnitt
+					Bewiesenen, einen elastischen Stoff, der in seinen Zwischenräumen eingeschlossen
+					ist und die Theilchen verbindet; derselbe kann daher in eine Wellenbewegung
+					gebracht werden, alle Erscheinungen des Feuers hervorbringen, und kann deshalb
+					von dem Stoff des Feuers nicht unterschieden sein.</p>
+               <div n="3">
+               	<head rend="head_05" xml:id="de040" corresp="#la040">Dasselbe wird aus der Erscheinung des
+					Kochens
+					bewiesen.</head>
+               	<p rend="indent" xml:id="de041" corresp="#la031">Die durch die Wärme
+					verflüssigten Körper sind, wenn sie durch Verstärkung des Feuers zum Kochen
+					gebracht worden sind, keines höheren Wärmegrades mehr fähig; sie entsenden in
+					diesem Zustande große elastische Blasen, welche den Druck der Atmosphäre
+					ertragen können und ihm daher gleichkommen, und dies geschieht unaufhörlich, so
+					lange das Feuer dazu drängt. Da diese Blasen keine elastische Luft enthalten und
+					da nur der Feuerstoff in den durch die Wärme gesättigten Körper eindringt, so
+					entsteht die Frage: weshalb wird dieser elastische Stoff, da doch die Wärme vor
+					dem Kochen ebenfalls in das Wasser eingedrungen war und da er sich außer einigen
+					Luftblasen durch Nichts bemerkbar machte, nun plötzlich im Moment des Kochens
+					ausgesendet. Indeß kann man leicht einsehen, daß derselbe elastische Stoff, den
+					wir Feuer nennen, und der vorher wie jetzt gleichmäßig zwischen der Masse der
+					heiß werdenden Flüssigkeit enthalten ist, obwohl er das Volumen des Körpers ein
+					wenig ausgedehnt hat, so lange durch die Anziehung der
+					Theilchen
+					festgehalten und zusammengedrückt wurde und dadurch hängen blieb, als er in
+					Verbindung mit der Kraft der Wellenbewegung noch nicht stärker als die Anziehung
+					der Moleküle war; ist er aber
+					so kräftig
+					geworden, daß er das Momentum dieser Anziehung durch seine
+					elastische Kraft überwindet, so erhellt, daß aller Feuerstoff, der nun
+					hinzutritt, vermöge seiner nun freien Elastizität sofort, nachdem er
+					eingetreten, durch die Flüssigkeit hindurchgehen wird, wie das aus dem Druck des
+					Feuerstoffes innerhalb jedes heißen Körpers folgt. Es ist deshalb hier nichts
+					vorhanden, was einen Zweifel gegen meine Hypothese erwecken könnte.</p>
+              </div>
+      		</div>
+      		<pb ed="AA" n="10"/>
+      		<div n="2">
+      			<head rend="head_04" xml:id="de042" corresp="#la042"><hi rend="uppercase">Lehrsatz VIII</hi>.</head>
+      			<p rend="indent" xml:id="de043" corresp="#la043">
+                  <hi rend="larger">Der Wärmestoff ist nichts Anderes als der Äther
+						(oder Lichtstoff), welcher durch die starke Anziehung (oder Adhäsion) der
+						Körper in deren Zwischenräumen zusammengepreßt ist.</hi>
+              </p>
+      			<p rend="indent" xml:id="de044" corresp="#la044">Zunächst ziehen alle dichten
+					Körper das Licht in
+					unermäßlicher
+					Grösse an, wie
+					Newton
+					aus den Erscheinungen der Refraction und
+					Reflexion
+					dargelegt hat. Es geschieht dies in so
+					einem
+					Maaße, daß nach den Berechnungen dieses unvergleichlichen
+					Mannes die Kraft der Anziehung in einer an die Berührung grenzenden Nähe die
+					Schwerkraft zehntausend Billionen mal übertritt. Da nun der Lichtstoff elastisch
+					ist, so unterliegt es keinem Zweifel, daß er durch diese
+					unermäßliche
+					Kraft auch in etwas kleinere Räume gebracht, <abbr>d. h.</abbr>
+					zusammengepreßt werden kann, und da die Theilchen der Körper dem Lichtstoffe
+					überall begegnen, so liegt nichts Ungereimtes in der Annahme, daß jener
+					elastische Stoff, den ich in den Körpern nachgewiesen habe, sich in nichts von
+					diesem Äther unterscheide.</p>
+      			<p rend="indent" xml:id="de045" corresp="#la045">Sodann bemerkt man daß dieselben Stoffe, welche sich vorzugsweise durch eine
+					stärkere
+					Fähigkeit, das Licht
+					zu
+					brechen, auszeichnen, wenn man Feuer in ihre Nähe bringt, auch
+					zur Aufnahme einer
+					größeren
+					Wärme geeignet sind. Damit offenbaren sie, daß dieselbe Anziehung, welche das
+					Licht mit sich zu verbinden strebt, auch den mit ihr auf das innigste geeinten
+					Feuerstoff festhält. Denn die Öle, welche nach den Versuchen
+					Newtons
+					und Anderer die Lichtstrahlen durch ihre Kraft viel stärker brechen,
+      				<abbr>d. i.</abbr> anziehen, als es ihrer specifischen Schwere entspricht,
+					sind auch eines ihre specifische Schwere weit übersteigenden Grades der
+					Siedehitze fähig, wie <abbr>z. E.</abbr> das Terebinthen-Öl <abbr>u. a.</abbr> Öle sind nun auch die
+					eigenthümlichen Ernährer der Flamme, und da sie in diesem Zustande das Licht
+					nach allen Richtungen aussenden, so beweisen sie damit, daß der Stoff der Wärme
+					und des Lichts in hohem Grade mit einander übereinstimmen oder sich vielmehr
+					nicht unterscheiden.</p>
+               <div n="3">
+               	<head rend="head_05" xml:id="de046" corresp="#la046">Ebendasselbe wird durch die Durchsichtigkeit des
+					Glases wahrscheinlich.</head>
+               	<p rend="indent" xml:id="de047" corresp="#la047">Wenn man der Hypothese beitritt,
+					die den Gesetzen der Natur am meisten entspricht und kürzlich durch den
+					berühmten
+					Euler
+					in neuer Weise gestützt worden ist, wonach das Licht kein Ausfluß der
+					leuchtenden Körper ist, sondern ein sich fortpflanzender Druck des überall
+					verbreiteten Äthers, und wenn man den Ursprung der Durchsichtigkeit des Glases
+					erwägt, so wird man einräumen müssen, daß dieser Äther offenbar mit dem <pb ed="AA" n="11"/>Stoffe
+					des Feuers verwandt oder vielmehr identisch
+					ist.
+					Denn das Glas ist nur Potasche, <abbr>d. h.</abbr> es
+					besteht aus Asche, die durch die Kraft des Feuers mit einem
+					sehr
+					starken alkalischen Salze und Sand zusammengeschmolzen ist. Da nun dies
+					Aschensalz die Vereinigung des Feuerstoffes durch langes und starkes Brennen mit
+					sich unterstützt, und wenn es sich mit dem Sand mischt, dieses elastische
+					Feuerprinzip durch die ganze Masse des Glases verbreitet, da es ferner nicht
+					wahrscheinlich ist, daß ein solcher Körper, wenn er aus dem flüssigen Zustande
+					in den harten übergeht, nach allen Richtungen hin immer offene und geradlinige
+					Durchgänge behufs Durchlassung des Lichtes haben wird, und es eher mit der
+					Vernunft übereinstimmen würde, daß sein Volumen mit eigenem Stoff erfüllt sei,
+					so erhellt, daß, wenn dessenungeachtet der
+					Stoß
+					des Lichtes sich durch die Glasmasse fortpflanzt, der Lichtstoff den Glastheilen
+					selbst eingemengt sein und einen Theil derselben Masse mit
+					ausmachen
+					muß. Da nun aber, wie wir gesehen, der Feuerstoff einen
+					beträchtlichen Theil des Glases
+					ausmacht
+					und reichlich zwischen dessen dichten Elementen zerstreut
+					ist,
+					so ist es kaum zweifelhaft, daß der Stoff der Wärme mit dem Äther,
+               		<abbr>d. h.</abbr> mit dem Elemente des Lichts derselbe ist.</p>
+              </div>
+      		</div>
+      		<div n="2">
+      			<head rend="head_04" xml:id="de048" corresp="#la048"><hi rend="uppercase">Lehrsatz IX</hi>.</head>
+      			<p rend="indent" xml:id="de049" corresp="#la049">
+                  <hi rend="larger">Den Grad der Wärme zu
+						messen,
+                  	<abbr>d. h.</abbr> das Verhältniß der verschiedenen Wärmegrade zu
+						einander in Zahlen auszudrücken.</hi>
+              </p>
+      			<p rend="indent" xml:id="de050" corresp="#la050">Amontons,
+      				das berühmte Mitglied der Königlichen Pariser Akademie der Wissenschaften, hat zuerst die Auflösung dieser Aufgabe folgendermaßen
+					gezeigt. Da die Kraft des Feuers sich wesentlich in der Verdünnung der Körper
+					geltend macht, so scheint es passend, die Größe jener durch eine
+					zusammendrückende Kraft, welche sich
+					dem Druck dieser Verdünnung
+					entgegenstellt, zu messen. Da man nun bei der Luft bemerkt, daß sie, wenn ihre
+					Wärme auch noch so sehr vermindert wird, jeder drückenden Kraft nachgiebt und im
+					Volumen abnimmt, man also mit Recht ihre ganze Elastizität blos von der Wärme
+					ableiten kann, so rieth jener berühmte Mann auf Grund dieser Annahme, den Grad
+					der Wärme durch die elastische Kraft der dieser Wärme ausgesetzten Luft zu
+					messen, <abbr>d. h.</abbr> durch ein Gewicht, welches die Luft von gleicher Wärme
+					bei gleichemVolumen
+					zu tragen vermag.</p>
+      			<pb ed="AA" n="12"/>
+               <div n="3">
+               	<head rend="head_05" xml:id="de051" corresp="#la051"><hi rend="uppercase">Anmerkung</hi>.</head>
+               	<p rend="indent" xml:id="de052" corresp="#la052">Fahrenheit
+					bemerkte nach dem Bericht von
+					Boerhaave
+					zuerst die Eigenthümlichkeit der durch das Feuer in Kochen gerathenden
+					Flüssigkeiten, wonach dieser Wärmegrad bei einem größeren Druck der Atmosphäre
+					größer wird, während der Siedepunkt bei einem geringen Luftdruck schon bei einem
+					niedrigeren Wärmegrad eintritt. Dasselbe hat Monnier nach dem Bericht der
+					Pariser Akademie gefunden, als er mit einem Thermometer nach Réaumur zuerst in
+					Bordeaux und dann auf dem Gipfel des Pic du
+					Midi,
+					wo das Barometer
+					8
+					Zoll tiefer stand als an jenem Orte, die Wärme des kochenden Wassers und die
+					Höhe des Siedepunktes über dem Gefrierpunkt untersuchte. Den Gefrierpunkt fand
+					er an beiden Orten gleich; dagegen war der Siedepunkt auf dem Berge um
+               		<hi rend="sup">15</hi>⁄<hi rend="sub">180</hi>
+                      der Höhe niedriger, um welche der Siedepunkt des Wassers in
+					Bordeaux an
+					einem 28 Zoll hohen Barometer den Eispunkt überstieg. Hiernach
+					ist die Wärme des Siedepunktes hier um 
+						⅟⁄<hi rend="sub">12</hi>
+                      größer als die des Siedepunktes auf dem Berge, welches Mehr
+					durch ein Mehrgewicht von ungefähr ⅓ des Gewichts der Atmosphäre herbeigeführt wird. Daraus
+					erhellt, daß die Entfernung des großen Gewichts der Atmosphäre dem kochenden
+					Wasser ¼ der Wärme, welche zwischen dem Siedepunkte und Gefrierpunkte
+					liegt, entziehen würde. Da man sonach dem kochenden Wasser durch Aufhebung des
+					Luftdrucks einen schwächern, durch Hinzufügung dieses Druckes aber einen
+					größeren Wärmegrad ertheilen kann, und das Gewicht der Atmosphäre nichts weiter
+					thut, als ein Gegengewicht gegen die Wellenbewegung der Feuertheilchen zu
+					bilden, wenn die Anziehung der Elemente des Wassers selbst dazu nicht mehr
+					zureicht, so kann man daraus abnehmen, mit welcher elastischen Kraft der Äther
+					bei dem Siedepunkte sich aus der Verbindung des Wassers zu lösen strebt, und
+					durch welche Anziehung der Elemente (und wo diese fehlt, durch welchen äußern
+					Druck) er zurückgehalten werden muß. Denn da nach dem gerühmten
+					Amontons
+					die Wärme des Gefrier und die des Siedepunktes kaum um
+					ein
+					Drittel dieses Druckes unterschieden sind, und da der vierte
+					Theil dieser Wärme, welche den Unterschied zwischen dem Siedepunkt und
+					Gefrierpunkt bildet, eine Kraft erfordert, die dem ganzen Gewicht der Atmosphäre
+					gleich kommt, so folgt, daß es eines Gewichts von 12 Atmosphären bedarf, um der
+					ganzen Wärme des Aufkochens das Gleichgewicht zu halten, und daß daher die
+					Anziehung der Elemente des Wassers dem Drucke von 11 Atmosphären gleich kommt.
+					Hieraus kann man die Anziehung derselben in dem Gefrierpunkte und noch vielmehr
+					die ungemein
+					größere
+					Anziehung der Metalle behufs Zusammendrückung des elastischen
+					Äthers entnehmen.</p>
+               	<p rend="indent" xml:id="de053" corresp="#la053">Secondat
+					stellte dieselbe Beobachtung an und fand die Verdünnung des Wassers auf dem
+					erwähnten Berge größer, und in Bordeaux geringer, <pb ed="AA" n="13"/>im Verhältniß von
+						⅟<hi rend="sub">24</hi>
+                      des ganzen Volumens zu 
+                     	⅟<hi rend="sub">35</hi>
+                      desselben, und wenn die Rechnung hiernach ausgeführt wird,
+					genau in dem
+					reziproken
+					Verhältniß des Gewichts der Atmosphäre von 20 : 28. In diesem
+					berühmten
+					Falle hat also der sehr hartnäckige Widerstand des Wassers
+					gegen jede Zusammendrückung, welche von der Cimentinischen Akademie durch
+					Versuche festgestellt worden ist, nicht statt.</p>
+              </div>
+      		</div>
+      		<div n="2">
+      			<head rend="head_04" xml:id="de054" corresp="#la054"><hi rend="uppercase">Lehrsatz X</hi>.</head>
+      			<p rend="indent" xml:id="de055" corresp="#la055">
+                  <hi rend="larger">Die Natur und Ursache der Verdunstung
+						oder des Dampfes aus den Sätzen meiner Theorie zu
+					erklären.</hi>
+              </p>
+               <div n="3">
+               	<head rend="head_05" xml:id="de056" corresp="#la056">Die Natur der Dämpfe.</head>
+               	<p rend="indent" xml:id="de057" corresp="#la057">Die Ausdünstungen,
+					die nur aus den feuchten Theilchen bestehen, welche sich von der Oberfläche der
+					Flüssigkeiten abtrennen und in der Luft schwimmen, haben die eigenthümliche und
+					beinahe wunderbare Natur, daß, so sehr auch die Theilchen einer gleichartigen
+					Flüssigkeit, wenn sie mit einander in Berührung kommen, sich begierig vereinen
+					und von selbst in einer Masse
+					sich
+					vereinen, sie dennoch, wenn sie sich einmal bis zur Feinheit
+					des Dampfes aufgelöst haben und von dem nöthigen Wärmegrad erregt sind, der
+					Berührung und gegenseitigen Vereinigung entfliehen und, um mich des Ausdruckes
+					von
+					Newton
+					zu bedienen, einander kräftig zurückstoßen, so daß keine so
+					ungemein
+					große
+					Kraft gefunden werden kann, die sie zusammenpressen und sie
+					gegen ihr Bestreben zur Vereinigung treiben könnte. So zerbricht der
+					Wasserdampf, wenn er von dem Feuer etwas bewegt ist, selbst die festesten
+					Gefäße, und alle Dämpfe überhaupt entwickeln, je nach ihrer Natur, oft eine
+					wunderbare Elastizität.</p>
+              </div>
+      			<div n="3">
+      				<head rend="head_05" xml:id="de058" corresp="#la058">Die Ursache.</head>
+      				<p rend="indent" xml:id="de059" corresp="#la059">Der Grund dieser
+					Erscheinung ist, wenigstens wie mir scheint, von den Naturforschern noch nicht
+					genügend erkannt worden. Ich
+					versuche deshalb, ihn zu ermitteln.</p>
+      				<pb ed="AA" n="14"/>
+      				<p rend="indent" xml:id="de060" corresp="#la060">Die feinsten Häutchen, die sich
+					von der Oberfläche des Wassers losreißen und zu Bläschen gestalten, die man kaum
+					durch das Mikroscop erkennen kann, sind die Elemente des Wasserdampfes. Was ist
+					nun die Ursache, daß mehrere solcher feinen
+					Bläschen,
+					bei etwas starker Erregung durch die Wärme, ihre Berührung so sehr fliehen? Ich
+					werde es sogleich erklären. Nach den Sätzen meiner Theorie hält das Wasser
+					ebenso, wie alle anderen Körper
+					ausnahmslos,
+					in seiner Masse den elastischen Stoff des Äthers, in einem durch Anziehung
+					zusammengedrückten Zustande, fest; auch erhellt aus den früheren Beweisen, daß
+					diese Anziehung nicht blos für die Berührung, sondern auch für eine gewisse
+					Entfernung definiert ist, so daß die
+					Moleküle
+					bei dem entsprechenden Punkte der Annäherung gegenseitig an einander gebunden
+					bleiben, wenn die anziehende Kraft der abstoßenden, aus der Wellenbewegung der
+					Wärme hervorgehenden Kraft das Gleichgewicht hält, sollte sie sich auch an sich
+					auf eine etwas größere Entfernung erstrecken. Diese Entfernung soll durch die
+					kleine Linie e f,
+					no.
+					1, ausgedrückt sein, die man sich sehr klein vorzustellen hat, und die Nähe der
+					so verbundenen Wassertheilchen soll dem kleinen Stück e g proportional
+					sein. Das Parallelepipedon a b c d,
+					no.
+					2, soll ferner eine kleine Menge Wasser vorstellen, dessen Dicke b a so groß ist, daß sie
+					der Linie e f gleich ist. Da nach
+					den Voraussetzungen des Lehrsatzes die Anziehung der Wasserelemente nicht über
+					die Entfernung ba = ef
+					hinausgeht, so wird das im Punkte a befindliche
+					Theilchen
+					die Anziehung aller durch die ganze Dicke vertheilten Elemente
+					empfinden und daher so fest, als es die Natur des Flüssigen gestattet, hängen,
+					und diese Adhäsion würde auch nicht fester werden, wenn man dieser Wassermenge
+					noch eine andere
+						b h i d hinzufügte. Wird aber das
+					Theilchen
+					nur um ein kleines Stückchen,
+						a m, entfernt, so wird es nicht von der ganzen
+					Wassermenge, sondern nur von dem Theile
+						a n o c angezogen und würde deshalb mit geringer
+					Kraft nach einer Vereinigung streben. Wenn das Parallelepipedon,
+					no.
+					2, in ein anderes, viel kleineres
+						h k r s,
+					no.
+					3, umgewandelt wird, so wird jedes Wassertheilchen, das dem Punkt h genähert
+					wird, viel schwächer angezogen werden, und da selbst der in diesen Häutchen
+					enthaltene Äther bei der so vergrößerten Oberfläche sich größtentheils befreien
+					wird, so erhellt, daß, in diesem Zustande das Element u, welches durch das Hin
+					und Herwogen der Wärme in Bewegung gesetzt worden, von dem Punkte h viel weiter
+					abgeführt werden wird, als es unter der vorigen Bedingung geschehen
+					mußte,
+					und je feiner das Häutchen ist, mit desto größerer Kraft wird es der Berührung
+					auszuweichen suchen. Da ferner das dünne Häutchen
+						h k r s in dieser Gestalt, sich selbst überlassen,
+					sich sofort in Kugelgestalt umwandeln würde, und nachdem so die Dicke von allen
+					Seiten zugenommen hätte, die Kraft erhielte, sich mit andern in derselben Nähe,
+					wie vorher, zu vereinigen, so muß es sich nothwendig, wenn es sich selbst das
+					Merkmal des Dampfes erhalten will, in die Form einer Blase verwandeln
+					(no.
+					4), und <pb ed="AA" n="15"/>zwar mit einem verminderten Durchmesser
+						a b und einer kleineren Dicke, so daß die
+					Entfernung der Punkte a und b, die sich an den Enden des Durchmessers befinden,
+					geringer ist als die Entfernung
+						b e, bei welcher sich diese Punkte durch die
+					abstoßende Kraft des Äthers, die der anziehenden Kraft gleich käme, gegenseitig
+					in Ruhe halten würden, wenn es ihnen frei stände, sich auszudehnen.
+						In diesem
+					Zustande wird deshalb die Blase sich auszudehnen streben und ein Element des
+					elastischen Dampfes bilden. Der Abstand
+						c d zweier gleichartiger Bläschen wird immer
+					dem Durchmesser
+						a b gleich sein, wie aus dem Erwiesenen
+					erhellt.</p>
+              </div>
+      		</div>
+      		<div n="2">
+      			<head rend="head_05" xml:id="de061" corresp="#la061"><hi rend="uppercase">Lehrsatz XI</hi>.</head>
+      			<p rend="indent" xml:id="de062" corresp="#la062">
+                  <hi rend="larger">Die Natur der Luft und die Ursache
+						ihres elastischen Prinzips zu ermitteln.</hi>
+              </p>
+      			<p rend="indent" xml:id="de063" corresp="#la063">Die Luft ist eine
+					elastische Flüssigkeit und beinahe tausendmal leichter als das Wasser; ihre
+					ausdehnende Kraft ist der Wärme proportional, und ihre Ausdehnung vom
+					Gefrierpunkte des Wassers bis zum Siedepunkte beträgt bei gleichem Druck der
+					Atmosphäre ohngefähr
+						⅓ von dem Volumen des Anfangszustandes. Diese
+					Erscheinungen haben nichts an sich, was nicht auch anderen Dämpfen zukommen
+					könnte, ausgenommen, daß sich die meisten Dämpfe bei einem Kältegrad, bei dem
+					die Luft ihre Elasticität unvermindert beibehält, verdichten und kein Zeichen
+					einer ausdehnenden Kraft mehr an sich tragen. Wenn man indeß bedenkt, daß die
+					Feinheit des Dampfhäutchens mit die Ursache sein kann, daß die Luft selbst bei
+					einem geringeren Wärmegrad eine erhebliche Elasticität zu zeigen vermag, so
+					erhellt, daß man die Hülfe der Analogie hier nicht sofort leichtsinnig und
+					vorschnell aufgeben darf, sondern vielmehr versuchen muß, ob man nicht zweierlei
+					aus demselben Prinzip ableiten und damit eine zu große Vermehrung der Prinzipien
+					vermeiden könne. Die
+					Erscheinungen, welche uns hier das Licht der Hypothese vorantragen, sind
+					folgende:</p>
+      			<p rend="indent" xml:id="de064" corresp="#la064">Alle Körper, welche
+					aus der Zusammenfügung kleinster Theilchen vermittelst eines öligen oder
+					salzigen Prinzips gebildet sind, <abbr>z. B.</abbr> alle Pflanzen, der Weingeist,
+					die Blasensteine, ferner sehr viele Salze, namentlich der Salpeter, entlassen
+					eine ungeheure Menge elastischer Luft, wenn sie einem starken Feuer ausgesetzt
+					werden, wie
+					Hales
+					in seiner Statik der Pflanzen durch merkwürdige Versuche dargelegt hat.
+						Es hat sich
+					ergeben, daß diese Luft einen erheblichen Theil des festen Stoffes bildet, mit
+					dem sie verbunden ist; so bildet sie im Hirschhorn ⅐, im Eichenholz ungefähr ⅓, im Rheinischen Weingeist 
+					⅓, im Salpeter ⅛, im thierischen Weinstein, <abbr>d. h.</abbr> in
+					dem Blasenstein bei den Menschen mehr als ½ der ganzen Masse. Selbstverständlich hat die aus diesen Körpern durch
+					das Feuer <w lemma="ausgetriebene">ausgetriebe<pb ed="AA" n="16" break="no"/>ne</w> Luft, so lange sie ein Theil der Masse war, noch nicht
+      				die Natur der Luft gehabt, <abbr>d. h.</abbr> sie war noch keine Flüssigkeit,
+					welche eine ihrer Dichtigkeit proportionale Elasticität besaß; denn sonst würde
+					sie sich durch die Kraft einer nur mittleren Wärme unaufhaltsam in einen größern
+					Raum ausgedehnt und
+					das ganze
+					Gefüge des Körpers
+					aufgelöst
+					haben. Also zeigt
+					der aus den Zwischenräumen des Körpers herausgetriebene Stoff, der bis dahin
+					nicht elastisch war, die Elasticität erst, wenn er frei geworden. Da es aber
+					gerade die Eigenthümlichkeit der Dämpfe ausmacht, daß sie nach Trennung von der
+					Masse, mit der sie vereinigt waren, die elastische Kraft zeigen, so kann man,
+					wenn auch nicht mit voller Gewißheit, doch mit großer Wahrscheinlichkeit
+					behaupten, daß die Luft nur jener aus den Körpern gelöste Dampf ist, der, wenn
+					er die höchste Feinheit erreicht hat, jedem Wärmegrad leicht nachgiebt und eine
+					kräftige Elasticität besitzt.</p>
+      			<p rend="indent" xml:id="de065" corresp="#la065">Vieles und Erhebliches befestiget
+					mich in dieser
+					Ansicht.
+					Denn weshalb wird nur aus Körpern, welche eine bedeutende
+					Menge von Öl, also auch von Säure in sich enthalten, die Luft durch Entzündung
+					herausgetrieben? Ist nicht die Säure das stärkste und kräftigste Prinzip, das
+					durch seine Anziehung den Äther zusammendrängt, wie ich oben dargelegt habe?
+						Ist dieses
+					Prinzip nicht das Band für jene konkreten Körper und gleichsam ihr Leim?
+					(<abbr>d. h.</abbr> der wahre Magnet des Ätherstoffes, der alle Körper
+					zusammenhält); und wenn diese Säure nur mit Mühe aus der engen Verbindung mit
+					dem Stoffe durch eine sehr große Kraft des Feuers ausgetrieben wird, sollte der
+					Stoff sich da nicht in die feinsten Häutchen sondern und trennen? Wie kann man
+					also zweifeln, daß er auf diese Weise eine elastische Flüssigkeit bildet, die
+					selbst bei dem geringsten Grad von Wärme zur Ausdehnung bereit ist und selbst
+					bei der Zusammenziehung durch die größte Kälte (die ja niemals die Wärme ganz
+					aufhebt) seine Elasticität nicht verliert? Damit ist also die Schwierigkeit beseitigt, die bei
+					dem Wasserdampfe darin besteht, daß sich dieser bei einer geringen Kälte
+					zusammenballt, und weshalb
+					Hales
+					die ausgetriebene Luft für einen Stoff hielt, der von der Natur der Dämpfe
+					durchaus verschieden sei. Somit bietet sich hier den Naturforschern eine
+					Annahme, welche im hohen Grade eine genaue Untersuchung verdient, nämlich, ob
+					nicht die Luft nur die feinste Ausdünstung der durch die ganze äußere Natur
+					verbreiteten Säure ist, die selbst bei dem geringsten Grade von Wärme noch
+					Elasticität zeigt.</p>
+      			<p rend="indent" xml:id="de066" corresp="#la066">Wenigstens ist bei
+					Zugrundelegung dieser Ansicht leicht einzusehen, weshalb der Salpeter, wenn er
+					durch ein starkes Feuer erhitzt wird, eine so ungeheure Menge elastischer Luft
+					aus sich entläßt; denn die feinste Säure, wenn sie sich von den gröberen Theilen
+					trennt und in den feinsten Dampf umwandelt,
+					ist ja die
+					Luft selbst. Ebenso erklärlich ist es, weshalb <pb ed="AA" n="17"/>die Stoffe, welche
+					dem Feuer am hartnäckigsten widerstehen, die größte Menge Luft erzeugen und aus
+					sich entlassen; weshalb auch der Rheinische Weingeist mehr als der Salpeter
+					hergiebt; denn von den Stoffen, die am langsamsten und mit dem meisten
+					Widerstreben die in ihnen innerlich enthaltene Säure ausscheiden, trennt sich
+					dieser in der Gestalt der feinsten Häutchen, so daß er einen so beweglichen
+					elastischen Gegenstand bilden kann, wie die Luft ist. Wo dagegen der Dampf in
+					größerem Maaße austritt, bleibt er auch gröber und kann bei steigender Kälte
+					seine Elasticität nicht bewahren.</p>
+               <div n="3">
+               	<head rend="head_05" xml:id="de067" corresp="#la067">Die Übereinstimmung dieser Hypothese mit den
+						Barometer-Beobachtungen.</head>
+               	<p rend="indent" xml:id="de068" corresp="#la068">Aus dieser Hypothese
+					erklärt sich auch die allgemein als kaum erklärbar geltende Eigenthümlichkeit
+					der Luft in größeren Höhen. Nach den Abhandlungen der Königlichen Pariser Akademie der 
+					Wissenschaften haben
+					Maraldi,
+					Cassini und Andere gefunden, daß das Mariottsche Gesetz, wonach die
+					Zusammendrückung der Luft der Größe des Druckes proportional ist, in größeren
+					Höhen nicht mehr gilt. Vielmehr
+					fanden sie, daß die Dichtigkeit der Luft geringer war, als sie in Vergleich mit
+					dem Gewicht der niedern Luftschichten nach diesem Gesetz hätte sein sollen.
+					Hieraus ergiebt sich, daß die höheren Luftschichten nicht aus Theilchen gleicher
+					Art, die nur weniger zusammengedrückt sind, bestehen, sondern aus Elementen, die
+					an sich specifisch leichter sind; denn es bedarf eines größern Volumens
+					derselben, damit sie bei gleichem Druck dasselbe Gewicht behalten.
+						Wenn sonach die
+					Natur der Luft in den verschiedenen Höhen von verschiedener Substanz ist, ein
+					Umstand, den man sonst bei andern Dingen derselben Gattung auf der Erde nicht
+					antrifft, so erhellt, daß die Luft nicht für ein Element von besonderer Art,
+					sondern nur als die Form gelten kann, unter der ein anderes Element, nämlich,
+					meines Erachtens, die flüssige Säure sich offenbart. Nimmt man dies an, so kann
+					es nicht auffallen, wenn gewisse Theilchen eines solchen Dampfes (je nach der
+					verschiedenen Dicke der Häutchen) schwerer als andere sind, und wenn die
+					leichtesten die höchste Stelle einnehmen.</p>
+              </div>
+      		</div>
+      		<pb ed="AA" n="18"/>
+      		<div n="2">
+      			<head rend="head_04" xml:id="de069" corresp="#la069"><hi rend="uppercase">Lehrsatz XII</hi>.</head>
+      			<p rend="indent" xml:id="de070" corresp="#la070">
+                  <hi rend="larger">Die Natur der Flamme aus den Sätzen
+						meiner Theorie zu erklären.</hi>
+              </p>
+               <div n="3">
+               	<head rend="head_05" xml:id="de071" corresp="#la071">1. Die Natur.</head>
+               	<p rend="indent" xml:id="de072" corresp="#la072">Die besondere Natur
+					der Flamme, im Unterschied von andern Feuerarten, ist
+					diese:</p>
+               	<p rend="indent" xml:id="de073" corresp="#la073">Jeder Körper brennt nur an der
+					Oberfläche, und das Nährmittel der Flamme ist das Öl, mithin eine sehr heftige
+					Säure, welche der elastischen Bewegung als Prinzip dient.</p>
+               	<p rend="indent" xml:id="de074" corresp="#la074">Die Flamme ist nur
+					ein Dampf, welcher bis zu jenem Grade des Feuers gebracht ist, daß er mit hellem
+					Licht erglüht und nur erlöscht, wenn ihm die Nahrung ausgeht. Folgende Umstände
+					sind es nun, welche die Flamme von jeder andern Art des Feuers durchaus unterscheiden. 1)
+					Während die Wärme, die einem beliebigen zu erwärmenden Körper zugeführt wird,
+					nach dem allgemeinen Gesetz der Natur durch die Mittheilung sich allmählig
+					vermindert, gewinnt umgekehrt die Flamme selbst bei dem kleinsten Anfang eine
+					unglaubliche Kraft, die in keine Grenzen eingeschlossen ist, so lange ihr die
+					Nahrung nicht fehlt. 2)
+					Das Feuer, das irgend einem entzündlichen Stoffe durch Erwärmung bis zum Sieden
+					zugeführt werden kann, ist viel schwächer als das, welches beim Verbrennen
+					bemerkt wird. 3)
+					Die Flamme verbreitet Licht, während die übrigen Körper, mit Ausnahme der
+					Metalle, auch bei der stärksten Erhitzung ohne Licht bleiben.</p>
+              </div>
+      			<div n="3">
+      				<head rend="head_05" xml:id="de075" corresp="#la075">2. Die Ermittlung der Ursache.</head>
+      				<p rend="indent" xml:id="de076" corresp="#la076">Der Grund dieser Erscheinungen
+					ist, wenn ich richtig denke,
+					folgender.
+					Die Flamme besteht aus einem feurigen Dampfe, und zwar verwandelt sich nicht die
+					ganze feste Masse in die Flamme, sondern es brennt eigentlich nur seine
+					Oberfläche. Da nun der Dampf die größte Oberfläche und den geringsten Widerstand
+					hat, um den Feuerstoff in sich zurückzuhalten, so erhellt, daß er die schon
+					durch den geringsten Anlaß empfangene wellenförmige Bewegung nicht allein sehr
+					leicht fortpflanzen, sondern auch einem andern entzündlichen Stoffe ohne
+					Rücksicht auf seine Größe in gleicher Stärke allmählich mittheilen kann.
+						Allerdings
+					widerspricht diese Erscheinung auf den ersten Blick dem Grundgesetze der
+					Mechanik, wonach die Wirkung immer der Ursache gleich ist; indeß muß man erwägen, daß die
+					erste Anregung selbst des kleinsten Funkens zur Erweckung der <w lemma="Flamme">Flam<pb ed="AA" n="19" break="no"/>me</w> nichts
+					andres bewirkt als daß ein kleinstes Theilchen des entzündlichen Dampfes zu der
+					wellenförmigen Bewegung seines feurigen Elementes angeregt wird. Jedes in dieser
+					Weise angeregte Element befreit sich mit großer Gewalt und vollführt seine
+					Schwingungen; dadurch erregt es auch die benachbarten und pflanzt auf diese
+					Weise die Heftigkeit der Bewegung durch die ganze Masse fort. Es kann nicht auffallen, daß die
+					Wirkung einer sehr kleinen Ursache hier zu einer außerordentlichen Größe
+					ansteigt, weil die Elasticität des eingeschlossenen Äthers, der sich aus den
+					Hemmungen der Anziehung befreit, auf diese Weise Wirkungen zeigt, welche die
+					Bewegung der vorgehenden kleinen Flamme eigentlich nicht als die Ursache
+					erkennen lassen; denn sie hängen eigentlich von der Anziehung des Öles ab,
+					dessen feinste Zertheilung dem eingeschlossenen Stoffe die Gelegenheit gewährt,
+					sich mit großer Gewalt frei zu machen. Auch bildet der Dampf eine Flüssigkeit, welche wegen
+					des nicht mehr zusammengehaltenen elastischen Äthers freiere Schwingungen
+					ausführen kann, und der sich in Folge des auf diese Weise ausgestoßenen feurigen
+					Stoffes mehr dazu eignete, theils die Körper zu erwärmen, theils mehr als andere
+					feurige Körper Licht zu verbreiten.</p>
+      			</div>
+      			<div n="3">
+      				<head rend="head_05" xml:id="de077" corresp="#la077">Schluß.</head>
+      				<p rend="indent" xml:id="de078" corresp="#la078">Indeß beschließe ich
+					hiermit meine kaum angefangene kleine Schrift und will die durch schwerere
+					Pflichten gebundenen Männer nicht länger aufhalten. Ich bitte für diese kleine
+					Arbeit und mich selbst um die Geneigtheit und das Wohlwollen</p> 
+					<p rend="center" xml:id="de079" corresp="#la079">der
+					Hochgeehrten
+					Philosophischen
+					Fakultät.</p>
+                  <milestone unit="section" rend="line"/>
+              </div>
+           </div>
+      		<pb ed="AA" n="20"/>
+        </div>
+     </body>
+  </text>
+</TEI>

@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Werksiglenverzeichnis zu Kant's Werke. Digitale Edition.</title>
+                <author>
+                    <persName>
+                        <surname>Rosie</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                </author>
+                <author>
+                    <persName ref="http://d-nb.info/gnd/1137889055">
+                        <surname>Schepelmann</surname>
+                        <forename>Maja</forename></persName>
+                </author>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/12439826X">
+                        <surname>Gerhardt</surname>
+                        <forename>Volker</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/113092008">
+                        <surname>Willaschek</surname>
+                        <forename>Marcus</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Projektleitung</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://d-nb.info/gnd/1137889055">
+                        <surname>Schepelmann</surname>
+                        <forename>Maja</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName>
+                        <surname>Rosie</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://orcid.org/0000-0003-0548-4545">
+                        <surname>Karl</surname>
+                        <forename>Jacqueline</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Koordination</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName xml:id="GN">
+                        <surname>Neumann</surname>
+                        <forename>Gerald</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName xml:id="EF">
+                        <surname>Fricke</surname>
+                        <forename>Edna</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+                    </resp>
+                </respStmt>
+                <funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+                    Vollständigkeit.</note>
+                    <orgName>
+                        <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+                    </orgName>
+                    <orgName>
+                        <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien"> Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+                            Grütters</ref>
+                    </orgName>
+                    <orgName>
+                        <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+                    </orgName>
+                    <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+                    <orgName>Mathias-Tantau-Stiftung</orgName>
+                    <orgName>
+                        <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+                    </orgName>
+                    <orgName>
+                        <ref target="https://www.zeit-stiftung.de/">ZEIT-Stiftung Bucerius</ref>
+                    </orgName>
+                </funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>Vollständige digitalisierte Ausgabe der Druckversion der
+                    historisch-kritischen Neuedition der Akademieausgabe.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+                    <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+                        Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+                        Schriften“</orgName>
+                </publisher>
+                <pubPlace>Berlin</pubPlace>
+                <date type="publication">2023</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+                        Commons Attribution-ShareAlike 4.0 International (CC BY 4.0)</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><p>Born digital.</p></sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2023-12-14" who="#EF">Converted into TEI, based on word document.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listBibl type="Werksiglen">
+                <bibl xml:id="Ableben_Funk"><choice><abbr rend="italic">Ableben Funk</abbr>
+                    <expan>Gedanken bey dem frühzeitigen Ableben des … HERRN Johann Friedrich von Funk … von M. Immanuel Kant, … (1762)</expan></choice></bibl>
+                <bibl xml:id="Anhang_Soemmerring"><choice><abbr rend="italic">Anhang Sömmerring</abbr>
+                    <expan><hi rend="italic">Anhang zu: Samuel Thomas</hi> Sömmerring über das Organ der Seele. (1796)</expan></choice></bibl>
+                <bibl xml:id="Anthropologie"><choice><abbr rend="italic">Anthropologie</abbr>
+                    <expan>Anthropologie in pragmatischer Hinsicht abgefaßt von Immanuel Kant. (2. Auflage, 1800)</expan></choice></bibl>
+                <bibl xml:id="Anzeige"><choice><abbr rend="italic">Anzeige</abbr>
+                    <expan><hi rend="italic">Anzeige des Lambert’schen Briefwechsels</hi> (1782)</expan></choice></bibl>
+                <bibl xml:id="Aufklaerung"><choice><abbr rend="italic">Aufklärung</abbr>
+                    <expan>Beantwortung der Frage: Was ist Aufklärung? (1784) </expan></choice></bibl>
+                <bibl xml:id="Ausgleichung"><choice><abbr rend="italic">Ausgleichung</abbr>
+                    <expan>Ausgleichung eines auf Mißverstand beruhenden mathematischen Streits (1796)</expan></choice></bibl>
+                <bibl xml:id="Auszug"><choice><abbr rend="italic">Auszug</abbr>
+                    <expan>Authentischer Auszug aus Kants allgemeiner Naturgeschichte und Theorie des Himmels. (1791)</expan></choice></bibl>
+                <bibl xml:id="Beobachtungen"><choice><abbr rend="italic">Beobachtungen</abbr>
+                    <expan>Beobachtungen über das Gefühl des Schönen und Erhabenen. von M. Immanuel Kant. (3. Auflage, 1771)
+                    </expan></choice></bibl>
+                <bibl xml:id="Betrachtung_Erdbeben"><choice><abbr rend="italic">Betrachtung Erdbeben</abbr>
+                    <expan>M. Immanuel Kants Fortgesetzte Betrachtung der seit einiger Zeit wahrgenommenen Erderschütterungen. (1756)
+                    </expan></choice></bibl>
+                <bibl xml:id="Beweisgrund"><choice><abbr rend="italic">Beweisgrund</abbr>
+                    <expan>Der einzig mögliche Beweisgrund zu einer Demonstration des Daseyns Gottes, von M. Immanuel Kant. (2. Auflage, 1770)</expan></choice></bibl>
+                <bibl xml:id="Buechernachdruck"><choice><abbr rend="italic">Büchernachdruck</abbr>
+                    <expan>Von der Unrechtmäßigkeit des Büchernachdruks. (1785)</expan></choice></bibl>
+                <bibl xml:id="Buchmacherey"><choice><abbr rend="italic">Buchmacherey</abbr>
+                    <expan>Ueber die Buchmacherey. Zwey Briefe an Herrn Friedrich Nicolai von Immanuel Kant. (1798)</expan></choice></bibl>
+                <bibl xml:id="CpV"><choice><abbr>CpV</abbr>
+                    <expan>Critik der practischen Vernunft von Immanuel Kant. (1788)</expan></choice></bibl>
+                <bibl xml:id="CrV"><choice><abbr>CrV</abbr>
+                    <expan>Critik der reinen Vernunft von Immanuel Kant, … (A, 1781, und B, 1787)</expan></choice></bibl>
+                <bibl xml:id="CU"><choice><abbr>CU</abbr>
+                    <expan>Critik der Urtheilskraft von Immanuel Kant. (2. Auflage, 1793)</expan></choice></bibl>
+                <bibl xml:id="De_forma"><choice><abbr rend="italic">De forma</abbr>
+                    <expan>DE MVNDI SENSIBILIS ATQVE INTELLIGIBILIS FORMA ET PRINCIPIIS … (1770) mit einer Übersetzung: Von der Form und den Principien der Sinnen- und Verstandes-Welt.</expan></choice></bibl>
+                <bibl xml:id="De_igne"><choice><abbr rend="italic">De igne</abbr>
+                    <expan>MEDITATIONUM QUARUNDAM DE IGNE SUCCINCTA DELINEATIO, QUAM … OFFERT IMMANUEL KANT … (1755) <hi rend="italic">mit einer Übersetzung:</hi> Kurzgefaßte Darstellung einiger Betrachtungen über das Feuer.</expan></choice></bibl>
+                <bibl xml:id="Deutlichkeit"><choice><abbr rend="italic">Deutlichkeit</abbr>
+                    <expan>Untersuchung über die Deutlichkeit der Grundsätze der natürlichen Theologie und der Moral … (1764)</expan></choice></bibl>
+                <bibl xml:id="Einfluß_des_Mondes"><choice><abbr rend="italic">Einfluß des Mondes</abbr>
+                    <expan>Etwas über den Einfluß des Mondes auf die Witterung. (1794)</expan></choice></bibl>
+                <bibl xml:id="Ende_aller_Dinge"><choice><abbr rend="italic">Ende aller Dinge</abbr>
+                    <expan>Das Ende aller Dinge. (1794)</expan></choice></bibl>
+                <bibl xml:id="Entdeckung"><choice><abbr rend="italic">Entdeckung</abbr>
+                    <expan>Ueber eine Entdeckung, nach der alle neue Critik der reinen Vernunft durch eine ältere entbehrlich gemacht werden soll, von Immanuel Kant. (2. Auflage, 1791)</expan></choice></bibl>
+                <bibl xml:id="Entwurf_Geographie"><choice><abbr rend="italic">Entwurf Geographie</abbr>
+                    <expan>M. Immanuel Kants Entwurf und Ankündigung eines Collegii der physischen Geographie … (1757)</expan></choice></bibl>
+                <bibl xml:id="Erdbeben"><choice><abbr rend="italic">Erdbeben</abbr>
+                    <expan>Von den Ursachen der Erderschütterungen bey Gelegenheit des Unglücks, welches die westliche Länder von Europa gegen das Ende des vorigen Jahres betroffen hat. (1756)</expan></choice></bibl>
+                <bibl xml:id="Facultaeten"><choice><abbr rend="italic">Facultäten</abbr>
+                    <expan>Der Streit der Facultäten in drey Abschnitten von Immanuel Kant. (1798)</expan></choice></bibl>
+                <bibl xml:id="Fortschritte"><choice><abbr rend="italic">Fortschritte</abbr>
+                    <expan>Immanuel Kant über die von der Königl. Akademie der Wissenschaften zu Berlin für das Jahr 1791 ausgesetzte Preisfrage: Welches sind die wirklichen Fortschritte, die die Metaphysik seit Leibnitzens und Wolf’s Zeiten in Deutschland gemacht hat? … (1804)</expan></choice></bibl>
+                <bibl xml:id="Frieden"><choice><abbr rend="italic">Frieden</abbr>
+                    <expan>	Zum ewigen Frieden. Ein philosophischer Entwurf von Immanuel Kant. (2. Auflage, 1796)</expan></choice></bibl>
+                <bibl xml:id="Gegenden"><choice><abbr rend="italic">Gegenden</abbr>
+                    <expan>Von dem ersten Grunde des Unterschiedes der Gegenden im Raume. (3. Auflage, 1800)</expan></choice></bibl>
+                <bibl xml:id="Gemeinspruch"><choice><abbr rend="italic">Gemeinspruch</abbr>
+                    <expan>	Ueber den Gemeinspruch: Das mag in der Theorie richtig sein, taugt aber nicht für die Praxis. (1793)</expan></choice></bibl>
+                <bibl xml:id="Geschichte"><choice><abbr rend="italic">Geschichte</abbr>
+                    <expan>Idee zu einer allgemeinen Geschichte in weltbürgerlicher Absicht. (1784)</expan></choice></bibl>
+                <bibl xml:id="Geschichte_Erdbeben"><choice><abbr rend="italic">Geschichte Erdbeben</abbr>
+                    <expan>Geschichte und Naturbeschreibung der merkwürdigsten Vorfälle des Erdbebens welches an dem Ende des 1755sten Jahres einen großen Theil der Erde erschüttert hat von M. Immanuel Kant. (1756)</expan></choice></bibl>
+                <bibl xml:id="GMS"><choice><abbr>GMS</abbr>
+                    <expan>Grundlegung zur Metaphysik der Sitten von Immanuel Kant. (2. Auflage, 1786)</expan></choice></bibl>
+                <bibl xml:id="Krankheiten"><choice><abbr rend="italic">Krankheiten</abbr>
+                    <expan>Versuch über die Krankheiten des Kopfes. (1764)</expan></choice></bibl>
+                <bibl xml:id="Lehrbegriff"><choice><abbr rend="italic">Lehrbegriff</abbr>
+                    <expan>M. Immanuel Kants Neuer Lehrbegriff der Bewegung und Ruhe, und der damit verknüpften Folgerungen in den ersten Gründen der Naturwissenschaft. (1758)</expan></choice></bibl>
+                <bibl xml:id="Logik"><choice><abbr rend="italic">Logik</abbr>
+                    <expan>Immanuel Kants Logik ein Handbuch zu Vorlesungen … (1800)</expan></choice></bibl>
+                <bibl xml:id="MAN"><choice><abbr>MAN</abbr>
+                    <expan>Metaphysische Anfangsgründe der Naturwissenschaft von Immanuel Kant. (1786)</expan></choice></bibl>
+                <bibl xml:id="Menschenrace"><choice><abbr rend="italic">Menschenrace</abbr>
+                    <expan>Bestimmung des Begrifs einer Menschenrace. (1785)</expan></choice></bibl>
+                <bibl xml:id="Monadologia_physica"><choice><abbr rend="italic">Monadologia physica</abbr>
+                    <expan>METAPHYSICAE CUM GEOMETRIA IUNCTAE USUS IN PHILOSOPHIA NATURALI, CUIUS SPECIMEN I. CONTINET MONADOLOGIAM PHYSICAM, QVAM … DEFENDET M. IMMANUEL KANT … (1756) 
+                        <hi rend="italic">mit einer Übersetzung:</hi> Nutzen der Verbindung der Metaphysik mit der 
+                        Geometrie in der Natur-Philosophie, von welcher der erste Versuch die Physische Monadologie enthält.</expan></choice></bibl>
+                <bibl xml:id="Morgenstunden"><choice><abbr rend="italic">Morgenstunden</abbr>
+                    <expan>	Einige Bemerkungen von Herrn Professor Kant <hi rend="italic">zu:</hi> Prüfung der Mendelssohnschen Morgenstunden 
+                        oder aller spekulativen Beweise für das Daseyn Gottes … von Ludwig Heinrich Jakob … (1786)</expan></choice></bibl>
+                <bibl xml:id="MS"><choice><abbr>MS</abbr>
+                    <expan><hi rend="italic">Die Metaphysik der Sitten: RL und TL</hi></expan></choice></bibl>
+                <bibl xml:id="Muthmaßlicher_Anfang"><choice><abbr rend="italic">Muthmaßlicher Anfang</abbr>
+                    <expan>Muthmaßlicher Anfang der Menschengeschichte. (1786)</expan></choice></bibl>
+                <bibl xml:id="Nachricht_Aerzte"><choice><abbr rend="italic">Nachricht Aerzte</abbr>
+                    <expan>Nachricht an Aerzte. (2. Auflage, 1783)</expan></choice></bibl>
+                <bibl xml:id="Nachricht_Vorlesungen"><choice><abbr rend="italic">Nachricht Vorlesungen</abbr>
+                    <expan>M. Immanuel Kants Nachricht von der Einrichtung seiner Vorlesungen in dem Winterhalbenjahre, von 1765–1766. (1765)</expan></choice></bibl>
+                <bibl xml:id="Nachschrift_Mielcke"><choice><abbr rend="italic">Nachschrift Mielcke</abbr>
+                    <expan>Nachschrift eines Freundes zu Littauisch-deutsches und Deutsch-littauisches Wörter-Buch … von Christian Gottlieb Mielcke, … (1800)</expan></choice></bibl>
+                <bibl xml:id="Negative_Groeßen"><choice><abbr rend="italic">Negative Größen</abbr>
+                    <expan>Versuch den Begriff der negativen Größen in die Weltweisheit einzuführen von M. Immanuel Kant. (1763)</expan></choice></bibl>
+                <bibl xml:id="Nova_dilucidatio"><choice><abbr rend="italic">Nova dilucidatio</abbr>
+                    <expan>PRINCIPIORVM PRIMORVM COGNITIONIS METAPHYSICAE NOVA DILVCIDATIO QVAM … DEFENDET M. IMMANVEL KANT … (1755) 
+                        <hi rend="italic">mit einer Übersetzung:</hi> Neue Erklärung der Grundsätze der metaphysischen Erkenntniß.</expan></choice></bibl>
+                <bibl xml:id="Ob_die_Erde_veralte"><choice><abbr rend="italic">Ob die Erde veralte</abbr>
+                    <expan>Die Frage: Ob die Erde veralte? Physikalisch erwogen. (1754)</expan></choice></bibl>
+                <bibl xml:id="Optimismus"><choice><abbr rend="italic">Optimismus</abbr>
+                    <expan>Versuch einiger Betrachtungen über den Optimismus von M. Immanuel Kant, wodurch er zugleich seine Vorlesungen auf das bevorstehende halbe Jahr ankündigt. (1759)</expan></choice></bibl>
+                <bibl xml:id="Orientiren"><choice><abbr rend="italic">Orientiren</abbr>
+                    <expan>Was heißt: sich im Denken orientiren? (1786)</expan></choice></bibl>
+                <bibl xml:id="Paedagogik"><choice><abbr rend="italic">Pädagogik</abbr>
+                    <expan>Immanuel Kant über Pädagogik … (1803)</expan></choice></bibl>
+                <bibl xml:id="Philanthropin"><choice><abbr rend="italic">Philanthropin</abbr>
+                    <expan><hi rend="italic">Anzeige zum Philanthropin</hi> (1776); An das gemeine Wesen. (1777)</expan></choice></bibl>
+                <bibl xml:id="Physische_Geographie"><choice><abbr rend="italic">Physische Geographie</abbr>
+                    <expan>Immanuel Kant’s physische Geographie … (1802)</expan></choice></bibl>
+                <bibl xml:id="Prolegomena"><choice><abbr rend="italic">Prolegomena</abbr>
+                    <expan>Prolegomena zu einer jeden künftigen Metaphysik die als Wissenschaft wird auftreten können, von Immanuel Kant. (1783)</expan></choice></bibl>
+                <bibl xml:id="Racen"><choice><abbr rend="italic">Racen</abbr>
+                    <expan>Von den verschiedenen Racen der Menschen. (2. Auflage, 1777)</expan></choice></bibl>
+                <bibl xml:id="Rec._Herder"><choice><abbr rend="italic">Rec. Herder</abbr>
+                    <expan><hi rend="italic">Recensionen zu: Ideen zur Philosophie der Geschichte der Menschheit von Johann Gottfried Herder</hi> (1785)</expan></choice></bibl>
+                <bibl xml:id="Rec._Hufeland"><choice><abbr rend="italic">Rec. Hufeland</abbr>
+                    <expan><hi rend="italic">Recension zu: Versuch über den Grundsatz des Naturrechts von Gottlieb Hufeland</hi> (1786)</expan></choice></bibl>
+                <bibl xml:id="Rec._Moscati"><choice><abbr rend="italic">Rec. Moscati</abbr>
+                    <expan><hi rend="italic">Recension zu: Von dem Körperlichen wesentlichen Unterschiede zwischen der Structur der Thiere und Menschen. 
+                        Eine akademische Rede, gehalten auf dem anatomischen Theater zu Pavia, von D. Peter Moscati.</hi> (1771)</expan></choice></bibl>
+                <bibl xml:id="Rec._Schulz"><choice><abbr rend="italic">Rec. Schulz</abbr>
+                    <expan><hi rend="italic">Recension zu Johann Heinrich Schultz: Versuch einer Anleitung zur Sittenlehre für alle Menschen, ohne Unterschied der Religion, nebst einem Anhange von den Todesstrafen. Erster Theil</hi> (1783)</expan></choice></bibl>
+                <bibl xml:id="Rec._Silberschlag"><choice><abbr rend="italic">Rec. Silberschlag</abbr>
+                    <expan><hi rend="italic">Recension zu: Theorie der am 23. Juli 1762 erschienenen Feuerkugel, abgehandelt von Johann Esaias Silberschlag</hi> (1764)</expan></choice></bibl>
+                <bibl xml:id="Religion"><choice><abbr rend="italic">Religion</abbr>
+                    <expan>Die Religion innerhalb der Grenzen der bloßen Vernunft. Vorgestellt von Immanuel Kant. (2. Auflage, 1794)</expan></choice></bibl>
+                <bibl xml:id="RL"><choice><abbr>RL</abbr>
+                    <expan>Metaphysische Anfangsgründe der Rechtslehre von Immanuel Kant. (2. Auflage, 1798)</expan></choice></bibl>
+                <bibl xml:id="Spitzfindigkeit"><choice><abbr rend="italic">Spitzfindigkeit</abbr>
+                    <expan>Die falsche Spitzfindigkeit der vier syllogistischen Figuren erwiesen von M. Immanuel Kant. (1762)</expan></choice></bibl>
+                <bibl xml:id="Teleologische_Principien"><choice><abbr rend="italic">Teleologische Principien</abbr>
+                    <expan>Ueber den Gebrauch teleologischer Principien in der Philosophie. von I. Kant. (1788)
+                    </expan></choice></bibl>
+                <bibl xml:id="Theodicee"><choice><abbr rend="italic">Theodicee</abbr>
+                    <expan>Ueber das Mißlingen aller philosophischen Versuche in der Theodicee. (1791)</expan></choice></bibl>
+                <bibl xml:id="Theorie_der_Winde"><choice><abbr rend="italic">Theorie der Winde</abbr>
+                    <expan>M. Immanuel Kants neue Anmerkungen zur Erläuterung der Theorie der Winde, wodurch er zugleich zu seinen Vorlesungen einladet. (1756)</expan></choice></bibl>
+                <bibl xml:id="Theorie_des_Himmels"><choice><abbr rend="italic">Theorie des Himmels</abbr>
+                    <expan>Allgemeine Naturgeschichte und Theorie des Himmels, oder Versuch von der Verfassung und dem mechanischen Ursprunge des ganzen Weltgebäudes nach Newtonischen Grundsätzen abgehandelt. (1755)</expan></choice></bibl>
+                <bibl xml:id="TL"><choice><abbr>TL</abbr>
+                    <expan>Metaphysische Anfangsgründe der Tugendlehre von Immanuel Kant. (2. Auflage, 1803)</expan></choice></bibl>
+                <bibl xml:id="Traeume"><choice><abbr rend="italic">Träume</abbr>
+                    <expan>Träume eines Geistersehers, erläutert durch Träume der Metaphysik. (1766)</expan></choice></bibl>
+                <bibl xml:id="Umdrehung_der_Erde"><choice><abbr rend="italic">Umdrehung der Erde</abbr>
+                    <expan>Untersuchung der Frage, ob die Erde in ihrer Umdrehung um die Achse einige Veränderung erlitten habe, welche von der Königl. Academie der 
+                        Wissenschaften zum Preise vor das jetztlaufende Jahr aufgegeben worden. (1754)</expan></choice></bibl>
+                <bibl xml:id="Verkündigung"><choice><abbr rend="italic">Verkündigung</abbr>
+                    <expan>Verkündigung des nahen Abschlusses eines Traktats zum ewigen Frieden in der Philosophie. (1796)</expan></choice></bibl>
+                <bibl xml:id="Vermeintes_Recht"><choice><abbr rend="italic">Vermeintes Recht</abbr>
+                    <expan>Über ein vermeintes Recht aus Menschenliebe zu lügen. (1797)
+                    </expan></choice></bibl>
+                <bibl xml:id="Vornehmer_Ton"><choice><abbr rend="italic">Vornehmer Ton</abbr>
+                    <expan>Von einem neuerdings erhobenen vornehmen Ton in der Philosophie. (1796)</expan></choice></bibl>
+                <bibl xml:id="Vorrede_Jachmann"><choice><abbr rend="italic">Vorrede Jachmann</abbr>
+                    <expan>Prospectus zum inliegenden Werk, <hi rend="italic">in:</hi> Prüfung der Kantischen Religionsphilosophie … von Reinhold Bernhard Jachmann … (1800)</expan></choice></bibl>
+                <bibl xml:id="Vulkane"><choice><abbr rend="italic">Vulkane</abbr>
+                    <expan>Ueber die Vulkane im Monde. (1785)</expan></choice></bibl>
+                <bibl xml:id="Wahre_Schätzung"><choice><abbr rend="italic">Wahre Schätzung</abbr>
+                    <expan>Gedanken von der wahren Schätzung der lebendigen Kräfte und Beurtheilung der Beweise derer sich Herr von Leibnitz und andere 
+                        Mechaniker in dieser Streitsache bedienet haben, nebst einigen 
+                        vorhergehenden Betrachtungen welche die Kraft der Körper überhaupt betreffen, durch Immanuel Kant. (1746/1749)</expan></choice></bibl>
+                <bibl xml:id="Waldkind"><choice><abbr rend="italic">Waldkind</abbr>
+                    <expan><hi rend="italic">Ueber das Waldkind</hi> (1764)</expan></choice></bibl>
+            </listBibl>
+        </body>
+    </text>
+</TEI>

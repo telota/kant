@@ -1,0 +1,950 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="3" subtype="editedText">Die Frage: Ob die Erde veralte?
+					Physikalisch erwogen</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0002-5982-4800">
+						<surname>Pollok</surname>
+						<forename>Anne</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-7554-6743">
+						<surname>Pollok</surname>
+						<forename>Konstantin</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Ob die Erde veralte</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="3">Die Frage: Ob die Erde veralte? Physikalisch
+							erwogen</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0002-5982-4800">
+								<surname>Pollok</surname>
+								<forename>Anne</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-7554-6743">
+								<surname>Pollok</surname>
+								<forename>Konstantin</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">167–186</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-10-24" who="#GN">Corrected</change>
+			<change when="2024-09-24" who="#EF">Corrected</change>
+			<change when="2024-09-24" who="#GN">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-04" who="#EF">Corrected</change>
+			<change when="2023-11-13" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+   <text>
+      <body>
+         <div n="1" type="titlePage">
+				<pb ed="AA" n="0"/>  
+         	   <p rend="head_08">Die Frage: Ob die Erde veralte?</p>
+         	   <p rend="head_03">Physikalisch erwogen</p>
+				<milestone unit="section" rend="line"/>
+				
+         	<p rend="head_05"><hi rend="italic">In:</hi>Wochentliche Königsbergische Frag- und Anzeigungs-Nachrichten.</p>
+         	   <p rend="head_05">
+					 No. 32. Sonnabends, den 10. August. Anno 1754.</p>
+         	<p rend="head_05">
+					<hi rend="italic">1. Fortsetzung:</hi> No. 33. Sonnabends, den 17. August. Anno
+					1754.</p>
+         	   <p rend="head_05">
+					<hi rend="italic">2. Fortsetzung:</hi> No. 34. Sonnabends, den 24. August. Anno
+					1754.</p>
+         	   <p rend="head_05">
+					<hi rend="italic">3. Fortsetzung:</hi> No. 35. Sonnabends, den 31. August. Anno
+					1754.</p>
+         	   <p rend="head_05">
+					<hi rend="italic">4. Fortsetzung:</hi> No. 36. Sonnabends, den 7. Sept. Anno
+					1754.</p>
+         	   <p rend="head_05">
+					<hi rend="italic">Beschluß:</hi> No. 37. Sonnabends, den 14. Sept. Anno
+					1754.</p>
+				<pb ed="AA" n="1"/></div>
+      	<div n="1">
+				<pb ed="AA" n="2"/><p>
+					<hi rend="initial">W</hi>enn man wissen will, ob ein Ding alt, ob es sehr alt,
+					oder noch jung zu nennen sey, so muß man es nicht nach der Anzahl der Jahre
+					schätzen die es gedauert hat, sondern nach dem Verhältniß, das diese zu
+					derjenigen Zeit haben, die es dauren soll. Eben dieselbe Dauer, die vor eine Art
+					von Geschöpfen ein hohes Alter kan genannt werden, ist es nicht vor eine andere.
+					In derselben Zeit, da ein Hund veraltet, hat der Mensch kaum seine Kindheit
+					überschritten, und die Eichen und Cedern auf dem Libanon sind noch nicht <pb ed="firstPrint" n="(2)" xml:id="B01S0195Z08fp"/>in ihrer männlichen Stärke,
+					wenn die Linden oder Tannen alt werden und verdorren. Am meisten fehlet der
+					Mensch, wenn er in dem Großen der Werke GOttes, zum Maasstabe des Alters die
+					Reihe der menschlichen Geschlechter anwenden will, welche in dieser Zeit
+					verfloßen sind. Es ist zu besorgen daß es mit seiner Art zu urtheilen bewandt
+					sey, wie mit <ref type="editorialNote" target="#en19513">der Rosen ihrer beym
+							<hi rend="antiqua"><persName key="fontanelle_bernhard_le_bovier_de">
+							Fontenelle
+						</persName></hi>, welche von dem Alter ihres Gärtners muthmaßeten. <hi rend="spaced">Unser Gärtner</hi>, sagten sie, <hi rend="spaced">ist ein
+							sehr alter Mann, seit Rosen gedenken ist er derselbe, der er immer
+							gewesen, in der That er stirbt nicht, er verändert sich nicht
+							einmal</hi>
+					</ref>. Wenn man die Dauerhaftigkeit erweget, die bey den Anstalten der
+					Schöpfung an den grossen Gliedern ihres Innbegriffes angetroffen wird, und
+					welche einer Unendlichkeit nahe kommt, so wird man bewogen zu glauben: daß ein
+					Ablauf von 5 oder 6000 Jahren vor die der Erde bestimmte Dauer vielleicht noch
+					nicht dasjenige sey, was ein Jahr in Ansehung des Lebens eines Menschen ist.</p>
+				<p rend="indent">Die Wahrheit zu gestehen, wir haben keine Merkmale in der
+					Offenbarung woraus wir abnehmen können, ob die Erde anjetzt jung oder <pb ed="oldAA" n="196" xml:id="B01S0196"/>alt, als in der Blüthe ihrer
+					Vollkommenheit, oder in dem Verfall ihrer Kräfte begriffen, könne angesehen
+					werden. Sie hat uns zwar die Zeit ihrer Ausbildung und den Zeitpunkt ihrer
+					Kindheit entdecket, aber wir wissen nicht, welchem von den beyden Endpunkten
+					ihrer Dauer, dem Punkte ihres Anfanges oder Unterganges, sie anjetzo näher sey.
+					Es scheinet in der That ein der Untersuchung würdiger Vorwurf zu seyn, zu
+					bestimmen, ob die Erde veralte und sich durch eine allmählige Abnahme ihrer
+					Kräfte dem <w lemma="Untergange">Unter<pb ed="AA" n="3" break="no"/>gange</w> nähere, ob sie jetzt in der Periode dieses abnehmenden
+					Alters, oder ob ihre Verfassung annoch im Wohlstande sey, oder wohl gar die
+					Vollkommenheit, zu der sie sich entwickeln soll, noch nicht völlig erreicht, und
+					sie also ihre Kindheit vielleicht noch nicht überschritten <ref type="critApp" xml:id="app19612">habe.</ref>
+				</p>
+				<p rend="indent">Wenn wir die Klagen bejahrter Leute hören, so vernehmen wir die
+					Natur ältere merklich und man könne die Schritte verspühren die sie zu ihrem
+					Verfall thue. Die Witterungen, sagen sie, wollen nicht mehr so gut wie vormals
+					einschlagen. Die Kräfte der Natur sind erschöpft, ihre Schönheit und Richtigkeit
+					nimmt ab. Die Menschen werden weder so stark noch so alt mehr als vormals. Diese
+					Abnahme, heißt es, ist nicht allein bey der natürlichen
+					Verfassung der Erde zu bemerken, sie erstreckt sich auch bis auf die sittliche
+					Beschaffenheit. Die alte Tugenden sind erloschen, an deren statt finden sich
+					neue Laster. Falschheit und Betrug haben die Stelle der alten Redlichkeit
+					eingenommen. Dieser Wahn, welcher nicht verdient wiederlegt zu werden, ist nicht
+					so wohl eine Folge des Irrthums als der Eigenliebe. Die ehrliche Greise, welche
+					so eitel sind, sich zu überreden, der Himmel habe die Sorgfalt vor sie gehabt
+					sie in den blühendsten Zeiten an das Licht zu stellen, können sich nicht
+					überreden, daß es nach ihrem Tode noch eben so gut in der Welt hergehen solle,
+					als es zugieng ehe sie gebohren waren. Sie möchten sich gerne einbilden die
+					Natur veralte zugleich mit ihnen, damit es sie nicht reuen dörfe eine Welt zu
+					verlassen die schon selber ihrem Untergange nahe ist.</p>
+				<p rend="indent">So ungegründet wie diese Einbildung ist, das Alter und
+					Dauerhaftigkeit der Natur nach dem Maasstabe eines einzigen Menschenalters meßen
+					zu wollen, so scheinet doch eine andere Vermuthung dem ersten Anblicke nach
+					nicht eben so ungereimt: daß in einigen tausend Jahren vielleicht einige
+					Veränderung in der Verfaßung des Erdbodens merklich werden könne. Es ist hier
+					nicht gnug mit <ref type="editorialNote" target="#en19637">
+						<hi rend="antiqua">
+							<persName key="fontanelle_bernhard_le_bovier_de">Fontenellen</persName>
+						</hi> 
+						<w lemma="anzumerken">anzu<pb ed="oldAA" n="197" xml:id="B01S0197"/>merken</w>: daß die Bäume vor Alters nicht größer 
+						<ref type="critApp" xml:id="app19701">geworden als jetzo</ref></ref>, daß die Menschen
+					weder älter noch stärker gewesen als sie es jetzt sind, es ist sage ich dieses
+					noch nicht genug, um daraus zu schliessen, daß die Natur nicht veralte. Diese
+					Beschaffenheiten haben ihre, durch die wesentliche Bestimmungen ihnen
+					festgesetzte Schranken, welche auch die vortheilhafteste Beschaffenheit der
+					Natur und der blühendste Wohlstand derselben nicht weiter treiben können. In
+					allen Ländern ist in Ansehung dessen kein Unterscheid; die fetten und in den
+					besten Himmelsgegenden liegende Länder, haben vor den magern und unfruchtbaren
+						<w lemma="hierinn">hier<pb ed="firstPrint" n="(3)" xml:id="B01S0197Z10fp"/>inn</w> keinen Vorzug; Allein, ob, wenn man zwischen zuverläßigen
+					Nachrichten alter Zeiten und der genauen Beobachtung der gegenwärtigen eine
+					Vergleichung anstellen könte, nicht einiger Unterscheid in der Fruchtbarkeit
+					derselben würde zu bemerken seyn, ob die Erde nicht etwa ehedem weniger Wartung
+					bedurft hat dem menschlichen Geschlechte <pb ed="AA" n="4"/>den Unterhalt darzureichen, dieses
+					scheinet, wenn es entschieden werden könte, ein Licht in der vorhabenden Aufgabe
+					zu versprechen. Es würde gleichsam die ersten Glieder einer langen Progreßion
+					vor Augen legen, an welchen man erkennen könnte, welchem Zustande die Erde sich
+					in langen Zeitläuften ihres Alters allgemach nähere. Diese Vergleichung aber ist
+					sehr ungewiß, oder vielmehr unmöglich. Der Menschen Fleiß thut so viel zur
+					Fruchtbarkeit der Erde: daß man schwerlich wird ausmachen können, ob an der
+					Verwilderung und Verödung derjenigen Länder, die vordem blühende Staaten waren
+					und jetzo fast gänzlich entvölkert <ref type="critApp" xml:id="app19723">seyn</ref>, die Nachläßigkeit der erstern, oder die Abnahme der letztern am
+					meisten Schuld sey. Ich will diese Untersuchung denenjenigen empfehlen, die mehr
+					Geschicklichkeit und Neigung haben diese Frage nach beyden Bedingungen in den
+					Denkmalen der Geschichte zu prüfen; ich will sie lediglich
+					als ein Naturkündiger abhandlen, um, wo möglich, von dieser Seite zu einer
+					gründlichen Einsicht zu gelangen.</p>
+				<div n="2">
+					<p rend="right">
+						<hi rend="larger">Immanuel Kant</hi>
+					</p>
+					<p rend="center">(<hi rend="spaced">Die Fortsetzung folgt künftig.</hi>)</p>
+				</div>
+				<div n="1">
+					<head rend="head_03">Fortsetzung der physischen Erwegung der Frage:</head>
+					<head rend="head_04">Ob die Erde veralte.</head>
+					<p>Die Meinung der meisten Naturforscher welche Theorien der Erde entworfen
+						haben <pb ed="firstPrint" n="(5)" xml:id="B01S0197Z31fp"/>gehet dahin, daß
+						die Fruchtbarkeit der Erde allmählig abnehme, daß sie sich dem Zustande mit
+						langsamen Schritten nähere unbewohnter und wüst zu werden, und daß es nur
+						Zeit brauche, um die Natur gänzlich veraltet und in der Ermattung ihrer
+						Kräfte erstorben zu sehen. Diese Frage ist wichtig, und es verlohnt sich
+						wohl der Mühe sich mit Behutsamkeit diesem Schlusse zu nähern.</p>
+					<p rend="indent">Lasset uns aber vorher den Begriff bestimmen, den man sich von
+							<pb ed="oldAA" n="198" xml:id="B01S0198"/>dem Veralten eines sich durch
+						natürliche Kräfte zur Vollkommenheit ausbildenden, und durch die Kräfte der
+						Elemente modificirenden Körpers zu machen hat.</p>
+					<p rend="indent">Das Veralten eines Wesens ist in dem Ablauf seiner
+						Veränderungen nicht ein Abschnitt, der äussere und gewaltsame Ursachen zum
+						Grunde hat. Eben dieselbe Ursachen, durch welche ein Ding zur Vollkommenheit
+						gelanget und darinn erhalten wird, bringen es durch unmerckliche Stuffen der
+						Veränderungen seinem Untergange <ref type="critApp" xml:id="app19808">wiederum</ref> nahe. Es ist eine <w lemma="natuerliche">natürli<pb ed="AA" n="5" break="no"/>che</w> Schattirung in der
+						Fortsetzung seines Daseyns, und eine Folge eben derselben Gründe, dadurch
+						seine Ausbildung bewirket worden, daß es endlich verfallen und untergehen
+						muß. Alle Naturdinge sind diesem Gesetze unterworfen, daß derselbe
+						Mechanismus der im Anfange an ihrer Vollkommenheit arbeitete, nachdem sie
+						den Punkt derselben erreicht haben, <ref type="critApp" xml:id="app19814">weil sie</ref>
+						 <ref type="critApp" xml:id="app19814a">fortfahren</ref> das Ding zu
+						verändern, selbiges nach und nach wiederum von den Bedingungen der guten
+							Verfassung <ref type="critApp" xml:id="app19816">entfernen</ref>, und dem
+						Verderben mit unvermerckten Schritten endlich <ref type="critApp" xml:id="app19817">überliefern</ref>. Dieses
+							Verfahren der Natur zeiget sich deutlich an der
+						Oekonomie des <ref type="critApp" xml:id="app19818">Pflanzen</ref> und
+						Thierreichs. Eben derselbe Trieb, der die Bäume wachsen macht, bringet ihnen
+						den Tod, wenn sie ihr Wachsthum vollendet haben. Wenn die Fasern und Röhren
+						keiner Ausdehnung mehr fähig sind, so fängt der nährende Saft, indem er
+						fortfähret sich den Theilen einzuverleiben, das Inwendige der Gänge an zu
+						verstopfen und zu verdichten, und das Gewächs durch die gehemmte Bewegung
+						der Säfte endlich absterben und verdorren zu machen. Eben der Mechanismus
+						wodurch das Thier oder der Mensch lebt und aufwächst, bringt ihm endlich den
+						Tod wenn das Wachsthum vollendet ist. Denn, indem die Nahrungssäfte, welche
+						zu dessen Unterhalte dienen, die Canäle an die sie sich ansetzen, nicht mehr
+						zugleich erweitern und in ihrem Inhalte vergrössern, so verengen sie ihre
+						inwendige Höle, der Kreislauf der Flüßigkeiten wird gehemmt, das Thier
+						krümmt sich, veraltet und stirbt. Eben so ist der allmähliche Verfall der
+						guten Verfassung der Erde ebenfals in die Folge der Abänderungen, welche
+						ihre Vollkommenheit anfänglich bewirketen, so eingeflochten, daß er nur in
+						langen Zeitläuften kenntlich werden kan. Wir müssen daher auf die
+						veränderlichen Scenen, welche die Natur von ihrem Anfange an bis zur
+						Vollendung spielet, einen flüchtigen Blick werfen, um die gantze Kette der
+						Folgen zu übersehen, darinn das Verderben das letzte Glied ist.</p>
+					<p rend="indent">
+						<pb ed="oldAA" n="199" xml:id="B01S0199"/>Die Erde, als sie sich aus dem Chaos
+						erhub, war unfehlbar vorher in flüßigem Zustande. Nicht allein ihre runde
+						Figur, sondern vornemlich die sphäroidische Gestalt, da die <ref type="critApp" xml:id="app19903">Oberfläche, gegen</ref> die, durch die
+						Kraft der Umdrehung veränderte Richtung der Schweere, in allen Punkten eine
+						senkrechte Stellung annahm, beweisen, daß ihre Masse die Fähigkeit gehabt
+						hat sich zu der Figur, die das Gleichgewicht in diesem Falle erfordert, von
+						selber zu bequemen. Sie ging aus dem flüßigen Zustande in den festen über;
+						und zwar sehen wir unverwerfliche Spuhren, daß die Oberfläche sich zuerst
+						gehärtet hat, indessen daß das Inwendige des Klumpens, in welchem die
+						Elemente nach den Gesetzen des Gleichgewichts sich annoch schieden, die
+						untermengte Partickeln des elastischen Luftelements unter die <w lemma="gehaertete">gehärte<pb ed="AA" n="6" break="no"/>te</w>
+						Rinde immer hinaufschickte und weite Höhlen unter ihr zubereitete, worinn
+						dieselbe mit mannigfaltigen Einbeugungen hineinzusincken, die Unebenheiten
+						der Oberfläche, das feste Land, die Gebürge, die geräumige Vertiefungen des
+						Meeres und die Scheidung des Trockenen von dem Gewässer hervorzubringen
+						veranlaßt wurde. Wir haben eben so ungezweifelte Denkmaale der Natur, welche
+						zu erkennen geben: daß diese Umstürzungen in langen Zeitläuften nicht völlig
+						aufgehöret haben, welches der Größe eines flüßigen Klumpens, wie das
+						inwendige unserer Erde damals war und lange blieb, gemäß ist, in der die
+						Scheidung der <pb ed="firstPrint" n="(6)" xml:id="B01S0199Z21fp"/>Elemente
+						und die Absonderung der im gemeinen Chaos vermengten Luft nicht so bald
+							vollendet ist, sondern die erzeugte Hölungen nach
+						und nach vergrößert und die Grundvesten der weiten Wölbungen aufs neue
+						wankend gemacht und eingestürtzt, eben dadurch aber gantze Gegenden, die
+						unter der Tiefe des Meeres begraben waren, entblösset und andere dagegen
+						versenkt wurden. Nachdem das inwendige der Erde einen festern Stand
+						überkommen und die Ruinen aufgehöret hatten, wurde die Oberfläche dieser
+						Kugel ein wenig ruhiger, allein sie war noch von dem Zustande einer
+						vollendeten Ausbildung weit entfernet; den Elementen musten noch erst ihre
+						gewisse Schranken festgesetzt werden, welche durch Verhinderung aller
+						Verwirrung die Ordnung und Schönheit auf der gantzen Fläche erhalten
+						könnten. Das Meer erhöhete selber die Ufer des festen Landes mit dem
+						Niedersatz der hinaufgetragenen Materien, durch deren Wegführung es sein
+						eigenes Bette vertiefte; es warf Dünen und Dämme auf, die den
+						Ueberschwemmungen vorbeugten. Die Ströhme, welche die Feuchtigkeiten des
+						festen Landes abführen solten, waren noch <pb ed="oldAA" n="200" xml:id="B01S0200"/>nicht in gehörige Fluthbette eingeschlossen, sie
+						überschwemmeten noch die Ebenen, bis sie sich selber endlich in abgemessene
+						Canäle beschränkten, und einen einförmigen Abhang von ihrem Ursprunge an bis
+						zu dem Meere zubereiteten. Nachdem die Natur diesen Zustand der Ordnung
+						erreicht und sich darinn bevestigt hatte, so waren alle Elemente auf der
+						Oberfläche der Erden im Gleichgewichte. Die Fruchtbarkeit breitete ihre
+						Reichthümer auf allen Seiten aus, sie war frisch, in der Blüthe ihrer
+						Kräfte, oder, wenn ich mich so ausdrücken darf, in ihrem männlichen
+						Alter.</p>
+					<p rend="right">
+						<hi rend="larger">Immanuel Kant</hi>
+					</p>
+					<p rend="center">(<hi rend="spaced">Die Fortsetzung folgt künftig.</hi>)</p>
+				</div>
+				<div n="1">
+					<head rend="head_03">Fortsetzung der physischen Erörterung der Frage:</head>
+					<head rend="head_04">Ob die Erde veralte.</head>
+					<p>Die Natur unserer Erdkugel hat in dem Fortschritte ihres Alters in allen
+						ihren Theilen nicht eine gleiche Stuffe erreichet. Einige Theile derselben<pb ed="AA" n="7"/> 
+						sind jung und frisch, indessen daß sie in andern abzunehmen und zu veralten
+						scheinet. In gewissen Gegenden ist sie roh und nur noch halbgebildet, da
+						andere in der Blüthe ihres Wohlstandes sich befinden und noch andere nach
+						Zurücklegung ihrer glücklichen Periode sich schon allgemach dem Verfall
+						nähern. Ueberhaupt sind die hohen Gegenden des Erdbodens die ältesten, die
+						zuerst aus dem Chaos erhoben und zur Vollendung der Ausbildung gelanget
+						sind, die niedrige sind jünger und haben die Stuffe ihrer Vollkommenheit
+						später erreicht. Nach dieser Ordnung wird daher jene das Loos zuerst treffen
+						sich dem Verderben wiederum zu näheren, indessen daß diese von ihrem
+						Schicksale noch weiter entfernet sind.</p>
+					<p rend="indent">Die Menschen haben die höchsten Gegenden des Erdbodens zuerst
+						bewohnt; sie sind nur spät in die Ebenen hinabgestiegen und haben selbst
+						Hand anlegen müssen die Ausarbeitung der Natur zu beschleunigen, welche vor
+						die schnelle Vermehrung derselben zu langsam in ihrer Ausbildung war.
+						Aegypten, dieses Geschencke des Nilstroms, war in seinem obersten Theile
+						bewohnt und volckreich, als das halbe Unterägypten, das gantze Delta, und
+						die Gegend, da der Nil durch Absetzung des Schlammes den Boden seines
+						Auslauffs erhöhete, und sich die Ufer eingeschränckter Fluthbette aufwarf,
+						noch ein unbewohnterer Morast war. Itzo scheinet die Gegend des alten
+						Thebais wenig mehr von derjenigen ausnehmenden Fruchtbarkeit und Blüthe an
+						sich zu haben, die seinen Wohlstand so außerordentlich machte; dagegen ist
+						die Schönheit der Natur in die niedrige und jüngere Theile des Landes
+						hinabgestiegen, welche anjetzt den Vorzug der Fruchtbarkeit vor den hohen
+						behaupten. Die Gegend von Niederdeutschland, die eine Zeugung des Rheins
+						ist, <pb ed="oldAA" n="201" xml:id="B01S0201"/>die plattesten Theile von
+						Niedersachsen, der Theil von Preußen, da die Weichsel sich in so viel Arme
+						theilet und gleichsam auf ihr ewiges Recht erpicht, die Länder oftermals
+						unter ihrem Gewässer zu bedecken trachtet, die der Menschen Fleiß ihm zum
+						Theil abgewonnen hat, scheinen jünger fetter und blühender zu seyn, als die
+						höchsten Gegenden des Ursprungs dieser Flüße, die schon bewohnt waren, als
+						die letztere noch Morräste und Meerbusen waren.</p>
+					<p rend="indent">Diese Veränderung der Natur ist einer Erläuterung würdig. Die
+						Flüße fanden nicht gleich anfangs, als das trockne vom Meere befreyet wurde,
+						fertige Schläuche und einen zubereiteten einförmigten Abhang ihres Laufes.
+						Sie traten noch an vielen Orten über und machten stehende Gewässer, die das
+						Land unbrauchbar machten. Nach und nach hölten sie sich in dem frischen und
+						weichen Erdreiche Canäle aus und mit dem weggespühlten Schlamme, damit sie
+							<pb ed="firstPrint" n="(8)" xml:id="B01S0201Z14fp"/>angefüllet waren,
+						bildeten sie zu beyden Seiten ihres stärcksten Zuges eigene Ufer, welche bey
+						niedrigem Wasser ihren Strohm fassen und einschräncken konnten, bey
+						stärckerer Aufschwellung aber durch das Uebertreten nach und nach erhöhet
+						wurden, bis ihre vollkommen ausgebildete Fluthbette in den Stand gesetzt
+						waren, das Wasser, welches die umliegende Länder ihnen lieferten, mit
+						einförmigten gemäßigten <pb ed="AA" n="8"/><anchor type="textRefStart" xml:id="tr17500"/>Abhange bis ins Meer abzuführen. Die höchste
+						Gegenden sind die ersten, die dieser nöthigen Auswickelung der Natur sich zu
+						erfreuen hatten und wurden daher auch zuerst bewohnt, indessen daß die
+						niedrige eine Zeitlang mit der Verwirrung stritten, und später zur
+						Vollkommenheit gelangeten. Seitdem bereichern sich die niedrigen Länder mit
+						dem Raube der hohen Gegenden. Die Flüße, die zu der Zeit da sie hoch
+						anschwellen mit dem abgespühlten Schlamme trächtig sind, setzen bey ihren
+						Ueberströhmungen nahe zu dem Ausfluße derselben diesen ab, erhöhen den Boden
+						über den sie sich ausbreiten, und bilden das trockene, welches, nachdem der
+						Fluß seine Ufer bis zur gehörigen Höhe vermehret hat, bewohnbar und durch
+						die Fettigkeit der hohen Gegenden gedünget fruchtbarer als diese wird.</p>
+					<p rend="indent">Durch diese fortschreitende Bildung und die Veränderung, die
+						die Gestalt der Erde erleidet, werden die tiefere Gegenden bewohnbar, wenn
+						die Höhen es bisweilen aufhören zu seyn. Allein dieser Wechsel betrift nur
+						vornemlich einige Länder, die nemlich Mangel an dem Wasser des Himmels
+						erleiden, und daher, ohne das periodische Ueberschwemmen der nöthigen
+						Feuchtigkeit entbehren und eine unbewohnte <pb ed="oldAA" n="202" xml:id="B01S0202"/>Wüste bleiben müssen, wenn die Flüße durch eigene
+						Erhöhung ihrer Ufer dieser Ueberschwemmung Schrancken gesetzt haben.
+						Aegypten ist das deutlichste Beyspiel von dieser Veränderung, welches so
+						sehr in seiner Beschaffenheit verändert worden: daß, da das gantze Land,
+						nach dem <ref type="editorialNote" target="#en20205">Zeugnisse des <persName key="herodot">Herodots</persName>
+						</ref>, 900 Jahre vor seiner Zeit, gantz überschwemmet worden, wenn der Fluß
+						nur 8 Fuß angewachsen, <ref type="critApp" xml:id="app20206">zu</ref> seiner
+						Zeit 15 Fuß hochsteigen muste, um es gäntzlich zu bedecken, da nunmehro zu
+						unserer Zeit schon 24 Fuß Anwachs dazu erfodert <ref type="critApp" xml:id="app20208">werden</ref>. Woraus das, diesem Lande durch eine
+						stetige Annäherung, mehr und mehr drohende Verderben zu ersehen ist.</p>
+					<p rend="indent">Weil aber diese Abänderung der Natur, in soweit sie an einigen
+						Theilen des Erdbodens allein haftet, unerheblich und gering ist, so muß die
+						Frage von dem Veralten der Erde im Gantzen bestimmet werden, und zu dem Ende
+						sind die Ursachen zuförderst zu prüfen, denen die meisten Naturforscher
+						diese Wirckung beymessen, und daraus den Verfall der Natur dieser Kugel
+						vorher zu verkündigen hinlänglich erachtet haben.</p>
+					<p rend="indent">Die <hi rend="spaced">Erste</hi> Ursache fließet aus der
+						Meinung derjenigen, welche die Saltzigkeit des Meeres den Flüßen
+						zuschreiben, die das aus dem Erdreich ausgelaugte Saltz, das der Regen in
+						ihre Ströhme bringet, mit sich ins Meer führen, woselbst es, bey der
+						beständigen Abdünstung des süßen Wassers, zurückbleibt, sich häuft und auf
+						diese Art dem Meere alle das Saltz verschaffet hat, das es noch in sich
+						hält. Es ist hieraus leicht abzunehmen: daß, da das Saltz das vornehmste
+						Triebwerck des Wachsthums und die Qvelle der Fruchtbarkeit ist, nach dieser
+						Hypothese, die ihrer Kraft nach <pb ed="AA" n="9"/>und nach beraubte Erde in einen todten und
+						unfruchtbaren Zustand <ref type="critApp" xml:id="app20227">mußte</ref>
+						versetzt werden.</p>
+					<p rend="indent">Die <hi rend="spaced">Zweyte</hi> Ursache ist in der Wirckung
+						des Regens und der Flüße in Ansehung der Abspühlung des Erdreichs und
+						Wegführung desselben in das Meer zu setzen, welches dadurch <ref type="critApp" xml:id="app20230">immermehr und mehr</ref> ausgefüllet zu
+						werden scheinet, indessen daß die <ref type="critApp" xml:id="app20231">Höhe</ref> des festen Landes sich beständig verringert: so, daß zu
+						besorgen stehet, daß Meer müste, indem es <ref type="critApp" xml:id="app20233">nimmermehr</ref> erhoben wird, endlich genöthigt
+						werden das trockene wiederum zu übersteigen, welches ehedem seiner
+						Herrschaft entzogen worden.</p>
+					<p rend="indent">Die <hi rend="spaced">dritte</hi> Meynung ist die Vermuthung
+						derjenigen, welche, indem sie gewahr werden daß das Meer sich von den
+						meisten Ufern in <pb ed="oldAA" n="203" xml:id="B01S0203"/>langen Zeiten
+						mercklich zurück zieht, und grosse Strecken die vordem im Grunde des Meeres
+						lagen in trocken Land verwandelt, entweder eine würckliche <pb ed="firstPrint" n="(9)" xml:id="B01S0203Z03fp"/>Verzehrung dieses
+						flüßigen Elements durch eine Art der Transformation in einen festen Zustand
+						besorgen, oder andere Ursachen befürchten, die den Regen, der aus dessen
+						Ausdünstungen bestehet, hindern wiederum dahin zurück zu kehren, woher er
+						erhoben worden.</p>
+					<p rend="indent">Die <hi rend="spaced">vierte</hi> und letzte Meynung kan
+						derjenigen <ref type="critApp" xml:id="app20307">ihrer</ref> seyn, die einen
+						allgemeinen Weltgeist, ein unfühlbares aber überall würcksames Principium
+							<ref type="critApp" xml:id="app20309">und das</ref> geheime Triebwerck
+						der Natur annehmen, dessen subtile Materie durch unaufhörliche Zeugungen
+						beständig verzehret würde, daher die Natur in Gefahr <ref type="critApp" xml:id="app20311">stünde</ref> bey dessen Verminderung in einer
+						allmähligen Ermattung alt zu werden und zu ersterben.</p>
+					<p rend="indent">Diese Meynungen sind es, die ich zuförderst kürtzlich prüfen
+						und dann diejenige gründen will, welche mir die wahre zu seyn düncket.</p>
+					<p rend="center">(<hi rend="spaced">Die Fortsetzung folgt.</hi>)</p>
+					<p rend="right">
+						<hi rend="larger">Immanuel Kant.</hi>
+					</p>
+				</div>
+				<div n="1">
+					<head rend="head_03">Dritte Fortsetzung der physischen Erörterung der Frage:</head>
+					<head rend="head_04">Ob die Erde veralte.</head>
+					<p>Wofern es mit der ersten Meinung seine Richtigkeit hätte, so würde folgen daß
+						alles Saltz, womit die Gewäßer des Oceans und aller mittelländischen Meere
+						geschwängert sind, vordem mit dem Erdreich, welches das feste Land bedecket,
+						vermischet gewesen, und, indem es durch den Regen aus demselben
+						ausgewaschen, durch die Flüße dahin abgeführet worden, auch <pb ed="AA" n="10"/>beständig auf
+						die gleiche Art noch hineingebracht werde. Allein zum Glücke vor die Erde
+						und zum Wiederspiel vor diejenige, die vermittelst einer solchen Hypothese
+						die Saltzigkeit des Meeres durch eine leichte Erklärung begreiflich zu
+						machen gedencken, findet man bey genauer Prüfung diese Vermuthung
+						ungegründet. Denn vorausgesetzt: daß die mittlere Qvantität des
+						Regen-Wassers, was in einem Jahr auf die Erde fält, 18 Zoll hoch sey, welches
+						diejenige Menge ist, die in der temperirten Zone beobachtet worden, und daß
+						alle Flüße von dem Regenwasser entspringen und genährt werden, imgleichen
+						daß von dem Regen der auf das feste Land fält, nur zweydrittel durch die
+						Flüsse wiederum ins Meer komme, ein drittel aber theils verdunstet, theils
+						zum Wachsthum der Pflantzen angewandt wird, endlich: daß das Meer nur die
+						Hälfte der Oberfläche der Erde einnehme, welches das mindeste ist das man
+						annehmen kan; so wird man die angeführte Meinung in die vortheilhafteste
+						Bedingungen versetzt haben, und dennoch werden alle Ströhme des Erdbodens in
+						das Meer in einem Jahre nur 1 Schu Wasser hineinbringen, und würden es, wenn
+						man die mittlere Tiefe desselben auch nur hundert Klafter annimmt, dennoch
+							<pb ed="oldAA" n="204" xml:id="B01S0204"/>allererst in 600 Jahren voll
+						machen, nachdem die Ausdunstung selbiges in eben so viel Jahren völlig
+						ausgetrocknet hätte. Nach dieser Rechnung wäre der Ocean durch den Einfluß
+						aller Bäche und Ströhme nun schon seit der Schöpfung zehnmal voll geworden;
+						das Saltz aber, das von diesen Flüßen nach der Ausdünstung zurück geblieben,
+						könte nur zehnmal so viel austragen, als dasjenige, womit es natürlicher
+						Weise begabt ist; woraus folgen müste: daß, um den Grad der Saltzigkeit des
+						Meeres herauszubekommen, man einen Cubicschuh Flußwasser nur zehnmal dürfe
+						abdünsten lassen, worauf dessen zurückgebliebenes Saltz eben so viel, als
+						eine gleiche Quantität Meerwasser nach einer einzelnen Abdünstung zurück
+						läßt, austragen würde; welches gar zu weit von der Warscheinlichkeit
+						entfernt ist, als daß es auch nur einen Unwissenden überreden könte, weil
+						nach <ref type="editorialNote" target="#en20413">
+							<persName key="wallerius_johann_gottschalk">Wallerii</persName>
+							Rechnung</ref>, das Wasser in der Nordsee, an den Orten, wo wenige Flüße
+						ins Meer fallen, den zehnten, bisweilen den siebenten, im Bothnischen
+						Meerbusen, wo selbiges sehr mit dem süssen Fließwasser verdünnet ist,
+						dennoch den vierzigsten Theil Saltz in sich enthält. Die Erde ist also auf
+						diesen Fuß hinlänglich gesichert, durch den Regen und die Flüße ihr Saltz
+						und Fruchtbarkeit nicht zu verlieren. Es ist vielmehr zu vermuthen, daß das
+						Meer, anstatt das feste Land seiner saltzigen Theile zu berauben, selbigem
+						eher von <ref type="critApp" xml:id="app20421">den Seinigen</ref> mittheile;
+						denn, obgleich die Ausdünstung das grobe Saltz zurück läßt, so erhebt es
+						doch einen Theil desjenigen das flüchtig geworden, welches zusamt den
+						Dünsten über das feste Land geführet wird, und dem <pb ed="firstPrint" n="(11)" xml:id="B01S0204Z24fp"/>Regen diejenige Fruchtbarkeit
+						ertheilet, dazu dieser, selbst vor dem Fließwasser, vorzüglich geschickt
+						ist.</p>
+					<pb ed="AA" n="11"/>
+					<p rend="indent">Die andere Meinung hat einen grössern Grad der Glaubwürdigkeit,
+						und stimmet mit sich selber viel besser überein. <ref type="editorialNote" target="#en20427">
+							<hi rend="spaced">
+								<persName key="manfredi_eustachio">Manfred</persName>
+							</hi>, der sie in dem <hi rend="antiqua">Commentario</hi> des Bologneser
+							Instituts so gelehrt als vorsichtig abgehandelt, und dessen Ausführung
+							in dem allgemeinen <abbr>Magaz.</abbr> der <abbr>Nat.</abbr> zu finden
+							ist</ref>, mag bey Prüfung derselben ihr allein das Wort reden. Er
+						bemerket: daß der alte Fußboden der Cathedralkirche zu Ravenna, welcher
+						unter dem neuen mit Schutte bedeckt angetroffen wird, 8 Zoll niedriger als
+						die Wasserwage des Meeres sey, wenn selbiges Fluth hat, und daher zu der
+						Zeit ihrer Erbauung, wenn das Meer damals nicht niedriger als jetzo gewesen,
+						bey jeder Fluth hätte müssen unter Wasser gesetzt werden, weil die alten
+						Zeugniße beweisen: daß das Meer dazumal bis an diese Stadt gegangen sey. Er
+						führet <pb ed="oldAA" n="205" xml:id="B01S0205"/>zur Bestätigung seiner
+						Meinung, daß die Höhe des Meeres beständig zugenommen habe, den Fußboden der
+						St. Markus-Kirche zu Venedig an, der jetzo so niedrig ist: daß, wenn die
+						Lagune angeschwollen, sowohl der St. Markusplatz bisweilen überschwemmet,
+						als auch er selber unter Wasser gesetzt wird; da doch nicht zu vermuthen
+						stehet: daß bey ihrer Erbauung es schon also bewandt gewesen seyn werde.
+						Imgleichen beruft er sich auf die marmorne Banck, die um das Rathhaus St.
+						Marci geführet worden, vermuthlich den Schiffahrenden zu Gute, um zu Fusse
+						in ihre Fahrzeuge zu kommen, welche zu diesem Zweck nunmehro beynahe
+						untauglich geworden, weil sie zur Zeit der ordentlichen Fluth einen halben
+						Schuh tief unter Wasser stehet; daß also aus den angeführten Merckmalen
+						erhelle, das Meer müsse anjetzt eine grössere Höhe als in vorigen Zeiten
+						erlangt haben. Diese Meinung zu erklären, behauptet er: daß die Flüße den
+						Schlamm, womit sie zur Zeit ihres Anschwellens angefüllet sind, und den die
+						Regenbäche von den Höhen des festen Landes abgespühlet haben, in das Meer
+						schleppen, und dadurch den Boden desselben erhöhen, wodurch dasselbe
+						genöthigt werde sich zu erheben, nach dem Maaße als sein Bette allmählig
+						ausgefüllet worden. Um das Maas dieser Erhöhung des Meeres, mit derjenigen,
+						die die wirckliche Merckmale an die Hand geben, einstimmig zu machen, suchte
+						er die Quantität des Schlammes zu schätzen, die die Ströhme, wenn sie trüb
+						fliessen, mit sich führen, indem er gegen das <ref type="editorialNote" target="#en20522">Ende des Hornungs</ref>, das Wasser des Strohms, der
+						bey <ref type="editorialNote" target="#en20523">Bononien</ref> fliesset,
+						schöpfte, und nachdem er die Erde sich hatte setzen lassen, sie 
+							⅟<hi rend="sub">1 7 4</hi>
+						 des Wassers, welches selbige in sich gehalten, befand. Hieraus,
+						und aus der Menge des Wassers, welches die Ströhme in einem Jahre ins Meer
+						führen, bestimmte er die Höhe, auf welche das Meer durch diese Ursache
+						allmählig steigen solte, so daß es in 348 Jahren auf 5 Zoll müste höher
+						befunden werden.</p>
+					<p rend="center">(<hi rend="spaced">Die Fortsetzung folgt.</hi>)</p>
+					<p rend="right">
+						<hi rend="larger">Immanuel Kant.</hi>
+					</p>
+				</div>
+				<div n="1">
+					<pb ed="AA" n="12"/>
+					<head rend="head_03">Vierte Fortsetzung der physischen Erörterung der Frage:</head>
+					<head rend="head_04">Ob die Erde veralte.</head>
+					<p rend="indent">Durch die Betrachtung, welche wir von der marmornen Banck um
+						das St. Markus-Rathhaus zu Venedig angeführet haben und durch das Verlangen
+						ein Maaß zu haben, die Größe seiner übrigen Bemerkungen dadurch zu
+						bestimmen, wurde <hi rend="spaced">
+							<persName key="manfredi_eustachio">Manfred</persName>
+						</hi> bewogen, die vorerwehnte Erhöhung der Meeresfläche so weit zu
+						vermehren, daß sie in 230 Jahren ein Fuß austrüge, weil, wie er behauptet
+						die Flüsse außer der zarten Erde die ihre Waßer trübe macht noch viel Sand,
+						Steine <abbr>u. d. g.</abbr> mit sich ins Meer schleppen. Auf diesen Fuß
+						würde das Unglück der Erde mit ziemlich schnellen Schritten herbeyrücken,
+							<pb ed="oldAA" n="206" xml:id="B01S0206"/>obgleich er doch noch mit ihr
+						behutsamer handelt als 
+							<ref type="editorialNote" target="#en20601"><hi rend="spaced">
+								<persName key="hartscker_nikolaus">Hartsöcker</persName>
+							</hi></ref>,
+						 der aus dergleichen Beobachtung beym Rheinstrohm <ref type="critApp" xml:id="app20602">die Erde</ref> das Schicksaal ankündigt, daß innerhalb
+						10000 Jahren ihr bewohnbarer Theil müße weggespühlt seyn, das Meer alles
+						bedecken, und nichts als die kahle Felsen aus <ref type="critApp" xml:id="app20605">denselben</ref> hervorragen; woraus man sich auf den
+						Grad des Verfalls in einer etwas mindern Zeit, <abbr>z. E.</abbr> von 2000
+						Jahren, leichtlich die Rechnung machen kan.</p>
+					<p rend="indent">Der wahre Fehler dieser Meinung besteht nur in dem Mehr oder
+						Weniger; sonsten ist sie im Grunde richtig. <ref type="critApp" xml:id="app20609">Es ist an dem</ref>, daß der Regen und die Flüße das
+						Erdreich abspühlen, und ins Meer führen; allein es ist weit gefehlt, daß sie
+						es in so großem Grade thun solten, als der Verfaßer vermuthet. Er nahm
+						willkührlich an, daß die Ströhme das ganze Jahr über so trübe fließen, als
+						sie es in denjenigen Tagen thun, da der von den Gebirgen abthauende Schnee
+						die heftige Gießbäche verursacht, welche das Erdreich anzugreifen die volle
+						Gewalt haben, und da das Erdreich selber völlig durchnetzt und durch die
+						vorigte Winterkälte mürbe genug geworden, um so leicht als möglich
+						weggespühlt zu werden. Wenn er diese Behutsamkeit zugleich mit der
+						Aufmerksamkeit verbunden hätte, die er auf den Unterscheid der Flüße hätte
+						haben sollen, deren diejenige, die von Gebirgen unterhalten werden, wegen
+						der Gewalt der Giesbäche welche sich in sie vergiessen, mehr geraubte Erde
+						als <ref type="critApp" xml:id="app20622">andern die</ref> von dem platten
+						Lande ernährt werden in sich halten, so würde sich seine Rechnung so sehr
+						verringert haben, daß er den Anschlag vermuthlich hätte fahren lassen, die
+						Erklärung der beobachteten Veränderungen darauf zu gründen. <pb ed="firstPrint" n="(13)" xml:id="B01S0206Z25fp"/>Wenn man endlich hiebey
+						noch erwegt: daß das Meer durch eben diese Bewegung, weswegen man ihm
+						beymißt, daß es nichts todes bey sich leide, nemlich durch die beständige
+						Abführung aller Materie, die nicht gleichen Grad der Beweglichkeit hat, an
+						die Ufer, diesen Schlamm nicht auf seinem Grunde sich häufen lasse, sondern
+						ihn unverzüglich an das feste Land absetze und es <pb ed="AA" n="13"/>damit vermehre: so würde
+						die Furcht, den Schlauch des Meeres damit ausgefüllet zu sehen, sich in eine
+						gegründete Hofnung verwandelt haben, durch den Raub der hohen Gegenden an
+						den Seeufern beständig neu Land zu überkommen; Denn in der That, in allen
+						Meerbusen, <abbr>z. E.</abbr> in demjenigen so den Nahmen des rothen Meeres
+						führet, imgleichen im Venetianischen Golfo ziehet sich das Meer, von der
+						Spitze allmählig zurück, und das trockene Land macht an dem Reiche des
+						<persName key="neptun">Neptuns</persName> <w lemma="bestaendig">be<pb ed="oldAA" n="207" xml:id="B01S0207"/>ständig</w>
+						neue Erwerbungen; an statt daß, wenn die Vermuthung des erwehnten
+						Naturforschers gegründet wäre, sich das Gewäßer immer mehr über die Ufer
+						ausbreiten und das trockne Erdreich unter dem naßen Elemente begraben
+						würde.</p>
+					<p rend="indent">Was aber die Ursache der Erniedrigung der Gegenden am Ufer des
+						adriatischen Meeres betrift, so wolte ich (wofern es wirklich damit seine
+						Richtigkeit hat, daß es nicht immer so gewesen,) deshalber mich lieber an
+						eine Beschaffenheit des Landes wenden, die Italien vor vielen andern
+						besonders hat. Wir wißen nemlich: daß die Grundfeste dieses Landes
+						untergewölbt sey, und daß die Erdbeben, ob sie gleich vornemlich in dem
+						untern Italien wüten, dennoch auch bey dem obern ihre Gewalt auslassen und
+						durch ihre Erstreckung in weite Gegenden, ja so gar bis unter die Meere
+						hinweg die zusammenhangende unterirrdische Hölungen zu erkennen geben. Wenn
+						nun die Erschütterung der unterirrdischen Entzündungen die Grundfeste
+						derselben zu bewegen vermögend ist und sie schon oft bewegt hat, ist es
+						nicht zu vermuthen, daß die Rinde nach vielen heftigen Anfällen einigermaßen
+						sich gesenckt habe und in Ansehung der Meeresfläche könne niedriger geworden
+						seyn?</p>
+					<p rend="indent">Die <hi rend="spaced">dritte Meinung</hi>, welche die
+						Vermehrung des trocknen Landes und Verringerung der Gewässer auf dem
+						Erdboden als einen Vorboten ihres Verderbens ansieht, hat eben so wohl
+						anscheinende Gründe aus der Beobachtung als die vorige, aber weniger
+						begreifliche Ursache sie zu erklären. Denn es ist gewiß, daß, obgleich es
+						scheinen möchte das Meer, wenn es an einer Seite das feste Land gleich
+						allmählig <ref type="critApp" xml:id="app20725">trocken</ref> läßt,
+						bemächtige sich davor wieder anderer Gegenden in welche es sich
+						hineinarbeitet, und halte sich im Gantzen schadlos, dennoch, wenn man es
+						genau erweget, weit grössere Strecken von dem Meere entblößt werden, als
+						diejenige sind über die es sich ausbreitet. Vornemlich verläßt das Meer die
+						niedrigen Gegenden und nagt an den hohen Ufern, weil diese seinem Anfall
+						vornemlich ausgesetzt sind und die erstern selbigen durch eine gelinde
+						Abschießigkeit vereiteln. Dieses allein könnte einen Beweis abgeben: daß die
+						Meeresfläche sich überhaupt nicht mehr und mehr erhebe; denn man würde den
+						Unterscheid am deutlichsten an den Ufern spühren, da das Land mit gringem
+						Abfall sich zum Boden des Meeres allmählig erniedrigt; daselbst würden 10
+						Fuß Erhöhung des Wassers dem festen Lande viel <ref type="critApp" xml:id="app20736">abgewinnen, da</ref> 
+						<pb ed="oldAA" n="208" xml:id="B01S0208"/>es <pb ed="AA" n="14"/>sich vielmehr gantz entgegen
+						verhält, und, indem das Meer diejenige Dämme, die es vordem aufgeworfen hat
+						und über die es ohne Zweifel damals weg gegangen ist, nun nicht mehr <ref type="critApp" xml:id="app20803">erreicht, beweiset</ref>, daß es
+						seitdem niedriger geworden; wie <abbr>z. E.</abbr> die 2 preußische
+						Nehrungen, die Dünen an den holländischen und englischen Küsten nichts
+						anders als Sandhügel sind, die das Meer ehedem aufgetrieben hat, die aber
+						anjetzt als Schutzwehren wieder daßelbe dienen, nachdem solches die Höhe
+						nicht mehr erreichet sie zu übersteigen.</p>
+					<p rend="indent">Soll man aber, um dieses Phänomenon in seiner vollen Gültigkeit
+						zu lassen, zu einer wirklichen Verschwindung des flüßigen Elements und
+						Verwandlung desselben in einen festen <ref type="critApp" xml:id="app20811">Zustand, oder</ref> zu einer Versiegung des Regenwassers in das innere
+						der Erde, oder zu einer stets zunehmenden Vertiefung des Bettes der See,
+						durch dessen unaufhörliche Bewegung, seine Zuflucht <pb ed="firstPrint" n="(14)" xml:id="B01S0208Z14fp"/>
+						<ref type="critApp" xml:id="app20814">nehmen.</ref> Der erstere Grund würde
+						wohl den mindesten Antheil an einer merklichen Veränderung haben, ob er
+						gleich nicht so sehr, wie es scheinet, einer gesunden Naturwißenschaft
+						widerstreitet. Denn, gleichwie andere flüßige Materien bisweilen einen
+						festen Stand annehmen, ohne dennoch ihr Wesen zu verlieren,
+						<abbr>z. E.</abbr> Qvecksilber, welches in den Versuchen des <persName key="boerhaave_hermann"><ref type="editorialNote" target="#en20819">
+							Boerhaave</ref></persName> die Gestalt eines rothen Pulvers annimt, die Luft, die <persName key="haies_stephan">
+							<ref type="editorialNote" target="#en20820">Hales</ref>
+						</persName> in allen Vegetabilischen Producktis, vornemlich dem Weinstein
+						als einen festen Körper angetroffen hat, so thut ohne Zweifel dieses das
+						Waßer gleichfals, dessen Theile in der Bildung der Pflantzen ihre Flüßigkeit
+						abzulegen scheinen, so, daß das allerausgetrokneteste zerriebene Holtz bey
+						chymischer Auflösung doch immer Wasser von sich giebt, woraus es nicht
+						unwahrscheinlich wird: daß ein Theil der Gewäßer des Erdbodens zu der
+						Bildung der Gewächse verwandt wird und nimmer in das Meer zurückkehrt.
+						Allein zum wenigsten kan diese Abnahme nicht merklich werden. Der zweyte
+						Grund kan gleichfals in absolutem Verstande nicht in Abrede gezogen werden.
+						Das Regenwaßer, welches die Erde in sich ziehet, sinket zwar in dieser nur
+						vornemlich so tief, bis es etwas dichtere Schichten findet, die es nicht
+						durchlassen und es nöthigen nach dem Abhange derselben einen Ausgang zu
+						suchen und Qvellen zu unterhalten. Allein es wird jederzeit etwas von
+						demselben durch alle Schichten bis zu den felsichten sich <ref type="critApp" xml:id="app20835">hinderseigen</ref> und auch in diesen
+						durch ihre <ref type="critApp" xml:id="app20835a">Ritze</ref> dringen und
+						diejenige unterirrdische Waßer sammlen, welche bey Gelegenheit einiger
+						Erdbeben zuweilen hervorgebrochen sind und Länder <w lemma="ueberschwemmt">über<pb ed="oldAA" n="209" xml:id="B01S0209"/>schwemmt</w> haben.<note place="foot" n="*" xml:id="fn01">
+							<p rend="indent">
+								<ref type="editorialNote" target="#en20935">Siehe der <abbr>Königl.
+										Akad.</abbr> der <abbr>Wissensch.</abbr> zu Paris physische
+									Abhandlungen <persName key="steinwehr_wolf_balthasar_adolph_v">von Steinwehrsche</persName> 
+									<abbr>Übers</abbr>. 2ter Band. <hi rend="antiqua">
+										<abbr>p.</abbr>
+									</hi> 246.</ref>
+							</p>
+						</note> Dieser Verlust des Meerwaßers könte vielleicht nicht unbeträchtlich
+						seyn und verdiente genauer erwogen zu werden. Allein der dritte Grund <pb ed="AA" n="15"/>
+						scheinet wohl den grössesten und unstrittigsten Antheil an der verminderten
+						Höhe des Meeres zu haben welche immer abnehmen muß je tiefer dieses sein
+						Bette ausarbeitet wiewohl auf diese Art nicht der geringste Schritt zum
+						Verderben der Erde zu besorgen ist.</p>
+					<p rend="center">(<hi rend="spaced">Der Beschluß folget künftig.</hi>)</p>
+					<p rend="right">
+						<hi rend="larger">Immanuel Kant.</hi>
+					</p>
+				</div>
+				<div n="1">
+					<head rend="head_03">Beschluß der physischen Erörterung der Frage:</head>
+					<head rend="head_04">Ob die Erde veralte.</head>
+					<p rend="indent">Welches ist denn das Resultat der Prüfung, die über die bisher
+						vorgetragene Meinungen angestellt worden? Wir haben die drey erstere
+						verneinend entschieden. Das Erdreich verliert keine Saltzigkeit durch das
+						abspülen des Regens und der Bäche; die fette Erde wird nicht durch die Flüße
+						mit unersetzlichem Verlust in das Meer geschleppet, um es endlich
+						auszufüllen und die Gewässer desselben über das bewohnte Land wiederum zu
+						erheben. Sie führen in der That demselben den Raub der hohen Gegenden zu;
+						allein dieses bedienet sich desselben, um <ref type="critApp" xml:id="app20915">es</ref> 
+						<pb ed="firstPrint" n="(16)" xml:id="B01S0209Z15fp"/>wiederum an den Ufern
+						des festen Landes abzusetzen, und die Unterhaltung und Bildung der
+						Vegetabilien kostet dem Meere einen wirklichen Aufwand ausgedunstetes
+						Wassers, <ref type="critApp" xml:id="app20917">deren</ref> ein nahmhafter
+						Theil den flüßigen Zustand abzulegen und das Erdreich wegen seines Verlusts
+						schadlos zu halten scheinet. Endlich hat die Vermuthung von der wircklichen
+						Abnahme der Gewässer des Oceans, ungeachtet ihrer Warscheinlichkeit, doch
+						noch nicht genugsam gegründete Zuverläßigkeit, um in einer sichern Hypothese
+						einen entscheidenden Ausspruch zu veranlassen. Es bleibet also in Ansehung
+						der Veränderung der Gestalt der Erde eine einzige Ursache übrig, worauf man
+						mit Gewisheit rechnen kan, welche darinn bestehet: daß der Regen und die
+						Bäche, indem sie das Erdreich beständig angreifen und von den hohen Gegenden
+						in die niederen abspühlen, die Höhen nach und nach eben zu machen und so
+						viel an ihnen ist, die Gestalt der Erde ihrer Unebenheiten zu berauben
+						trachten. Diese Wirkung ist gewiß und zuverläßig. Das Erdreich ist dieser
+						Veränderung auch so lange unausgesetzt unterworfen, so lange es an dem
+						Abhange der hohen Theile Materien giebt, welche von dem Regenwasser
+						angegriffen und weggespühlt werden können, und <ref type="critApp" xml:id="app20932">sie</ref> wird von derselben nicht eher frey seyn, als
+						bis nach weggespühlten lockeren Schichten die felsichte Grundlagen derselben
+						die einzige Höhen ausmachen werden, <pb ed="oldAA" n="210" xml:id="B01S0210"/>die keine Veränderung mehr erleiden. Diese Veränderung ist nicht allein
+						wegen der Versetzung der Schichten, davon die fruchtbarsten unter den todten <pb ed="AA" n="16"/>
+						versenckt und begraben werden, sondern vielmehr wegen der Aufhebung der
+						nützlichen Eintheilung des festen Landes in Thäler und Höhen, die
+						besorgliche Ursache ihres bevorstehenden Verderbens. Wenn man die
+						gegenwärtige Einrichtung des festen Landes ansiehet, so wird man mit
+						Bewunderung eine regelmäßige Beziehung der erhabenen Gegenden gegen die <ref type="critApp" xml:id="app21008">tiefen</ref> gewahr: daß das Erdreich
+						in weiten Strecken sich mit gemäßigtem Abhange nach dem Schlauche eines
+						Flusses neiget, der die größte Tiefe des Thals einnimmt, und nach dessen
+						Erstreckung eine ebenmäßige fortgehende Abschießigkeit bis zu dem Meere hin
+						hat, darinn solcher sein Wasser ausleeret. Diese wohlgeordnete Verfassung,
+						die das feste Land von dem Ueberfluße des Regenwassers befreyet, beruhet
+						sehr auf den Grad ihrer Größe, damit weder ein gar zu grosser Abfall, das
+						Wasser welches zur Fruchtbarkeit angewandt werden soll, zu schnell abführe,
+						noch eine gar zu gringe Abschießigkeit es zum Schaden derselben zu lange
+						darauf ruhen und sich häufen lasse. Allein diese vortheilhafte Bestimmung
+						leidet durch die stetswährende Wirkung des Regens beständigen Abbruch; indem
+						derselbe die Höhen vermindert, und dadurch, daß er die abgerissene Materien
+						in die niedrigen Gegenden führet, die Gestalt der Erden allmählig der
+						Beschaffenheit nähert, die sie haben würde, wenn alle Ungleichheiten der
+						Oberfläche verschwunden wären, und das ohne Abzug sich häufende Wasser, das
+						der Regen über den Erdboden führet, den Schooß derselben durchweichen und
+						die bewohnbare Verfassung zernichten würde. Ich habe schon angemerkt: daß
+						die Vollendung des Veraltens der Erde, ob sie gleich in langen Zeiten kaum
+						mercklich werden kan, dennoch ein gegründeter und wissenswürdiger Vorwurf
+						der philosophischen Betrachtung sey, darinn das gringe nicht mehr gring oder
+						nichtswürdig ist, welches durch unaufhörliche Summirungen eine wichtige
+						Veränderung beständig näher herbeyführet, und in der das Verderben nichts
+						anders als Zeit brauchet um vollständig zu werden. Man kan indessen nicht
+						sagen: daß die Schritte zu dieser Veränderung ganz und gar nicht zu mercken
+						wären. Wenn die Höhen beständig abnehmen, so wird der <ref type="critApp" xml:id="app21034">Zuschuß</ref> des Wassers in die niedere Gegenden,
+						welcher Landseen oder auch Ströhme unterhält, immer vermindert werden. Diese
+						werden an der Abnahme ihrer Größe die Zeugnisse solcher Veränderung mit sich
+						führen. In der That wird <pb ed="oldAA" n="211" xml:id="B01S0211"/>man an allen
+						Landseen Merkmaale finden: daß sie sich vordem weiter erstreckt haben. Der
+						hohe Theil von Preußen ist ein rechtes Land voll Seen. Man wird nicht leicht
+						einen von denselben sehen, da man nicht neben ihnen große anstossende Ebenen
+						solte gewahr werden, die so Wassergleich sind, daß man nicht zweifeln kan,
+						sie hätten vordem auch zu dem See gehöret und seyn nur nach und nach trocken
+						gelassen worden, nachdem dieser sich weiter zurück gezogen, weil <pb ed="firstPrint" n="(17)" xml:id="B01S0211Z07fp"/>sein Gewässer sich
+						allmählig verringert hat. Um ein Beyspiel anzuführen: so hat, nach sichern
+						Zeugnissen, vor Alters der <hi rend="spaced">Drausensee</hi> bis an die
+						Stadt <ref type="critApp" xml:id="app21109">Preusch-Holland</ref> gereichet
+						und <pb ed="AA" n="17"/>Gelegenheit zur Schiffahrt daselbst gegeben, der anjetzt sich auf eine
+						Meile davon zurückgezogen hat, aber sein vormaliges Bette durch eine lange
+						Ebene die beynahe Wassergleich ist, und deren vormalige erhöhete Ufer zu
+						beyden Seiten gesehen werden, annoch deutlich bezeichnet. Diese allmählige
+						Veränderung ist also so zu reden ein Theil <ref type="critApp" xml:id="app21115">einer fortschreitenden Verhältniß, dessen</ref> letztes Glied fast
+						unendlich weit von dem Anfange absteht und vielleicht niemals <ref type="critApp" xml:id="app21116">erricht</ref> wird, weil die
+						Offenbarung der Erde die wir bewohnen ein plötzliches Schicksaal
+						vorherverkündigt, dessen Ausführung ihre Dauer mitten im Wohlstande
+						unterbrechen und ihr nicht Zeit lassen soll, durch unmerkliche Stuffen der
+						Abänderung zu veralten, und so zu reden einen natürlichen Tod zu leiden.</p>
+					<p rend="indent">Ich bin indessen den verschiedenen Meinungen, die man von dem
+						Veralten der Erde aufwerfen kan, noch die Beurtheilung der vierten schuldig:
+						ob sich nicht die stets wircksame Kraft, welche gewissermaaßen das Leben der
+						Natur macht, und die, wiewohl sie nicht sichtbar in die Augen fällt, dennoch
+						bey allen Zeugungen und der Oekonomie aller dreyen Naturreiche geschäftig
+						ist, nach und nach erschöpfe und dadurch das Veralten der Natur verursache.
+						Diejenige, die in diesem Verstande einen allgemeinen Weltgeist annehmen,
+						verstehen darunter keine unmaterielle Kraft, keine Seele der Welt oder
+						plastische <ref type="critApp" xml:id="app21130">Naturen die</ref> Geschöpfe
+						der kühnen Einbildungskraft, sondern eine subtile, aber überall wircksame
+						Materie, die bey den Bildungen der Natur das active Principium ausmacht, und
+						als ein wahrer <persName key="proteus">Proteus</persName> bereit ist, alle
+						Gestalten und Formen anzunehmen. Eine solche Vorstellung ist einer gesunden
+						Naturwissenschaft und der Beobachtung nicht so sehr entgegen als man wohl
+						dencken solte. Wenn man erweget: daß die Natur in dem Pflanzenreiche den
+						kräftigsten und geistigen Theil in ein gewisses Oehl gelegt hat, <pb ed="oldAA" n="212" xml:id="B01S0212"/>dessen Zähigkeit seine Flüchtigkeit
+						befestiget, und dessen Beraubung entweder durch die Ausdüftung oder
+						chymische Kunstgriffe keinen merklichen Verlust des Gewichts verursacht, ob
+						gleich das zurückgebliebene alsdenn nichts als eine todte Masse ist; wenn
+						man diesen <ref type="critApp" xml:id="app21204">Spiritus Rector</ref>, wie
+						ihn die <ref type="critApp" xml:id="app21205">Chymici</ref> nennen, diese
+						fünfte Essentz, die das specifische Unterscheidungszeichen eines jeden
+						Gewächses ausmacht, erweget, wie er allenthalben gleich leicht durch
+						einerley Nahrungsmittel, nemlich durch reines Wasser und Luft erzeuget
+						werde, wenn man die so berufene flüchtige Säure, die allenthalben in der
+						Luft ausgebreitet ist, die das active Principium in den meisten Arten der
+						Saltze, das wesentliche Theil des Schwefels und das vornehmste in dem
+						brennbaren des Feuers ausmacht, deren Anziehungs und Zurückstossungskräfte
+						sich bey <pb ed="AA" n="18"/>der Elektricität so deutlich offenbahren, <ref type="critApp" xml:id="app21213">welches</ref> so geschickt ist die Federkraft der Luft
+						zu bezwingen und Bildungen zu veranlassen, wenn man diesen Proteus der Natur
+						erweget, so wird man bewogen eine überall wirksame subtile Materie, einen
+						sogenannten Weltgeist, mit Wahrscheinlichkeit zu vermuthen, aber auch zu
+						besorgen: daß die unaufhörliche Zeugungen vielleicht immer mehr von
+						demselben verzehren, als die Zerstöhrung der Naturbildungen zurückliefert,
+						und daß die Natur vielleicht durch den Aufwand derselben beständig etwas von
+						ihrer Kraft einbüsse.</p>
+					<p rend="indent">Wenn ich den Trieb der alten Völcker zu grossen Dingen, den
+						Enthusiasmus der Ehrbegierde, der Tugend und der Freyheitsliebe, der sie mit
+						hohen Begriffen begeisterte, und sie über sich selbst erhob, mit der
+						gemäßigten und kaltsinnigen Beschaffenheit unserer Zeiten vergleiche: so
+						finde ich zwar Ursache unsern Jahrhunderten zu einer solchen Veränderung
+						Glück zu wünschen, welche der Sittenlehre sowohl als den Wissenschaften
+						gleich einträglich ist, aber ich gerathe doch in Versuchung zu vermuthen:
+						daß vielleicht dieses Merkmale einer gewissen Erkaltung desjenigen Feuers
+						seyn, welches die <ref type="critApp" xml:id="app21230">menschliche</ref>
+						Natur belebte, und dessen Heftigkeit eben so fruchtbar an Ausschweifungen
+						als schönen Wirkungen war. Wenn ich dagegen in Erwegung ziehe, wie grossen
+						Einfluß die Regierungsart, die Unterweisung und das Exempel in die <w lemma="Gemuethsverfassung">Gemüths<pb ed="firstPrint" n="(18)" xml:id="B01S0212Z34fp"/>verfassung</w> und die Sitten habe, so
+						zweifle ich ob dergleichen zweydeutige Merkmale Beweisthümer einer
+						wirklichen <ref type="critApp" xml:id="app21235">Veränderung</ref> der Natur
+						abgeben können.</p>
+					<p rend="indent">Ich habe demnach die aufgeworfene Frage von dem Veralten der
+							<pb ed="oldAA" n="213" xml:id="B01S0213"/>Erde nicht entscheidend, wie es
+						der unternehmende Geist eines kühnen Naturforschers erheischen würde,
+						sondern prüfend wie es die Beschaffenheit des Vorwurfs selber mit sich
+						bringet, abgehandelt. Ich habe den Begriff richtiger zu bestimmen gesucht,
+						den man sich von dieser Veränderung zu machen hat. Es können noch andere
+						Ursachen seyn, die durch einen plötzlichen Umsturtz der Erde ihren Untergang
+						zu wege bringen könnten. Denn, ohne der Cometen zu gedenken, deren man sich
+						zu allen ausserordentlichen Schicksaalen seit einiger Zeit beqvem zu
+						bedienen gewust hat, so scheinet in dem inwendigen der Erde selber das Reich
+						des Vulkans und ein grosser Vorrath entzündeter und feuriger Materie
+						verborgen zu seyn, welche unter der obersten Rinde vielleicht immer mehr und
+						mehr überhand nimmt, die Feuerschätze häufet und an der Grundfeste der
+						obersten Gewölber naget, deren etwa verhängter Einstürtz das flammende
+						Element über die Oberfläche führen, und ihren Untergang im Feuer verursachen
+						könnte. Allein dergleichen Zufälle gehören eben so wenig zu der Frage des
+						Veraltens der Erde, als man bey der Erwegung, durch welche Wege ein Gebäude
+						veralte, die Erdbeben oder Feuersbrünste in Betrachtung zu ziehen hat.</p>
+					<p rend="right">
+						<hi rend="larger">Immanuel Kant.</hi>
+					</p>
+					<pb ed="AA" n="19"/>
+				</div>
+			</div>
+      </body>
+   </text>
+</TEI>

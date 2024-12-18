@@ -1,0 +1,2056 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="6" subtype="translation">Principiorum primorum cognitionis
+					metaphysicae nova dilucidatio</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4081-401X">
+						<surname>Hohenegger</surname>
+						<forename>Hansmichael</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0002-0322-4734">
+						<surname>Lamarra</surname>
+						<forename>Antonio</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-5535-5894">
+						<surname>Pozzo</surname>
+						<forename>Riccardo</forename>
+					</persName>
+				</editor>
+				<editor role="translator">
+					<persName ref="https://d-nb.info/gnd/117377201">
+						<surname>Tieftrunk</surname>
+						<forename>Johann Heinrich</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder>
+					<note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Nova dilucidatio</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="6">Principiorum primorum cognitionis metaphysicae
+							nova dilucidatio</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4081-401X">
+								<surname>Hohenegger</surname>
+								<forename>Hansmichael</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0002-0322-4734">
+								<surname>Lamarra</surname>
+								<forename>Antonio</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-5535-5894">
+								<surname>Pozzo</surname>
+								<forename>Riccardo</forename>
+							</persName>
+						</editor>
+						<editor role="translator">
+							<persName ref="https://d-nb.info/gnd/117377201">
+								<surname>Tieftrunk</surname>
+								<forename>Johann Heinrich</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">366–450</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de">German</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-10-24" who="#GN">Corrected</change>
+			<change when="2024-09-23" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-08" who="#EF">Corrected</change>
+			<change when="2023-11-13" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+   <text>
+      <body>
+      	<pb ed="AA" n="0"/>
+      	<div n="1" type="titlePage">
+      	<p rend="head_02" xml:id="de001" corresp="#la001"><hi rend="uppercase">Neue</hi></p>
+      		  <p rend="head_01"><hi rend="uppercase">Erklärung</hi></p>
+      		  <p rend="head_02"><hi rend="uppercase">der ersten Grundsätze</hi></p>
+      		  <p rend="head_03"><hi rend="uppercase">der metaphysischen Erkenntniß</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">welche</hi></p>
+      		  <p rend="head_04"><hi rend="uppercase">mit Bewilligung der wohllöblichen
+						philosophischen Facultät</hi>
+				</p>
+      		  <p rend="head_05"><hi rend="uppercase">in öffentlicher Disputation</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">die im philosophischen Hörsal zum 27sten
+						September in den Stunden von 8 bis 12 Uhr</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">gehalten werden soll</hi></p>
+      		  <p rend="head_02"><hi rend="uppercase">um die Aufnahme in diese Facultät zu
+						erwerben</hi>
+				</p>
+      		  <p rend="head_05"><hi rend="uppercase">verteidigen wird</hi></p>
+      		  <p rend="head_07"><hi rend="uppercase"><hi rend="antiqua">M.</hi> Immanuel Kant <hi rend="smaller">aus
+							Königsberg.</hi></hi>
+				</p>
+      		  <p rend="head_05"><hi rend="uppercase">Respondent wird seyn</hi></p>
+      		  <p rend="head_02"><hi rend="uppercase">Christoph Abraham Borchard <hi rend="smaller">aus Heiligenbeil in Preußen</hi>
+					</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">der Gottesgelahrtheit Beflissener,</hi>
+				</p>
+      		  <p rend="head_05"><hi rend="uppercase">Opponenten werden seyn</hi></p>
+      		  <p rend="head_04"><hi rend="uppercase">Johann Gottfried Möller <hi rend="smaller">aus
+							Königsberg</hi>
+					</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">der Gottesgelahrtheit Beflissener,</hi></p>
+      		  <p rend="head_04"><hi rend="uppercase">Friedrich Heichrich Samuel Lysius <hi rend="smaller">aus Königsberg</hi>
+					</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">der Rechte Beflissener</hi></p>
+      		  <p rend="head_05"><hi rend="uppercase">und</hi></p>
+      		  <p rend="head_04"><hi rend="uppercase">Johann Reinhold Grube <hi rend="smaller">aus
+					Königsberg, der Rechte Beflissener.</hi></hi>
+				</p>
+      		  <p rend="head_05"><hi rend="uppercase">im Jahre 1755</hi>.</p>
+				<milestone unit="section" rend="line"/>
+      		  <p rend="head_05"><hi rend="uppercase">Königsberg</hi>,</p>
+      		  <p rend="head_05"><hi rend="uppercase">in den Lettern Ihrer Heiligen Königlichen Majestät und der Universitätsdruckerei J. H. Hartungs.</hi></p>
+			</div>
+      	<pb ed="AA" n="1"/>
+      	<div n="1" type="dedication">
+				<opener xml:id="de002" corresp="#la002">
+					<salute rend="head_04"><hi rend="uppercase">Dem hochangesehenen,</hi></salute>
+					<salute rend="head_04"><hi rend="uppercase">edelmüthigsten und vortrefflichsten
+							Herrn,</hi></salute>
+					<salute rend="head_02"><hi rend="uppercase">dem Herrn</hi></salute>
+					<salute rend="head_01"><hi rend="uppercase">Johann <hi rend="smaller">von</hi> Lehwald</hi>,</salute>
+					<salute rend="head_02"><hi rend="uppercase">ehrwürdiger Fürst der
+						Preußen,</hi></salute>
+					<salute rend="head_03"><hi rend="uppercase">höchster Befehlshaber über die
+							Lager,</hi></salute>
+					<salute rend="head_03"><hi rend="uppercase">ehrwürdigster Statthalter der
+							Ortschaften Pillau und Memelburg,</hi></salute>
+					<salute rend="head_04"><hi rend="uppercase">überaus verdienstvoller Träger des
+							hochangesehenen Schwarzen Adlerordens,</hi>
+					</salute>
+					<salute rend="head_03"><hi rend="uppercase">wachsamster Marschall des
+							Fußheers,</hi></salute>
+					<salute rend="head_02"><hi rend="uppercase">unvergleichlicher Held,</hi></salute>
+					<salute rend="head_03"><hi rend="smallCaps">Seiner Herrlichkeit und gnädigsten
+							Förderschaft,</hi>
+					</salute>
+				</opener>
+      		  <p rend="head_05" xml:id="de003" corresp="#la003">widme und überlasse ich voll
+					Wohlgesonnenheit</p>
+      		  <p rend="head_05" xml:id="de004" corresp="#la004">diese Seiten</p>
+      		  <p rend="head_05" xml:id="de005" corresp="#la005">verbunden in Dankbarkeit und
+					Geistesfreundschaft</p>
+      		  <p rend="head_05" xml:id="de006" corresp="#la006">für die so vielfach erwiesene Gnade</p>
+				<closer rend="right" xml:id="de007" corresp="#la007">
+					<salute rend="head_05">unterwürfigst<lb/> Euer demütiger Diener</salute>
+					<signed rend="head_05"><hi rend="uppercase">Christoph. Abraham. Borchard.</hi>
+						</signed>
+				</closer>
+			</div>
+      	<pb ed="AA" n="2"/>
+      	<div n="1"><head rend="head_02" xml:id="de008" corresp="#la008"><hi rend="uppercase">Plan der Abhandlung.</hi></head>
+				<p rend="indent" xml:id="de009" corresp="#la009">
+					<hi rend="initial">I</hi>n Hoffnung, über die ersten Grundsätze unserer
+					Erkenntniß, wie ich wünsche, einiges Licht zu verbreiten, muß ich, um gemäß
+					meinem Entschluß die Resultate meines Nachdenkens über den Gegenstand dieser
+					Schrift auf möglichst wenigen Seiten darzulegen, mich aller entbehrlichen
+					Ausführlichkeit, und, zufrieden, die Nerven und Gelenke der Beweisgründe
+					dargestellt zu haben, alles Schmuckes und aller gefallenden Einkleidung des
+					Vortrags geflissentlich enthalten. Wenn ich hierbey von der Meinung berühmter
+					Männer abzuweichen, oder auch dieselben bisweilen namentlich anzuführen zu dem
+					Zweck meines Vorhabens angemessen finde, so bin ich von ihrer billigen Denkart
+					und richtigen Beurtheilung überzeugt, daß sie dadurch der ihren Verdiensten
+					gebührenden Hochachtung keinesweges etwas entzogen glauben, und deshalb mit mir
+					nicht unzufrieden seyn werden. Denn im Fall verschiedener Meinungen über
+					dieselbe Sache, muß es jedem erlaubt seyn, seiner eigenen Ansicht derselben und
+					seinen Vorstellungen davon zu folgen, auch die Beweisgründe anderer einer neuen
+					Prüfung und Sichtung zu unterwerfen, sofern diese ohne alle Bitterkeit und ohne
+					Streitsucht unternommen wird. Ich finde nicht, daß ein so bescheidenes Verfahren
+					von billigen Richtern jemals für unverträglich mit den Pflichten des Wohlstandes
+					und der schuldigen Ehrerbietung wäre geachtet worden.</p>
+				<p rend="indent" xml:id="de010" corresp="#la010">Zuerst werde ich also das, was über den Satz des Widerspruchs,
+					als den ersten Satz der Philosophie, und dessen unbezweifelte Herrschaft über
+					alle Wahrheiten gewöhnlich mit mehr Zuversicht als Wahrheit vorgetragen wird,
+					einer sorgfältigern Schätzung und Absonderung unterwerfen, und zugleich, was
+					diesfalls für wahr zu halten sey, kürzlich darzulegen mich bemühen. Sodann werde
+					ich von dem Satz des zureichenden Grundes handeln, und nicht allein alles, was
+					dessen Sinn zu berichtigen oder den Beweis desselben zu befestigen dient,
+					sondern auch die Schwierigkeiten, welche ihn zu entkräften scheinen, aufführen
+					und den Gegenargumenten mit der Kraft der Beweisgründe, wie weit ich dazu fähig
+					bin, entgegentreten. Zuletzt werde ich, um einen Schritt wenigstens weiter zu
+					gehen, zwey neue Grundsätze der metaphysischen Erkenntniß, die nach meinem
+					Dafürhalten von nicht unbedeutendem Gewicht sind, aufstellen: Sie sind zwar
+					weder ursprüngliche noch ganz einfache Sätze, aber gerade deswegen desto
+					brauchbarer und mehr umfassend als irgend ein anderer Satz. Da ich bey <pb ed="AA" n="3"/>diesem
+					Unternehmen einen unbetretenen Weg gehe, wo es so leicht ist in Irrthum zu
+					fallen; so darf ich versichert seyn, der geneigte Leser werde alles mit
+					Billigkeit beurtheilen und günstig aufnehmen.</p></div><div n="1">
+						<head rend="head_02" xml:id="de011" corresp="#la011">
+					<hi rend="smallCaps">Erster Abschnitt.</hi>
+						</head><head rend="head_02" xml:id="de012" corresp="#la012">Von dem Satz des Widerspruchs.</head><div n="2">
+							<head rend="head_04" xml:id="de013" corresp="#la013"><hi rend="uppercase">Erinnerung.</hi></head>
+							<p rend="indent" xml:id="de014" corresp="#la014">
+						<hi rend="initial">D</hi>a ich mich hier hauptsächlich der Kürze befleißigen
+						muß, so finde ich es gerathener, die in den bekannten Theorien bereits
+						hinlänglich begründeten und dabey ganz vernunftmäßigen Definitionen und
+						Lehrsätze nicht nochmals herzuschreiben: denn ich mag nicht nach der Weise
+						derer handeln, welche aus sclavischer Anhänglichkeit an einer, der Himmel
+						weiß welcher, Regel der Methode nicht in gehöriger Ordnung zu verfahren
+						meinen, wenn sie nicht vom Anfang bis zum Ende alles erörtern und
+						beleuchten, was sie in den Büchern und Heften der Philosophen über ihren
+						Gegenstand gesagt finden. Ich habe dem Leser im voraus sagen wollen, daß ich
+						alles dieses vorsätzlich weglasse, damit es mir nicht als Fehler angerechnet
+						werde.</p><div n="3">
+							<p rend="indent" xml:id="de015" corresp="#la015">
+							<hi rend="larger">
+								<hi rend="smallCaps">Erster Satz.</hi> Einen <hi rend="smallCaps">einzigen</hi> Grundsatz aller Wahrheiten, welcher dabey
+								schlechthin der erste und allgemein wäre, giebt es nicht.</hi>
+						</p>
+							<p rend="indent" xml:id="de016" corresp="#la016">Ein erster Grundsatz, welcher in Wahrheit
+							einzig ist, muß nothwendig ein einfacher Satz seyn; denn sonst begreift
+							er in sich mehrere Sätze, und hat nur die trügerische Gestalt eines
+							einzigen Grundsatzes. Ist er wahrlich ein einfacher Satz, so ist er
+							nothwendig nur eins von zweyen, bejahend oder verneinend. Und nun
+							behaupte ich, daß, wenn er eins von beyden ist, er nicht allgemein sey,
+							oder nicht alle Wahrheiten unter sich begreife: denn sagt man, es sey
+							ein <hi rend="spaced">bejahender</hi> Satz, so kann dieser nicht
+							schlechthin erster Grundsatz der verneinenden Wahrheiten seyn; soll er
+							selbst <hi rend="spaced">verneinend</hi> seyn, so kann er nicht an die
+							Spitze der bejahenden gestellt werden.</p>
+							<p rend="indent" xml:id="de017" corresp="#la017">Denn man setze, er sey ein verneinender
+							Satz: weil die Ableitung aller Wahrheiten aus ihren Grundsätzen entweder
+							direct oder indirect ist; wer sieht nicht, daß aus einem verneinenden
+							Grundsatz durch die <hi rend="spaced">directe</hi> Folgerungsweise blos
+							und allein verneinende Folgesätze abgeleitet werden können? Will man alsdann,
+							daß <hi rend="spaced">indirect</hi> bejahende Sätze daraus
+							gefolgert werden können, so wird man gestehen müssen, daß dieses nicht
+							anders als mittelst des Satzes geschehen könne: <hi rend="spaced">Alles,
+								wovon das Gegentheil falsch ist, das ist wahr</hi>. Dieser Satz aber
+								kann, da er selbst bejahend <pb ed="AA" n="4"/>ist, aus einem verneinenden Grundsatz durch
+							directe Folgerung nicht fließen, weit weniger durch indirecte, weil
+							er, da es zu seiner Ableitung aus einem negativen Grundsatz an einem
+							vermittelnden Satze gebricht, seines Beweises durch sich selbst bedürfte;
+							er wird also von einem verneinend ausgedrückten Grundsatz auf keine
+							Weise abhängig seyn; folglich kann ein verneinender Grundsatz, da es
+							nicht angehen will, einzig und allein aus demselben bejahende Sätze
+							abzuleiten, nicht allgemein genannt werden. Auf gleiche Weise werden,
+							wenn man einen bejahenden Satz zum Hauptgrundsatz aufstellt, gewiß die
+							negativen Sätze nicht directerweise davon abhängen; indirecterweise aber
+							wird der Mittelsatz nöthig seyn: <hi rend="spaced">Wenn das Gegentheil
+								eines Satzes wahr ist, so ist dieser falsch;</hi> das heißt, das
+							Gegentheil eines Satzes bejahen, heißt diesen Satz selbst verneinen.
+							Weil aber auch dieser Satz verneinend ist, so kann er keineswegs aus
+							einem bejahenden Grundsatz, weder, welches an sich klar ist, directer-
+							noch indirecterweise anders als mit Voraussetzung, daß er schon bewiesen
+							sey oder sich selbst beweise, abgeleitet werden. Man mag sich also für
+							das eine oder das andere erklären, so wird man die Wahrheit des von mir
+							anfänglich aufgestellten Satzes nicht in Zweifel ziehen können: daß für
+							alle Wahrheiten ohne Ausnahme ein einziger Grundsatz, der zugleich der
+							höchste und allgemein wäre, nicht gefunden werden kann.</p>
+					</div><div n="3">
+						<p rend="indent" xml:id="de018" corresp="#la018">
+							<hi rend="larger">
+								<hi rend="smallCaps">Zweyter Satz.</hi> Für alle Wahrheiten giebt es
+								zwey schlechthin erste Grundsätze: einen für die bejahenden
+								Wahrheiten, nehmlich den Satz: <hi rend="spaced">alles was ist,
+									ist</hi>; einen für die verneinenden, nehmlich den Satz: <hi rend="spaced">alles was nicht ist, ist nicht</hi>. Beyde sind
+								zusammen unter dem Namen des Identitätssatzes begriffen.</hi>
+						</p>
+						<p rend="indent" xml:id="de019" corresp="#la019">Ich berufe mich wieder auf die zwey Arten,
+							Wahrheiten darzuthun, die directe nehmlich und die indirecte. Die
+							erstere Beweisart folgert aus der Uebereinstimmung der Begriffe des Subjects und
+							des Prädicats in einem Satz die Wahrheit desselben, und verfährt jederzeit
+							nach dieser Grundregel: Wenn das Subject, an sich oder im Zusammenhang
+							betrachtet, das voraussetzt, was den Begriff des Prädicats enthält, oder
+							wenn es das ausschließt, was durch den Begriff des Prädicats
+							ausgeschlossen ist, so muß man sagen, daß dieses Prädicat jenem Subject
+							zukomme; oder, um das nehmliche deutlicher zu sagen: wenn sich in den
+							Begriffen des Subjects und Prädicats eines Satzes Einerleyheit findet,
+							so ist dieser Satz wahr. Dieses wird in den allgemeinsten Termini,
+							wie sie in einem ersten Grundsatz seyn sollen, so ausgesprochen: <hi rend="spaced">Alles, was ist, ist; alles, was nicht ist, ist
+								nicht</hi>. Demnach wird die directe Beweisart ganz gewiß von dem
+							Identitätsprincip ausgehen, welches der erste Satz ist.</p>
+						<p rend="indent" xml:id="de020" corresp="#la020">Ist die Rede von der indirecten Beweisart,
+							so wird sich finden, daß derselben ebenfalls das erwähnte doppelte
+							Princip zu Grunde liege. Denn immer wird man sich auf einen von diesen
+							zwey Sätzen berufen müssen: <pb ed="AA" n="5"/>1. wovon das Gegentheil falsch ist, das ist
+							wahr, das heißt, wovon ich das Gegentheil läugne, das bejahe ich; 2.
+							wovon das Gegentheil wahr ist, das ist falsch. Von diesen zwey
+							Grundsätzen hat der erste die bejahenden, der andere die verneinenden
+							Sätze zu Folgerungen. Der erstere Satz wird, mit den einfachsten Termini
+							ausgedrückt, so lauten: <hi rend="spaced">Alles, was nicht nicht ist,
+								das ist</hi> (indem das Wort für Gegentheil durch das Wörtchen <hi rend="spaced">nicht</hi>, und eben so auch für die Aufhebung durch
+							das Wörtchen <hi rend="spaced">nicht</hi> angedeutet werden). Den
+							letztern Satz wird man also bilden müssen: <hi rend="spaced">Alles, was
+								nicht ist, das ist nicht</hi> (indem auch hier anstatt des Worts
+							Gegentheil, und eben so anstatt des Worts Falsch oder der Aufhebung die
+							Partikel: <hi rend="spaced">nicht</hi> gesetzt ist). Wenn man nun, wie
+							es das Gesetz der Bezeichnung verlangt, nach dem in den Worten des
+							erstern Satzes enthaltenen Sinn verfährt, so wird, weil die eine
+							Partikel <hi rend="spaced">nicht</hi> anzeigt, daß die andere
+							weggenommen werden soll, nachdem beyde weggenommen sind, der Satz
+							hervorgehen: <hi rend="spaced">Alles, was ist, ist.</hi> Da nun der
+							letztere Satz wörtlich so lautet: <hi rend="spaced">Alles, was nicht
+								ist, ist nicht,</hi> so erhellet, daß auch bey der indirecten
+							Beweisart das doppelte Identitätsprincip die entscheidende Rolle spiele,
+							folglich der letzte Grund aller Erkenntniß überhaupt sey.</p>
+					</div><div n="3">
+						<p rend="indent" xml:id="de021" corresp="#la021"><hi rend="uppercase">Anmerkung.</hi> Hier
+							hat man zugleich eine zwar geringe, doch nicht ganz zu verachtende Probe
+							von der combinatorischen Bezeichnungskunst; denn die völlig einfachen Termini, deren
+							ich mich bey der Entwickelung dieser Grundsätze bediene, sind von den
+							combinatorischen Bezeichnungen fast gar nicht verschieden. Damit ich bey
+							dieser Gelegenheit eröffne, was ich von dieser Kunst, welche Leibnitz
+							erfunden zu haben sich rühmte, und welche, wie alle Gelehrte klagen, mit
+							diesem großen Mann begraben worden ist, denke; so bekenne ich, daß mir
+							diese Lehre des großen Philosophen vorkommt, wie das Testament jenes
+							Vaters beym Aesop, welcher sterbend seinen Kindern entdeckte, er habe
+							irgendwo in seinem Felde einen Schatz vergraben, und, ehe er noch den
+							Ort angezeigt, den Geist aufgab, durch diese Entdeckung seine Söhne
+							veranlaßte, den ganzen Acker mit größtem Fleiß umzugraben und
+							umzuarbeiten, so daß sie zwar in ihrer Hoffnung getäuscht, dennoch durch
+							die vermehrte Fruchtbarkeit reicher wurden. Dies ist nach meiner
+							Vermuthung der einzige Nutzen, welcher von der weitern Forschung über
+							diese so berühmte Kunst, wenn etwa einige sich damit zu beschäftigen
+							geneigt seyn sollten, erwartet werden kann. Darf ich aber sagen, was an
+							der Sache ist, so fürchte ich, daß dem unvergleichlichen Manne das
+							nehmliche begegnet ist, was der scharfsinnige Boerhaave irgendwo in
+							seiner Chemie von den besten Kunststücken der Alchymisten vermuthet, daß
+							nehmlich, nachdem sie viele und besondere Geheimnisse entdeckt, sie
+							endlich sich eingebildet, sobald es ihnen Hand anzulegen beliebte,
+							weniger nicht als alles zu vermögen, daß sie sogar durch einen schnellen
+							Blick in die Zukunft das als bereits geschehen erzählt, was nach ihrer
+							Vorstellung geschehen könnte, was sogar geschehen <pb ed="AA" n="6"/>müßte, sobald sie den
+							Gedanken faßten, solches ins Werk zu richten. Zwar läugne ich nicht,
+							daß, wenn man bis auf schlechthin erste Grundsätze gekommen ist, von
+							der Bezeichnungskunst einige Anwendung zuläßig sey, da man hier Freiheit
+							hat, einfache Begriffe, sogar die einfachsten Worte gleich Zeichen zu
+							gebrauchen; allein, wenn ein zusammengesetztes Erkenntniß durch Hülfe
+							von Zeichen ausgedrückt werden soll, dann steht aller Scharfsinn
+							plötzlich wie vor einer Klippe, und wird durch unüberwindliche
+							Schwierigkeiten aufgehalten. Auch finde ich, daß ein Philosoph von
+							großem Namen, der berühmte Daries, den Versuch gemacht hat, den Satz des
+							Widerspruchs durch Hülfe von Zeichen deutlich auszudrücken, indem er
+							einen bejahenden Begriff mit dem Zeichen + A einen verneinenden mit dem
+							Zeichen - A andeutet, wodurch die Gleichung möglich wird + A – A = 0, <abbr>d. i.</abbr>, 
+							dieselbe Sache zugleich bejahen und verneinen ist unmöglich oder
+							nichts. In diesem Versuch aber finde ich, mit Erlaubnis des bedeutenden
+							Mannes, ohne jeden Zweifel einen Zirkelbeweis. Denn wenn das Zeichen des
+							verneinenden Begriffs die Bedeutung haben soll, daß es den mit ihm
+							verknüpften bejahenden aufhebe, so setzt man offenbar den Satz des
+							Widerspruchs voraus, in welchem gerade dieses behauptet wird, daß
+							entgegengesetzte Begriffe einander gegenseitig aufheben. Unsere
+							Entwickelung des Satzes aber: <hi rend="spaced">Alles, wovon das
+								Gegentheil falsch ist, das ist wahr</hi> hat diesen Fehler nicht.
+							Denn da dieser Satz mit den einfachsten Termini ausgedrückt also lautet:
+								<hi rend="spaced">Alles, was nicht nicht ist, das ist,</hi> so thun
+							wir, indem wir die Wörtchen <hi rend="spaced">nicht</hi> wegnehmen, damit
+							weiter nichts, als was die einfache Bedeutung dieser Partikel verlangt,
+							und so geht, wie es nicht anders seyn konnte, das Identitätsprincip
+							hervor: <hi rend="spaced">Alles, was ist, ist</hi>.</p>
+					</div><div n="3">
+						<p rend="indent" xml:id="de022" corresp="#la022">
+							<hi rend="larger">
+								<hi rend="smallCaps">Dritter Satz.</hi> Ausführlicher zu festigen,
+								daß das Identitätsprincip sich zu dem Rang eines schlechthin ersten
+								Grundsatzes im System der Wahrheiten weit mehr eigne, als der Satz
+								des Widerspruchs.</hi>
+						</p>
+						<p rend="indent" xml:id="de023" corresp="#la023">Ein Satz, welcher des Namens eines
+							schlechthin höchsten und allgemeinen Grundsatzes für alle Wahrheiten
+							würdig seyn soll, muß zuerst in den einfachsten, und dann in den
+							allgemeinsten Termini ausgesagt seyn. Diese Erfordernisse finden sich
+							nach meiner Ueberzeugung in dem doppelten Identitätsprincip ganz
+							ungezweifelt. Denn unter allen bejahenden Termini ist das Wörtchen
+								<hi rend="spaced">ist</hi>, unter den verneinenden das Wörtchen <hi rend="spaced">ist nicht</hi> der allereinfachste. Alsdann kann auch
+							nichts Allgemeineres gedacht werden als die einfachsten Begriffe. Denn Begriffe, die zusammengesetzter sind, erhalten ihr Licht von den
+							einfachen, und können, weil sie bestimmter sind als diese, nicht so
+							allgemein seyn.</p>
+						<pb ed="AA" n="7"/>
+						<p rend="indent" xml:id="de024" corresp="#la024">Der Satz des Widerspruchs, in dem Satz
+							ausgedrückt: <hi rend="spaced">Unmöglich ist, daß etwas zugleich sey und
+								nicht sey</hi>, ist in der Sache selbst nichts weiter als die
+							Definition <hi rend="spaced">des Unmöglichen;</hi> denn unmöglich wird
+							eben genannt was sich selbst widerspricht, oder was zugleich seyn und
+							nicht seyn soll. Mit welchem Recht aber kann man behaupten, daß alle
+							Wahrheiten an dieser Definition als an einem Probierstein gehalten und
+							geprüft werden müssen? Denn es ist nicht nothwendig, jede Wahrheit durch
+							die Unmöglichkeit des Gegentheils zu beweisen, auch ist dieses, die
+							Wahrheit zu gestehen, an sich zum Beweis nicht hinreichend; denn von der
+							Unmöglichkeit des Gegentheils eines Satzes gilt kein Schluß auf die
+							Wahrheit desselben, als allein mittelst des Satzes: <hi rend="spaced">Wovon das Gegentheil falsch ist, das ist wahr,</hi> folglich theilt
+							dieser Satz die Herrschaft mit dem Satz des Widerspruchs, wie im
+							vorhergehenden gezeigt worden.</p>
+						<p rend="indent" xml:id="de025" corresp="#la025">Endlich einem verneinenden Satz im Reiche
+							der Wahrheiten den ersten Rang anzuweisen und ihn als Haupt und Stütze
+							von allen zu begrüssen, wem sollte dieses nicht hart und gewissermaßen
+							schlimmer als paradox vorkommen, da man gar keinen Grund sieht, warum
+							gerade ein verneinender Satz mehr als ein bejahender diesen Rang und
+							Vorzug verdienen soll? Richtiger setzen wir, da zwey Arten von
+							Wahrheiten sind, für dieselben auch zwey erste Grundsätze, einen
+							bejahenden, einen verneinenden.</p>
+						<p rend="indent" xml:id="de026" corresp="#la026"><hi rend="uppercase">Anmerkung.</hi>
+							Leicht könnte jemanden diese Untersuchung so wie spitzfindig und mühsam,
+							so auch überflüssig und völlig unnütz vorkommen. Und sieht man auf die
+							Fruchtbarkeit derselben an Folgesätzen, so stimme ich gern bey. Denn der
+							Verstand des Menschen befolgt im Denken ein solches Princip, obschon
+							davon nicht unterrichtet, in allen Fällen unvermeidlich von selbst
+							vermöge einer gewissen Nothwendigkeit ihrer Natur. Allein, ist es nicht
+							gerade deswegen ein der Untersuchung würdiger Gegenstand, die Kette
+							aller Wahrheiten bis auf das oberste Glied zu verfolgen? Und allerdings
+							ist es keine geringfügige Bemühung, auf diese Weise das Denkgesetz
+							unseres Verstandes näher kennen zu lernen. Denn weil, um nur diesen
+							einzigen Nutzen zu erwähnen, unser Schließen am Ende darauf hinausläuft,
+							die genaue Uebereinstimmung des Prädicats mit dem Subject entweder an
+							sich oder im Zusammenhang betrachtet zu entdecken, wie aus der letzteren
+							Regel der Wahrheiten erhellt; so kann man daraus sehen, daß Gott keines
+							Schließens bedarf, indem, da seinem Anschauen alles ganz deutlich
+							vorliegt, derselbe Act der Vorstellung dem göttlichen Verstande
+							darstellt, was übereinstimme oder nicht übereinstimme, folglich bey ihm
+							die Analyse nicht nöthig ist, welche die Dunkelheit, die unser
+							Erkenntnisvermögen umnebelt, zum unvermeidlichen Bedürfniß macht.</p>
+					</div></div></div>
+      	<pb ed="AA" n="8"/><div n="1">
+      		  <head rend="head_02" xml:id="de027" corresp="#la027">
+					<hi rend="uppercase">Zweyter Abschnitt.</hi>
+				</head>
+      			  <head rend="head_02" xml:id="de028" corresp="#la028">Von dem Satz des bestimmenden, gewöhnlich
+					sogenannten hinreichenden Grundes.</head>
+				<div n="2">
+					<head rend="head_04" xml:id="de029" corresp="#la029"><hi rend="uppercase">Definition.</hi></head>
+					<div n="3">
+						<p rend="indent" xml:id="de030" corresp="#la030">
+							<hi rend="larger">
+								<hi rend="smallCaps">
+									<hi rend="initial">V</hi>ierter Satz.</hi> 
+								<hi rend="spaced">Etwas bestimmen</hi>, heißt ein Prädicat desselben
+								so setzen, daß das Gegentheil des letztern ausgeschlossen sey. Das,
+								was ein Subject in Rücksicht eines gewissen Prädicats bestimmt, wird
+								der <hi rend="spaced">Bestimmungsgrund</hi> genannt. Diesen <hi rend="spaced">Grund</hi> theilt man ein in den vorher und den
+								nachher bestimmenden. <hi rend="spaced">Vorher</hi> bestimmend ist
+								der Grund, dessen Begriff dem vorhergeht, was dadurch bestimmt
+								wird, das heißt, ohne dessen Voraussetzung das dadurch Bestimmte
+								nicht begreiflich ist.<note place="foot" n="*" xml:id="fn01">
+									<p rend="indent">Hieher kann man den <hi rend="spaced">Identitäts</hi>grund rechnen, wenn der Begriff des
+										Subjects durch seine vollkommene Einerleyheit mit dem
+										Prädicat dieses bestimmt. Z. B. ein Triangel hat drey
+										Seiten; denn hier geht der Begriff dessen, was bestimmt, dem
+										Begriff des Bestimmenden weder nach noch vor.</p>
+								</note>. <hi rend="spaced">Nachher</hi> bestimmend ist der Grund,
+								welcher nicht gesetzt würde, wenn nicht der Begriff, welcher durch
+								ihn bestimmt wird, schon anders woher gesetzt wäre. Den erstern
+								Grund kann man auch das <hi rend="spaced">Warum</hi>, oder den Grund
+								des Seyns oder Werdens, den letztern das <hi rend="spaced">Weil,</hi> oder den Erkenntnißgrund nennen.</hi>
+						</p>
+					</div>
+					<div n="3">
+						<head rend="head_11" xml:id="de031" corresp="#la031">Erweis der Realität dieser
+							Definition.</head>
+						<p rend="indent" xml:id="de032" corresp="#la032">Der Begriff des Grundes bewirkt nach dem
+							Gemeinsinn einen Zusammenhang und eine Verknüpfung
+							zwischen einem Subject und einem gewissen Prädicat. Es ist also dazu
+							jederzeit ein Subject und ein Prädicat, welches mit jenem vereint werden
+							kann, erforderlich. Fragst du mich nach dem Grund des Cirkels, so
+							verstehe ich nicht einmal, was das wohl sey, wornach du fragst, wenn du
+							nicht ein Prädicat hinzusetzest, <abbr>z. B.</abbr>, daß er unter allen
+							gleichseitigen Figuren den größten Raum einschließe. Wir fragen z. B.
+							nach dem Grund von den Uebeln in der Welt. Hier <pb ed="AA" n="9"/>haben wir also den Satz:
+							die Welt enthält viele Uebel. Nach dem Weil, oder dem Erkenntnißgrund,
+							wird nicht gefragt, denn die Erfahrung vertritt dessen Stelle, sondern
+							das Warum oder der Grund des Werdens muß angezeigt werden, das heißt der
+							Grund, durch dessen Setzung begreiflich wird, daß die Welt in Ansehung
+							dieses Prädicats vorher nicht bestimmt sey, sondern wiefern das Prädicat
+							der Uebel mit Ausschließung des Gegentheils gesetzt wird. Folglich macht
+							der Bestimmungsgrund aus unbestimmten
+							Sätzen bestimmte. Und weil jede Wahrheit durch Bestimmung des Prädicats
+							in seinem Subject bewirkt wird, so ist der Bestimmungsgrund nicht allein das Unterscheidungsmerkmal,
+							sondern auch die Quelle der Wahrheit, so daß, sobald man denselben
+							verläßt, zwar sehr vieles möglich, aber durchaus nichts Wahres gefunden
+							wird. Daher ist es <abbr>z. B.</abbr> für uns unbestimmt, ob der Planet Mercurius
+							sich um seine Achse bewege oder nicht, denn es gebricht uns ein Grund,
+							wodurch eins von beyden mit Ausschließung des Gegentheils gesetzt würde;
+							beydes bleibt bis jetzt möglich, keins von beyden wird in Ansehung
+							unserer Erkenntniß ausschließend wahr.</p>
+						<p rend="indent" xml:id="de033" corresp="#la033">Um den Unterschied des <hi rend="spaced">vorher</hi> und <hi rend="spaced">nachher</hi> bestimmenden Grundes
+							durch ein Beyspiel zu erläutern, nenne ich die Mondfinsternisse der
+							Jupiterstrabanten, und sage, daß solche den <hi rend="spaced">Erkenntnißgrund</hi> von der fortschreitenden und mit bemerkbarer
+							Geschwindigkeit vor sich gehenden Verbreitung des Lichts abgeben. Allein
+							dieser Grund ist für diese Wahrheit nur nachher bestimmend; denn wenn
+							auch sogar keine Jupiterstrabanten existirten, oder die nach Zeiten
+							abwechselnde Bedeckung derselben nicht wäre, so würde sich dennoch das
+							Licht zeitmäßig bewegen, ob wir schon davon vielleicht nichts wüßten;
+							oder um die gegebene Definition näher anzuwenden, so setzen die
+							Erscheinungen der Jupiterstrabanten, wiefern sie die fortschreitende
+							Bewegung des Lichts beweisen, diese Eigenschaft des Lichts, ohne welche
+							sie selbst nicht möglich seyn würden, schon voraus, bestimmen also diese
+							Wahrheit nur nachher. Der Grund des Geschehens aber, warum nehmlich die
+							Bewegung des Lichts mit einem bemerkbaren Aufwand von Zeit verknüpft
+							sey, besteht, (wenn man der Meinung des Cartesius beystimmen will,) in der
+							Elasticität der Luftkügelchen, welche nach den Gesetzen der Elasticität
+							dem Stoß etwas nachgeben, und die winzige Zeitspanne, welche mit dem
+							Anstoßen eines jeden Kügelchens vorbey geht, durch die eine unermeßliche
+							und ununterbrochene Reihe hindurch fortgesetzte Wiederholung endlich
+							bemerklich machen. Dies wäre der vorher bestimmende Grund, ohne dessen
+							Voraussetzung das dadurch Bestimmte gar nicht Statt finden könnte. Denn
+							wären die Kügelchen des Aethers vollkommen hart, so würde auch in einer
+							noch so unermeßlichen Entfernung zwischen dem Ausfluß und dem Anstoßen
+							des Lichtskein Zeitraum wahrgenommen werden können.</p>
+						<pb ed="AA" n="10"/>
+						<p rend="indent" xml:id="de034" corresp="#la034">Die Definition des berühmten Wolf schien
+							mir, weil sie einen bedeutenden Fehler hat, einer Verbesserung zu
+							bedürfen. Denn er definirt den Grund durch das, woraus man einsehen
+							kann, warum etwas vielmehr sey als nicht sey. Ungezweifelt hat er das
+							Definitumin die Definition eingehen lassen. Denn obschon das Wörtchen
+								<hi rend="spaced">Warum</hi> dem gemeinen Verstande so angemessen zu
+							seyn scheint, daß man glauben sollte, es könne in die Definition
+							aufgenommen werden, so enthält es dennoch stillschweigend den Begriff
+							des Grundes in sich. Denn wenn man solches recht prüft, so wird man
+							finden, daß es eben so viel heißt als: <hi rend="spaced">aus welchem
+								Grunde</hi>. Vollzieht man nun gehörig diese Ersetzung, so wird die
+							Wolfische Definition lauten: Grund ist dasjenige, woraus man einsehen
+							kann, <hi rend="spaced">aus welchem Grunde</hi> etwas vielmehr sey, als
+							nicht sey.</p>
+						<p rend="indent" xml:id="de035" corresp="#la035">Eben so habe ich es rathsamer gefunden,
+							anstatt des Ausdrucks <hi rend="spaced">zureichender Grund</hi> das Wort
+								<hi rend="spaced">bestimmender</hi> Grund zu gebrauchen, und habe
+							diesfalls die Beystimmung des berühmten Crusius. Denn das Wort <hi rend="spaced">zureichend</hi> ist schwankend, wie derselbe
+							hinlänglich zeigt, weil man nicht sogleich sieht, wie viel zureichend
+							sey. Das Wort <hi rend="spaced">bestimmen</hi> aber, da es etwas so
+							setzen heißt, daß das Gegentheil davon ausgeschlossen werde, bezeichnet
+							genau das, was völlig und gewiß zureicht, sich die Sache so und nicht
+							anders vorzustellen.</p>
+					</div>
+					<div n="3">
+						<p rend="indent" xml:id="de036" corresp="#la036">
+							<hi rend="larger">
+								<hi rend="smallCaps">Fünfter Satz.</hi> Ohne einen bestimmenden
+								Grund ist nichts wahr.</hi>
+						</p>
+						<p rend="indent" xml:id="de037" corresp="#la037">Jeder wahre Satz zeigt an, daß das Subject
+							in Rücksicht des Prädicats bestimmt sey; <abbr>d. h.</abbr>, daß dieses gesetzt werde
+							mit Ausschließung seines Gegentheils; demnach muß in jedem wahren Satz
+							das Gegentheil des ihm zukommenden Prädicats nothwendig ausgeschlossen
+							seyn. Nun wird aber, vermöge des Princips des Widerspruchs, ein Prädicat
+							dadurch ausgeschlossen, daß ein anderer Begriff gesetzt ist, welcher ihm
+							widerstreitet. Folglich findet das Ausschließen nicht Statt, wenn nicht
+							ein anderer Begriff da ist, welcher dem Gegentheil, das eben
+							ausgeschlossen werden soll, widerstreitet. Folglich ist in jeder
+							Wahrheit etwas, welches dadurch, daß es das entgegengesetzte Prädicat
+							ausschließt, die Wahrheit des Satzes bestimmt. Da nun dieses mit dem
+							Namen des bestimmenden Grundes angedeutet wird: so muß man sagen, daß
+							ohne einen bestimmenden Grund nichts wahr sey.</p>
+					</div>
+					<div n="3">
+						<head rend="head_05" xml:id="de038" corresp="#la038">Dasselbe auf andere Weise.</head>
+						<p rend="indent" xml:id="de039" corresp="#la039">Aus dem Begriff des Grundes kann man
+							einsehen, welches von zwey entgegengesetzten Prädicaten dem Subject
+							beyzulegen, welches davon zu trennen sey. Man setze, daß etwas wahr sey
+							ohne einen bestimmenden Grund, so würde nichts da seyn, woraus erhellet,
+							welches von entgegengesetzten Prädicaten dem Subject beyzulegen und
+							welches davon zu trennen <pb ed="AA" n="11"/>sey; folglich wird keins von beyden
+							ausgeschlossen, und das Subject ist in Rücksicht beyder Prädicate
+							unbestimmt; daher findet hier keine Wahrheit Statt und erscheint, da eine
+							solche dennoch vorausgesetzt wurde, ein offenbarer Widerstreit.</p>
+					</div>
+					<div n="3">
+						<p rend="indent" xml:id="de040" corresp="#la040"><hi rend="uppercase">Anmerkung.</hi> Daß
+							die Erkenntniß der Wahrheit ohne Ausnahme auf der Anschauung ihres
+							Grundes beruhe, dies ist eine durch den gemeinen Sinn aller Sterblichen
+							ausgemachte Sache. Allein sehr oft begnügen wir uns, weil es uns bloß um
+							Gewißheit zu thun ist, mit dem nachher bestimmenden Grunde; daß aber in
+							jedem Fall ein vorher bestimmender, oder, wem der Ausdruck besser
+							gefällt, genetischer, wenigstens ein identischer Grund vorhanden sey,
+							dies erhellet leicht, wenn man den gegebenen Lehrsatz und die Definition
+							zusammen in Vergleichung betrachtet; indem der nachher bestimmende Grund
+							die Wahrheit nicht bewirkt, sondern blos erklärt. Doch wir gehen fort zu
+							den Gründen, welche das <hi rend="spaced">Daseyn</hi> bestimmen.</p>
+					</div>
+					<div n="3">
+						<p rend="indent" xml:id="de041" corresp="#la041">
+							<hi rend="larger">
+								<hi rend="smallCaps">Sechster Satz.</hi> Daß irgend etwas den Grund
+								seines Daseyns in sich selbst enthalte, ist widersinnig.</hi>
+						</p>
+						<p rend="indent" xml:id="de042" corresp="#la042">Denn alles dasjenige, was den Grund von
+							dem Daseyn eines Dinges enthält, ist die Ursache dieses Dinges. Man
+							setze also, daß etwas sey, welches den Grund seines Daseyns in sich
+							selbst enthielte, so müßte dieses Ursache von sich selbst seyn: das
+							heißt, es müßte, weil vermöge der Begriffe von Ursache und Wirkung die
+							Ursache von Natur aus früher ist als die Wirkung, und diese später als jene, dasselbe
+							Etwas zugleich früher und später seyn als es selbst ist, welches
+							ungereimt ist.</p>
+						<p rend="indent" xml:id="de043" corresp="#la043"><hi rend="uppercase">Zusatz.</hi> Alles
+							dasjenige demnach, was schlechthin nothwendigerweise existiren soll, das
+							existirt nicht aus einem gewissen Grund, sondern blos deswegen, weil das
+							Gegentheil seines Daseyns gar nicht denkbar ist. Diese Unmöglichkeit des
+							Gegentheils ist allerdings Erkenntnißgrund von dem Daseyn dieses Wesens,
+							aber ein dieses Daseyn vorher bestimmender Grund fehlt gänzlich. <hi rend="spaced">Es existiert;</hi> dies einzige genügt uns von ihm zu
+							sagen und zu denken.</p>
+						<p rend="indent" xml:id="de044" corresp="#la044"><hi rend="uppercase">Anmerkung.</hi>
+							Freilich finde ich in den Schriften der neuern Philosophen von Zeit zu
+							Zeit den Satz wiederholt, daß GOtt den Grund seines Daseyns in sich
+							selbst habe; allein ich an meinem Theil mag demselben meine Beystimmung
+							nicht geben. Es scheint nämlich diesen guten Männern etwas hart, daß man
+							GOtt, dem letzten und vollkommensten Princip aller Gründe und Ursachen,
+							einen Grund seines Daseyns abspreche; weil sie nun gestehen müssen, daß
+							dieser Grund nicht außer Ihm seyn könne, so gerathen sie auf den
+							Gedanken, daß Er diesen tief liegenden Grund in sich selbst habe, und
+							gleichwohl laßt sich kaum etwas finden, das den Gesetzen der Vernunft
+							noch ferner sey. Denn sobald man in der Kette der Gründe bis zum
+							höchsten Princip gekommen ist, so ist es an sich offenbar, daß man dabey
+							stehen bleiben und die durch die letzte Antwort <pb ed="AA" n="12"/>vollendete Untersuchung
+							niederschlagen müsse. Ich weiß zwar, daß man sich auf unsern Begriff
+							GOttes beruft und will, daß dadurch das Daseyn desselben bestimmt sey:
+							allein, daß dieses blos in der Idee geschehe, ohne sich in der
+							erkennbaren Wirklichkeit also zu verhalten, ist sehr leicht einzusehen.
+							Du bildest dir den Begriff eines Wesens, in welchem alle Realitäten
+							vereiniget sind; und du mußt gestehen, daß du demselben vermöge dieses
+							Begriffs auch das Daseyn beylegest. Mithin folgt die Beweisführung
+							also: Wenn in einem Wesen alle Realitäten ohne Grad vereiniget sind, so
+							existirt dasselbe; werden solche aber bloß als in ihm vereiniget
+							gedacht, so besteht auch sein Daseyn nur in den Ideen.
+							Folglich mußte der Satz so gestellt werden: wir haben den uns von einem
+							Wesen, welches wir GOtt nennen, gebildeten Begriff so bestimmt, daß
+							darin das Daseyn enthalten sey. Ist nun dieser vorgefaßte Begriff wahr,
+							so ist es auch wahr, daß GOtt existire. Und dieß mag für die gesagt
+							seyn, welche dem Cartesianischen Beweis Beyfall geben.</p>
+					</div>
+					<div n="3">
+						<p rend="indent" xml:id="de045" corresp="#la045">
+							<hi rend="larger">
+								<hi rend="smallCaps">Siebenter Satz.</hi> Es giebt ein Wesen, dessen
+								Daseyn der Möglichkeit seiner selbst und aller Dinge vorher geht,
+								von dem daher gesagt wird, daß es schlechthin nothwendig existire.
+								Es wird GOtt genannt.</hi>
+						</p>
+						<p rend="indent" xml:id="de046" corresp="#la046">Da die Möglichkeit bloß darin besteht, daß
+							einige verknüpfte Begriffe sich nicht widersprechen, folglich der
+							Begriff der Möglichkeit aus einer Zusammenstellung entspringt; bey jeder
+							Zusammenstellung aber das, was zusammengestellt werden soll, nothwendig
+							gegeben seyn muß; folglich, wenn nichts gegeben ist, weder ein
+							Zusammenstellen, noch auch das Resultat desselben, der Begriff der
+							Möglichkeit Statt findet: so folgt, daß nichts als möglich gedacht
+							werden kann, wenn nicht das Reale, welches in dem Begriff eines jeden
+							Möglichen ist, existirt, und zwar wird es, (weil sonst gar nichts
+							möglich, <abbr>d. h.</abbr>, alles unmöglich seyn würde,) schlechthin nothwendig
+							existiren. Ferner muß diese allervollkommenste unbedingte Realität in
+							einem einzigen Wesen vereiniget seyn.</p>
+						<p rend="indent" xml:id="de047" corresp="#la047">Denn man setze, daß die Realitäten, welche
+							gleichsam den Stoff aller möglichen Begriffe ausmachen, in mehreren
+							existirenden Dingen vertheilt angetroffen werden, so wird jedes dieser
+							Dinge ein gewissermaßen beschränktes Daseyn haben, das heißt, verknüpft
+							mit einigen Entbehrungen, und da diesen die absolute Nothwendigkeit
+							nicht so wie den Realitäten beygelegt werden kann, und sie gleichwohl
+							zur durchgängigen Bestimmung eines Dinges, ohne welche das Ding nicht
+							existiren kann, gehören, so würden die auf diese Weise beschränkten
+							Realitäten ein zufälliges Daseyn haben. Folglich ist zum schlechthin
+							nothwendigen Daseyn derselben erforderlich, daß sie ohne alle
+							Einschränkung existiren, das heißt, daß sie ein unendliches Wesen
+							ausmachen. Und da die etwa angenommene Mehrheit dieses Wesens eine
+							öftere Wiederholung desselben, folglich eine Zufälligkeit das Gegentheil
+							der absoluten Nothwendigkeit wäre, so muß man <pb ed="AA" n="13"/>behaupten, daß nur ein
+							einziges schlechthin nothwendiges Wesen existire. Demnach giebt es
+							einen einzigen GOtt, als das schlechthin nothwendige Princip alles
+							Möglichen.</p>
+						<p rend="indent" xml:id="de048" corresp="#la048"><hi rend="uppercase">Anmerkung.</hi> Hier
+							hat man einen Beweis vom Daseyn des Göttlichen so nothwendig wesentlich,
+							als er hat gegeben werden können, und, obschon ein genetischer Beweis
+							hier eigentlich nicht geschafft werden kann, dennoch durch ein ganz
+							ursprüngliches Beweisthum, nehmlich durch die Möglichkeit der Dinge
+							selbst, bestätiget. Hieraus erhellet: daß, wenn GOtt aufgehoben wird,
+							nicht allein das Daseyn der Dinge, sondern sogar ihre innere Möglichkeit
+							völlig vernichtet wird. Denn ob man schon das Wesen einer Sache (welches
+							in der innern Möglichkeit besteht,) gewöhnlich schlechthin nothwendig
+							nennt, so würde man doch dafür richtiger sagen, <hi rend="spaced">daß es
+								den Dingen schlechthin nothwendig zukommt</hi>. Denn das Wesen eines
+							Dreyecks, welches in der Verbindung dreyer Seiten besteht, ist nicht
+							schlechthin nothwendig; denn welcher Mensch von gesunden Sinnen würde
+							behaupten, es sey an sich nothwendig, immer drey Seiten verbunden zu
+							denken; sondern ich gebe nur zu, daß dieses dem Dreyeck wesentlich sey,
+							d. h., wenn man sich ein Dreyeck vorstellt, so denkt man sich dabey
+							nothwendig drey Seiten, und das ist genau nicht mehr, als wenn man sagt:
+							wenn etwas ist, so ist es. Auf welche Weise es aber zugehen soll, daß
+							dem Denken von Seiten, von einem einzuschließenden Raum <abbr>u. s. w.</abbr>
+							wahre Begriffe entsprechen, das heißt, daß überhaupt etwas sey, welches
+							gedacht werden könne, woraus hernach durch Verknüpfung, Beschränkung,
+							Bestimmung jeder Begriff eines denkbaren Dinges resultire, dieß kann,
+							wenn nicht in GOtt, dem Quell aller Realität, das Reale, was in jedem
+							Begriff ist, existirte, schlechterdings nicht begriffen werden. Zwar hat
+							Cartesius, wie wir wissen, den Beweis von dem Daseyn des Göttlichen aus
+							dem innern Begriff von der Gottheit selbst herleiten wollen; allein wie
+							wenig es ihm damit geglückt sey, kann man in der Anmerkung zum vorigen
+							Paragraphen sehen. Unter allen Wesen ist GOtt das einzige, dessen Daseyn
+							früher ist als die Möglichkeit, oder bey welchem, wenn man so will,
+							jenes mit diesem identisch ist. Von diesem Wesen bleibt, sobald man das
+							Daseyn desselben wegnimmt, kein Begriff mehr.</p>
+					</div>
+					<div n="3">
+						<p rend="indent" xml:id="de049" corresp="#la049">
+							<hi rend="larger">
+								<hi rend="smallCaps">Achter Satz.</hi> Kein zufällig existirendes
+								Ding kann ohne einen sein Daseyn vorher bestimmenden Grund
+								existiren.</hi>
+						</p>
+						<p rend="indent" xml:id="de050" corresp="#la050">Man setze, etwas existire ohne einen
+							solchen Grund, dann wird nichts da seyn, was solches als existirend
+							bestimmte, außer das Daseyn dieses Dinges selbst. Weil nun nichts
+							destoweniger das Daseyn des Dinges bestimmt ist, das heißt, daß jedes
+							Gegentheil seiner durchgängigen Bestimmung ganz ausgeschlossen sey; so wird
+							kein anderes Ausschließen des Gegentheils Statt finden, als das, welches
+							von dem Setzen des Daseyns herkommt. Weil aber dieses
+							Ausschließen identisch ist, (indem nichts anders hindert, daß das Ding
+							nicht existire, als dieses, daß die Nichtexistenz <w lemma="ausgeschlossen">aus<pb ed="AA" n="14" break="no"/>geschlossen</w> wurde,)
+							so wird das Gegentheil der Existenz durch sich selbst ausgeschlossen,
+							das heißt, schlechthin unmöglich seyn, und dies heißt, das Ding wird
+							schlechthin nothwendig existiren, welches der
+							Voraussetzung widerstreitet.</p>
+						<p rend="indent" xml:id="de051" corresp="#la051"><hi rend="uppercase">Zusatz.</hi> Aus den
+							gegebenen Beweisen ergiebt sich, daß bloß das Daseyn zufälliger Dinge
+							eines vorher bestimmenden Grundes bedarf, daß also das schlechthin
+							nothwendige Wesen von diesem Gesetz ausgenommen ist; deswegen darf man
+							auch den höchsten Grundsatz der Philosophie nicht in dem ganz
+							allgemeinen Sinne nehmen, daß er die Gesammtheit alles Möglichen unter
+							seiner Herrschaft befasse.</p>
+						<p rend="indent" xml:id="de052" corresp="#la052"><hi rend="uppercase">Anmerkung.</hi> Dieß
+							wäre denn nun der Beweis von dem Grundsatz des bestimmenden Grundes, und
+							zwar, wie ich wenigstens überzeugt bin, mit allem Licht der Gewißheit
+							erhellt. Es ist bekannt, daß die scharfsichtigsten Philosophen unserer
+							Zeit, unter welchen ich den berühmten Crusius ehrenhalber nenne, immer
+							über den wenig befriedigenden Beweis dieses Grundsatzes, wie man ihn in
+							allen Schriften über diesen Gegenstand feilgeboten findet, geklagt
+							haben. Und der große Mann zweifelte an der Möglichkeit diesem Uebel
+							abzuhelfen so sehr, daß er im Ernst behauptete, er sey unfähig, einen
+							Beweis dieses Satzes zu geben, wenn man auch die Wahrheit desselben
+							zugestehen müsse. Warum aber nun der Beweis dieses Grundsatzes nicht so
+							leicht und zusammenhängend von Statten gegangen sey, daß ich solchen,
+							wie er von andern versucht worden ist, durch ein einziges Räsonnement
+							ganz vollendete, sondern erst durch einen Umweg die volle Gewißheit habe
+							erreichen können, davon muß ich Rechenschaft geben.</p>
+						<p rend="indent" xml:id="de053" corresp="#la053">Ich mußte nehmlich zuerst den Unterschied
+							zwischen dem Grund der Wahrheit und dem des Daseyns genau bestimmen;
+							obschon es scheinen konnte, daß die Allgemeinheit des Grundsatzes des
+							bestimmenden Grundes in dem Reiche der Wahrheiten die Herrschaft
+							desselben auch auf das Daseyn erstrecke. Denn wenn ohne bestimmenden
+							Grund nichts wahr ist, <abbr>d. h.</abbr>, wenn ohne ihn das Subject dem Prädicat
+							nicht zukommen kann, so kann auch ohne diesen Grund das Prädicat des
+							Daseyns nicht Statt finden. Allein es ist bekannt, daß zum Beweis der
+							Wahrheit an sich kein vorher bestimmender Grund nöthig, sondern dafür
+							die Identität zwischen Subject und Prädicat hinreichend ist. Bey
+							existirenden Dingen aber ist gerade die Frage nach dem vorher
+							bestimmenden Grunde, und ist dieser Grundnicht vorhanden, so existirt
+							dieses Wesen schlechthin nothwendig; ist das Daseyn eines Wesens
+							zufällig, so muß dieser Grund demselben vorhergehen, wie ich erwiesen
+							habe. Auf diese Weise ist, wenigstens nach meinem Urtheil, die Wahrheit,
+							aus ihren Quellen abgeleitet, gereinigter hervorgegangen.</p>
+						<p rend="indent" xml:id="de054" corresp="#la054">Zwar meint der berühmte Crusius, manches
+							Daseyn würde durch seine eigene Wirklichkeit so bestimmt, daß es
+							vergeblich sey nach irgend <pb ed="AA" n="15"/>etwas weiter zu fragen. Titius handelt nach
+							freyem Belieben; ich frage, warum er dieses vielmehr gethan als nicht
+							gethan habe; die Antwort ist, weil er so gewollt hat. Warum hat er aber
+							so gewollt? Diese Frage hält er für unschicklich. Fragst du, warum hat
+							er nicht vielmehr etwas anderes gethan? so antwortet er, weil er jetzt
+							dieses that. Und so meint er, daß das freye Wollen in jedem Act durch
+							sein Daseyn bestimmt sey, nicht vorher durch Gründe, die früher wären,
+							und nun behauptet er, daß durch das bloße Setzen der Wirklichkeit alle
+							entgegengesetzte Bestimmungen ausgeschlossen worden, folglich ein vorher
+							bestimmender Grund nicht erforderlich sey. Allein, daß etwas Zufälliges
+							ohne einen vorher bestimmenden Grund nie zureichend bestimmt, folglich
+							auch nicht existent seyn könne, dieß will ich, wenn es seyn soll, auch
+							auf andere Art beweisen. Ein Act des freyen Wollens existirt, dieses
+							Daseyn schließt das Gegentheil dieser Bestimmung aus; allein da er
+							vorher nicht existire und das Daseyn an sich nicht bestimmt, ob er
+							vorher gewesen oder nicht gewesen sey, so bleibt durch das Daseyn dieses
+							Wollensdie Frage, ob es schon vorher existirt oder nicht existirt habe,
+							unbestimmt; weil aber in der durchgängigen Bestimmung auch diese eine
+							von allen ist, ob das Ding angefangen habe zu existiren oder nicht, so
+							wird das Wesen insoweit unbestimmt seyn und nicht bestimmt werden
+							können, wenn nicht außer dem, was dem Daseyn in sich zukommt, noch andere
+							Begriffe zu Hülfe genommen werden, welche unabhängig von dem Daseyn des
+							Wesensdenkbar sind. Da nun das, was eines existirenden Wesens
+							vorhergehende Nichtexistenz bestimmt, dem Begriff der Existenz
+							vorhergeht, dasselbe aber, was ein existirendes Wesen bestimmt, daß es
+							vorher nicht existirte, solches zugleich von der Nichtexistenz zur
+							Existenz bestimmt hat, (weil die Sätze, warum das, was jetzt existirt,
+							vorher nicht existirte, und warum das, was vorher nicht existirte, jetzt
+							existire, in der That identisch sind,) das heißt, da ein die Existenz
+							vorher bestimmender Grund da ist; so erhellet deutlich, daß ohne diesen
+							Grund die durchgängige Bestimmung eines Wesens das zu seyn angefangen
+							haben soll, folglich auch das Daseyn desselben nicht Statt finden könne.
+							Sollte jemandem dieser Beweis wegen der tiefern Zergliederung der
+							Begriffe etwas dunkel vorkommen, so wird er sich mit dem vorhergehenden
+							begnügen können.</p>
+						<p rend="indent" xml:id="de055" corresp="#la055">Endlich will ich noch kürzlich sagen,
+							warum ich mich bey dem von dem berühmten Wolff und seinen Anhängern
+							gebrauchten Beweis nicht habe beruhigen wollen. Der Beweis dieses
+							berühmten Mannes, wie er von dem scharfsichtigen Baumgarten
+							weiterentwickelt worden ist, kommt, damit ich mit wenig Worten alles
+							vortrage, auf diese Sätze hinaus. Wenn etwas keinen Grund hätte, so
+							würde ein Nichts Grund desselben seyn, das heißt, ein Nichts von Etwas,
+							welches ungereimt ist. Allein diese Sätze sollten vielmehr so gebildet
+							worden seyn: Wenn ein Wesen keinen Grund hat, so ist der Grund desselben
+							ein Nichts, <abbr>d. h.</abbr> ein Unding. Dieses aber gebe <pb ed="AA" n="16"/>ich mit beyden
+							Händen zu; denn wenn kein Grund da ist, so wird der demselben
+							entsprechende Begriff der eines Undinges seyn, wenn also einem Dinge kein anderer Grund beygelegt werden kann, als ein solcher, dem gar
+							kein Begriff entspricht, so wird es ganz ohne Grund seyn, welches auf das
+							Vorausgesetzte zurück kommt. Nur folgt daraus kein Widersinn, wie man
+							meinte. Ich will zum Beleg meiner Behauptung ein Beyspiel anführen. Nach
+							obiger Art zu schließen getraue ich mir zu beweisen, daß der erste
+							Mensch von einem Vater erzeugt worden seyn müsse. Man setze, er sey
+							nicht erzeugt worden. Dann würde nichts seyn, was ihn erzeugt hätte. Er
+							würde also von einem Nichts erzeugt worden seyn; weil nun dieses
+							widersprechend ist, so muß man gestehen, daß er von etwas erzeugt worden
+							seyn muß. Es ist nicht schwer, dem Verfänglichen dieser Schlußfolge
+							auszuweichen. Wenn er nicht erzeugt worden ist, so hat ihn nichts
+							erzeugt; das heißt, der, welcher ihn nach der Voraussetzung erzeugt
+							haben soll, ist ein Nichts oder ein Unding. Dieß ist so gewiß
+							als irgend etwas seyn kann, allein eine voreilige Umkehrung des Satzes
+							giebt einen äußerst verschobenen Sinn.</p>
+					</div>
+					<div n="3">
+						<p rend="indent" xml:id="de056" corresp="#la056">
+							<hi rend="larger">
+								<hi rend="smallCaps">Neunter Satz.</hi> Die Schwierigkeiten, welchen
+								das Princip des bestimmenden, oder gewöhnlich sogenannten
+								zureichenden Grundes unterworfen ist, aufzuzählen und
+								aufzulösen.</hi>
+						</p>
+						<p rend="indent" xml:id="de057" corresp="#la057">Unter den Bestreitern dieses Grundsatzes
+							kann man als den Anführer und Stellvertreter aller übrigen mit Recht
+								ansehen<note place="foot" n="*" xml:id="fn02">
+								<p rend="indent">Ich will damit dem berühmten Darjes nichts entzogen
+									haben, und bekenne vielmehr, daß die von ihm und einigen andern
+									zur Bestreitung des Princips des bestimmenden Grundes
+									vorgebrachten Einwürfe viel Gewicht haben. Allein, weil sie nach
+									meinem Dafürhalten mit den anzuführenden Gründen des D. Crusius
+									sehr verwandt sind, so glaube ich, meine Antwort auf die dagegen
+									erregten Zweifel ohne Misbilligung anderer großen Männer auf die
+									letztern einschränken zu können.</p>
+							</note> den berühmten und scharfsinnigen Crusius, welcher nach meinem
+							Urtheil unter allen nicht sowohl Philosophen, als vielmehr Beförderern
+							der Philosophie in Deutschland nicht leicht einem nachsteht. Gelingt es
+							mir, die Zweifel dieses Mannes zu lösen (und dieß scheint die
+							Vertheidigung der guten Sache zu versprechen,) so darf ich mir
+							schmeicheln, alle Schwierigkeiten beseitiget zu haben. Zuerst tadelt er
+							die Zweydeutigkeit und den unsteten Sinn der Formel dieses Grundsatzes,
+							indem, wie er richtig bemerkt, der Erkenntnißgrund, der moralische und
+							andere idealische Gründe auch für reale und vorher bestimmende Gründe
+							gebraucht werden, so daß man sehr oft schwerlich abnehmen könne, welcher
+							Grund denn eigentlich gemeint werde. Diesen Einwurf, welcher meine
+							Behauptungen nicht trift, brauche ich nicht abzuweisen. Wer die von mir
+							vorgetragenen Sätze prüfen will, wird finden, daß ich den Grund der
+							Wahrheit und den Grund der Wirklichkeit sorgfältig unterscheide. Bey dem
+							erstern ist bloß die Rede von derjenigen <pb ed="AA" n="17"/>Setzung des Prädicats, welche
+							durch die Identität der Begriffe, welche in dem Subject, entweder an
+							sich schlechthin, ober im Zusammenhang betrachtet, enthalten sind, mit
+							dem Prädicat bewirkt wird, und es wird nur ein Prädicat entdeckt,
+							welches in dem Subject bereits liegt. Bey dem letztern wird in Ansehung
+							dessen, was als inhärent gesetzt wird, untersucht, nicht <hi rend="spaced">ob</hi>, sondern <hi rend="spaced">woher</hi> das
+							Daseyn desselben bestimmt sey; ist nichts da, wodurch das Gegentheil
+							ausgeschlossen wird, als allein das absolute Setzen desselben Dinges, so
+							existirt dieses Ding an sich und schlechthin nothwendig; nimmt man aber
+							ein Ding an, dessen Daseyn zufällig ist, so muß etwas anderes vorhanden
+							seyn, welches dadurch, daß es das Daseyn des Dinges so und nicht anders
+							bestimmt, das Gegentheil davon vorher ausschließt. So viel von meinem
+							Beweis überhaupt.</p>
+						<p rend="indent" xml:id="de058" corresp="#la058">Eine in der That größere Gefahr haben die
+							Vertheidiger dieses Grundsatzes von diesem Einwurfe des berühmten Mannes
+							zu fürchten, wenn er uns ausdrücklich und mit Gründen von nicht
+							unbedeutendem Gewicht Schuld giebt, daß wir durch die Behauptung der
+							unabänderlichen Nothwendigkeit aller Dinge und Wiedereinführung der
+							stoischen Bestimmung alle sittliche Freyheit und alle Moralität der
+							Handlungen aufheben. Ich will den Beweis desselben, welcher zwar nicht
+							ganz neu, aber doch von ihm ausführlicher und kräftiger vorgetragen
+							worden ist, so entwickelt als möglich, aber ohne seiner Stärke etwas zu
+							entziehen, hier anführen.</p>
+						<p rend="indent" xml:id="de059" corresp="#la059">Wenn das, was geschieht, anders nicht
+							geschehen kann, als so, daß es einen vorher bestimmenden Grund habe, so
+							folgt, daß <hi rend="spaced">das, was nicht geschieht, auch nicht
+								geschehen könne,</hi> weil nehmlich kein Grund da ist, ohne welchen
+							es nicht geschehen kann. Weil nun dieses von allen Gründen der Gründe in
+							rückwärts schreitender Ordnung zugegeben werden muß, so folgt, daß alles
+							vermöge seiner natürlichen Verknüpfung in so gedrängter und innigst
+							zusammenhängender Ordnung geschehe, daß, wer das Gegentheil eines
+							Ereignisses oder auch einer freyen Handlung wünscht, etwas Unmögliches
+							wünscht, indem kein Grund vorhanden ist, welcher zur Bewirkung dieses
+							Gegentheils erforderlich ist. Und auf diese Weise wird, wenn man die
+							unvermeidlich nothwendige Kette der Ereignisse durchläuft, die, wie
+							Chrysipp sagt, GOtt einmal gewollt und durch die ewigen Ordnungen der
+							Folgen zusammengehalten habe, ist endlich in den allerersten Zustand der
+							Welt, dessen Urheber GOtt unmittelbar ist, der letzte und an Folgen so
+							fruchtbare Grund aller Ereignisse gesetzt, und nun, nachdem er gesetzt
+							ist, ein Ereigniß aus dem andern in alle künftige Zeiten hinaus nach
+							einem unabänderlichen Gesetz abgeleitet. Die bekannte Unterscheidung
+							zwischen absoluter und hypothetischer Nothwendigkeit, wodurch die
+							Freunde dieses Grundsatzes zu entkommen hoffen, bestreitet der Berühmte
+							Mann so: daß dadurch die Kraft und Wirksamkeit der Nothwendigkeit nicht
+							im geringsten geschwächt wird. Denn was thut es zur Sache, ob das
+							Gegentheil eines durch vorhergehende Gründe genau <w lemma="bestimmten">be<pb ed="AA" n="18" break="no"/>stimmten</w>
+							Ereignisses, an sich betrachtet, gedenkbar sey, da nichts destoweniger
+							dieses Gegentheil nicht geschehen kann, indem die zum Daseyn desselben
+							nöthigen Gründe nicht da sind, sondern sogar Gründe, warum es nicht
+							geschehen kann? Gleichwohl kann, sagst du, das Gegentheil eines
+							Ereignisses, wenn man dieses an sich betrachtet, gedacht werden und ist
+							folglich möglich. Allein was folgt daraus? dennoch kann es nicht
+							geschehen, es ist durch bereits vorhandene Gründe hinlänglich dafür
+							gesorgt, daß es nie in der That geschehe. Lässt du dich auf ein Beyspiel
+							ein? Cajus hat einen Betrug begangen. Dem Cajus war, gebe ich zu,
+							vermöge seiner ursprünglichen Bestimmungen, die ihm als Menschen
+							zukommen, die Redlichkeit nicht unmöglich. Aber so wie er jetzt bestimmt
+							ist, ist sie ihm allerdings unmöglich, denn es sind in ihm Gründe
+							vorhanden, welche das Gegentheil setzen, und Redlichkeit kann man ihm
+							jetzt nicht als möglich zugestehen, ohne die Ordnung aller verketteten
+							Gründe bis zu dem ersten Zustand der Welt hinauf zu stören. Und nun höre
+							man, was der berühmte Mann daraus noch weiter folgert. Der bestimmende
+							Grund bewirkt nicht bloß, daß gerade diese Handlung erfolge, sondern
+							auch, daß keine andere anstatt derselben geschehen kann. Was also in uns
+							vorgeht, dessen Erfolg hat GOtt so geordnet, daß etwas anderes gar nicht
+							erfolgen konnte. Folglich findet Zurechnung unserer Handlungen bey uns
+							nicht Statt; sondern GOtt ist die einzige Ursache aller derselben, weil
+							er uns an solche Gesetze gebunden hat, daß wir das uns bestimmte Loos
+							schlechterdings erreichen müssen. Folgt nun hieraus nicht, daß keine
+							Pflichtverletzung GOtt mißfallen könne? Denn geschieht sie, so ist ihr
+							Daseyn der Beweis, daß die von GOtt festbegründete Reihe der verknüpften
+							Ereignisse etwas anderes nicht gestatte. Wie kann also GOtt die Sünder
+							wegen ihrer Handlungen schelten, da es von dem Ursprung und der
+							Erschaffung der Welt an so geordnet ist, daß sie solche begehen
+							müssen?</p>
+					</div>
+					<div n="3">
+						<head rend="head_11" xml:id="de060" corresp="#la060">Widerlegung dieser Zweifel.</head>
+						<p rend="indent" xml:id="de061" corresp="#la061">Wenn wir die hypothetische, besonders die
+							moralische Nothwendigkeit von der absoluten unterscheiden, so wird hier
+							nicht von der Kraft und Wirksamkeit der Nothwendigkeit gehandelt, ob
+							nehmlich ein Ding in einem von zwey Fällen mehr oder minder nothwendig
+							sey, sondern die Frage ist von dem nöthigenden Princip, <hi rend="spaced">woher</hi> nehmlich das Ding nothwendig sey. Und hier
+							gestehe ich gern, daß einige Anhänger der Wolfischen Philosophie von dem
+							Sinn des Wahren gewissermaßen darin abweichen, daß sie das, was durch
+							eine Kette von Gründen, die sich hypothetisch gegenseitig bestimmen,
+							gesetzt ist, von der vollendeten Nothwendigkeit noch etwas entfernt zu
+							seyn wähnen, weil es noch der absoluten Nothwendigkeit ermangele. Auch
+							hierin stimme ich diesem berühmten Gegner bey, <pb ed="AA" n="19"/>daß die von allen
+							wiederholte Unterscheidung die Kraft der Nothwendigkeit und die
+							Gewißheit der Bestimmung wenig schwäche. Denn gleichwie außer dem <hi rend="spaced">Wahren</hi> nicht noch etwas, <hi rend="spaced">das
+								noch wahrer</hi>, außer dem <hi rend="spaced">Gewissen</hi> nicht
+								<hi rend="spaced">etwas Gewisseres</hi>, eben so kann außer dem <hi rend="spaced">Bestimmten</hi> nicht etwas noch <hi rend="spaced">Bestimmteres</hi> gedacht werden. Die Ereignisse in der Welt sind
+							so gewiß bestimmt, daß die sich zu trügen unfähige Vorsicht der Gottheit
+							mit gleicher Gewißheit sowohl das künftige Geschehen derselben, als auch
+							die Unmöglichkeit des Gegentheils vermöge der Verknüpfung der Gründe als
+							eben so gleichförmig einsieht, als wenn durch den absoluten Begriff
+							derselben das Gegentheil ausgeschlossen würde. Allein hier ist die
+							Hauptfrage nicht <hi rend="spaced">wie sehr</hi>, sondern <hi rend="spaced">woher</hi> das 
+							künftige Geschehen zufälliger Dinge
+							nothwendig sey. Daß der Act der Erschaffung der Welt in GOtt nicht
+							unbestimmt, sondern so völlig gewiß bestimmt gewesen, daß das
+							Gegentheil GOttes unwürdig ist, d. h., derselben gar nicht zukommen kann,
+							wer wird hieran zweifeln? Nichts destoweniger aber ist dieser Acteine
+							freye Handlung, weil er durch solche Gründe bestimmt wird, welche
+							ihnen Absichten eines unendlichen Verstandes, insofern sie den Willen mit
+							vollkommenster Gewißheit regieren, zurechnen, und diese nicht einer
+							blinden Wirksamkeit der Natur zuschreiben. Eben so wird bey den freyen
+							Handlungen der Menschen, wiefern sie als bestimmt betrachtet werden, das
+							Gegentheil zwar ausgeschlossen, aber es wird nicht durch Gründe
+							ausgeschlossen, die außer dem Begehren und den freywilligen Neigungen
+							des Subjects gesetzt wären, gleich als wenn der Mensch auch wider seinen
+							Willen durch eine unwiderstehliche Nothwendigkeit gewisse Handlungen zu
+							begehen getrieben würde; sondern in der Hinneigung des Wollens und
+							Begehrens selbst, wiefern sie den Reizungen der Außendinge freywillig folgt,
+							werden die Handlungen zwar durch eine völlig gewisse, aber dennoch
+							willkührliche Verknüpfung, gemäß einem beständigen Gesetz bestimmt. Der
+							Unterschied zwischen physischen Handlungen und solchen, die sich einer
+							sittlichen Freyheit erfreuen, besteht nicht in der Verschiedenheit des
+							Zusammenhangs und der Gewißheit, als wenn die letztern die einzigen
+							wären, die sich, ungewiß in Ansehung ihres künftigen Geschehens und
+							entblößt von aller Verknüpfung der Gründe, einem schwankenden
+							und ungewissen Entstehungsgrund verdanken würden; denn auf diese Weise
+							würden sie für die Vorzüge vernünftiger Wesen wenig Empfehlendes haben.
+							Sondern die eigene Art, wie die Gewißheit derselben durch ihre Gründe
+							bestimmt wird, diese allein macht die Hauptsache bey Vertheidigung der
+							Freyheit aus; sie werden nehmlich bloß und allein durch Beweggründe des
+							Verstandes, welche dem Willen vorgestellt werden, erzeugt, da im
+							Gegentheil bey den thierischen, <abbr>d. h.</abbr> Physisch-mechanischen Handlungen
+							alles durch Triebe und äußere Stöße, durch beyde gleichförmig ohne alle
+							freywillige Neigung der Willkühr, nothwendig gemacht wird. Daß zwar das
+							Vermögen zu einer zu <w lemma="begehenden">begehen<pb ed="AA" n="20" break="no"/>den</w> Handlung auf beyden Seiten gleich sey,
+							und bloß durch die Neigung der freyen Willkühr gegen die den
+							Vorstellungen dargebotenen Reizungen bestimmt werde, dieß ist allgemein
+							zugestanden. Jemehr die Natur des Menschen an dieses Gesetz gebunden
+							ist, destomehr Freyheit genießt sie, und ohne bestimmte Tendenz nach
+							jeder Richtung hin gegen die Objecte bewegt werden, heißt nicht frey
+							seyn. Ja, <hi rend="spaced">sagst du</hi>, er handelt aus keinem andern
+							Grunde also, als weil es ihm gerade so <hi rend="spaced">beliebte</hi>.
+							Jetzt halte ich dich bey deinem eigenen Bekenntniß. Denn was ist das
+							Belieben anders, als nach Maßgabe der durch ein Object verursachten
+							Reizung eine Neigung des Willens mehr auf die eine als auf die andere
+							Seite; folglich bezeichnet dein <hi rend="spaced">es beliebt</hi>, oder
+							es gefällt mir so: eine durch innere Gründe bestimmte Handlung. Denn
+							nach deinem Geständniß bestimmt das Belieben die Handlung; dieses aber
+							ist nichts anders, als das Zufriedenseyn des Willens mit einem Object,
+							nach Maßgabe der Reizung, wodurch es den Willen einladet. Es ist also
+							hier eine respective Bestimmung, und setzt man, daß der Wille auf beyden
+							Seiten gleich stark gereizt werde, so heißt alsdann behaupten, daß ihm
+							das eine beliebe oder mehr gefalle, sagen, daß es zu gleicher Zeit
+							gleich und auch nicht gleich gefalle, welches einen Widerstreit
+							einschließt. Es kann aber der Fall vorkommen, daß die Gründe, welche den
+							Willen auf eine von beyden Seiten hinneigen könnten, dem Bewußtseyn ganz
+							entfliehen, und nichts destoweniger eins von beyden gewählt wird. Allein
+							in einem solchen Fall ist anstatt des obern, ein niederes Seelenvermögen
+							thätig, und die Seele wird, nach Maßgabe des Uebergewichts einer dunkeln
+							Vorstellung, nach einer von beyden Seiten hin, (von welchem ich im
+							Folgenden umständlicher handeln werde) gegen die andere getrieben.</p>
+						<p rend="indent" xml:id="de062" corresp="#la062">Es sey mir erlaubt, der Nützlichkeit
+							wegen, diese weitbekannte Streitigkeit durch ein kurzes Gespräch
+							zwischen Cajus, als einem Vertheidiger des Gleichgewichts der gegen
+							beyde Seiten gleichgültigen Willkühr, und Titius, als einem Freund des
+							bestimmenden Grundes, zu erläutern.</p>
+						<p rend="indent" xml:id="de063" corresp="#la063"><hi rend="uppercase">Cajus:</hi> Das
+							Nachdenken über den Lauf meines zurückgelegten Lebens erregt mir zwar
+							Gewissensbisse, aber ich habe doch noch den einzigen Trost, wenn ich an
+							deine Lehren glauben darf, daß die Schuld der von mir begangenen Thaten
+							nicht auf mich fallen kann, weil ich, gebunden durch den Zusammenhang
+							von Gründen, die sich einander vom Anfang der Welt an bestimmen, alles
+							was ich gethan, schlechterdings habe thun müssen, und wer mir jetzt
+							meine Fehler vorwirft, und, daß ich einen andern Lebenswandel hätte
+							führen sollen, behauptet, der handelt eben so thöricht, als wenn er mir
+							zumuthete, ich hätte den Lauf der Zeit aufhalten sollen. <hi rend="spaced">Titius</hi>. Sage doch! welches ist die Reihe von
+							Gründen, durch welche du gebunden gewesen zu seyn klagst? Hast du nicht
+							alles, was du thatest, freywillig gethan? Haben nicht die stille Abmahnung
+							deines <w lemma="Gewissens">Ge<pb ed="AA" n="21" break="no"/>wissens</w> und die Furcht vor GOtt, dir, wenn du sündigen
+							wolltest, Einhalt gethan? Hat es dir nicht dessen ungeachtet besser
+							geschienen, zu zechen, zu spielen, der Wollust zu huldigen, und was
+							dergleichen Thaten mehr sind? Bist du jemals wider deinen Willen zu
+							einer Sünde fortgezogen worden? <hi rend="spaced"><abbr>Caj.</abbr></hi> Alles dieses
+							läugne ich gar nicht. Ich weiß wohl, daß ich nicht widerstanden, den
+							Reizen nicht widerstrebt habe, und nicht gezwungen, wie als ob an der
+							Kehle gepackt, auf schlechten Wegen fortgerissen worden bin. Freywillig
+							und wissentlich habe ich mich den Lastern ergeben. Aber diese
+							Geneigtheit des Willens gegen die schlechtere Seite, woher ist sie mir
+							geworden? War es nicht, ehe ich noch handelte, als ich noch
+							unentschlossen war und göttliche und menschliche Gesetze mich ermahnten
+							ihnen zu gehorchen, bereits durch eine zur Vollendung gebrachte Reihe
+							von Gründen bestimmt, daß ich mich mehr auf die schlechte als die gute
+							Seite neigen müßte? Heißt, etwas durch seinen in allen Stücken absolut
+							gesetzten Grund schon Begründetes hindern zu wollen, nicht eben so viel,
+							als etwas Geschehenes ungeschehen machen zu wollen? Nun ist aber nach
+							deiner Lehre jede Neigung meines Willens durch einen vorhergehenden
+							Grund vollkommen bestimmt, dieser wieder durch einen frühern Grund, und
+							auf diese Weise alles bis zum ersten Anfang aller Dinge. <hi rend="spaced"><abbr>Tit.</abbr></hi> Jetzt will ich dir deinen Zweifel benehmen.
+							Die Reihe verknüpfter Gründe gab dir bey jeder Handlung, die du begehen
+							wolltest, blos Beweggründe an die Hand, welche dich auf beyde Seiten
+							hinzogen, auf eine von beyden hast du dich freywillig hingeneigt, weil
+							es dir so beliebte, eher das eine als das andere zu thun. Aber, sagst
+							du, es war schon durch die zur Vollendung gebrachte Reihe der Gründe
+							bestimmt, daß ich mich auf die bestimmte Seite neigen würde. Allein
+							bedenke, ob nicht zu einem zur Vollendung gebrachten Grund einer
+							Handlung auch die selbstthätige Neigung deines Willens nach Maßgabe der
+							Reizungen des Objects gehöre? <hi rend="spaced"><abbr>Caj.</abbr></hi> Nenne sie ja
+							nicht selbstthätig; mein Wille konnte nicht anders, als sich auf diese
+							Seite neigen. <hi rend="spaced"><abbr>Tit.</abbr></hi> Dieß hebt den selbstthätigen
+							Entschluß so wenig auf, daß es solchen vielmehr völlig gewiß macht,
+							sobald man es in dem rechten Sinn nimmt. Denn <hi rend="spaced">Selbstthätigkeit</hi> ist eine durch ein <hi rend="spaced">inneres
+								Princip</hi> erzeugte Handlung. Wird diese durch die Vorstellung
+							dessen, was zu thun das beste ist, und dieser gemäß bestimmt, so heißt
+							sie <hi rend="spaced">Freyheit</hi>. Je gewisserein Mensch diesem
+							Gesetzfolgt, je mehr also sein Entschluß durch alle gegebene Beweggründe
+							des Wollens bestimmt wird, desto freyer ist der Mensch. Aus deinem
+							Beweisgang folgt nicht, daß die Freyheit durch die Kraft der vorher
+							bestimmenden Gründe geschwächt werde. Denn dein eigenes Geständniß
+							widerlegt dich, daß du nicht wider deinen Willen, sondern freywillig
+							gehandelt hast. Folglich war deine Handlung nicht <hi rend="spaced">unvermeidlich</hi>, wie du zu meinen scheinst, denn du hast dich
+							nicht bemüht sie zu vermeiden, sondern nur <hi rend="spaced">unfehlbar</hi> nach der Neigung deines Begehrens unter also
+							bestimmten Umständen. Und eben dieß vermehrt deine <pb ed="AA" n="22"/>Schuld. Denn du hast
+							so heftig begehrt, daß du dich von deinem Vorsatz nicht hast abbringen
+							lassen. Und nun gebrauche ich deine eigenen Waffen wider dich. Sage! auf
+							welche Weise glaubst du, daß nach deiner Meinung der Begriff der
+							Freyheit besser bestimmt werden könne. <hi rend="spaced"><abbr>Caj.</abbr></hi> Ich
+							meine so, wenn du das, was du von der Verkettung der einander mit
+							beständigem Erfolg bestimmenden Gründe sagst, weg ließest, wenn du
+							zugäbest, daß der Mensch bey jeder freyen Handlung sich gegen
+							beyde Seiten gleichgültig verhält, und, obschon alle Gründe, so viel du willst,
+							die ihn für das eine bestimmen könnten, gegeben sind, dennoch das eine
+							eben so wohl als das andere wählen könne, dann würde ich bekennen, daß
+							es mit der Sache der Freyheit gut stehe. <hi rend="spaced"><abbr>Tit.</abbr></hi>
+							GOtt bewahre! Wenn eine Gottheit dir diesen Wunsch gewährte, wie
+							unglücklich würdest du seyn, du von jeder Stunde abhängiger Mensch. Nimm
+							an, du seyst fest entschlossen den Weg der Tugend zu wandeln. Nimm an,
+							du seyst im Geiste durch die Vorschriften der Religion und durch alles,
+							was dich in diesem Entschluß zu befestigen wirksam ist, gehörig
+							vorbereitet. Nun kommt dir eine Gelegenheit zu handeln. Sogleich
+							verfällst du auf die schlimmere Seite, denn die Gründe, welche dir das
+							Bessere rathen, bestimmen dich nicht. Wie viel andere Klagen höre ich
+							dich nun vorbringen? Ach wie schnell hat mich das widrige Schicksal von
+							meinem heilsamen Entschluß abgebracht! Zu was soll es nützen, den
+							Vorschriften der Tugend folgen zu wollen, wenn die Handlungen durch
+							zufälliges Geschick erfolgen und nicht durch Gründe bestimmt werden!
+							Zwar, sagst du, beklage ich mich nicht über den widerwilligen Zwang
+							eines mich mit sich fortreißenden Schicksals, sondern ich verabscheue
+							das Unfassbare, was mich gerade auf die schlechtere Seite hinzieht.
+							O Schande! woher habe ich dieses abscheuliche Begehren gerade nach dem
+							Schlechtern, da es sich eben so leicht zu dem Bessern neigen konnte. <hi rend="spaced"><abbr>Caj.</abbr></hi> Auf diese Weise scheint es um die Freyheit
+							völlig gethan zu seyn. <hi rend="spaced"><abbr>Tit.</abbr></hi> Du siehst also, wie
+							sehr ich deine Truppen in die Enge getrieben habe. Denke dir keine
+							Ideengespenste aus; du fühlst dich frey, aber mache dir von dieser
+							deiner Freyheit keinen Begriff aus, welcher der richtig denkenden
+							Vernunft nicht zusagt. Frey handeln heißt weiter nichts, als mit
+							Bewußtseyn der jedesmaligen Neigung gemäß handeln. Und dieß ist durch
+							das Gesetz des bestimmenden Grundes nicht ausgeschlossen. <hi rend="spaced"><abbr>Caj.</abbr></hi> Ob ich schon kaum etwas dir entgegen zu
+							setzen habe, so scheint mir doch der innere Sinn deiner Behauptung zu
+							widersprechen. Denn setze einen nicht viel bedeutenden Fall, wenn ich
+							auf mich selbst genau Acht gebe, so finde ich, daß es in meiner Gewalt
+							steht mich auf die eine Seite eben sowohl als auf die andere zu neigen,
+							so daß ich mich hinreichend überzeuge, die Richtung meiner Handlung sey
+							durch eine vorhergehende Reihe von Gründen nicht bestimmt worden. <hi rend="spaced"><abbr>Tit.</abbr></hi> 
+							Ich will dir die heimliche Täuschung deines
+							Geistes aufdecken, welche dir das Gleichgewicht der
+							unentschiedenen, gleichgültigen Neigung gegen beyde Seiten vorspiegelt.
+							Das dem Geist des Menschen <pb ed="AA" n="23"/>angebohrne Begehrungsvermögen wird nicht
+							allein auf Objecte, sondern auch auf mancherley Vorstellungen, die sich
+							dem Verstande darbieten, geleitet. Wiefern wir in einem gegebenen Fall
+							durch den Einfluß der Vorstellungen, welche die Beweggründe der Wahl
+							enthalten, empfinden, daß wir selbst Urheber davon sind, so daß wir
+							unsere Aufmerksamkeit darauf zu richten, davon abzulenken, oder anders
+							wohin zu richten allerdings fähig genug sind, wiefern wir folglich uns
+							bewußt sind, daß wir uns nicht blos unserm Begehren gemäß gegen die
+							Objecte neigen, sondern auch die objectiven Gründe selbst nach Belieben
+							verschiedentlich verändern können, insofern können wir uns kaum
+							enthalten zu glauben, daß die Thätigkeit unsers Willens an gar kein
+							Gesetz gebunden, und ohne jedwede feste Bestimmung sey. Allein, wenn wir
+							uns bestreben richtig wahrzunehmen, so werden wir uns leicht überzeugen,
+							daß in dem gegebenen Fall gerade diese und keine andere Richtung der
+							Aufmerksamkeit auf die Verknüpfung der Vorstellungen erfolgt, warum wir
+							nämlich, indem die Gründe auf einer Seite reizen, um wenigstens mitunter
+							einen Versuch zu machen, ob wir frey sind, dadurch, daß wir die
+							Aufmerksamkeit auf die entgegengesetzte Seite lenken, dieser ein
+							Uebergewicht verschaffen, daß also dafür, warum das Begehren <hi rend="spaced">gerade diese und keine andere Richtung bekommt</hi>,
+							ganz gewiß Gründe, welche diese Richtung bestimmen, da seyn müssen. <hi rend="spaced"><abbr>Caj.</abbr></hi> Du hast mich, ich gestehe es, in viele
+							Schwierigkeiten verwickelt, aber ich bin gewiß, daß dir nicht geringere
+							entgegen stehen. Wie, glaubst du, daß diebestimmte Entstehung des Bösen,
+							von welchem auf diese Weise GOtt die letzte und bestimmende Ursache ist,
+							mit der Güte und Heiligkeit desselben werde vereiniget werden können?
+								<hi rend="spaced"><abbr>Tit.</abbr></hi> Ich will, damit wir nicht die Zeit mit
+							unnützem Streit verbringen, die Zweifel, welche deine Ueberzeugung
+							hindern, kürzlich prüfen und auflösen. Da die Gewißheit sowohl aller
+							physischen Ereignisse, als auch der freyen Handlungen bestimmt ist, da
+							das Nachfolgende im Vorhergehenden, das Vorhergehende im weiter
+							vorhergehenden, und so im ununterbrochenen Zusammenhang alles in frühern
+							Ursachen gegründet und bestimmt ist, bis endlich der allererste Zustand
+							der Welt, von welchem GOtt unmittelbar der Urheber ist, gleichsam als
+							Quelle und Ursprung erscheint, aus welchem mit Nothwendigkeit, die keinen Betrug kennt, alle
+							Ereignisse abgeleitet werden wie aus einem geneigten Flußbett; so
+							glaubst du, werde GOtt nicht undeutlich als Urheber des Bösen
+							angedeutet, und es scheint dir, daß derselbe das Gewebe, welches er
+							selbst angefangen, und welches seinem ersten Plan gemäß durch alle
+							Perioden der Folgezeit fortgewebt wird, nicht hassen, daß er also die in
+							sein Werk verwebten Sünden nicht mit dem seiner Heiligkeit gemäßen
+							Unwillen ansehen könne, indem die Schuld alles Bösen auf ihn selbst als
+							den ersten Urheber desselben zurück falle. Dieß sind die Zweifel, welche
+							dich drücken; nun will ich die Nebel derselben zerstreuen. GOtt hat
+							allerdings durch Erschaffung des ersten Zustandes des Weltalls die Reihe
+							<w lemma="angefangen">ange<pb ed="AA" n="24" break="no"/>fangen</w>, welche in ihrem beständigen Zusammenhang ununterbrochen
+							aufeinander folgender und verwebter Ursachen auch das moralische Uebel,
+							und, welches diesem entspricht, das physische Uebel einschließt. Allein
+							daraus folgt nicht, daß die moralisch-bösen Handlungen GOtt als ihren
+							Urheber anklagen können. Wenn, wie dieß bey Maschinen der Fall ist,
+							vernünftige Wesen sich bloß leidend gegen das verhielten was sie zu
+							gewissen Bestimmungen und Veränderungen antreibt, so könnte, wie ich
+							nicht läugne, die Schuld alles Bösen zuletzt GOtt als dem Erbauer dieser
+							Maschine beygemessen werden. Hingegen das, was zugleich durch den Willen
+							vernünftiger und mit dem Vermögen sich selbst selbstthätig zu bestimmen
+							begabter Wesen geschieht, das ist allerdings aus einem recht innern
+							Princip, aus bewußten Begehrungen, aus Wahl eines von zweyen nach dem
+							freyen Belieben der Willkühr entstanden. Ob also gleich der den freyen
+							Handlungen vorausgehende Zustand der Dinge durch irgendwelche Gründe
+							bestimmt, und jenes vernünftige Wesen in einen solchen Zusammenhang von
+							Umständen verwickelt ist, daß es völlig gewiß ist und sogar
+							vorausgesehen werden kann, es werde von ihm moralisch Böses geschehen,
+							so wird doch dieses künftige Geschehen des Bösen durch solche Gründe
+							bestimmt, unter welchen die freywillige Richtung des Willens auf die
+							schlechtere Seite der hauptsächlichste ist; was daher den Sündern zu
+							thun vor allem andern beliebte, davon muß man sie selbst die Urheber
+							nennen, und es ist der Billigkeit vollkommen gemäß, daß sie die Strafe
+							ihres unerlaubten Gelüstens leiden. Was aber den Abscheu betrifft,
+							welchen GOtt vor den Sünden vermöge seiner Heiligkeit haben muß, welcher
+							sich aber mit dem Plan der Welt, in welchen das künftige Geschehen
+							dieses Bösen eingeschlossen war, nicht zu vertragen scheint, so ist auch
+							hier die Schwierigkeit, welcher diese Untersuchung unterworfen ist,
+							nicht unübersteiglich. Du darfst nur die Sache so nehmen.</p>
+						<p rend="indent" xml:id="de064" corresp="#la064">Die unendliche Güte GOttes bezweckt die
+							größtmöglichste Vollkommenheit der erschaffenen Dinge, welcher sie
+							empfänglich sind, und die Glückseligkeit der Geisterwelt. Aber mit eben
+							demselben unendlichen Drang sich zu offenbaren, hat er nicht allein die
+							vollkommensten Reihen von Ereignissen, welche sich in der Folgezeit nach
+							der Ordnung der Gründe begeben sollten, angeordnet, sondern damit kein
+							Gut von geringerem Grad fehlen möchte, damit vielmehr das Weltall in
+							seiner Unermeßlichkeit von dem höchsten Grade der Vollkommenheit, dessen
+							endliche Dinge fähig sind, zu allen untern, sogar bis auf das Nichts
+							herab, so zu sagen, alles in sich befaßte, auch alles das in seinen Plan
+							eingehen lassen, was, obschon mit sehr vielen Uebeln vermischt,
+							wenigstens etwas Gutes enthielte, welches die Weisheit GOttes daraus
+							ziehen könnte, um seine Ehre durch die unendliche
+							Verschiedenheit destomehr zu offenbaren. In diesem Umfang war es seiner
+							Weisheit und Macht und Güte sehr anständig, daß auch die Geschichte des
+							menschlichen Geschlechts, so traurig sie ist, nicht vermißt <pb ed="AA" n="25"/>würde, weil
+							sie doch, selbst bey einem unendlichen Zusammenfluß von Uebeln, Beweise
+							zur Verherrlichung der Güte GOttes bey sich führt. Deswegen darf man
+							aber doch nicht glauben, daß er die in den Plan seines Werks verwebten
+							Uebel eigentlich gewollt und absichtlich daraus gezogen habe. Denn er
+							hatte nur Gutes im Sinn, welches er nach Abzug der Gründe dennoch übrig
+							geblieben wußte, und welches mit dem unseligen Unkraut zugleich
+							auszurotten der höchsten Weisheit unwürdig war. Uebrigens ist von den
+							Sterblichen aus freywilligem und innern Antrieb ihres Geistes gesündiget
+							worden, indem die Ordnung der vorhergehenden Gründe sie nicht wider
+							ihren Willen trieb und fortriß, sondern blos reizte; und obschon er
+							vorher gesehen hat, daß sie diesen Reizungen ganz gewiß nachgeben
+							würden, so ist dennoch offenbar, daß der Ursprung des moralisch Bösen,
+							weil er in einem innern Princip der Selbstbestimmung gegründet ist, den
+							Sündern selbst zugerechnet werden müsse. Auch darf man deswegen, daß das
+							Göttliche Walten dadurch, daß es Sünden geschehen läßt, gewissermaßen
+							darein willigt, nicht glauben, daß er solche weniger verabscheue. Denn
+							eigentlich ist die Vergütung der durch ununterbrochenes Bemühen
+							verbesserlichen Uebel, welche zu begehen dem Menschen Freyheit gegeben
+							ist, diese Vergütung, welche GOtt durch Ermahnung, Drohung, vorgehaltene
+							Belohnungen, Verleihung der Besserungsmittel zu bewirken trachtet, der
+							eigentliche Zweck, welchen sich der göttliche Baumeister vorsetzte; da
+							er nun die üppigen Auswüchse des Bösen verschneidet, und dieses, so weit
+							es der Freyheit des Menschen unbeschadet geschehen kann, unterdrückt, so
+							beweist er sich damit selbst als den Hasser alles sittlich Bösen,
+							zugleich aber auch als den Liebhaber alles Guten und Vollkommenen,
+							welches nichts destoweniger daraus gezogen werden kann. Allein ich kehre
+							auf meinen Weg zurück, nachdem ich mich von meinem Vorhaben etwas lange
+							entfernt hatte.</p>
+					</div>
+				</div>
+				<div n="2">
+					<head rend="head_10" xml:id="de065" corresp="#la065">Zusätze zu der neunten Aufgabe.</head>
+					<head rend="head_04" xml:id="de066" corresp="#la066">In Rücksicht des göttlichen Vorherwissens
+						finden freye Handlungen nicht Statt, wenn man nicht das durch ihre Gründe
+						bestimmte künftige Geschehen derselben zugesteht.</head>
+					<p rend="indent" xml:id="de067" corresp="#la067">Diejenigen, welche unsern Grundsatz
+						unterschreiben, haben diesen Beweis wider ihre Gegner immer mit Erfolg
+						gebraucht. Daher überhebe ich mich dieser Mühe, und bemühe mich blos, das zu
+						beantworten, was der überaus scharfsinnige Crusius für das Gegentheil
+						anführt. Er wirft denen, welche also denken, eine GOttes unwürdige Meinung
+						vor, als wenn sie glaubten, daß er Vernunftschlüsse gebrauche. In Rücksicht
+						dieser Meinung trete ich, sollten auch einige anders darüber denken, gern
+						auf die <pb ed="AA" n="26"/>Seite des berühmten Gegners. Denn daß die Umwegeder Vernunftschlüsse
+						einem göttlichen Verstande nicht anständig sind, gebe ich gerne zu. Einem
+						unendlichen Erkenntnisvermögen kann weder das Abziehen allgemeiner Begriffe,
+						noch die Verknüpfung, noch die Vergleichung derselben, um Schlußfolgerungen
+						daraus abzuleiten, nöthig seyn. Allein wir behaupten hier blos dieses, daß
+						GOtt dasjenige nicht voraussehen könne, dessen künftiges Geschehen nicht
+						vorher bestimmt ist, nicht wegen eines Mangels an Mitteln dazu, deren er,
+						wie wir gestehen, nicht bedarf: sondern weil das Vorhersehen eines künftigen
+						Geschehens, welches, wenn dessen Daseyn überhaupt sowohl an sich als auch im
+						voraus unbestimmt ist, gar nicht Statt finden kann, an sich unmöglich ist.
+						Denn daß es an sich unbestimmt sey, folgt aus der Zufälligkeit desselben,
+						daß es im voraus nicht bestimmt sey, dieß behaupten auch die Gegner,
+						folglich ist es ohne alle Bestimmung, das heißt, ohne Zukünftigkeit an sich,
+						und muß nothwendig von dem göttlichen Verstande also vorgestellt werden.</p>
+					<p rend="indent" xml:id="de068" corresp="#la068">Endlich gesteht der gelobte Gegner offen, daß
+						hier noch etwas unbegreiflich bleibe, was aber, sobald man auf die
+						Betrachtung des Unendlichen gekommen ist, mit der Erhabenheit des
+						Gegenstandes völlig zusammenstimmt. Allein ob ich schon gestehe, daß noch
+						einige Geheimnisse der tiefern Erkenntniß übrig bleiben, welche der
+						menschliche Verstand nie aufschließen wird, wenn man in die innere
+						Erkenntniß einzudringen auch noch so begierig ist; so ist doch hier nicht
+						die Rede von der Art wie, sondern davon, ob die Sache selbst Statt finde,
+						und dießfalls ist es, den Widerstreit derselben mit der Behauptung der
+						Gegner einzusehen, dem menschlichen Verstande sehr leicht.</p>
+				</div>
+				<div n="2">
+					<head rend="head_03" xml:id="de069" corresp="#la069">Widerlegung der Instanzen, auf welche die
+						Vertheidiger des Gleichgewichts der gegen beyde Seiten gleichgültigen Willkühr sich berufen.</head>
+					<p rend="indent" xml:id="de070" corresp="#la070">Die Freunde der entgegengesetzten Meinung
+						fordern uns auf, damit wir ihnen auch dießfalls Genüge thun, auf Beyspiele,
+						welche die gleiche Geneigtheit des menschlichen Willens zu allen freyen
+						Handlungen so offenbar zu bezeugen scheinen, daß kaum etwas offenbarer seyn
+						könne. Wenn das <hi rend="spaced">gerade oder ungerade</hi> gespielt wird,
+						und die in der Hand verborgenen Bohnen durch Errathen gewonnen werden
+						sollen, so sprechen wir eins von beyden aus ohne alle Ueberlegung, und ohne
+						irgend einen Grund, eins von beyden zu wählen. Das Zwillingsstück darzu
+						nehmen sie von einem gewissen, ich weiß nicht, welchem Fürsten her, welcher
+						jemanden zwischen zwey Büchsen, welche einander an Gewicht, Gestalt und
+						Ansehen völlig gleich waren, und von welchen er heimlich die eine <pb ed="AA" n="27"/>mit Bley,
+						die andere mit Gold füllte, freye Wahl gestattete, in welchem Fall die
+						Willensbestimmung für die Wahl einer von beyden nicht anders als ohne allen
+						Grund erfolgen konnte. Etwas ähnliches sagt man von der gleichgültigen
+						Freyheit mit dem rechten oder dem linken Fuß auszuschreiten. Auf alle diese
+						Beyspiele will ich mit einem Wort und, wie es mir wenigstens scheint, zur
+						Genüge antworten. Wenn in unserm Grundsatz von bestimmenden Gründen die Rede
+						ist, so wird nicht die eine oder die andere Art von Gründen verstanden, <abbr>z. B.</abbr>
+						die Gründe, die bey freyen Handlungen dem bewußten Verstande vorschweben,
+						sondern eine Handlung mag bestimmt werden wie sie wolle, so muß sie, wenn
+						sie geschehen soll, schlechterdings durch irgend einen Grund bestimmt
+						werden. Objective Gründe können bey der Bestimmung der Willkühr ganz fehlen,
+						auch können die mit Bewußtseyn vorgestellten Beweggründe im vollkommenen
+						Gleichgewicht seyn, nichts destoweniger können dennoch sehr viele Gründe
+						Statt finden, wodurch der Geist bestimmt werden kann. Denn in diesem Fall
+						der Unentschlossenheit wird durch einen solchen Zweifel blos dieses bewirkt,
+						daß die Sache von dem obern Seelenvermögen zu dem niedern, von bewußten zu
+						dunkeln Vorstellungen gelangt, von denen man kaum wird behaupten können, daß
+						sie sich beidseits völlig gleich seyen. Das Streben des angebohrnen
+						Begehrens nach neuen Wahrnehmungen läßt den Geist nicht lange in demselben
+						Zustand beharren. Ist nun der Zustand der innern Vorstellungen verändert, so
+						muß sich der Geist nothwendig auf eine von beyden Seiten neigen.</p>
+					<div n="3">
+						<p rend="indent" xml:id="de071" corresp="#la071">
+							<hi rend="larger">
+								<hi rend="smallCaps">Zehnter Satz.</hi> Einige ächte Zusätze aus dem
+								Satz des bestimmenden Grundes darzustellen.</hi>
+						</p>
+						<p rend="indent" xml:id="de072" corresp="#la072">1. <hi rend="spaced">In dem Begründeten
+								ist nichts, was nicht in dem Grund gewesen</hi>. Denn nichts ist
+							ohne bestimmenden Grund, folglich nichts in dem Begründeten, was das
+							Daseyn des dasselbe bestimmenden Grundes nicht bewiese.</p>
+						<p rend="indent" xml:id="de073" corresp="#la073">Man könnte einwenden, daß, weil die
+							erschaffenen Dinge Gränzen haben, auch GOtt, welcher den Grund dieser
+							Dinge enthält, ebenfalls Gränzen haben müsse. Ich antworte: Die den
+							endlichen Dingen anhängenden Gränzen haben ebenfalls ihren begränzten
+							Grund in dem Act der Schöpfung GOttes; denn die erschaffende Handlung
+							GOttes ist begränzt nach Maßgabe des begränzten Wesens, welches
+							erschaffen werden soll. Da aber diese Handlung nur eine Bestimmung
+							GOttes in gewisser Beziehung ist, welche nehmlich den zu erschaffenden
+							Dingen entsprechen muß, da sie also nicht innerlich und in GOtt
+							schlechthin gedenkbar ist, so erhellet, daß diese Begränzungen GOtt
+							innerlich nicht zukommen können.</p>
+						<p rend="indent" xml:id="de074" corresp="#la074">2) <hi rend="spaced">Von zwey Dingen,
+								welche nichts mit einander gemein haben, kann keins der Grund des
+								andern seyn</hi>. Dieß kommt auf den vorigen Satz zurück.</p>
+						<pb ed="AA" n="28"/>
+						<p rend="indent" xml:id="de075" corresp="#la075">3) <hi rend="spaced">In dem Begründeten
+								kann nicht mehr seyn, als was in dem Grunde ist</hi>. Ist aus
+							derselben Regel klar.</p>
+						<p rend="indent" xml:id="de076" corresp="#la076"><hi rend="uppercase">Folgesatz.</hi> Die
+							Summe der absoluten Realität in der Welt wird <hi rend="spaced">auf
+								natürliche Weise</hi> nicht verändert, weder durch Vermehrung noch
+							durch Verminderung.</p>
+						<p rend="indent" xml:id="de077" corresp="#la077"><hi rend="uppercase">Erklaerung.</hi> Die
+							Klarheit dieser Regel erhellet aus den Veränderungen der Körper sehr
+							leicht. Wenn <abbr>z. B.</abbr> ein Körper A einen andern B stößt und forttreibt, so
+							bekommt der letztere einige Kraft, folglich einige Realität mehr <note place="foot" n="*" xml:id="fn03">
+								<p rend="indent">Es sey mir hier erlaubt, in der Sprache des
+									gemeinen Verstandes die mitgetheilte Kraft als eine übertragene
+									Realität darzustellen, ob sie schon eigentlich nichts anderes
+									ist, als eine gewisse Beschränkung oder Richtung der
+									ursprünglichen Realität.</p>
+							</note>. Aber eine gleiche Quantität Bewegung ist dem anstoßenden Körper
+							entgangen, folglich ist die Summe der Kräfte in der Wirkung den Kräften
+							der Ursache gleich. Zwar scheint die angeführte Regel in dem Fall, wo
+							ein kleinerer elastischer Körper auf einen größern stößt, nicht
+							zuzutreffen und unrichtig zu seyn. Aber keinesweges. Denn <hi rend="spaced">der kleinere</hi> elastische Körper erhält dadurch,
+							daß er von <hi rend="spaced">dem größern</hi>, den er anstößt, zurück
+							gestoßen wird, eine größere Kraft nach der entgegengesetzten Richtung,
+							welche wenn sie zu der, die er dem größern mittheilte, hinzugefügt wird,
+							zwar in der Quantität des anstoßenden Körpers eine größere Summe
+							bewirkt, wie aus der Mechanik bekannt ist, aber die Kraft, welche hier
+							gewöhnlich absolut heißt, muß richtiger respectiv genannt werden. Denn
+							diese Kräfte streben nach verschiedenen Richtungen; folglich wird, wenn
+							man dieselben aus den Wirkungen, welche zusammen gebrauchte und also im
+							Ganzen in einer Summe betrachtete Maschinen hervorbringen können,
+							beurtheilt, die wahre Summe der Kräfte dadurch erkannt, daß man die
+							Bewegungen nach entgegengesetzten Richtungen, die sich insofern am Ende
+							auf irgend eine Weise selbst vernichten müssen, abzieht; dann bleibt
+							blos die Bewegung des Schwerpuncts, welche, wie aus der Statik bekannt
+							ist, nach dem Zusammenstoßen genau so ist, wie sie vor demselben war.
+							Was die völlige Vernichtung der Bewegung durch den Widerstand der
+							Materie betrifft, so entkräftet sie die gegebene Regel so wenig, daß sie
+							solche vielmehr befestiget. Denn die Kraft, welche durch das
+							Zusammenkommen von Ursachen aus der Ruhe entstanden ist, wird dadurch,
+							daß sie bey dem Widerstand gegen die Hindernisse eben so viel verliert
+							als sie erhalten hat, wieder zur Ruhe gebracht, und die Sache bleibt wie
+							vorher. Deswegen ist auch das immerwährende nie erschöpfte Fortgehen
+							einer mechanischen Bewegungunmöglich; denn da sie an dem jedesmaligen
+							Widerstand immer einen Theil ihrer Kraft verwendet, so widerstreitet es
+							obiger Regel und dem gesunden Verstand gleich sehr, daß sie nichts
+							destoweniger die unverminderte Kraft, sich selbst die vorige Stärke zu
+							geben, behalten soll.</p>
+						<pb ed="AA" n="29"/>
+						<p rend="indent" xml:id="de078" corresp="#la078">Sehr oft sehen wir sehr große Kräfte aus
+							einer unendlich kleinen ersten Ursache entstehen. Ein einziger
+							Feuerfunke in Schießpulver geworfen, welche maßlose ausdehnende Kraft
+							theilt er mit? oder kommt er anderswo auf feuerfangende Materie, welche
+							Feuersbrünste, welchen Untergang von Städten, welche fortwährende
+							Verwüstung großer Wälder veranlaßt er nicht? Welch’ eine große Masse
+							fester Körper löst also der unbedeutende Reiz eines einzigen Funkens
+							auf? Allein in solchen Fällen wird die stets wirksame Ursache
+							unermeßlicher Kräfte, welche in dem Innern der festen Körper
+							eingeschlossen ist, nehmlich die elastische Materie entweder der Luft,
+							wie (nach Hales’ Versuchen) in dem Schießpulver, oder des Feuerstoffs,
+							wie in jedem verbrennbaren Körper, durch den kleinen Reiz eines Funkens
+							nur veroffenbart, nicht eigentlich erzeugt. Die elastischen Körper, die zusammengepreßt 
+							und verschlossen sind, äußern bey dem kleinsten
+							Reiz Kräfte, welche dem gegenseitigen Streben der Anziehung und
+							Zurückstoßung proportional sind.</p>
+						<p rend="indent" xml:id="de079" corresp="#la079">Die Kräfte der Geister und ihr
+							immerwährendes Fortschreiten zu weiteren Vollkommenheiten, scheinen von
+							obiger Regel wohl ausgenommen zu seyn. Nach meiner Ueberzeugung aber
+							sind sie derselben ebenfalls unterworfen. Ohne Zweifel enthält die
+							unendliche, obschon sehr dunkele Wahrnehmung des ganzen Weltalls, welche
+							der Seele stets innerlich vorschwebt, alle die Realitäten, welche
+							in den nach und nach mehr aufzuklärenden Gedanken seyn können, bereits
+							in sich, und der Geist erlangt bloß dadurch, daß er hernach seine
+							Aufmerksamkeit auf einige besonders richtet, und diese, indem sie andern
+							einen gleichen Grad derselben entzieht, mit einem stärkern Licht
+							erhellet, nach und nach immer größere Erkenntniß, erweitert aber dadurch
+							nicht den Umfang der absoluten Realität, (weil das Materielle aller
+							Vorstellungen, da es aus dem Zusammenhang mit dem Weltall herkommt,
+							immer dasselbe bleibt), sondern es wird bloß das Formale, welches in dem
+							Zusammenhalten der Begriffe und in der auf die Verschiedenheit oder
+							Aehnlichkeit und Zusammenstimmung derselben gerichteten Aufmerksamkeit
+							besteht, auf mancherley Weise verändert. Das Nämliche bemerken wir auch
+							an der den Körpern innewohnenden Kraft. Denn da die Bewegungen, genau
+							untersucht, nicht Realitäten, sondern Erscheinungen sind, und da die
+							innewohnende Kraft, wenn sie durch den Anstoß eines andern Körpers
+							modificirt wird, diesem Stoß vermöge ihres innern Princips der
+							Wirksamkeit in dem Maße widersteht, als sie durch die Richtung des
+							anstoßenden Körpers erhält; so ist in der Erscheinung der Bewegung das
+							gesammte Reale der Kräfte völlig dem gleich, welches dem Körper im
+							Zustande der Ruhe innewohnend war, und das innere Vermögen, welches
+							während der Ruhe in Rücksicht seiner Richtung unbestimmt war, erhält
+							durch einen Stoß von außen weiter nichts, als eine Richtung.</p>
+						<pb ed="AA" n="30"/>
+						<p rend="indent" xml:id="de080" corresp="#la080">Was ich bisher von der unveränderlichen
+							Quantität der absoluten Realität in dem Weltall gesagt habe, muß also
+							verstanden werden, wiefern alles nach der Ordnung der Natur erfolgt.
+							Denn wer wollte es wagen zu zweifeln, daß durch die Kraft GOttes die
+							abnehmende Vollkommenheit der Welt wieder hergestellt, den vernünftigen
+							Wesen ein reineres Licht, als sie von Natur haben können, vom Himmel
+							herab mitgetheilt, und alles auf einen höhern Gipfel der Vollkommenheit
+							gebracht werden könne.</p>
+					</div>
+					<div n="3">
+						<p rend="indent" xml:id="de081" corresp="#la081">
+							<hi rend="larger">
+								<hi rend="smallCaps">Elfter Satz.</hi> Einige unächte Zusätze,
+								welche aus dem Satz des bestimmenden Grundes mit Unrecht abgeleitet
+								werden, anzugeben und zu widerlegen.</hi>
+						</p>
+						<p rend="indent" xml:id="de082" corresp="#la082">1. <hi rend="spaced">Daß Nichts ohne etwas
+								Begründetes sey</hi>; oder, daß alles was ist, seine Folge habe. Man
+							nennt dieses den Satz der Consequenz. Und davon ist meines Wissens
+							Baumgarten, der Anführer der Metaphysiker, Urheber. Und weil von
+							demselben dieser Satz auf die nehmliche Weisewie der Satz des Grundes
+							bewiesen worden ist, so muß er mit demselben auf einerley Weise
+							zusammenbrechen. Ist blos von den Gründen des Erkennens die Rede, so ist
+							die Wahrheit dieses Satzes unbezweifelt. Denn der Begriff eines jeden
+							Wesens ist entweder allgemein oder individuell. Im erstern Fall muß man
+							zugeben, daß alles, was von dem allgemeinen Begriff der Sache behauptet
+							wird, allen niedrigeren, darunter begriffenen zukomme, daß also jener
+							den Grund von diesen enthalte. In dem letztern Fall kann man schließen,
+							daß die Prädicate, welche in einem gewissen Zusammenhang diesem Subject
+							zukommen, demselben unter Voraussetzung der nehmlichen Gründe jederzeit
+							zukommen müssen; es bestimmt aus dem gegebenen Fall die Wahrheit in
+							ähnlichen, hat also ein Begründetes der Erkenntniß. Allein, wenn wir
+							hierunter auch das Begründete der Existenz mit verstehen, so wird man,
+							daß die wirklichen Wesen nicht unendlich fruchtbar sind, selbst aus dem
+							letzten Abschnitt dieser Abhandlung sehen können, wo wir, daß der
+							Zustand einer jeden Substanz, welche außer allen Zusammenhang mit den
+							andern gesetzt ist, gar keiner Veränderung fähig sey, mit
+							unwiderleglichen Gründen darthun werden.</p>
+						<p rend="indent" xml:id="de083" corresp="#la083">2. <hi rend="spaced">Unter allen Dingen
+								des Weltalls, ist keins dem andern in allen Stücken ähnlich</hi>.
+							Man nennt dieses den Satz des Nichtzuunterscheidenden, welcher, wie
+							gewöhnlich geschieht, in dem weitesten Sinn genommen, sich von der
+							Wahrheit sehr weit entfernt. Man beweist denselben hauptsächlich auf
+							doppelte Weise. Der erste Beweisgang davon ist äußerst seicht, und
+							überspringt sein Object mit leichtem Schritt, ist daher kaum einer
+							Widerlegung werth. Dieß sind jene Spitzfindigkeiten: Dinge, welche nach
+							allen Merkmalen völlig übereinkommen und durch keinen Unterschied
+							voneinander abweichen, scheinen für ein und dasselbe Ding gehalten
+							werden zu müssen. Daher können nicht alle Dinge vollkommen ähnlich seyn,
+							als in einem und demselben Wesen, dem nur mehrere Orte angewiesen wären;
+							da nun dieses der gesunden Vernunft widerstreite, so <pb ed="AA" n="31"/>streite, behaupten
+							sie, diese Meinung mit sich selbst. Allein, wer sollte nicht den Nebel
+							dieser Spitzfindigkeiten durchschauen? Zur vollkommenen Einerleyheit
+							zweyer Dinge in allen ihren Merkmalen oder Bestimmungen, sowohl der
+							innern als der äußern, ist Identität erforderlich. Wer wird denn aber
+							von der durchgängigen Bestimmung eines Dinges den Ort ausnehmen?
+							Folglich sind Dinge, welche, ob sie schon nach allen innern Merkmalen
+							völlig gleich sind, wenigstens durch den Ort, wo sie sind, unterschieden
+							und nicht ein und dasselbe Wesen. Jedoch müssen wir vornehmlich den
+							Beweis, welcher dem Satz des zureichenden Grundes unrichtig beygemessen
+							wird, erproben.</p>
+						<p rend="indent" xml:id="de084" corresp="#la084">Es ist, sagt man, kein Grund zu finden,
+							warum GOtt zwey Substanzen verschiedene Orte angewiesen habe, wenn sie
+							in allen andern Stücken völlig überein kämen. Welche Thorheiten! Ich
+							wundere mich, daß die ernsthaftesten Männer an solchen Spielereyen mit
+							Gründen Vergnügen finden. Die eine Substanz nenne ich A, die andere B.
+							Man setze, daß A den Ort des B einnehme, so wird alsdann, weil den innern
+							Merkmalen nach A von B gar nicht verschieden ist und nun auch den Ort
+							desselben einnimmt, jenes mit diesem in allen Stücken einerley seyn und
+							nun B genannt werden müssen, was vorher A hieß; und was vorher den Namen
+							B hatte, das wird, nachdem es in den Ort des A gekommen ist, ebenfalls A
+							genannt werden müssen. Denn diese Verschiedenheit der Bezeichnung
+							bedeutet blos die Verschiedenheit des Orts. Sage also, ob GOtt etwas
+							anderes gethan haben würde, wenn er die Orte nach deiner Meinung
+							bestimmt hätte? Beydes ist vollkommen dasselbe, und deswegen ist die von
+							dir erdichtete Verwechselung nichts; daß aber ein Nichts keinen Grund
+							habe, dieß paßt nach meiner Meinung sehr gut.</p>
+						<p rend="indent" xml:id="de085" corresp="#la085">Dieses unächte Gesetz wird auch durch das
+							ganze Universum der Dinge, und durch das, was der göttlichen Weisheit
+							ziemt, vollkommen widerlegt. Denn daß Wasser, Quecksilber, Gold,
+							einfachste Salze <abbr>u. s. w.</abbr> den gleichartigen und innern Merkmalen nach in
+							ihren ursprünglichen Bestandtheilen völlig gleich sind, dieß bestätigt
+							sich durch die Einerleyheit des Gebrauchs und der Anwendung, zu welcher
+							sie bestimmt werden, und kann auch aus ihren Wirkungen gesehen werden,
+							welche jederzeit gleich ohne einigen bemerkbaren Unterschied von ihnen
+							hervorgebracht werden. Auch kann es nicht zuläßig seyn, hier eine
+							verborgene und den Sinnen unzugängliche Verschiedenheit zu vermuthen,
+							als wenn doch GOtt noch eine nämliche hätte, woran er selbst die Theile
+							seines Werks unterscheiden könnte; denn das hieße Knoten an einer Binse
+							suchen.</p>
+						<pb ed="AA" n="32"/>
+						<p rend="indent" xml:id="de086" corresp="#la086">Daß Leibniz, der Urheber dieses Princips,
+							in der Einrichtung organischer, und in dem Gewebe anderer von der
+							Einfachheit entfernter Körper eine bemerkbare Verschiedenheit
+							wahrgenommen habe und man solche bey allen Dingen dieser Art vermuthen
+							dürfe, geben wir zu. Denn wo zur Zusammensetzung eines Ganzen sehr viele
+							verschiedenartige Theile in Harmonie gebracht werden müssen, da können
+							nicht immer gleiche Bestimmungen hervorgehen. Daher wird man an dem
+							nämlichen Baum kaum zwey einander völlig gleiche Blätter finden. Allein
+							hier wird blos die metaphysische Allgemeinheit dieses Grundsatzes
+							verworfen. Uebrigens wird man schwerlich läugnen können, daß in den
+							Gestalten der natürlichen Körper öfters völlig urbildliche Identität
+							gefunden werde. Daß <abbr>z. B.</abbr> bey Krystallisationen unter unzählig
+							verschiedenen nicht auch eine oder die andere gefunden werde, welche
+							einer andern mit vollkommener Aehnlichkeit abgeschrieben ist, wer wollte
+							dieses behaupten?</p>
+					</div>
+				</div>
+      	</div><pb ed="AA" n="33"/><div n="1">
+      		  <head rend="head_02" xml:id="de087" corresp="#la087">
+					<hi rend="smallCaps">Dritter Abschnitt.</hi>
+				</head>
+      		  <head rend="head_02" xml:id="de088" corresp="#la088">Welcher zwey an Folgesätzen äußerst fruchtbare,
+					aus dem Satz des bestimmenden Grundes fließende Grundsätze der metaphysischen
+					Erkenntniß aufdeckt.</head>
+				<div n="2">
+					<head rend="head_04" xml:id="de089" corresp="#la089">
+						<hi rend="antiqua">I</hi>.</head>
+					<head rend="head_04" xml:id="de090" corresp="#la090">Der Satz der Aufeinanderfolge.</head>
+					<div n="3">
+						<p rend="indent" xml:id="de091" corresp="#la091">
+							<hi rend="larger">
+								<hi rend="smallCaps">
+									<hi rend="initial">Z</hi>wölfter Satz.</hi> In den Substanzen
+								kann keine Veränderung vorgehen, als wiefern sie mit andern im
+								Zusammenhang sind, so daß die gegenseitige Abhängigkeit derselben
+								von einander die wechselseitige Aenderung ihres Zustandes
+								bestimmt.</hi>
+						</p>
+						<p rend="indent" xml:id="de092" corresp="#la092">Daher ist eine einfache Substanz, bar jedes
+							äußeren Zusammenhangs und so sich selbst überlassen, an sich schlechthin
+							unveränderlich.</p>
+						<p rend="indent" xml:id="de093" corresp="#la093">Eben so kann ferner, wenn sie auch mit
+							andern in einem Zusammenhang steht, so lange dieses Verhältniß unverändert
+							bleibt, in ihr keine Veränderung ihres innern Zustandes sich begeben. In
+							einer Welt also, wo gar keine Bewegung wäre, kann (weil die Bewegung
+							blos die Erscheinungdes veränderten Zusammenhangs ist) auch gar keine
+							Aufeinanderfolge, nicht einmal in dem innern Zustande der Substanzen,
+							gefunden werden.</p>
+						<p rend="indent" xml:id="de094" corresp="#la094">Daher müssen, sobald aller Zusammenhang der
+							Substanzen aufgehoben wird, auch sogleich die Aufeinanderfolge und die
+							Zeit verschwinden.</p>
+					</div>
+					<pb ed="AA" n="34"/>
+					<div n="3">
+						<head rend="head_04" xml:id="de095" corresp="#la095"><hi rend="uppercase">Beweis.</hi></head>
+						<p rend="indent" xml:id="de096" corresp="#la096">Nimm an, daß eine einfache Substanz außer
+							allem Zusammenhang mit andern ganz abgesondert existire; so sage ich, daß
+							eine Veränderung ihres innern Zustandes nicht Statt finden könne. Denn
+							da die der Substanz bereits zukommenden innern Bestimmungen durch innere
+							Gründe mit Ausschließung des Gegentheils gesetzt sind, so muß man, wenn
+							eine andere Bestimmung derselben nachfolgen soll, einen andern Grund
+							setzen, welcher aber, da dessen Gegentheil in dem Innern der Substanz
+							ist, und da gemäß der Voraussetzung kein äußerer Grund hinzukommt, ganz
+							offenbar jenem Wesen nicht beygelegt werden kann.</p>
+						<p rend="indent" xml:id="de097" corresp="#la097">
+							<hi rend="spaced">Derselbe Beweis anders.</hi> Was durch einen
+							bestimmenden Grund gesetzt wird, das muß nothwendig mit diesem zugleich
+							gesetzt werden; denn es ist ungereimt, daß mit dem bestimmenden Grund
+							nicht auch das Begründete gesetzt werde. Was daher in einem gewissen
+							Zustand einer einfachen Substanz Bestimmendes ist, mit demselben muß
+							auch alles Bestimmte ohne Ausnahme nothwendig zugleich seyn. Weil aber
+							Veränderung eine Aufeinanderfolge der Bestimmungen ist, wo nämlich eine
+							gewisse Bestimmung entsteht, welche vorher nicht da war, und folglich
+							das Wesen für das Gegentheil einer ihr zukommenden Bestimmung bestimmt
+							wird, so kann diese durch das, was in der Substanz innerlich zu finden
+							ist, sich nicht begeben. Begiebt sie sich also, so muß sie nothwendig
+							von einem äußern Zusammenhang herkommen.</p>
+						<p rend="indent" xml:id="de098" corresp="#la098">
+							<hi rend="spaced">Derselbe Beweis noch anders.</hi> Setze, eine
+							Veränderung entstehe unter den genannten Bedingungen; weil sie zu
+							existiren anfängt, da sie vorher nicht war, das heißt, da die Substanz
+							für das Gegentheil bestimmt war, und da auch nicht angenommen wird, daß
+							außer dem Innern etwas hinzukomme, was die Substanz anders woher
+							bestimme, so wird die Substanz durch dieselben Gründe, wodurch sie auf
+							eine gewisse Weise als bestimmt angenommen wird, für das
+							Gegentheil bestimmt werden, welches ungereimt ist.</p>
+					</div>
+					<div n="3">
+						<head rend="head_04" xml:id="de099" corresp="#la099"><hi rend="uppercase">Erklaerung.</hi></head>
+						<p rend="indent" xml:id="de100" corresp="#la100">Diese Wahrheit, ob sie schon von einer so
+							leicht begreiflichen und untrüglichen Verkettung der Gründe abhängt,
+							haben die Anhänger der Wolfischen Philosophie so ganz nicht
+							wahrgenommen, daß sie vielmehr behaupten, eine einfache Substanz sey
+							blos vermöge ihres innern Princips der Wirksamkeit ständigen
+							Veränderungen unterworfen. Ich kenne ihre Beweise sehr wohl, bin aber
+							nicht weniger überzeugt, wie hölzern dieselben sind. Nachdem sie den
+							willkührlichen Begriff der Kraft so gebildet <pb ed="AA" n="35"/>haben, daß sie das bedeuten
+							soll, was den Grund <hi rend="spaced">von Veränderungen</hi> enthält, da
+							man doch richtiger sagen muß, daß sie den Grund <hi rend="spaced">von
+								Bestimmungen</hi> enthalte, so war es ihnen unvermeidlich, in
+							Irrthum zu fallen.</p>
+						<p rend="indent" xml:id="de101" corresp="#la101">Wenn ferner jemand zu wissen wünschte, auf
+							welche Weise die Veränderungen, deren Wechsel in dem Weltall gefunden
+							wird, entstehen können, da sie aus den innern Bestimmungen einer jeden
+							Substanz, wenn man sie als einzelne denkt, nicht fließen sollen, der
+							richte seine Aufmerksamkeit auf das, was vermöge des Zusammenhangs der
+							Dinge, <abbr>d. h.</abbr>, vermöge der wechselseitigen Abhängigkeit derselben in
+							ihren Bestimmungen erfolgen muß. Uebrigens ist es, weil eine
+							ausführliche Erörterung dieser Sache die Gränzen dieser Abhandlung
+							überschreiten würde, genug, in meinem Beweis dargethan zu haben, daß die
+							Sache sich nicht anders verhalten könne.</p>
+					</div>
+					<div n="3">
+						<head rend="head_04" xml:id="de102" corresp="#la102"><hi rend="uppercase">Nutzen.</hi></head>
+						<p rend="indent" xml:id="de103" corresp="#la103">1. Ich finde zuerst, daß das reale Daseyn
+							der Körper, welches die gesündere Philosophie gegen die Idealisten
+							zeither nicht anders als auf dem Weg der Wahrscheinlichkeit vertheidigen
+							konnte, aus den Folgesätzen dieses unsers Princips ganz deutlich und
+							offenbar folgt. Die Seele nämlich ist (durch den innern Sinn) innerlichen
+							Veränderungen unterworfen; da nun diese aus der Natur der Seele selbst,
+							wenn man sie als einzelne und außer allem Zusammenhang mit andern Dingen
+							betrachtet, vermöge des Bewiesenen nicht entstehen können: so müssen
+							nothwendig mehrere Dinge außer der Seele vorhanden seyn, mit welchen sie
+							in gegenseitigem Zusammenhang sich befinde. Auf gleiche Weise erhellet
+							aus denselben, daß der Wechsel der Wahrnehmungen der äußern Bewegung
+							gemäß erfolge, und es kann, weil daraus folgt, daß die Seele die
+							verschiedentlich bestimmbare Vorstellung von irgend einem Körper nicht
+							haben würde, wenn dieser Körper nicht wirklich da wäre und durch
+							seine Wechselwirkung mit der Seele in dieser eine ihm entsprechende
+							Vorstellung hervorbrächte, hieraus leicht geschlossen werden, daß es ein
+							Zusammengesetztes gebe, welches wir unsern Leib nennen.</p>
+						<p rend="indent" xml:id="de104" corresp="#la104">2. Die Leibnizische vorherbestimmte
+							Harmonie wird so von Grund aus untergraben, nicht wie gemeiniglich
+							geschieht durch Endursachen, welche GOttes unwürdig seyn sollen, ob sie
+							schon nicht selten ein unsicheres Hülfsmittel abgeben, sondern durch
+							seine innere Unmöglichkeit. Aus dem Bewiesenen nämlich folgt
+							unmittelbar, daß die menschliche Seele, wenn sie von allem
+							realen Zusammenhang mit Dingen außer sich abgesondert wäre, gar keine
+							Veränderung ihres innern Zustandes erfahren könnte.</p>
+						<pb ed="AA" n="36"/>
+						<p rend="indent" xml:id="de105" corresp="#la105">3. Die Meinung, allen endlichen Geistern
+							seyein gewisser organischer Körper beyzulegen, bekommt hieraus ein
+							großes Zeugniß ihrer Gewißheit.</p>
+						<p rend="indent" xml:id="de106" corresp="#la106">4. Wird dadurch die wesentliche
+							Unveränderlichkeit GOttes nicht aus einem Erkenntnißgrund, welcher von
+							der unendlichen Natur desselben hergenommen ist, sondern aus seinem
+							ächten Princip abgeleitet. Denn da das höchste Walten frey von aller
+							Abhängigkeit ist, da also die ihr zukommenden Bestimmungen durch gar
+							keine äußere Beziehung gesetzt werden, so ergiebt sich, daß gar keine
+							Veränderung ihres Zustandes möglich sey, aus dem Bewiesenen mit
+							vollkommenster Klarheit.</p>
+						<p rend="indent" xml:id="de107" corresp="#la107"><hi rend="uppercase">Anmerkung.</hi>
+							Vielleicht könnte jemanden das angeführte Princip eines schädlichen
+							Irrthums verdächtig zu seyn scheinen, wegen der unzertrennlichen
+							Verknüpfung, mit welcher auf diese Weise die menschliche Seele bey den
+							innern Thätigkeiten ihrer Gedanken an die Materie gebunden ist, welches
+							von der schädlichen Meinung der Materialisten nicht weit entfernt zu
+							seyn scheint. Allein ich hebe damit den Zustand der Vorstellungen der
+							Seele nicht auf, ob ich schon unter der Voraussetzung, wenn sie außer
+							allem äußeren Zusammenhang stehen würde, behaupte, daß dieser ihr Zustand
+							unveränderlich und sich selbst beständig gleich seyn würde. Und ich kann
+							den Streit, in welchen vielleicht jemand mich zu verwickeln den Versuch
+							machen wollte, auf die Seite der Neuern wälzen, welche in einmüthiger
+							Uebereinstimmung gleichsam aus einem Munde bekennen, daß der Seele die
+							Vereinigung mit einem organischen Körper unentbehrlich sey. Ich nenne,
+							um von diesen nur einen als Zeugen anzuführen, den berühmten Crusius,
+							welcher, wie ich finde, meiner Meinung so sehr beystimmt, daß er ganz
+							offen behauptet, die Seele sey an jenes Gesetz gebunden, vermöge dessen
+							das Streben nach Vorstellungen jederzeit mit einem Streben ihrer
+							Substanz zu einer gewissen Bewegung nach außen verbunden sey, daß also,
+							wenn das letztere durch Hindernisse erstickt wird, auch das erstere
+							gehindert werde. Ob er aber schon dieses Gesetz nicht für so nothwendig
+							hält, daß es nicht, wenn GOtt solches wollte, aufgehoben werden könnte,
+							so würde, weil er zugiebt, daß seine Natur mit demselben fest verschnürt
+							sey, er bekennen müssen, daß alsdann auch diese umgeschaffen werden
+							müsse.</p>
+					</div>
+				</div>
+      		  <pb ed="AA" n="37"/>
+				<div n="2">
+					<head rend="head_04" xml:id="de108" corresp="#la108">
+						<hi rend="antiqua">II</hi>.</head>
+					<head rend="head_04" xml:id="de109" corresp="#la109">Der Satz der Coexistenz.</head>
+					<div n="3">
+						<p rend="indent" xml:id="de110" corresp="#la110">
+							<hi rend="larger">
+								<hi rend="spaced">Dreizehnter Satz.</hi> Endliche Substanzen stehen
+								durch ihr bloßes Daseyn in keinen Beziehungen zu einander und werden
+								durch keinerlei Wechselwirkung zusammengehalten, außer wiefern sie von
+								dem gemeinschaftlichen Princip ihres Daseyns, nämlich von dem
+								göttlichen Verstande, als zu gegenseitigen Beziehungen
+								gebildete erhalten werden.</hi>
+						</p>
+						<p rend="indent" xml:id="de111" corresp="#la111"><hi rend="uppercase">Beweis.</hi> Einzelne
+							Substanzen, deren keine Ursache von dem Daseyn der andern ist, haben ein
+							abgesondertes Daseyn, das heißt, ein solches, welches auch ohne alles
+							andere völlig denkbar ist. Wird nun das Daseyn einer jeden Substanz
+							schlechthin an sich gesetzt, so ist in ihr nichts, was das Daseyn
+							anderer von ihr verschiedener voraussetzt. Weil aber ein Verhältniß eine
+							respektive Bestimmung, <abbr>d. h.</abbr> eine solche, welche in einem schlechthin an
+							sich betrachteten Wesen nicht gedacht werden kann, so kann solches eben
+							so wenig als dessen bestimmender Grund durch das an sich gesetzte Daseyn
+							einer Substanz erkannt werden. Wenn also außer diesem Daseyn nichts
+							weiter hinzu käme, so würde unter allen Wesen kein Verhältniß und gar
+							keine Wechselwirkung seyn. Da nun, wiefern unter allen Substanzen jede
+							ein von allen andern unabhängiges Daseyn hat, ein
+							wechselseitiger Zusammenhang derselben nicht Statt findet, von endlichen
+							Dingen aber allerdings nicht gesagt werden kann, daß sie Ursache von
+							andern sind, dennoch nichts destoweniger in dem Weltall alles durch
+							wechselseitigen Zusammenhang verbunden gefunden wird, so muß man
+							zugestehen, daß dieses Verhältniß der Dinge von ihrer gemeinschaftlichen
+							Ursache, nämlich von GOtt, dem allgemeinen Princip existirender
+							Dinge, abhange. Weil aber daraus, daß GOtt das Daseyn derselben
+							schlechthin begründete, ebenfalls nicht folgt, daß zwischen ihnen
+							wechselseitige Beziehungen seyn, wenn nicht derselbe Entwurf des
+							göttlichen Verstandes, welcher das Daseyn giebt, wiefern derselbe das
+							Daseyn aller Dinge, auf einander bezogen gedacht, enthielt, die
+							Beziehungen derselben ebenfalls festlegte; so erhellet ganz offenbar,
+							daß die allgemeine Wechselwirkung aller Dinge lediglich dem Plan der
+							göttlichen Idee zugeschrieben werden müsse.</p>
+					</div>
+					<pb ed="AA" n="38"/>
+					<div n="3">
+						<head rend="head_04" xml:id="de112" corresp="#la112"><hi rend="smallCaps">Erklaerung.</hi></head>
+						<p rend="indent" xml:id="de113" corresp="#la113">Daß die Coexistenz der Substanzen in dem
+							Weltall zur Begründung eines Zusammenhangs zwischen denselben nicht
+							zureichend, sondern außerdem noch eine gewisse Gemeinschaft des
+							Ursprungs und eine harmonische Abhängigkeit von demselben erforderlich
+							sey, dieß glaube ich zuerst durch die einleuchtendsten Gründe dargethan
+							zu haben. Denn, wenn, damit ich den Nerv des Beweises nochmals kürzlich
+							darlege, eine Substanz A existirt, und es existirt außerdem B, so kann
+							man deswegen nicht annehmen, daß diese in A etwas setze. Denn nimm an,
+							daß sie in A etwas bestimme, das heißt, den Grund von der Bestimmung C
+							enthalte; so wird, weil diese Bestimmung ein relatives Prädicat und
+							nicht verständlich ist, wenn nicht außer B auch A existirt, die Substanz
+							B, vermöge dessen, was den Grund von C ausmacht, das Daseyn der Substanz
+							A voraussetzen. Weil aber, wenn die Substanz B allein existirt, durch
+							ihre Existenz ganz unbestimmt bleibt, ob ein A existiren solle oder
+							nicht, so kann aus ihrem Daseyn allein nicht erkannt werden, daß sie in
+							andern von ihr verschiedenen irgend etwas setze, folglich kein
+							Verhältniß, überhaupt keine Wechselwirkung mit andern. Wenn also GOtt
+							außer der Substanz A noch andere, B, D, E, ins Unendliche erschaffen
+							hat, so folgt dennoch aus dem gegebenen Daseyn derselben allein sofort
+							noch keine wechselseitige Abhängigkeit derselbenin ihren Bestimmungen.
+							Denn es folgt daraus, weil außer A auch B, D, E existirt, und A in sich
+							selbst in irgendeiner Weise bestimmt ist, nicht, daß B, D, E dieser gemäße
+							Bestimmungen zu existiren haben. Folglich muß in der Art ihrer
+							gemeinschaftlichen Abhängigkeit von GOtt nothwendig der Grund ihrer
+							wechselseitigen Abhängigkeit von einander vorhanden seyn. Und auf welche
+							Weise dieses bewirkt werde, ist leicht einzusehen. Der Entwurf des
+							göttlichen Verstandes, als der Ursprung alles Daseyns, ist ein
+							fortwährender Act, Erhaltung genannt, in dem, wenn die einzelnen
+							Substanzen irgendwie abgesondert und ohne Verhältniß ihrer Bestimmungen von GOtt
+							gedacht werden, zwischen ihnen kein Zusammenhang, keine wechselseitige
+							Beziehung entstehen kann; wenn sie aber in dem Verstande GOttes in
+							Beziehung auf einander gedacht werden, so beziehen sich in Gemäßheit
+							dieser Idee bey der Fortsetzung des Daseyns in der Folge immer die
+							Bestimmungen der Dinge auf einander, <abbr>d. h.</abbr> sie wirken und wirken zurück,
+							und es ist nun ein gewisser äußerer Zustand einer jeden Substanz,
+							welcher, wenn man dieses Princip verließe, durch das bloße Daseyn
+							derselben gar nicht Statt finden könnte.</p>
+					</div>
+					<pb ed="AA" n="39"/>
+					<div n="3">
+						<head rend="head_04" xml:id="de114" corresp="#la114"><hi rend="uppercase">Nutzen.</hi></head>
+						<p rend="indent" xml:id="de115" corresp="#la115">1. Weil Ort, Lage, Raum, Verhältnisse der
+							Substanzen sind, mit welchen sie sich auf andere von ihnen real
+							verschiedene durch wechselseitige Bestimmungen beziehen und auf diese
+							Weise im äußern Zusammenhang stehen; weil ferner durch das Bewiesene
+							bekannt geworden ist, daß das bloße Daseyn der Substanzen an sich
+							einen Zusammenhang mit andern nicht einschließe, so erhellet, daß, wenn
+							man mehrere Substanzen als existirend setzt, hieraus nicht zugleich der
+							Ort, die Lage und, was aus diesen durchgängigen Verhältnissen zusammen
+							entsteht, der Raum bestimmt werde. Allein, weil der wechselseitige
+							Zusammenhang der Substanzen einen in einer wirksamen Vorstellung des göttlichen Verstandes 
+							respectiv gedachten Entwurf erfordert, diese Vorstellung aber in Gott
+							ganz willkührlich ist, und folglich nach seinem Wohlgefallen eben sowohl
+							zugelassen als weggelassen werden kann: so folgt, daß Substanzen unter
+							diesem Gesetz existiren können, <hi rend="spaced">daß sie an keinem Orte
+								seyn,</hi> und folglich in gar keinem Verhältniß zu unserem
+							Universum von Dingen.</p>
+						<p rend="indent" xml:id="de116" corresp="#la116">2. Weil solcher Substanzen, die von jedem
+							Zusammenhang mit unserm Universum gelöst sind, vermöge des göttlichen
+							Beliebens mehrere seyn können, welche nichts destoweniger durch einen
+							gewissen Zusammenhang der Bestimmungen unter sich verbunden seyn können,
+							folglich einen Ort, eine Lage und einen Raum bewirken, eine Welt
+							ausmachen, die von dem Umfang der Welt, deren Theile wir sind,
+							ausgeschlossen, <abbr>d. h.</abbr> für sich abgesondert sey. So ist es aus diesem
+							Grund nicht widersinnig, zu sagen, daß auch im metaphysischen Sinne
+							mehrere Welten seyn könnten, wenn es GOtt so gefiele.</p>
+						<p rend="indent" xml:id="de117" corresp="#la117">3. Da nun also das Daseyn der Substanzen
+							an sich zu einer Wechselwirkung undeiner Beziehung ihrer Bestimmung auf
+							einander ganz unzureichend ist, und folglich durch den äußern
+							Zusammenhang der Substanzen die gemeinschaftliche Ursache aller
+							angedeutet wird, in welcher das Daseyn derselben mit Beziehung auf
+							einander entworfen sey, und da ohne dieses gemeinschaftliche Princip ein
+							allgemeiner Zusammenhang nicht gedacht werden kann, so wird hieraus das
+							einleuchtendste Zeugniß für das Daseyn einer höchsten Ursache aller
+							Dinge, <abbr>d. h.</abbr> GOttes, und zwar eines einzigen hergenommen, welches,
+							wenigstens nach meinem Dafürhalten, den von der Zufälligkeit abgeleiteten
+							Beweis weit übertrifft.</p>
+						<p rend="indent" xml:id="de118" corresp="#la118">4. Auch wird die thörichte Meinung der
+							Manichäer, welche die Herrschaft der Welt zwischen zwey von einander
+							nicht abhängige erste Principien theilten, durch dieses unser Princip
+							gründlich widerlegt. Denn es ist nicht möglich, daß eine Substanz mit
+							den Dingen in der Welt irgend eine Wechselwirkung habe, wenn sie nicht
+							die gemeinschaftliche Ursache derselben, oder mit ihnen von
+							derselben Ursache hergekommen sey. Wenn du also sagst, eins von diesen
+							beyden Principien sey die Ursache aller <w lemma="Substanzen">Substan<pb ed="AA" n="40" break="no"/>zen</w>, so kann das andere
+							auf keine Weise in denselben etwas bestimmen; soll das andere Princip
+							wenigstens von einigen Ursache seyn, so können diese mit den übrigen
+							keine Wechselwirkung haben. Du mußt also behaupten, daß entweder eins
+							von diesen beyden Principien von dem andern, oder daß beyde von einer
+							gemeinschaftlichen Ursache abhängig sind, welches gleichfalls der
+							Voraussetzung widerstreitet.</p>
+						<p rend="indent" xml:id="de119" corresp="#la119">5. Ferner, da die Bestimmungen der
+							Substanzen sich auf einander beziehen, <abbr>d. h.</abbr>, da die unter sich
+							verschiedenen Substanzen wechselseitig auf einander wirken (indem
+							nämlich jede in der andern etwas bestimmt), so ergiebt sich der Begriff
+							des Raums aus den in einander verwickelten Wirkungen der Substanzen, mit
+							welchen jederzeit Rückwirkung nothwendig verbunden ist. Wenn nun von
+							dieser allgemeinen Wirkung und Rückwirkung durch den ganzen Umfang des
+							Raums, in welchem Körper mit einander in Beziehung sind, die äußere
+							Erscheinungdie wechselseitige Annäherung derselben ist, <hi rend="spaced">Anziehung</hi> genannt, welche sich, da sie durch die
+							bloße Mitgegenwart bewirkt wird, auf jede beliebige Entfernung erstreckt,
+								<hi rend="spaced">und die Newtonianische Anziehung</hi> oder
+							allgemeine Schwerkraft ist; so ist wahrscheinlich, daß diese durch
+							denselben Zusammenhang der Substanzen, wodurch sie den Raum bestimmen,
+							bewirkt werde, folglich das ursprünglichste Naturgesetz sey, dem die
+							Materie unterworfen ist, und welches nur in GOtt, dem unmittelbaren
+							Urheber, beständig fortdauert, selbst nach der Meinung derer, welche
+							sich für Newtons Anhänger bekennen.</p>
+						<p rend="indent" xml:id="de120" corresp="#la120">6. Da zwischen allen Substanzen, wiefern
+							sie in demselben Raum enthalten sind, Wechselwirkung, folglich eine
+							wechselseitige Abhängigkeit in ihren Bestimmungen ist, so kann man
+							hieraus die allgemeine Wirkung der Geister auf die Körper und der Körper
+							auf die Geister ersehen. Weil aber jede Substanz (vermöge des Bewiesenen),
+							nicht durch das, was ihr innerlich zukommt, das Vermögen hat, andere von
+							ihr verschiedene zu bestimmen, sondern bloß vermöge der Kraft des
+							Zusammenhang, in welchem sie in der Idee des unendlichen Wesens mit
+							andern verbunden ist; so beziehen sich zwar alle Bestimmungen und
+							Veränderungen, die in jeder beliebigen gefunden werden, auf Dinge außer
+							ihr, aber der eigentlich so genannte Physische Einfluß wird
+							ausgeschlossen, und es ist eine allgemeine <hi rend="spaced">Harmonie</hi> der Dinge. Dennoch wird weder jene <hi rend="spaced">Leibnizische vorherbestimmte,</hi> welche eigentlich eine <hi rend="spaced">Uebereinstimmung,</hi> nicht eine wechselseitige <hi rend="spaced">Abhängigkeit</hi> den Substanzen beylegt, hieraus
+							erzeugt, denn GOtt bedient sich, zur Bewirkung der Zusammenstimmung der
+							Substanzen, nicht der bey einer Reihe zusammengeworfener Gründe
+							gewöhnlichen Kunstgriffe, noch wird hier ferner ein besonderer Einfluß
+							GOttes in jedem Fall, d. h. eine Wechselwirkung der Substanzen durch <hi rend="spaced">Malebranchens gelegenheitliche Ursachen</hi>
+							behauptet, denn dieselbe individuelle Handlung, welche die Substanzen
+							zum <pb ed="AA" n="41"/>Daseyn bringt und erhält, giebt ihnen auch eine wechselseitige und
+							allgemeine Abhängigkeit, so daß die göttliche Handlung nicht nöthig hat,
+							je nach Umständen bald so bald anders bestimmt zu werden; Sondern es
+							giebt ein reales Einwirken der Substanzen auf einander, oder eine
+							Wechselwirkung durch wirklich bewirkende Ursachen, weil dasselbe
+							Princip, welches das Daseyn der Dinge gründet, solche auch als diesem
+							Gesetz unterworfen darstellt, folglich durch die nämlichen Bestimmungen,
+							welche ihrem Daseyn ursprünglich anhängen, die Wechselwirkung begründet
+							ist; daher kann man auf diese Weise, daß die äußerlichen Veränderungen
+							durch bewirkende Ursachen hervorgebracht werden, mit demselben Recht
+							sagen, womit die Veränderungen der inneren Kraft der Substanz
+							zugeschrieben werden, obschon die natürliche Wirksamkeit von dieser
+							nicht weniger als die feste Einrichtung der äußerlichen Verhältnisse auf
+							der göttlichen Erhaltung beruht. Inzwischen ist das System der
+							allgemeinen Wechselwirkung der Substanzen auf diese Weise entworfen,
+							gewiß um vieles berichtigter als jener bekannte <hi rend="spaced">Physische Einfluß</hi>, indem es nämlich den Ursprung des
+							wechselseitigen Zusammenhangs der Dinge selbst eröffnet, daß solcher
+							außer dem Princip der Substanzen, jede abgesondert und für sich
+							betrachtet, gesucht werden müsse, worin eben jenes abgenutzte System der
+							bewirkenden Ursachen sich vornehmlich von der Wahrheit entfernte.</p>
+						<p rend="indent" xml:id="de121" corresp="#la121"><hi rend="uppercase">Anmerkung.</hi> Hier
+							hast du, geneigter Leser, zwey Grundsätze der tiefern metaphysischen
+							Erkenntniß, durch deren Hülfe man ein nicht zu verachtendes Gebiet in
+							dem Reiche der Wahrheiten gewinnen kann. Und wenn diese Wissenschaft auf
+							eine solche Weise mit Ernst bearbeitet wird, so wird man den Boden
+							derselben nicht so unfruchtbar finden, auch wird der Vorwurf einer
+							müßigen und von der Welt abgezogenen Grübeley, welcher ihr von ihren
+							Verächtern gemacht wird, durch eine reiche Ernte einer edlern Erkenntniß
+							widerlegt werden. Zwar giebt es Menschen, welche, gewohnt, in den
+							Schriften anderer fehlerhafte Folgerungen aufzuspüren, aus den Ansichten
+							anderer immer einiges Gift zu ziehen verstehen. Ob ich aber schon nicht
+							läugnen will, daß diese vielleicht einiges in unseren zu einem
+							schlimmern Sinn verdrehen können, so glaube ich doch, daß es mir, indem
+							ich dieselben ihrer eigenen Ueberzeugung überlasse, gebühre, mich nicht
+							um das zu kümmern, was vielleicht jemandem übel zu deuten beliebt,
+							sondern auf dem geraden Weg der Forschung und der Wissenschaft
+							fortzugehen, und bitte mit aller gebührenden Ergebenheit, daß alle die,
+							welche Freunde der edlern Wissenschaften sind, mich in diesem
+							Unternehmen begünstigen wollen.</p>
+						<p rend="center" xml:id="de122" corresp="#la122">
+							<hi rend="spaced larger uppercase">Ende.</hi>
+						</p>
+						<milestone unit="section" rend="line"/>
+					</div>
+				</div>
+      		<pb ed="AA" n="42"/>
+      		<pb ed="AA" n="43"/>
+			</div></body>
+   </text>
+</TEI>

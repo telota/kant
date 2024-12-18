@@ -1,0 +1,825 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="5" subtype="criticalApparatus">Meditationes de igne</title>
+            <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0003-4081-401X">
+                  <surname>Hohenegger</surname>
+                  <forename>Hansmichael</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0002-0322-4734">
+                  <surname>Lamarra</surname>
+                  <forename>Antonio</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0001-5535-5894">
+                  <surname>Pozzo</surname>
+                  <forename>Riccardo</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche
+                     Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche
+                     Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition,
+                     Bereitstellung der Schnittstellen </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie
+                     Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+                  Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien"> Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+                     Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen
+               Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de"> Berlin-Brandenburgische
+                  Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung
+                  I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+                  Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>De igne</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">Kant's Werke</title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="5">Meditationes de igne</title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0003-4081-401X">
+                        <surname>Hohenegger</surname>
+                        <forename>Hansmichael</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0002-0322-4734">
+                        <surname>Lamarra</surname>
+                        <forename>Antonio</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0001-5535-5894">
+                        <surname>Pozzo</surname>
+                        <forename>Riccardo</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">326–365</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482</idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+                  <biblScope unit="volume" n="1">Band 1</biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-07" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P05App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app37102">
+                  <lem><hi rend="antiqua">sic</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">hic</hi>
+                  </rdg>
+               </app>
+               <app from="#app37103">
+                  <lem><hi rend="antiqua">hic</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">sic</hi>
+                  </rdg>
+               </app>
+               <app from="#app37107">
+                  <lem><hi rend="antiqua">demonstrandi</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">demonstranti</hi>
+                  </rdg>
+               </app>
+               <app from="#app37108">
+                  <lem><hi rend="antiqua">filum</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">filo</hi>
+                  </rdg>
+               </app>
+               <app from="#app37110">
+                  <lem><hi rend="antiqua">ac</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">et</hi>
+                  </rdg>
+               </app>
+               <app from="#app37124">
+                  <lem><hi rend="antiqua">a,</hi></lem>
+                  <rdg wit="#La #A1">mit <wit wit="#La">La</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">A,</hi>
+                  </rdg>
+               </app>
+               <app from="#app37228">
+                  <lem><hi rend="antiqua">arctius atque arctius</hi></lem>
+                  <rdg wit="#La"><wit wit="#La">La</wit>: <hi rend="antiqua">artius atque
+                        artius</hi>
+                  </rdg>
+               </app>
+               <app from="#app37311">
+                  <lem><hi rend="antiqua">Etenim si filum</hi></lem>
+                  <rdg wit="#Ha1">
+                     <wit wit="#Ha1">Ha1</wit>: <hi rend="antiqua">Etenim filum</hi>
+                  </rdg>
+               </app>
+               <app from="#app37316">
+                  <lem><hi rend="antiqua">per</hi></lem>
+                  <rdg wit="#Ki #A1"> mit <wit wit="#Ki">Ki</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">p</hi>
+                  </rdg>
+               </app>
+               <app from="#app37317">
+                  <lem><hi rend="antiqua">dimoveantur</hi></lem>
+                  <rdg wit="#Ha1">
+                     <wit wit="#Ha1">Ha1</wit>: <hi rend="antiqua">dimoveant</hi>
+                  </rdg>
+               </app>
+               <app from="#app37321">
+                  <lem><hi rend="antiqua">ire</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">iri</hi>
+                  </rdg>
+               </app>
+               <app from="#app37420">
+                  <lem><hi rend="antiqua">materiae durae</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">materias duras</hi>
+                  </rdg>
+               </app>
+               <app from="#app37421a">
+                  <lem><hi rend="antiqua">aqua</hi></lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: <hi rend="antiqua">aquam</hi>
+                  </rdg>
+               </app>
+               <app from="#app37421b">
+                  <lem><hi rend="antiqua">arctiora</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">artiora</hi>
+                  </rdg>
+               </app>
+               <app from="#app37422">
+                  <lem><hi rend="antiqua">muro … firmiter</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">muro ab i n f b
+                        firmiter</hi>
+                  </rdg>
+               </app>
+               <app from="#app37426">
+                  <lem><hi rend="antiqua">apprimentem</hi></lem>
+                  <rdg wit="#Ha1">
+                     <wit wit="#Ha1">Ha1</wit>: <hi rend="antiqua">experimentem</hi>
+                  </rdg>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">opprimentem</hi>
+                  </rdg>
+               </app>
+               <app from="#app37435">
+                  <lem><hi rend="antiqua">factus</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">facta</hi>
+                  </rdg>
+                  <rdg wit="#Th"><abbr>V</abbr>(<wit wit="#Th">Th</wit>): <hi rend="antiqua">factus,
+                        margo-factus</hi>
+                  </rdg>
+               </app>
+               <app from="#app37513">
+                  <lem><hi rend="antiqua">suo v</hi></lem>
+                  <rdg wit="#Ad #A1">mit <wit wit="#Ad">Ad</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">suo o</hi>
+                  </rdg>
+               </app>
+               <app from="#app37517">
+                  <lem><hi rend="antiqua">sunt</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">est</hi>
+                  </rdg>
+               </app>
+               <app from="#app37519">
+                  <lem><hi rend="antiqua">Cum</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">Quum</hi>
+                  </rdg>
+               </app>
+               <app from="#app37520">
+                  <lem><hi rend="antiqua">distensionis</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">distensiones</hi>
+                  </rdg>
+               </app>
+               <app from="#app37529">
+                  <lem><hi rend="antiqua">remotae</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">remota</hi>
+                  </rdg>
+               </app>
+               <app from="#app37530">
+                  <lem><hi rend="antiqua">arctius</hi></lem>
+                  <rdg wit="#La"><wit wit="#La">La</wit>: <hi rend="antiqua">artius</hi>
+                  </rdg>
+               </app>
+               <app from="#app37613">
+                  <lem><hi rend="antiqua">quamquam</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">quanquam</hi>
+                  </rdg>
+               </app>
+               <app from="#app37619">
+                  <lem><hi rend="antiqua">elementa</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">elemento</hi>
+                  </rdg>
+                  <note rend="italic">vermutlich Druckfehler</note>
+               </app>
+               <app from="#app37620">
+                  <lem><hi rend="antiqua">idem</hi></lem>
+                  <rdg wit="#La #A1">mit <wit wit="#La">La</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">ide</hi>
+                  </rdg>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">id</hi>
+                  </rdg>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">inde</hi>
+                  </rdg>
+               </app>
+               <app from="#app37622">
+                  <lem><hi rend="antiqua">commonstrat</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">demonstrat</hi>
+                  </rdg>
+               </app>
+               <app from="#app37708">
+                  <lem><hi rend="antiqua">quam</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">quem</hi>
+                  </rdg>
+               </app>
+               <app from="#app37712">
+                  <lem><hi rend="antiqua">inquam</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">in quam</hi>
+                  </rdg>
+                  <note rend="italic">vermutlich Druckfehler</note>
+               </app>
+               <app from="#app37727">
+                  <lem><hi rend="antiqua">differre</hi>.</lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">differre?</hi>
+                  </rdg>
+               </app>
+               <app from="#app37732">
+                  <lem><hi rend="antiqua">ex Newtoni</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">Newtonis</hi>
+                  </rdg>
+               </app>
+               <app from="#app37808">
+                  <lem><hi rend="antiqua">cinereus</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">cinericus</hi>
+                  </rdg>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">cinericius</hi>
+                  </rdg>
+               </app>
+               <app from="#app37811">
+                  <lem><hi rend="antiqua">transmittendae</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">transmittendo</hi>
+                  </rdg>
+               </app>
+               <app from="#app37824">
+                  <lem><hi rend="antiqua">huic</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">hujus</hi>
+                  </rdg>
+               </app>
+               <app from="#app37828">
+                  <lem><hi rend="antiqua">gradus</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">gradum</hi>
+                  </rdg>
+               </app>
+               <app from="#app37837">
+                  <lem><hi rend="antiqua">Pic du Midi</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">Pic de Midi</hi>
+                  </rdg>
+               </app>
+               <app from="#app37911">
+                  <lem><hi rend="antiqua">ipsi</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">ipso</hi>
+                  </rdg>
+               </app>
+               <app from="#app37922">
+                  <lem><hi rend="antiqua">licet</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">liquet</hi>
+                  </rdg>
+               </app>
+               <app from="#app37926">
+                  <lem><hi rend="antiqua">celebrato</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">celebrata</hi>
+                  </rdg>
+               </app>
+               <app from="#app37934">
+                  <lem><hi rend="antiqua">sibi</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">sive</hi>
+                  </rdg>
+               </app>
+               <app from="#app37936">
+                  <lem><hi rend="antiqua">avide se uniunt</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">avidae se veniunt</hi>
+                  </rdg>
+               </app>
+               <app from="#app37938">
+                  <lem><hi rend="antiqua">refugiant</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">refugiunt</hi>
+                  </rdg>
+               </app>
+               <app from="#app38001a">
+                  <lem><hi rend="antiqua">repelleant; ita</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">repellant. Ita</hi>
+                  </rdg>
+               </app>
+               <app from="#app38001b">
+                  <lem><hi rend="antiqua">iis</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">vis</hi>
+                  </rdg>
+                  <note rend="italic">vermutlich Druckfehler</note>
+               </app>
+               <app from="#app38002">
+                  <lem><hi rend="antiqua">adunationem conciliando</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">adunationem conciliandae</hi>
+                  </rdg>
+                  <rdg wit="#La #Th"><abbr>V</abbr>(<wit wit="#La">La</wit> nach <wit wit="#Th">Th</wit>): <hi rend="antiqua">adunationi conciliandae</hi>
+                  </rdg>
+               </app>
+               <app from="#app38004">
+                  <lem><hi rend="antiqua">admirandam</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">admirandum</hi>
+                  </rdg>
+               </app>
+               <app from="#app38006">
+                  <lem><hi rend="antiqua">equidem</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">quidem</hi>
+                  </rdg>
+               </app>
+               <app from="#app38010">
+                  <lem><hi rend="antiqua">bullulae</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">cellulae</hi>
+                  </rdg>
+               </app>
+               <app from="#app38013a">
+                  <lem><hi rend="antiqua">molem suam</hi></lem>
+                  <rdg wit="#Ha1">
+                     <wit wit="#Ha1">Ha1</wit>: <hi rend="antiqua">molem</hi>
+                  </rdg>
+               </app>
+               <app from="#app38013b">
+                  <lem><hi rend="antiqua">detineant</hi></lem>
+                  <rdg wit="#Bu">
+                     <wit wit="#Bu">Bu</wit>: <hi rend="antiqua">detineat</hi>
+                  </rdg>
+               </app>
+               <app from="#app38017">
+                  <lem><hi rend="antiqua">aequilibratur</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">aequilibrantur</hi>
+                  </rdg>
+               </app>
+               <app from="#app38022">
+                  <lem><hi rend="antiqua">portiunculae</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">portiuncula</hi>
+                  </rdg>
+               </app>
+               <app from="#app38037">
+                  <lem><hi rend="antiqua">admotum</hi></lem>
+                  <rdg wit="#Ad">
+                     <wit wit="#Ad">Ad</wit>: <hi rend="antiqua">amotum</hi>
+                  </rdg>
+               </app>
+               <app from="#app38129">
+                  <lem><hi rend="antiqua">coaluerunt</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">caluerunt</hi>
+                  </rdg>
+               </app>
+               <app from="#app38133">
+                  <lem><hi rend="antiqua">materiae pars</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">materiae</hi>
+                  </rdg>
+               </app>
+               <app from="#app38135">
+                  <lem><hi rend="antiqua">hisce</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">his</hi>
+                  </rdg>
+               </app>
+               <app from="#app38137">
+                  <lem><hi rend="antiqua">fuisse</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">fluisse</hi>
+                  </rdg>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">fluxisse</hi>
+                  </rdg>
+               </app>
+               <app from="#app38203">
+                  <lem><hi rend="antiqua">sint</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">sunt</hi>
+                  </rdg>
+               </app>
+               <app from="#app38205">
+                  <lem><hi rend="antiqua">verisimilitudine</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">veri similitudine</hi>
+                  </rdg>
+               </app>
+               <app from="#app38215">
+                  <lem><hi rend="antiqua">arctissima</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">artissima</hi>
+                  </rdg>
+               </app>
+               <app from="#app38218">
+                  <lem><hi rend="antiqua">utpote</hi></lem>
+                  <rdg wit="#Ha1">
+                     <wit wit="#Ha1">Ha1</wit>: <hi rend="antiqua">ut qui</hi>
+                  </rdg>
+               </app>
+               <app from="#app38219">
+                  <lem><hi rend="antiqua">concrescens et elasticitate</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">concrescens
+                        elasticitate</hi>
+                  </rdg>
+               </app>
+               <app from="#app38225">
+                  <lem><hi rend="antiqua">substratis … quippe</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">substratis, quippe</hi>
+                  </rdg>
+               </app>
+               <app from="#app38227">
+                  <lem><hi rend="antiqua">sit</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">fit</hi>
+                  </rdg>
+               </app>
+               <app from="#app38229">
+                  <lem><hi rend="antiqua">acidum, amplexibus</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">acidum complexibus</hi>
+                  </rdg>
+               </app>
+               <app from="#app38306">
+                  <lem><hi rend="antiqua">diversa sit … natura</hi></lem>
+                  <rdg wit="#Ha1">
+                     <wit wit="#Ha1">Ha1</wit>: <hi rend="antiqua">diversae substantiae natura</hi>
+                  </rdg>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">diversa substantiae
+                        natura</hi>
+                  </rdg>
+               </app>
+               <app from="#app38307">
+                  <lem><hi rend="antiqua">elementis</hi></lem>
+                  <rdg wit="#Ha #A1"> mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">elementi</hi>
+                  </rdg>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">elemento</hi>
+                  </rdg>
+               </app>
+               <app from="#app38310">
+                  <lem><hi rend="antiqua">si aliae</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">aliae</hi>
+                  </rdg>
+               </app>
+               <app from="#app38311">
+                  <lem><hi rend="antiqua">sint</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">sunt</hi>
+                  </rdg>
+               </app>
+               <app from="#app38325">
+                  <lem><hi rend="antiqua">quem</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">quam</hi>
+                  </rdg>
+               </app>
+               <app from="#app38331">
+                  <lem><hi rend="antiqua">renitentiae</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">renitentia</hi>
+                  </rdg>
+               </app>
+               <app from="#app38332a">
+                  <lem><hi rend="antiqua">arcendam</hi></lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: <hi rend="antiqua">arcendum</hi>
+                  </rdg>
+               </app>
+               <app from="#app38332b">
+                  <lem><hi rend="antiqua">amplexus</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">complexus</hi>
+                  </rdg>
+               </app>
+               <app from="#app38334">
+                  <lem><hi rend="antiqua">quanta</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">quantaquanta</hi>
+                  </rdg>
+               </app>
+               <app from="#app38408">
+                  <lem><hi rend="antiqua">qui</hi></lem>
+                  <rdg wit="#La #Th #A1">mit <abbr>V</abbr>(<wit wit="#La">La</wit> nach <wit wit="#Th">Th</wit>) zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">quae</hi>
+                  </rdg>
+               </app>
+               <app from="#app38409">
+                  <lem><hi rend="antiqua">attractione</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">attractioni</hi>
+                  </rdg>
+               </app>
+               <app from="#app38410">
+                  <lem><hi rend="antiqua">subtilissima</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">subtilissimae</hi>
+                  </rdg>
+               </app>
+               <app from="#app38414">
+                  <lem><hi rend="antiqua">lumini</hi></lem>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">lumine</hi>
+                  </rdg>
+               </app>
+               <app from="#app38417">
+                  <lem><hi rend="antiqua">districtos hoc, quicquid</hi></lem>
+                  <rdg wit="#Ha1">
+                     <wit wit="#Ha1">Ha1</wit>: <hi rend="antiqua">districtos, hoc, quicquid</hi>
+                  </rdg>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: <hi rend="antiqua">districtos. Hoc quicquid</hi>
+                  </rdg>
+               </app>
+               <app from="#app38419">
+                  <lem><hi rend="antiqua">Philosophicae</hi></lem>
+                  <rdg wit="#SchuRo">
+                     <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">Philosophiae</hi>
+                  </rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P05En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en37118">
+               <hi rend="antiqua">ex Cartesii sententia</hi>] Vgl. <hi rend="smallCaps">Descartes</hi> 1644, Teil 2, Artikel 54–62 (<hi rend="smallCaps">Descartes</hi> 1905, 70 ff.). Kants Hinweis ist jedoch nur teilweise richtig,
+               denn für Descartes ist die tatsächliche Bewegung der Teilchen im Wesentlichen eine
+               allgemeine Bedingung der Fluidität, vgl. La, 563. Beck weist darauf hin, dass
+               Descartes eigentlich allen Teilen von flüssigen Körpern Bewegung zuschreibt
+               („<foreign xml:lang="en">Descartes ascribes motion to all the parts of fluid
+                  bodies</foreign>“; <hi rend="smallCaps">Beck</hi> 2012, 713). <hi rend="smallCaps">Adickes</hi> 1925, 43, schlägt vor, anstelle von ‚Cartesii‘
+               ,Euleri‘ zu lesen, der später erwähnt wird (<ref type="textRef" target="#tr34627">346<hi rend="sup">27</hi></ref>); die Hypothese wurde aber von <hi rend="smallCaps">Manganaro</hi> 1997, 624, verworfen.</note>
+            <note type="editorial" xml:id="en37227">
+               <hi rend="antiqua">ut supra demonstratum est</hi>] Gemeint ist die vorige <hi rend="italic">Propositio II.</hi></note>
+            <note type="editorial" xml:id="en37417a">
+               <hi rend="antiqua">Lex</hi>] <hi rend="smallCaps">Beck</hi> 2012, 713, meint, Kant
+               beziehe sich hier auf das hookesche Gesetz, das die Wirkung einer Kraft auf
+               elastische Körper wie z. B. Federn beschreibt.</note>
+            <note type="editorial" xml:id="en37417b">
+               <hi rend="antiqua">elastra</hi>] <hi rend="smallCaps">Agostini</hi> 2014, 310,
+               hält sich an das kanonische Verständnis von elastrum (‚elastischer Körper‘). Vgl.
+               aber <hi rend="smallCaps">Adickes</hi> 1925, 25 f. Man beachte auch, wie der
+               Begriff hier mit der gleichen Bedeutung und dem gleichen Bezug auf die
+               Verhältnismäßigkeit der Gewalt wiederkehrt wie in der <hi rend="italic">Nova
+                  dilucidatio</hi>, <ref type="textRef" target="#tr42410">424<hi rend="sup">10</hi></ref>.</note>
+            <note type="editorial" xml:id="en37417c">
+               <hi rend="antiqua">comprimi</hi>] <hi rend="smallCaps">Agostini</hi> 2014, 310,
+               hat darauf aufmerksam gemacht, dass sich Kant über die Verwendung der
+               Federkompression in Johann <hi rend="smallCaps">Bernoullis</hi> (1727) Widerlegung
+               des Einspruchs von James <hi rend="smallCaps">Jurin</hi> (1732) gegen den
+               Zusammenstoß zweier nicht elastischer und ungleicher Körper bereits geäußert
+               hatte: Vgl. <hi rend="italic">Wahre Schätzung</hi>, § 45 und § 47.</note>
+            <note type="editorial" xml:id="en37523">
+               <hi rend="antiqua">de la Hire</hi>] Gabriel Philippe de La Hire bezieht sich auf
+               die Versuche seines Vaters Philippe de La Hire (1640–1718). Aus seiner Abhandlung
+               (<hi rend="smallCaps">La Hire</hi> 1730), in deutscher Übersetzung: „Er fand,
+               die Ausdehnungen wären in <hi rend="italic">ratione directa</hi> der Gewichte. Als
+               er aber auch sehen wollte, wie sich eine Feder zusammendrückte, nahm er wahr, daß
+               ihre Verdichtungen nicht mehr in <hi rend="italic">ratione directa</hi>, sondern
+               <hi rend="italic">reciproca</hi> eben derselben Gewichte […]. Auf diesen
+               Versuch gründet er also seine allgemeine Regel, welche mit des Herrn Mariotte
+               seiner, und denen Versuchen, die der Herr Amontons in Gegenwart der Akademie
+               gemacht hat, vollkommen übereinstimmt." (<hi rend="smallCaps">Steinwehr</hi> 1748,
+               461 f.)</note>
+            <note type="editorial" xml:id="en37626">
+               <hi rend="antiqua">sect. I.</hi>] Gemeint ist der erste Abschnitt (<hi rend="italic">Sectio I</hi>) der Schrift.</note>
+            <note type="editorial" xml:id="en37720">
+               <hi rend="antiqua">Newtonus</hi>] Vgl. <hi rend="smallCaps">Newton</hi> 1719, <hi rend="italic">Query</hi> 22, 351–354. Kant besaß laut <hi rend="smallCaps">Warda</hi> 1922 eine Ausgabe des Werks.</note>
+            <note type="editorial" xml:id="en37732">
+               <hi rend="antiqua">ex Newtoni … experimentis</hi>] <hi rend="smallCaps">Beck</hi>
+               2012, 713, verweist auf <hi rend="smallCaps">Newton</hi> 1704, 2. Buch, <hi rend="italic">Propositio</hi> 10.</note>
+            <note type="editorial" xml:id="en37734">
+               <hi rend="antiqua">oleum thereb. cet.</hi>] Die Terebinthe (Terebinthus) ist ein
+               Strauch aus der Familie der Anacardiaceae, der ein Harz produziert, das auf Chios
+               oder Zypern (den beiden Hauptproduktionsorten) Terpentin genannt wird und seit der
+               Antike als wertvolles Heilmittel gilt.</note>
+            <note type="editorial" xml:id="en37803">
+               <hi rend="antiqua">Eulero</hi>] Vgl. die Schrift Leonhard <hi rend="smallCaps">Eulers</hi> (1746), in der er die Wellentheorie des Lichts gegen die
+               newtonsche Korpuskeltheorie erneuerte.</note>
+            <note type="editorial" xml:id="en37806">
+               <hi rend="antiqua">e cineribus clavellatis</hi>] Aus Kaliumcarbonat oder
+               Pottasche.</note>
+            <note type="editorial" xml:id="en37822">
+               <hi rend="antiqua">Amontons</hi>] Guillaume Amontons (1663–1705) veröffentlichte
+               verschiedentlich Aufsätze über Wärmemessung und Thermometer; z. B.: „<foreign xml:lang="fr">Experiences sur la Rarefaction de l'Air</foreign>“ (<hi rend="smallCaps">Amontons</hi> 1730). Vgl. auch <hi rend="smallCaps">Amontons</hi> 1705a; <hi rend="smallCaps">Amontons</hi> 1705b. Kant könnte
+               Amontons Überlegungen auch aus den <hi rend="italic">Elementa chemiae</hi> von
+               Herman <hi rend="smallCaps">Boerhaave</hi> (1732) herangezogen haben; vgl. <hi rend="smallCaps">Adickes</hi> 1925, 45.</note>
+            <note type="editorial" xml:id="en37832a">
+               <hi rend="antiqua">Fahrenheitius</hi>] Vgl. den lateinischen Beitrag (<hi rend="smallCaps">Fahrenheit</hi> 1726) Daniel Gabriel Fahrenheits
+               (1686–1736).</note>
+            <note type="editorial" xml:id="en37832b">
+               <hi rend="antiqua">Boerhaavio</hi>] Vgl. <hi rend="smallCaps">Boerhaave</hi> 1732,
+               1. Buch (<hi rend="italic">De theoria artis</hi>).</note>
+            <note type="editorial" xml:id="en37835">
+               <hi rend="antiqua">Monnierus</hi>] Louis Guillaume Le Monnier (1717–1799) und
+               César François Cassini de Thury (1714–1784) führten gemeinsam Expeditionen durch.
+               Cassini berichtet 1740 über die während einer solchen durchgeführten eigenen
+               Experimente sowie über Experimente Le Monniers (<hi rend="smallCaps">Cassini</hi>
+               1742). Cassini III bezieht sich auf die Bemerkungen seines Vaters, Jacques Cassini
+               II (1677–1756), <hi rend="smallCaps">Cassini</hi> 1730.</note>
+            <note type="editorial" xml:id="en37823">
+               <hi rend="antiqua">Secondatus</hi>] Jean-Baptiste de Secondat de Montesquieu
+               (1716–1796), Sohn von Charles-Louis de Secondat, Baron de La Brède et de
+               Montesquieu (1689–1755), wurde zur besseren Unterscheidung Secondatus genannt.
+               Vgl. seinen Bericht: <hi rend="smallCaps">Secondat de Montesquieu</hi>
+               1746.</note>
+            <note type="editorial" xml:id="en37927">
+               <hi rend="antiqua">ab Academia Cimentina</hi>] Vgl. <hi rend="smallCaps">Accademia
+                  del Cimento</hi> 1666.</note>
+            <note type="editorial" xml:id="en37938">
+               <hi rend="antiqua">voce Newtoniana</hi>] <hi rend="smallCaps">Agostini</hi> 2014,
+               314, verweist auf <hi rend="smallCaps">Newton</hi> 1704, 2. Buch, <hi rend="italic">Query</hi> 31, 403: „<foreign xml:lang="la">vim
+                  repellentem</foreign>“.</note>
+            <note type="editorial" xml:id="en38131">
+               <hi rend="antiqua">sicut Hales in Statica plantarum</hi>] Vgl. <hi rend="smallCaps">Hales</hi> 1727. Kant besaß laut <hi rend="smallCaps">Warda</hi> 1922 ein Exemplar der deutschen Übersetzung des Werkes (<hi rend="smallCaps">Hales</hi> 1748), das ein einleitendes Kompendium
+               enthält.</note>
+            <note type="editorial" xml:id="en38237">
+               <hi rend="antiqua">Maraldus</hi>] Vgl. <hi rend="smallCaps">Maraldi</hi> 1730,
+               aber auch, was Steinwehr als Einleitung zu seiner Übersetzung von den
+               „Betrachtungen vom Herrn Caßini, dem Sohne“ schreibt: „Der Herr Mariotte hatte
+               ehemals, nach der Erfahrung, festgesetzt , die Luft würde nach dem Verhältniß der
+               unterschiedenen Schwere, davon sie gedrückt würde, verschiedlich verdichtet." (<hi rend="smallCaps">Steinwehr</hi> 1748, 438–445 („Von der Verdünnung und
+               Verdichtung der Luft. Historie“), hier: 438). „Allein nachdem die Herren Caßini
+               und Maraldi, wie im Jahr 1703 angezeiget worden, die Höhe verschiedener Berge mit
+               dem Barometer gemessen, so erkannten sie, daß weder der Grundsatz des Herrn
+               Mariotte, oder die daraus folgende geometrische Progreßion, noch die an ihrer
+               statt angenommene arithmetische mit ihren Beobachtungen recht genau
+               übereinstimmten, und daß sie destomehr von einander abwichen, je höher die Berge
+               waren.“ (A. a. O., 439)</note>
+            <note type="editorial" xml:id="en38238a">
+               <hi rend="antiqua">Cassinus</hi>] Vgl. <hi rend="smallCaps">Cassini</hi> 1742,
+               92.</note>
+            <note type="editorial" xml:id="en38238b">
+               <hi rend="antiqua">legem Mariottianam</hi>] „Das heute unter dem Namen
+               Boyle-Mariotte bekannte Gesetz, daß das Produkt von Druck und Volumen bei Gasen
+               konstant ist, hieß im 18. Jahrhundert in Deutschland ‚Mariottisches Gesetz‘ […].“
+               (<hi rend="smallCaps">Lefèvre/Wunderlich</hi> 2008, Stichwort „Gesetz (Regel,
+               <foreign xml:lang="la">lex</foreign>, <foreign xml:lang="la">regula</foreign>)
+               – Mariotte (<foreign xml:lang="la">mariottiana</foreign>)“)</note>
+         </div>
+      </body>
+   </text>
+</TEI>

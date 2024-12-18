@@ -1,0 +1,919 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="5" subtype="editedText">Meditationes de igne</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4081-401X">
+						<surname>Hohenegger</surname>
+						<forename>Hansmichael</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0002-0322-4734">
+						<surname>Lamarra</surname>
+						<forename>Antonio</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-5535-5894">
+						<surname>Pozzo</surname>
+						<forename>Riccardo</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>De igne</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="5">Meditationes de igne</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4081-401X">
+								<surname>Hohenegger</surname>
+								<forename>Hansmichael</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0002-0322-4734">
+								<surname>Lamarra</surname>
+								<forename>Antonio</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-5535-5894">
+								<surname>Pozzo</surname>
+								<forename>Riccardo</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">326–365</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="la">Latin</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-10-24" who="#GN">Corrected</change>
+			<change when="2024-09-24" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-07" who="#EF">Corrected</change>
+			<change when="2023-11-13" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:lang="la">
+		<body>
+			<div n="1" type="titlePage"><pb ed="AA" n="0"/>
+				<p rend="head_03" xml:id="la001" corresp="#de001"><hi rend="uppercase">meditationum quarundam</hi></p>
+				<p rend="head_07"><hi rend="uppercase">de igne</hi></p>
+				<p rend="head_04"><hi rend="uppercase">succincta delineatio</hi></p>
+				<p rend="head_05"><hi rend="uppercase">quam</hi></p>
+				<p rend="head_05"><hi rend="uppercase">speciminis causa</hi></p>
+				<p rend="head_03"><hi rend="uppercase">amplissimae facultati philosophicae</hi></p>
+				<p rend="head_04"><hi rend="uppercase">ut examini benevole admittatur</hi></p>
+				<p rend="head_05"><hi rend="uppercase">humillime offert</hi></p>
+				<p rend="head_09"><hi rend="uppercase">Immanuel Kant</hi>,</p>
+				<p rend="head_05"><hi rend="uppercase">reg. bor. scientiarum phil. cultor</hi>.</p>
+				<milestone unit="section" rend="line"/>
+				<p rend="head_05"><hi rend="uppercase">regiomonti die xvii aprilis anno
+					mdcclv</hi>.</p>
+		</div>
+			<div n="1"><pb ed="AA" n="1"/>
+				<head rend="head_04" xml:id="la002" corresp="#de002"><hi rend="uppercase">instituti ratio</hi>.</head>
+				<p rend="indent" xml:id="la003" corresp="#de003">Non mihi <ref type="critApp" xml:id="app37102">sic</ref> animus est, rem, quae amplissimam prolixo volumini materiam
+					largitur, paucis pagellis absolvere. Quas <ref type="critApp" xml:id="app37103">hic</ref> concisas benevolo Amplissimae Facultatis Philosophicae examini
+					veluti per saturam offero meditationes, non sunt nisi veluti primae lineae
+					Theoriae, quae, si per otium licuerit, uberioris tractationis mihi segetem
+					subministrabunt. Ubivis solerter cavi, ne hypotheticae et arbitrariae <ref type="critApp" xml:id="app37107">demonstrandi</ref> rationi liberius, ut
+					fit, indulgerem, experientiae atque geometriae <ref type="critApp" xml:id="app37108">filum</ref>, sine quo e naturae recessibus vix reperitur
+					exitus, quantum potui diligentissime secutus. Quoniam itaque ignis vis in
+					rarefaciendis corporibus et ipsorum nexu solvendo potissimum exseritur, ut via
+						<ref type="critApp" xml:id="app37110">ac</ref> ratione incederem, non putavi
+					alienum fore, pauca de materiae cohaesione et natura fluidorum antea
+					disserere.</p>
+			</div>
+			<pb ed="AA" n="2"/>
+			<div n="1">
+				<head rend="head_03" xml:id="la004" corresp="#de004"><hi rend="uppercase">sectio i</hi>.</head>
+				<head rend="head_05" xml:id="la005" corresp="#de005">De corporum durorum et fluidorum natura.</head>
+				<div n="2">
+					<head rend="head_04" xml:id="la006" corresp="#de006"><hi rend="uppercase">prop. i</hi>.</head>
+					<p rend="indent" xml:id="la007" corresp="#de007">
+						<hi rend="larger">Fluiditas corporum non ex divisione materiae in partes
+							tenuissimas glabras et lenissime cohaerentes explicari potest, sicuti
+							Physicorum pars maxima <ref type="editorialNote" target="#en37118">ex
+									<persName key="cartes">Cartesii</persName> sententia</ref>
+							arbitratur.</hi></p>
+					<p rend="indent" xml:id="la008" corresp="#de008">
+						<figure xml:id="B01S0371Z19Bild01R">
+							<graphic url="images/band1/B01S0371Z19Bild01R.png" width="30%"/>
+						</figure>Repraesentet triangulum A B C sectionem cumuli particularum
+						minutissimarum globosarum conici; dico hunc cumulum superficiem suam
+						allegatis sub conditionibus ad libellam non compositurum esse, quemadmodum
+						in fluidis accidere necesse est. Etenim cum particulae c, e, g, d, f, i
+						infra positis <ref type="critApp" xml:id="app37124">a,</ref> m, n, h
+						incumbentes, quaelibet inter harum amplexus quiescat, neque situ
+						deturbentur, nisi quatenus inferiores dextrorsum et sinistrorsum loco
+						pellunt, vis autem v a, qua particula desuper gravitate premens dextrorsum
+						pellit particulam a, ex compositione virium sit tantum dimidia gravitatis
+						c o, et sic per totam <pb ed="oldAA" n="372" xml:id="B01S0372"/>coacervationem:
+						patet, cumulum in plano, si corpusculis extremis, a et z, tantummodo vis
+						quaedam obsistat, non horizontalem, sed figuram conicam obtenturum esse,
+						quemadmodum sabulum tenuissimum in horologiis arenariis aut alia quaevis
+						materia in pollinem tenuissimum contrita.</p>
+				</div>
+				<pb ed="AA" n="3"/>
+				<div n="2"><head rend="head_04" xml:id="la009" corresp="#de009"><hi rend="uppercase">prop.
+					ii</hi>.</head><p rend="indent" xml:id="la010" corresp="#de010">
+						<hi rend="larger">Acervatio particularum quantumvis subtilissimarum et
+							levissime cohaerentium tamen staticae legi non satisfacit, pressionem
+							versus latera altitudini proportionalem exercendo, adeoque charactere
+							fluiditatis principali caret, nisi semet mediante materia quadam
+							elastica premant, cujus ope momentum ponderis sui quaquaversum
+							aequabiliter possint communicare.</hi>
+					</p>
+					<p rend="indent" xml:id="la011" corresp="#de011">Cum enim ex antecedenti
+						propositione patescat, coacervatas particulas immediate se prementes non
+						exercere latera versus pressionem altitudini proportionalem, alia quaedam
+						materia fluidi elementares partes intercedat necesse est, qua mediante
+						ponderis momentum quaquaversum dispertire possint aequabiliter. At cum talis
+						materia, quae alicubi pressa aliorsum semet eadem vi expandere nititur,
+						elastica communiter audiat: necesse est, ut moleculae fluidorum solidae non
+						sibi immediate, sed materiae cuidam elasticae ipsis intermistae incumbant,
+						cujus ope, quicquid desuper premit virium, versus latera eadem quantitate
+						agat.</p>
+					<p rend="indent" xml:id="la012" corresp="#de012">Probandum mox erit, hanc, corporis
+						fluidi elementa intercedentem, materiam elasticam non esse aliud nisi
+						materiam caloris.</p>
+				</div>
+				<div n="2">
+					<head rend="head_04" xml:id="la013" corresp="#de013"><hi rend="uppercase">prop. iii</hi>.</head>
+					<p rend="indent" xml:id="la014" corresp="#de014">
+						<hi rend="larger">Corpora dura haud secus quam fluida moleculis continentur
+							non immediato contactu, sed materia elastica pariter mediante
+							cohaerentibus.</hi>
+					</p>
+					<p rend="indent" xml:id="la015" corresp="#de015">Corpora fluida, <ref type="editorialNote" target="#en37227">ut supra demonstratum est</ref>, mediante elastica
+						quadam materia cohaerent. Ast cum, quae e fluidis induruerunt metalla,
+						aliaque id genus corpora semper pro gradu caloris diminuto <ref type="critApp" xml:id="app37228">arctius atque
+						arctius</ref> volumen occupent et secundum omnes dimensiones condensentur, adeoque
+						elementis ipsorum non deficiat spatium semper sibi propius accedendi, hinc
+						non immediato contactu compacta sint: patet, etiam moles corporum durorum
+						materiam quandam intra partes suas intermistam continere, qua mediante
+						moleculae solidae, quanquam a contactu mutuo remotae, tamen se invicem
+						attrahant, aut, si mavis, cohaereant, adeoque hac ratione cum fluidis
+						convenire.</p>
+				</div>
+				<pb ed="AA" n="4"/>
+				<div n="2">
+					<head rend="head_04" xml:id="la016" corresp="#de016">
+						<pb ed="oldAA" n="373" xml:id="B01S0373"/>
+						<hi rend="uppercase">prop. iv</hi>.
+					</head>
+					<p rend="indent" xml:id="la017" corresp="#de017">
+						<hi rend="larger">Ope materiae jam dictae, qua mediante corporis elementa,
+							quantumvis a contactu mutuo remota, tamen invicem se attrahunt,
+							explicare phaenomena corporum durorum.</hi>
+					</p>
+					<p rend="indent" xml:id="la018" corresp="#de018">Corpora dura,
+						praesertim quae ex fluidis induruerunt, ut metalla, vitrum,
+							<abbr>cet.</abbr> hoc habent peculiare et notatu dignissimum, quod
+						appenso pondere aliquantulum extendantur absque ruptione, adeoque, cui in
+						proxima partium adunatione concedunt ponderi, id, ubi hae aliquantulum a se
+						invicem dimotae sunt, ferre possint, et in maximo extensionis gradu maximo
+						etiam ponderi ferendo apta sint. Hoc vero phaenomenon contendo non ex
+						particulis solidis immediate cohaerentibus explicari posse. <ref type="critApp" xml:id="app37311">Etenim si filum</ref> metallicum
+						constet 
+						<figure xml:id="B01S0373Z12Bild01R">
+							<graphic url="images/band1/B01S0373Z12Bild01R.png" width="50%"/>
+						</figure>
+						particulis vel secundum schema 1 adunatis, vel ad interstitia
+						vacua, quantum fieri potest, excludenda secundum <abbr>fig.</abbr> 2
+						dispositis, vel ut parallelepipeda ita superficieculis se contingentia
+							<abbr>fig.</abbr> 3 ut pondere appenso <ref type="critApp" xml:id="app37316">per</ref> spatiola a, o, i, e <abbr>cet.</abbr> a
+						contactu <ref type="critApp" xml:id="app37317">dimoveantur</ref> et tamen
+						ceteris superficiebus cohaereant: tamen statim apparet, si pondus appensum
+						filum tale metallicum vel tantillum in longitudinem extendat, in figura 1
+						partes illico, quippe semet amplius non contingentes, divulsas fore; et, si
+						postules, partes ad latera positas a, b, c, d, extensione in longitudinem
+						facta, introrsum concedere et diruptionem impeditum <ref type="critApp" xml:id="app37321">ire</ref>, tamen, crassitie
+						hoc modo aliquantum imminuta, ponderi, cui prius cesserunt, tum multo minus
+						obsistere posse; in <abbr>fig.</abbr> 3 vero, quae totis superficiebus suis
+						se tetigerunt particulae, cum semet tantum parte quadam tangunt, a pondere
+						plane separatum iri, extra dubitationem est. Ideoque in omni casu
+						assignabili filum distendi se non patietur, nisi et simul rumpatur. Quod cum
+						experientiae contrarietur, patet, elementa corporum durorum non immediato
+						contactu, sed mediante materia quadam in definita etiam distantia semet
+						attrahere.</p><pb ed="AA" n="5"/>
+					<p rend="indent" xml:id="la019" corresp="#de019">Ideoque ex hac mea hypothesi
+						phaenomenon hoc corporum durorum secundum observatas naturae leges et
+						geometriae praecepta explicare periculum faciam. Etenim si corpus ex fluido
+						indurescens ponam situm talem elementorum acquirere, ut intercedente materia
+						elastica a contactu mutuo aliquantulum semota tria semper triangulum
+						aequilaterum faciant, sicuti figura 4 exhibet, (situm vero talem semper
+							affectabunt, si attrahendo se in minimum spatium
+						contrahunt,) necesse est, ut, si pondus appensum trahat systema hoc
+						particularum secundum directionem a d, distantia corpusculorum a et c major
+						fiat, ut <abbr>fig.</abbr> 5 exhibet, distantia a b autem et b c aequales
+						priori maneant, quippe <w lemma="appropinquante">appro<pb ed="oldAA" n="374" xml:id="B01S0374"/>pinquante</w>
+						<figure xml:id="B01S0374Z01Bild01L">
+							<graphic url="images/band1/B01S0374Z01Bild01L.png" width="45%"/>
+						</figure> elemento b puncto d, ita ut cum duobus a et c angulum priori
+							<abbr>fig.</abbr> 4 majorem includat. Manente autem hoc pacto illibata
+						materiae elasticae intermistae densitate, (propter proprie non auctum
+						corporis extensi volumen,) attractiones <abbr>s.</abbr>, si mavis,
+						cohaesiones particularum a et c hoc vinculo haud erunt imminutae. Verum
+						attractio particulae b, <figure xml:id="B01S0374Z10Bild02L">
+							<graphic url="images/band1/B01S0374Z10Bild02L.png" width="18%"/>
+						</figure>quatenus jungit elementa a et c, facta extensione <abbr>s.</abbr>
+						diductione particularum a et c, fit proportionalis lineae a d
+							<abbr>fig.</abbr> 5, cum antea propter minorem angulum b
+							<abbr>fig.</abbr> 4 minor fuerit; adeoque vis, qua particulae extensione
+						aliqua facta a diruptione retinentur, crescit et quidem in directa ratione
+						lineae a d, hoc est, secundum quantitatem extensionis.</p></div>
+				<div n="2"><head rend="head_04" xml:id="la020" corresp="#de020"><hi rend="uppercase">prop. v</hi>.</head>
+					<p rend="indent" xml:id="la021" corresp="#de021">
+						<hi rend="larger">
+							<ref type="editorialNote" target="#en37417a">Lex</ref>, secundum quam
+								<ref type="editorialNote" target="#en37417b">elastra</ref> comperta
+							sunt <ref type="editorialNote" target="#en37417c">comprimi</ref> in
+							spatia viribus proportionalia, optime cum allegata nostra hypothesi
+							conspirat.</hi>
+					</p>
+					<pb ed="AA" n="6"/>
+					<p rend="indent" xml:id="la022" corresp="#de022">Quae in corporibus
+						duris compressiones vulgo vocantur, dilatationis verius <abbr>s.</abbr>
+						extensionis nomine nuncupandae sunt; quippe <ref type="critApp" xml:id="app37420">materiae durae</ref> multo minus, quam <ref type="critApp" xml:id="app37421a">aqua</ref>, 
+						in <ref type="critApp" xml:id="app37421b">arctiora</ref> spatia vi
+						comprimente adigi posse, per se liquet. <figure xml:id="B01S0374Z22Bild03L">
+							<graphic url="images/band1/B01S0374Z22Bild03L.png" width="33%"/>
+						</figure>
+						Sit itaque elastrum f e c b
+							(<abbr>fig.</abbr> 1), <ref type="critApp" xml:id="app37422">muro a b
+							in f b firmiter</ref> insertum, prematur versus murum ita, ut sit situs
+						ipsius i x f b: primo contendo, marginem elastri externum b c hac ratione
+						aliquantulum extendi et majorem in hoc statu desiderare vim <ref type="critApp" xml:id="app37426">apprimentem</ref>, quo magis
+						extenditur; deinde vires, quibus elastrum per spatium aliquod retinaculo a b
+						admovetur, ex principiis nostris fore ut haec spatia, quamdiu pressiones
+						sunt mediocres.</p>
+					<p rend="indent" xml:id="la023" corresp="#de023">Si itaque elastrum vi
+						quadam premente sit in situm 2 redactum et per spatium c s muro propius
+						admotum, sectio e c mutabitur in situm i x. Ducatur per crassitiem linea i s,
+						sectioni e c parallela, erit i f = s o = c m et x o parte x s margine c m
+						longior extensione <ref type="critApp" xml:id="app37435">factus</ref>; porro
+						si apprimere pergas, usque dum in situm 3, g k f b, redactum sit elastrum,
+						ducta g h, itidem e c parallela, quantitas extensionis k h erit quantitate
+						x s major; hinc ex supra demonstratis patet, quomodo hoc pacto situs 3
+						majorem, quam situs 2, vim apprimentem desideret.</p>
+					<p rend="indent" xml:id="la024" corresp="#de024">
+						<pb ed="oldAA" n="375" xml:id="B01S0375"/>Verum nunc, quanam ratione vires
+						spatiis compressionis comparatae se habeant, indagandum. Margo x b in situ
+						2, quantumlibet aliquantulum incurvatus, tamen in casu compressionum
+						mediocrium pro recto haberi potest, item linea k b in situ 3; ponatur porro,
+						sectionem elastri horizontalem e c <abbr>no.</abbr> 1 continuatam per puncta
+						i et g <figure xml:id="B01S0375Z04Bild01R">
+							<graphic url="images/band1/B01S0375Z04Bild01R.png" width="33%"/>
+						</figure>transire, quod, quoniam in mediocri compressionis gradu quam
+						proxime accidit, hic absque errore sumi poterit. Est itaque in triangulo
+						i x s angulus x = angulo c, quippe eadem est sectio elastri, quae
+							<abbr>no.</abbr> 1, angulus s aequatur verticali <ref type="critApp" xml:id="app37513">suo v</ref>, ideoque
+						triangula s c b et i x s sunt similia. Pariter in triangulo g k h
+							<abbr>no.</abbr> 3 omnia cum triangulo h c b eadem ratione se habent,
+						ideoque argumentatio sequens prodit:</p>
+					<pb ed="AA" n="7"/>
+					<p rend="indent" xml:id="la025" corresp="#de025">
+						<figure xml:id="B01S0375Z14Formel01">
+							<graphic url="images/band1/B01S0375Z14Formel01.png" width="35%"/>
+						</figure>
+						</p>
+					<p xml:id="la026" corresp="#de026">hoc est: quantitates x s et k h, quibus
+							distenditur elastri margo extimus b c, <ref type="critApp" xml:id="app37517">sunt</ref> in ratione spatiorum compressionis s c et h c.</p>
+					<p rend="indent" xml:id="la027" corresp="#de027">
+						<ref type="critApp" xml:id="app37519">Cum</ref> vero e <abbr>prop.</abbr>
+						IV. constet, secundum hypothesin nostram vires distendentes quantitati <ref type="critApp" xml:id="app37520">distensionis</ref> proportionales esse
+						oportere, hoc in casu liquet, vires elastrum comprimentes spatio
+						compressionis proportionales fore.</p>
+					<p rend="indent" xml:id="la028" corresp="#de028">Egregie asserta haec nostra, quae <persName key="la_hire_gabriel_philippe_de"><ref type="editorialNote" target="#en37523">de la Hire</ref></persName> in <abbr>Monum.
+							R. A. Sc.</abbr> Paris. anni 1705 circa compressionem elastrorum
+						comperta prodidit, stabiliunt; si rem sollicite examinaveris per aliam
+						qualemcunque hypothesin vix tam apte et congrue explicanda.</p>
+					</div>
+				<div n="2">
+					<head rend="head_05" xml:id="la029" corresp="#de029">Corollarium generale.</head>
+					<p rend="indent" xml:id="la030" corresp="#de030">Omne itaque corpus, si recte sentio, partibus
+						continetur solidis, intercedente materia quadam elastica ceu vinculo unitis.
+						Particulae elementares, hac intermista, quamvis a contactu mutuo <ref type="critApp" xml:id="app37529">remotae</ref>, tamen hujus ope semet
+						attrahunt et <ref type="critApp" xml:id="app37530">artcius</ref> profecto colligantur, quam per contactum immediatum
+						fieri posset. Quippe contactus molecularum ut plurimum globosarum, cum vix
+						puncto fiat, infinities debilior foret ea, quae per universam praestatur
+						superficiem, cohaesione. Hac vero ratione situs elementorum mutari salva
+						cohaesione potest et simul in promptu est, quomodo, detracta ex interstitiis
+						ex parte materia illa uniente, propius sibi possint elementa accedere et
+						volumen contrahere; contra ea, aucta vel quantitate vel etiam elasticitate
+						ipsius, corpus volumine augescere et particulae a se invicem recedere absque
+						cohaesionis jactura possint. Quae in Theoria ignis maximi momenti sunt.</p>
+					<milestone unit="section" rend="line"/>
+				</div>
+			</div>
+			<pb ed="AA" n="8"/>
+			<div n="1">
+				<head rend="head_03" xml:id="la031" corresp="#de031">
+					<pb ed="oldAA" n="376" xml:id="B01S0376"/><hi rend="uppercase">sectio ii</hi>.</head>
+				<head rend="head_05" xml:id="la032" corresp="#de032">De materia ignis ejusque modificationibus calore
+					et frigore.</head>
+				<div n="2">
+					<head rend="head_04" xml:id="la033" corresp="#de033"><hi rend="uppercase">prop. vi</hi>.</head>
+					<div n="3">
+						<head rend="head_05" xml:id="la034" corresp="#de034">Experientia.</head>
+						<p rend="indent" xml:id="la035" corresp="#de035">
+							<hi rend="larger">Ignis praesentiam suam testatur primo corpora omnia
+								tam fluida quam solida secundum omnes dimensiones rarefaciendo,
+								dein, debilitata sensim cohaesione, corporum compagem solvendo,
+								postremo partes in vapores dissipando. Frigus contra corporum
+								volumen minuit, cohaesionem roborat, e ductilibus et flexilibus
+								facit rigida, e fluidis consistentia. Calor excitatur praesertim in
+								corporibus duris et renitentibus vel tritu vel concussione. In nullo
+								corpore in immensum crescere potest. Ebullitionis gradum corpus
+								aestuando incalescens nunquam supergreditur, <ref type="critApp" xml:id="app37613">quamquam</ref> deflagrando ignescens plerumque
+								majori calore potiatur.</hi>
+						</p>
+						<p rend="indent" xml:id="la036" corresp="#de036">Cetera notatu dignissima caloris phaenomena
+							hic allegare supersedeo, quippe passim in sequentibus occursura.</p>
+					</div>
+				</div>
+				<pb ed="AA" n="9"/>
+				<div n="2">
+					<head rend="head_04" xml:id="la037" corresp="#de037"><hi rend="uppercase">prop. vii</hi>.</head>
+					<p rend="indent" xml:id="la038" corresp="#de038">
+						<hi rend="larger">Materia ignis non est nisi (sectione praecedenti
+							descripta) materia elastica, quae corporum quorumlibet <ref type="critApp" xml:id="app37619">elementa</ref>, quibus intermista
+							est, colligat; ejusque motus undulatorius <abbr>s.</abbr> vibratorius
+								<ref type="critApp" xml:id="app37620">idem</ref> est, quod caloris
+							nomine venit.</hi>
+					</p>
+					<p rend="indent" xml:id="la039" corresp="#de039">Experientia 
+						<ref type="critApp" xml:id="app37622">commonstrat</ref> 
+						<abbr>prop.</abbr> VI. corpus quodvis vel tritum vel concussum incalescere
+						atque secundum omnes dimensiones aequabiliter rarefieri. Hoc vero cum
+						praesentiam elastici cujusdam intra corporis molem contenti et
+						sollicitationibus se expandere nitentis arguat, cum praeterea corpus quodvis
+						ex demonstratis <ref type="editorialNote" target="#en37626">
+							<abbr>sect.</abbr> I.</ref> materiam elasticam interstitiis conclusam
+						teneat, quae nexui particularum inservit, quaeque adeo in motum undulatorium
+						agitari omniaque caloris phaenomena exhibere potest, patet eam a materia
+						ignis non differre.</p>
+					<div n="3">
+						<head rend="head_05" xml:id="la040" corresp="#de040">Idem probare ex phaenomenis ebullitionis.</head>
+						<p rend="indent" xml:id="la041" corresp="#de041">Corpora per calorem liquefacta ubi admoto
+							majori atque majori igne ad ebullitionem perducta sunt, nullius caloris
+							gradus amplius sunt capacia et hoc in statu bullas emittunt grandes et
+							elasticas, ita ut ponderi atmosphaerae ferendo pares sint, et quidem
+							indesinenter, quamdiu ignis urget. Hae bullae <pb ed="oldAA" n="377" xml:id="B01S0377"/>cum nihil contineant aëris elastici, neque alia
+							nisi ignis materia in corpus calore saturatum intret, quaestio occurrit,
+							cur, cum ante ebullitionem calor pariter in aquam intraverit neque tum
+							praeter bullulas nonnullas aërias id elastici se manifestaverit, in
+							momento praecise ebullitionis illud emittat. Verum cum facile sit
+							perspectu, eandem materiam elasticam, <ref type="critApp" xml:id="app37708">quam</ref> ignem appellamus, quae antea
+							pariter ac nunc intra fluidi incalescentis molem concepta est, tamdiu
+							attractione particularum detentam et compressam haesisse, quamvis
+							volumen aliquantulum dilataverit, quamdiu ejus quantitas, undulationis
+							vehementiae conjuncta, nondum attractione molecularum major facta est,
+							ast ubi adeo invaluit, ut hujus momentum jam vi sua elastica superet,
+							materiam omnem igneam, quae denuo accedit, elasticitate libera, sicuti
+							intravit, per medium fluidum trajicere, cum haec, <ref type="critApp" xml:id="app37712">inquam</ref>, materiae igneae intra corpus quodvis
+							calidum compressio pateat: non est, quod de nostrae propositionis
+							veritate dubitemus.</p>
+					</div>
+				</div>
+				<pb ed="AA" n="10"/>
+				<div n="2">
+					<head rend="head_04" xml:id="la042" corresp="#de042"><hi rend="uppercase">prop. viii</hi>.</head>
+					<p rend="indent" xml:id="la043" corresp="#de043">
+						<hi rend="larger">Materia caloris non est nisi ipse aether (<abbr>s.</abbr>
+							lucis materia) valida attractionis (<abbr>s.</abbr> adhaesionis)
+							corporum vi intra ipsorum interstitia compressus.</hi>
+					</p>
+					<p rend="indent" xml:id="la044" corresp="#de044">Primo enim corpora quaevis densiora lucem
+						immensum quantum attrahunt, ut 
+							<persName key="newton_isaac"><ref type="editorialNote" target="#en37720">Newtonus</ref></persName>
+						 e refractionis et reflexionis phaenomenis evincit, usque adeo, ut ex
+						computatione viri incomparabilis prope contactum vis attractionis decies
+						millies bimillionesimis vicibus sollicitationem gravitatis antecellat. Cum
+						vero lucis materia sit elastica, non dubitandum est, adeo immensa vi redigi
+						etiam in spatia aliquanto minora, <abbr>h. e.</abbr> comprimi, posse; cumque
+						particulae corporum lucis materiam ubique obviam inveniant, quid est, quod
+						ambigas, eam ipsam, quam in ipsis probavimus, materiam elasticam ab hoc
+						aethere non <ref type="critApp" xml:id="app37727">differre.</ref>
+					</p>
+					<p rend="indent" xml:id="la045" corresp="#de045">Secundo animadvertitur, easdem materias, quae
+						ad lucem refringendam insigni pollent efficacia, etiam ad calorem majorem,
+						igne admoto concipiendum, capaciores esse, adeo ut inde aperiant, eandem
+						attractionem, quae lucem sibi unire nititur, materiam quoque igneam sibi
+						intime unitam detinere. Olea enim, quae <ref type="editorialNote" target="#en37732">
+							<ref type="critApp" xml:id="app37732">ex <persName key="newton_isaac">Newtoni</persName>
+							</ref> aliorumque experimentis</ref> multo majore, quam pro specifica
+						gravitate sua, vi radios lucis refringunt, <abbr>h. e.</abbr> attrahunt,
+						etiam longe majorem, quam pro gravitate sua specifica, ebullitionis gradum
+						recipiunt, sicut <ref type="editorialNote" target="#en37734">oleum
+								<abbr>Thereb. cet.</abbr>
+						</ref>, eadem vero olea etiam sunt propria flammarum alimenta, et hoc in
+						statu cum lucem quaquaversum spargant, caloris et lucis materiam, quantum
+						fieri potest proxime convenire aut potius nihil differre testatum
+						reddunt.</p>
+					<div n="3">
+						<head rend="head_05" xml:id="la046" corresp="#de046">
+							<pb ed="oldAA" n="378" xml:id="B01S0378"/>Idem ex transparentia vitrorum
+							fit probabile.</head>
+						<p rend="indent" xml:id="la047" corresp="#de047">Si hypothesin naturae legibus maxime
+							congruam et nuper a clarissimo <anchor type="textRefStart" xml:id="tr34627"/><persName key="euler_leonhard"><ref type="editorialNote" target="#en37803">
+								Eulero
+							</ref></persName> novo praesidio munitam adoptaveris, lucem nempe non effluvium
+							esse corporum lucidorum, sed pressionem aetheris ubique dispersi
+							propagatam, et originem transparentiae vitri perpenderis, aetheris <pb ed="AA" n="11"/>cum
+							materia ignis connubium aut potius identitatem aperte confiteberis.
+							Vitrum enim <ref type="editorialNote" target="#en37806">e cineribus
+								clavellatis</ref>, <abbr>h. e.</abbr> alcalino sale fortissimo cum
+							sabulo vi ignis fusis, conflatum est. Cum vero sal <ref type="critApp" xml:id="app37808">cinereus</ref>, diu et vehementer ustulando,
+							materiam ignis sibi abunde unitam foveat, ubi sabulo commiscetur, per
+							universam vitri massam hoc elasticum ignis principium dispertiet, cumque
+							probabile haud sit, corpus tale, ex fluido solidescens, quomodocunque
+							verteris, apertos et rectilineos semper luci <ref type="critApp" xml:id="app37811">transmittendae</ref> meatus habere, sed magis
+							rationi consonum sit, volumen ipsius materia propria adimpletum esse,
+							patet, quia nihilo secius lucis impulsus per massam vitri propagatur,
+							intermistam esse ipsius partibus materiam ipsam lucis et molis ipsius
+							partem esse. Quoniam vero materiam ignis vidimus vitri partem haud
+							contemnendam efficere et large per hujus solida elementa dispertitam
+							esse, vix dubitationi locus sit, materiam caloris cum aethere
+								<abbr>s.</abbr> lucis elemento eandem plane esse.</p>
+					</div>
+				</div>
+				<div n="2">
+					<head rend="head_04" xml:id="la048" corresp="#de048"><hi rend="uppercase">prop. ix</hi>.</head>
+					<p rend="indent" xml:id="la049" corresp="#de049">
+						<hi rend="larger">Gradum caloris metiri, <abbr>h. e.</abbr> proportionem,
+							quam diversi caloris gradus erga se obtinent, in numeris exprimere.</hi>
+					</p>
+					<p rend="indent" xml:id="la050" corresp="#de050">
+						<persName key="amontons_guilleaume"><ref type="editorialNote" target="#en37822">
+							Amontons
+						</ref></persName>, celeberrimum <abbr>Ac. R. Sc. Paris.</abbr> membrum, ita quidem hujus
+						problematis resolutionem primus detexit. Cum ignis vis in rarefaciendis
+						corporibus proprie exseratur, per vim comprimentem, <ref type="critApp" xml:id="app37824">huic</ref> rarefactionis nisui oppositam, ipsius
+						quantitatem metiri congruum erit. Quia vero aër imminuto quantumvis calore
+						deprehendatur vi prementi concedere et volumine minui, usque adeo, ut recte
+						putandus sit omnem suam elasticitatem calori soli acceptam ferre, Vir clarus
+						hac hypothesi fultus consilium iniit caloris <ref type="critApp" xml:id="app37828">gradus</ref> elastica aëris huic calori expositi vi
+						metiendi, <abbr>h. e.</abbr> pondere, cui hoc calore actus sub eodem
+						volumine ferendo compos est.</p>
+					<pb ed="AA" n="12"/>
+					<div n="3">
+						<head rend="head_05" xml:id="la051" corresp="#de051"><hi rend="uppercase">nota</hi>.</head>
+						<p rend="indent" xml:id="la052" corresp="#de052">
+							<persName key="fahrenheit_daniel_gabriel">
+								<ref type="editorialNote" target="#en37832a">Fahrenheitius</ref>
+							</persName>, <anchor type="textRefStart" xml:id="tr35002"/><persName key="boerhaave_hermann">
+								<ref type="editorialNote" target="#en37832b">Boerhaavio</ref>
+							</persName> referente, singulare liquorum igne ebullientium ingenium
+							primus animadvertit, quod nempe hic caloris gradus pondere atmosphaerae
+							graviore sit intensior, et minore aëris pressione in puncto ebullitionis
+							minorem habeat caloris gradum. Idem <persName key="monnier_s_le_monnier">
+								<ref type="editorialNote" target="#en37835">Monnierus</ref>
+							</persName> ex relatione <abbr>Acad. Paris.</abbr> cum Thermometro
+								<persName key="reaumur_rene_antoine_ferchault_de">Reaumuriano</persName> primo Burdegalae, deinde in vertice montis
+								<ref type="critApp" xml:id="app37837">Pic du Midi</ref>, ubi
+							Barometrum 8 <abbr>poll.</abbr> depressius, quam priori loco fuit,
+							calorem ebullientis aquae et ejus supra congelationis punctum <w lemma="altitudinem">altitu<pb ed="oldAA" n="379" xml:id="B01S0379"/>dinem</w> explorans reperit. Glaciei equidem eundem utrobique
+							gradum deprehendit, ebullitionis vero calorem 
+							<hi rend="sup">15</hi>⁄<hi rend="sub">180</hi>
+							 intervalli, quo ebullitio congelationem antecellit, ab eo,
+							quem Burdegalae Barometro, 28 pollices alto, notavit, deficere, adeoque
+							calorem ebullitionis hujus loci montanam parte sui ⅟<hi rend="sub">12</hi>
+							 antecellere, quem excessum excessus tertiae partis circiter
+							ponderis atmosphaerici produxit; ex quo liquet, atmosphaerae totius
+							pondus semotum aquae ebullienti ¼
+							caloris illius, qui congelationis et ebullitionis gradus intercedit,
+							detrahere. Cum igitur aquae absque aëris pressione ebullienti minor,
+							hujus pondere addito vero major conciliari caloris gradus possit, neque
+							pondus atmosphaerae aliud quicquam agat, nisi quod undulatorio
+							particularum ignearum motui contrapondium exhibeat, cum attractio
+							ipsorum aquae elementorum <ref type="critApp" xml:id="app37911">ipsi</ref> cohibendo non amplius sufficiat, inde coniici poterit,
+							quanam elasticitatis vi aether, in puncto ebullitionis semet a nexu
+							aquae expedire nitens, polleat et qua particularum attractione
+								(<abbr>s.</abbr> hac deficiente, vi externa premente) illum compesci
+							necesse sit. Quippe quoniam secundum <abbr>laud.</abbr> Amontonsium
+							calores congelationis et ebullitionis vix parte hujus tertia differant
+							et quarta pars caloris, congelationem atque ebullitionem intercedentis,
+							vim requirat ponderi totius atmosphaerae aequalem, sequitur, 12
+							atmosphaerarum pondere ad aequilibrium calori toti in ebulliendo
+							praestandum opus esse, adeoque attractionem ipsam elementorum aquae 11
+							pressionibus aëriis aequipollere. Ex quo attractionem earundem in puncto
+							congelationis, multo magis vero ingentem metallorum attractionem ad
+							comprimendum aetherem elasticum perspicere <ref type="critApp" xml:id="app37922">licet</ref>.</p>
+						<p rend="indent" xml:id="la053" corresp="#de053">
+							<persName key="secondat_jean_baptiste"><ref type="editorialNote" target="#en37823">Secondatus</ref></persName> eandem
+							faciens observationem reperit rarefactionem aquae majorem in monte
+							allegato, minorem Burdegalae fuisse, in ratione <pb ed="AA" n="13"/>⅟<hi rend="sub">24</hi>
+							 totius voluminis ad ⅟<hi rend="sub">35</hi>, adeoque si ineatur calculus, praecise in ratione reciproca
+							ponderum atmosphaerae 20 : 28. In hoc ergo casu <ref type="critApp" xml:id="app37926">celebrato</ref> illa aquae contra omnem
+							compressionem pertinacissima renitentia, <ref type="editorialNote" target="#en37927">ab Academia Cimentina</ref> experimento stabilita,
+							locum non reperit.</p>
+					</div>
+				</div>
+				<div n="2">
+					<head rend="head_04" xml:id="la054" corresp="#de054"><hi rend="uppercase">prop. x</hi>.</head>
+					<p rend="indent" xml:id="la055" corresp="#de055">
+						<hi rend="larger">Naturam et causam exhalationum s. vaporum ex assertis
+							theoriae nostrae explicatam reddere.</hi>
+					</p>
+					<div n="3">
+						<head rend="head_05" xml:id="la056" corresp="#de056">Vaporum natura.</head>
+						<p rend="indent" xml:id="la057" corresp="#de057">Exhalationes, quae non sunt nisi particulae
+							humidae de superficiebus fluidorum avulsae aërique innatantes, hoc
+							habent peculiare <ref type="critApp" xml:id="app37934">sibi</ref> et
+							prope admirandum ingenium, ut, quantopere fluidi homogenei particulae
+							contactui admotae <ref type="critApp" xml:id="app37936">avide se
+								uniunt</ref> inque unam massam sponte colliquescunt, tantopere, ubi
+							semel ad tenuitatem vaporum resolutae sunt et caloris gradu debito
+							urgentur, contactum et adunationem mutuam <ref type="critApp" xml:id="app37938">refugiant</ref>, seque, ut <ref type="editorialNote" target="#en37938">voce <persName key="newton_isaac">Newtoniana</persName>
+							</ref> utar, <w lemma="valide">va<pb ed="oldAA" n="380" xml:id="B01S0380"/>lide</w>
+							<ref type="critApp" xml:id="app38001a">repelleant; ita</ref> ut vis
+							immensa satis <ref type="critApp" xml:id="app38001b">iis</ref>
+							comprimendis invitisque <ref type="critApp" xml:id="app38002">adunationem conciliando</ref> par nunquam reperta sit. Ita vapor
+							aqueus igni aliquantum actus vel firmissima confringit vasa et omnes
+							omnino vapores pro suo quisque ingenio <ref type="critApp" xml:id="app38004">admirandam</ref> saepe exserunt elasticitatem.</p>
+					</div>
+					<div n="3">
+						<head rend="head_05" xml:id="la058" corresp="#de058">Causa.</head>
+						<p rend="indent" xml:id="la059" corresp="#de059">Hujus phaenomeni ratio, quantum mihi <ref type="critApp" xml:id="app38006">equidem</ref> constat, nondum
+							Physicis satis perspecta est. Igitur eam indagare aggrediar.</p>
+						<pb ed="AA" n="14"/>
+						<p rend="indent" xml:id="la060" corresp="#de060">Cuticula tenuissima, ab aquae superficie
+							abrepta, in formam bullulae vix per microscopium perspiciendae figurata,
+							elementum vaporis aquei est. Quaenam autem subest causa, cur <ref type="critApp" xml:id="app38010">bullulae</ref> plures tales tenues,
+							si calore aliquanto fortius urgentur, contactum tantopere refugiant?
+							Statim expediam. Etenim cum per asserta hujus theoriae aqua non secius
+							ac omnia omnino corpora materiam elasticam aetheris intra <ref type="critApp" xml:id="app38013a">molem suam</ref> compressam
+							attractione <ref type="critApp" xml:id="app38013b">detineant</ref>, et
+							quidem ex demonstratis constet, hanc attractionem non contactu solo, sed
+							certa quadam distantia definiri, adeo ut moleculae in illo
+							propinquitatis puncto sibi constrictae haereant, ubi vis attractiva vi
+							repellenti, ex undulatorio caloris motu <figure xml:id="B01S0380Z17Bild01L">
+								<graphic url="images/band1/B01S0380Z17Bild01L.png" width="33%"/>
+							</figure>profectae, <ref type="critApp" xml:id="app38017">aequilibratur</ref>, quanquam attractio vere ad majorem aliquanto
+							distantiam pertingat: exprimatur haec distantia lineola e f
+								<abbr>no.</abbr> 1, quae admodum parva concipi debet, et
+							propinquitas particularum aquearum adunatarum particulae e g
+							proportionalis esto. Sit porro parallelepipedum a b c d <abbr>no.</abbr>
+							2 <ref type="critApp" xml:id="app38022">portiunculae</ref> aquae, cujus
+							crassities b a tantilla sit, ut aequet lineolam e f. <figure xml:id="B01S0380Z23Bild02L">
+								<graphic url="images/band1/B01S0380Z23Bild02L.png" width="20%"/>
+							</figure> Quoniam per supposita theorematis attractio elementorum
+							aqueorum non ultra distantiam b a = e f semet exserit, si particula in
+							puncto a constituta est, omnium per totam crassitiem coordinatorum
+							elementorum vim sentiet attractivam, adeoque, quantum per fluidi naturam
+							fieri potest, tenacissime adhaerebit, neque firmius adhaesura esset, si
+							corpusculo huic aqueo adhuc additamentum b h i d superaddas: verum si
+							spatiolo quodam minutissimo a m removeatur, non toto corpusculo aqueo,
+							sed parte tantum a n o c traheretur, adeoque minori vi adunationem
+							appeteret. Transfiguretur parallelepipedum <abbr>no.</abbr> 2 in aliud
+							multo tenuius, h k r s <abbr>no.</abbr> 3; particula quaevis aquea
+							puncto h <figure xml:id="B01S0380Z34Bild03L">
+								<graphic url="images/band1/B01S0380Z34Bild03L.png" width="27%"/>
+							</figure>admota longe debilius trahetur; cumque aether ipse hac cuticula
+							conclusus, aucta adeo superficie, maximam partem se liberet, patet, hoc
+							in statu elementum u, <ref type="critApp" xml:id="app38037">admotum</ref> per caloris reciprocationes, longe majori distantia a
+							puncto h abactum fore, quam priori conditione fieri oportuit, et quo
+							tenuior cuticula fuerit, eo majori vi contactum refugiet. Quoniam porro
+								<pb ed="oldAA" n="381" xml:id="B01S0381"/>cuticula tenuis h k r s in
+							hac figura sibimet relicta statim abiret in figuram globosam et, aucta
+							undique hoc pacto crassitie, vi polleret eadem propinquitate ac antea
+							aliis se uniendi, necesse est, ut si ipsi haec vaporis nota manere
+							debet, in bullulae <pb ed="AA" n="15"/><figure xml:id="B01S0381Z04Bild01R">
+								<graphic url="images/band1/B01S0381Z04Bild01R.png" width="25%"/>
+							</figure>formam circumvolvatur <abbr>no.</abbr> 4, et quidem
+							adeo minutae diametri a b et parvulae crassitiei, ut distantia punctorum
+							a et b, ad extremitates diametri positorum, minor sit distantia b e, qua
+							haec puncta, vi repulsiva aetheris vim attractivam aequiparante, si
+							ipsis liberum foret se dilatandi, juxta se quiescerent. In hoc ergo
+							statu bullula expansionem affectabit, et erit elementum vaporis
+							elastici, duarum autem bullularum homogenearum distantia c d erit semper
+							diametro a b aequalis, ut ex demonstratis patet.</p>
+					</div>
+				</div>
+				<div n="2">
+					<head rend="head_04" xml:id="la061" corresp="#de061"><hi rend="uppercase">prop. xi</hi>.</head>
+					<p rend="indent" xml:id="la062" corresp="#de062">
+						<hi rend="larger">Naturam aëris et principii in ipso elastici causam
+							indagare.</hi>
+					</p>
+					<p rend="indent" xml:id="la063" corresp="#de063">Aër est fluidum elasticum, millies fere aqua
+						levius, cujus vis expansiva calori est proportionalis, et cujus a frigore
+						congelascentis aquae usque ad punctum ebullitionis sub eodem pondere
+						atmosphaerae expansio est circiter ⅓
+						voluminis posteriori gradu ipsi competentis. Haec phaenomena nihil habent,
+						quod non vaporibus etiam competere possit, praeter hoc solum, quod vapores
+						ut plurimum eodem frigoris gradu, in quo aër elasticitatem illibatam servat,
+						consolidentur et vis expansivae nullum indicium prae se ferant. Ast si
+						consideraveris, subtilitatem cuticulae vaporis in causa esse, ut vel minori
+						caloris gradu elasticitatem notabilem exserere possit, patet non statim
+						analogiae vim hic inconsiderate et temere deserendam esse, sed periculum
+						potius faciendum, utrumne duo genera ex eodem principio deducentes nimia
+						entium multiplicatione supersedere possimus. Phaenomena vero, quae
+						conjecturae facem praeferunt, sunt sequentia.</p>
+					<p rend="indent" xml:id="la064" corresp="#de064">Corpora omnia, quae ex appositione particularum
+						minimarum mediante oleoso <abbr>s.</abbr> salino principio <ref type="critApp" xml:id="app38129">coaluerunt</ref>, <abbr>e. g.</abbr>
+						omnes plantae, tartarus vini, calculus animalis, praeterea plurima salium
+						genera, praesertim nitrum, immensum quantum emittunt aëris elastici, si igne
+						valido urgentur, <ref type="editorialNote" target="#en38131">sicut <anchor type="textRefStart" xml:id="tr35630"/><persName key="haies_stephan">Hales</persName> in Statica plantarum</ref>
+						miris nos experimentis condocuit. Hic aër haud exigua solidae, quicum
+						conjunctus erat, <ref type="critApp" xml:id="app38133">materiae pars</ref>
+						esse repertus est; in cornu cervi ⅐, in
+						ligno quercino fere ⅓, in tartaro vini
+						Rhenani ⅓, in nitro ⅛, in tartaro animali <abbr>h. e.</abbr>
+						calculo hominis plus quam ½ totius massae
+						constituit. Per se patet, aërem ex <ref type="critApp" xml:id="app38135">hisce</ref> corporibus vi <pb ed="AA" n="16"/>ignis eductum, quamdiu pars massae fuit,
+						aëris nondum naturam habuisse, <abbr>h. e.</abbr> non <ref type="critApp" xml:id="app38137">fuisse</ref> fluidum, elasticitate densitati suae
+						proportionali pollens; quippe vel mediocris caloris vi in majus spatium
+						incoërcibili conatu expansum <pb ed="oldAA" n="382" xml:id="B01S0382"/>omnem
+						corporis compagem solvisset. Adeoque ex interstitiis corporis expulsa
+						materia, quae non fuit elastica, vix libera facta elasticitatem prodit. Cum
+						vero idem sit ingenium vaporum, ut, ubi divulsi <ref type="critApp" xml:id="app38203">sint</ref> a massa, cui fuerunt adunati, vim elasticam
+						exserant, certe si non asseverate affirmandum, tamen magna cum <ref type="critApp" xml:id="app38205">verisimilitudine</ref> statuendum erit,
+						aërem non aliud esse nisi vaporem illum corporibus solutum, qui, postquam ad
+						summam subtilitatem redactus est, cuilibet caloris gradui facile cedit et
+						validam prodit elasticitatem.</p>
+					<p rend="indent" xml:id="la065" corresp="#de065">Sunt vero haud pauca nec proletaria, quae me in
+						hac sententia confirmant. Etenim cur ex corporibus solis, quae olei atque
+						adeo acidi haud parum in se continent, ustulando expellitur aër? Nonne
+						acidum actuosissimum et validissimum ad aetherem constringendum attractione
+						sua est principium, ut antea sub oculos posui? Nonne hoc principium corporum
+						illorum concretorum vinculum est et veluti gluten? (quippe aethereae
+						materiae, omnia corpora constringentis, verus magnes) et ubi acidum hoc ab
+						<ref type="critApp" xml:id="app38215">arctissima</ref> cum materia adunatione vi ignis ingenti aegre est expulsum,
+						putasne in subtilissima divisum cuticula discedere oportere? Hocque pacto
+						quid est, quod ambigas tali ratione fluidum elasticum constituere, vel ad
+						minutissimos caloris gradus ad expansionem mobile neque, aucto quantumvis
+						frigore (<ref type="critApp" xml:id="app38218">utpote</ref> qui nunquam
+						omnem exterminat calorem), <ref type="critApp" xml:id="app38219">concrescens
+							et elasticitate</ref> spoliandum? Ergo quae aqueos vapores premit
+						difficultas, ut exiguo frigore coagulentur, quaeque <persName key="haies_stephan">Halesio</persName> causa fuit, aërem expulsum nomine
+						materiae ab omni vaporum natura toto genere diversae venditandi, ea hic
+						plane cessat. Ideoque Physicis accuratiori indagine dignissima sese offert
+						sententia, utrumne aër non sit nisi acidi per omnem rerum naturam
+						disseminati subtilissimus halitus, caloris quantulocunque gradu
+						elasticitatem testans.</p>
+					<p rend="indent" xml:id="la066" corresp="#de066">Certe, hisce fundamenti loco <ref type="critApp" xml:id="app38225">substratis, facile videre est, cur
+							nitrum, igni valido tostum, adeo ingentem reddat elastici aëris copiam,
+							quippe</ref> subtilissimum acidum, a parte crassiore divisum, in
+						tenuissimum <w lemma="vaporem">vapo<pb ed="AA" n="17" break="no"/>rem</w> redactum, <ref type="critApp" xml:id="app38227">sit</ref> ipse aër. Pariter proclive est, cur, quae igni pertinacissime
+						resistunt materiae, maximam largiantur et emittant aëris copiam, <abbr>e. 
+							g.</abbr> cur tartarus vini <abbr>Rhen.</abbr> plus nitro reddat,
+						quippe, quae tardissime et magno renisu <ref type="critApp" xml:id="app38229">acidum, amplexibus</ref> suis conclusum,
+						missum faciunt materiae, ab iis etiam hoc in subtilissimae cuticulae forma
+						divellitur, ita ut constituere possit elasticum adeo mobile, quale aër est,
+						cum contra, e quibus largior educitur vapor, etiam crassior prodeat, qui
+						frigore aucto nihil praestare potest elasticitatis.</p>
+					<div n="3">
+						<head rend="head_05" xml:id="la067" corresp="#de067">Observationum Barometricarum cum hypothesi
+							consensus.</head>
+						<p rend="indent" xml:id="la068" corresp="#de068">Ex hac hypothesi etiam perspicuum fit vix
+							explicabile illud e communi sententia aëris in majori altitudine
+							ingenium. Repererunt enim <persName key="maraldi_giacomo_filippo">
+								<ref type="editorialNote" target="#en38237">Maraldus</ref>
+							</persName>, <persName key="cassini_jacques"><ref type="editorialNote" target="#en38238a">
+								Cassinus
+							</ref></persName> aliique ex testimonio <abbr>Monum. Ac. R. Sc. Paris.</abbr>, <ref type="editorialNote" target="#en38238b">legem <persName key="mariotte_edme">Mariottianam</persName>
+							</ref> circa compressionem aëris ponderi incumbenti proportionalem, in
+							altiori <w lemma="elevatione">ele<pb ed="oldAA" n="383" xml:id="B01S0383"/>vatione</w> deficere. Quippe minorem ibi aëris densitatem
+							repererunt, quam quae cum inferioris pondere collata secundum legem
+							illam consequi debuerit. Ex quo patet, aërem superiorem constare non
+							particulis ejusdem generis, at minus compressis, sed elementis in se
+							specifice levioribus, quippe quarum sub eadem compressione majus volumen
+							ad idem pondus praestandum requiritur. Cum itaque aëris adeo in diversis
+							altitudinibus <ref type="critApp" xml:id="app38306">diversa sit
+								substantiae natura</ref>, quam nullibi alias in 
+							<ref type="critApp" xml:id="app38307">elementis</ref> ejusdem generis ubivis terrarum
+							reperitur, patet illum non separatum quoddam elementi genus, sed
+							formam, qua aliud elementum, nempe, ut arbitror, humor acidus, semet
+							manifestat, habendum esse; quo posito mirum non est, <ref type="critApp" xml:id="app38310">si aliae</ref> vaporis talis particulae (pro
+							cuticulae diversa crassitie) <ref type="critApp" xml:id="app38311">sint</ref> aliis graviores, et leviores altissimum locum
+							occupent.</p>
+						</div>
+				</div>
+				<pb ed="AA" n="18"/>
+				<div n="2">
+					<head rend="head_04" xml:id="la069" corresp="#de069"><hi rend="uppercase">Prop. xii.</hi></head>
+					<p rend="indent" xml:id="la070" corresp="#de070">
+						<hi rend="larger">Naturam flammae ex assertis theoriae nostrae explicatam
+							reddere.</hi>
+					</p>
+					<div n="3">
+						<head rend="head_05" xml:id="la071" corresp="#de071">1. Natura.</head>
+						<p rend="indent" xml:id="la072" corresp="#de072">Flammae prae ceterorum ignium genere
+							singularis natura haec est:</p>
+						<p rend="indent" xml:id="la073" corresp="#de073">Nullum corpus nisi in superficie ardet
+							flammaeque alimentum est oleum atque adeo acidum, actuosissimum illud
+							motui elastico inserviendi principium.</p>
+						<p rend="indent" xml:id="la074" corresp="#de074">Flamma non est nisi vapor ad eum usque
+							ignis gradum perductus, ut vivida luce coruscet et non nisi inopia
+							alimenti desinat. Haec vero sunt in flamma, quae ipsam ab alio omni
+							ignis genere toto coelo diversam faciunt. 1) Quod, cum calor corpori
+							cuivis calefaciendo inductus secundum communem naturae legem
+							communicatione sensim diminuatur, flamma e contrario ex minutissimo
+							principio incredibilem et nullis limitibus, dummodo pabulum non
+							deficiat, circumscriptam acquirat vim. 2) Quod, qui materiae cuidam
+							inflammabili incalescendo ingeri potest usque ad ebullitionem ignis,
+							multo inferior sit eo, <ref type="critApp" xml:id="app38325">quem</ref>
+							deflagrando exercet. 3) Quod lucem spargat, cum praeter metalla cetera
+							corporum genera, quantumvis calefacta, lucis tamen expertia maneant.</p>
+						</div>
+					<div n="3">
+						<head rend="head_05" xml:id="la075" corresp="#de075">2. Causae investigatio.</head>
+						<p rend="indent" xml:id="la076" corresp="#de076">Ratio vero horum phaenomenorum, si recte
+							sentio, haec est. Flamma constat vapore ignito neque massa corporis
+							solida in flammam tota vertitur sed superficies proprie flagrat. Vapor
+							vero cum superficiei quam plurimum et <ref type="critApp" xml:id="app38331">renitentiae</ref> ad <ref type="critApp" xml:id="app38332a">arcendam</ref> intra suos <ref type="critApp" xml:id="app38332b">amplexus</ref> ignis materiam quam minimum
+							habeat, apparet, quod motum undulatorium a levissimo principio conceptum
+							non solum facillime propagare, verum etiam alii materiae inflammabili,
+								<ref type="critApp" xml:id="app38334">quanta</ref> ea sit, pari
+							intensitate sensim communicare possit. Etenim quanquam primo obtutu hoc
+							phaenomenon contra primam mechanicae regulam, quod effectus <w lemma="semper">sem<pb ed="oldAA" n="384" xml:id="B01S0384"/>per</w> sit
+							aequalis causae, videatur offendere, tamen si pensitaveris, primam vel
+							minimae scintillulae ad flammam excitandam sollicitationem nihil aliud
+							agere, quam quod <pb ed="AA" n="19"/>particulam minimam inflammabilis vaporis in motum
+							undulatorium elementi sui ignei concitet; quod cum leviter coërcitum
+							magno conatu se liberet, et vibrationes peragat, circumfusas pariter
+							concitando violentiam motus per totam massam propagat. Neque mireris,
+							effectum parvulae causae hic immensum quantum augescere, quippe elateria
+							aetheris conclusi se retinaculis attractionis liberantia praestant hoc
+							pacto effectus, <ref type="critApp" xml:id="app38408">qui</ref>
+							sollicitationem accendentis flammulae proprie non tanquam causam
+							agnoscunt; pendent enim proprie ab <ref type="critApp" xml:id="app38409">attractione</ref> olei, cujus <ref type="critApp" xml:id="app38410">subtilissima</ref> divisio materiae conclusae semet magna violentia
+							expediendi copiam fecit. Porro vapor constituit fluidum, propter
+							elastici aetherei non adeo cohibiti liberiores vibrationes in undulando
+							efficacius et propter ejaculatam hoc pacto materiam igneam tam
+							calefaciendis corporibus, quam spargendo <ref type="critApp" xml:id="app38414">lumini</ref> ceteris ignitis corporibus
+							aptius.</p>
+						</div>
+					<div n="3">
+						<head rend="head_05" xml:id="la077" corresp="#de077">Conclusio.</head>
+						<p rend="indent" xml:id="la078" corresp="#de078">Verum opellae vix inchoatae jam coronidem
+							impono. Non diutius moror Viros officiis gravioribus <ref type="critApp" xml:id="app38417">districtos hoc, quicquid</ref> est, opusculi meque
+							ipsum simul propensae voluntati atque benevolentiae.</p>
+						<p rend="center" xml:id="la079" corresp="#de079">Amplissimae
+							Facultatis <ref type="critApp" xml:id="app38419">Philosophicae</ref>
+							commendans.</p> 
+						<milestone unit="section" rend="line"/>
+					</div>
+				</div>
+				<pb ed="AA" n="20"/>
+			</div>
+		</body>
+	</text>
+</TEI>

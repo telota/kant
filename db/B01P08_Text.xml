@@ -1,0 +1,1393 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Kant's Werke</title>
+				<title type="volume" n="1">Schriften 1747–1756</title>
+				<title type="part" n="8" subtype="editedText">Geschichte und Naturbeschreibung der
+					merkwürdigsten Vorfälle des Erdbebens</title>
+				<author>
+					<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+						<surname>Kant</surname>
+						<forename>Immanuel</forename>
+					</persName>
+				</author>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0003-4081-401X">
+						<surname>Hohenegger</surname>
+						<forename>Hansmichael</forename>
+					</persName>
+				</editor>
+				<editor role="editor">
+					<persName ref="https://orcid.org/0000-0001-5535-5894">
+						<surname>Pozzo</surname>
+						<forename>Riccardo</forename>
+					</persName>
+				</editor>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/12439826X">
+						<surname>Gerhardt</surname>
+						<forename>Volker</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/113092008">
+						<surname>Willaschek</surname>
+						<forename>Marcus</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Projektleitung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://d-nb.info/gnd/1137889055">
+						<surname>Schepelmann</surname>
+						<forename>Maja</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName>
+						<surname>Rosie</surname>
+						<forename>Martin</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination und editionswissenschaftliche
+							Beratung</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName ref="https://orcid.org/0000-0003-0548-4545">
+						<surname>Karl</surname>
+						<forename>Jacqueline</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Koordination</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="GN">
+						<surname>Neumann</surname>
+						<forename>Gerald</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung und Layout der digitalen
+							Edition, Bereitstellung der Schnittstellen</note>
+					</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="EF">
+						<surname>Fricke</surname>
+						<forename>Edna</forename>
+					</persName>
+					<resp>
+						<note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema
+							sowie Konversionsroutinen für Überführung der Daten in das
+							TEI-Format</note>
+					</resp>
+				</respStmt>
+				<funder><note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf
+						Vollständigkeit.</note>
+					<orgName>
+						<ref target="https://www.bbaw.de">Akademienprogramm</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika
+							Grütters</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+					</orgName>
+					<orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+					<orgName>Mathias-Tantau-Stiftung</orgName>
+					<orgName>
+						<ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+					</orgName>
+					<orgName>
+						<ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+					</orgName>
+				</funder>
+			</titleStmt>
+			<editionStmt>
+				<edition>Vollständige digitalisierte Ausgabe der Druckversion der
+					historisch-kritischen Neuedition der Akademieausgabe.</edition>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>
+					<orgName role="hostingInstitution" ref="http://www.bbaw.de">
+						Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+					<orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der
+						Abteilung I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten
+						Schriften“</orgName>
+				</publisher>
+				<pubPlace>Berlin</pubPlace>
+				<date type="publication">2023</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+						Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>Geschichte Erdbeben</bibl>
+				<biblFull>
+					<titleStmt>
+						<title type="main">Kant's Werke</title>
+						<title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+						<title type="part" n="8">Geschichte und Naturbeschreibung der
+							merkwürdigsten Vorfälle des Erdbebens</title>
+						<author>
+							<persName key="kant" ref="https://d-nb.info/gnd/118559796">
+								<surname>Kant</surname>
+								<forename>Immanuel</forename>
+							</persName>
+						</author>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0003-4081-401X">
+								<surname>Hohenegger</surname>
+								<forename>Hansmichael</forename>
+							</persName>
+						</editor>
+						<editor role="editor">
+							<persName ref="https://orcid.org/0000-0001-5535-5894">
+								<surname>Pozzo</surname>
+								<forename>Riccardo</forename>
+							</persName>
+						</editor>
+					</titleStmt>
+					<extent>
+						<measure type="pages">461–492</measure>
+					</extent>
+					<publicationStmt>
+						<publisher>
+							<name>De Gruyter</name>
+						</publisher>
+						<pubPlace>Berlin</pubPlace>
+						<pubPlace>Boston</pubPlace>
+						<date type="publication">2023</date>
+						<idno type="pISBN">9783110706482</idno>
+					</publicationStmt>
+					<seriesStmt>
+						<title>Kant's gesammelte Schriften</title>
+						<biblScope unit="division">Erste Abteilung <lb/>Werke – Neuedition</biblScope>
+						<biblScope unit="volume" n="1">Band 1</biblScope>
+					</seriesStmt>
+				</biblFull>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<variantEncoding method="double-end-point" location="external"/>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="de">German</language>
+				<language ident="la">Latin</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<change when="2024-10-24" who="#GN">Corrected</change>
+			<change when="2024-09-23" who="#EF">Corrected</change>
+			<change when="2024-04-29" who="#GN">Corrected</change>
+			<change when="2023-12-15" who="#EF">Corrected</change>
+			<change when="2023-11-16" who="#GN">Preparation</change>
+			<change when="2023-09-19" who="#EF">Initial conversion into TEI and manual adaptations</change>
+		</revisionDesc>
+	</teiHeader>
+   <text>
+      <body>
+      	<pb ed="AA" n="0"/>
+         <div n="1" type="titlePage">
+         	   <p rend="head_01">Geschichte</p>
+         	   <p rend="head_05">und</p>
+         	   <p rend="head_01">Naturbeschreibung</p>
+         	   <p rend="head_05">der merkwürdigsten Vorfälle</p>
+         	   <p rend="head_05">des</p>
+         	   <p rend="head_01">Erdbebens</p>
+         	   <p rend="head_05">welches an dem Ende des 1755sten Jahres</p>
+         	   <p rend="head_03">einen großen Theil der Erde</p>
+         	   <p rend="head_05">erschüttert hat</p>
+         	   <p rend="head_05">von</p>
+         	   <p rend="head_04"><hi rend="antiqua">M.</hi> Immanuel Kant.</p>
+				<milestone unit="section" rend="line"/>
+         	   <p rend="head_05"><hi rend="spaced">Königsberg</hi>, gedruckt und verlegt von Joh. Heinrich Hartung 1756.</p>
+			</div>
+      	<pb ed="AA" n="1"/>
+      	<pb ed="AA" n="2"/>
+      	<div n="1">
+      		<p>
+					<hi rend="initial">D</hi>ie Natur hat nicht vergeblich einen Schatz von
+					Seltenheiten überall zur Betrachtung und Bewunderung ausgebreitet. Der Mensch,
+					welchem die Haushaltung des Erdbodens anvertraut ist, besitzt Fähigkeit, er
+					besitzt auch Lust sie kennen zu lernen und preiset den Schöpfer durch seine
+					Einsichten. Selbst die fürchterliche Werkzeuge der Heimsuchung des menschlichen
+					Geschlechts, die Erschütterungen der Länder, die Wuth des in seinem Grunde
+					bewegten Meers, die feuerspeyenden Berge fodern den Menschen zur Betrachtung
+					auf, und sind nicht weniger von GOtt als eine richtige Folge aus beständigen
+					Gesetzen in die Natur gepflanzt, als andre schon gewohnte Ursachen der
+					Ungemächlichkeit, die man nur darum vor natürlicher hält, weil man mit ihnen
+					mehr bekannt ist.</p><p rend="indent">Die Betrachtung solcher schrecklichen
+					Zufälle ist lehrreich. Sie demüthigt den Menschen dadurch daß sie ihn sehen läßt
+					er habe kein Recht, oder zum wenigsten er habe es verlohren, von den <pb ed="firstPrint" n="4" xml:id="B01S0431Z14fp"/>Naturgesetzen die GOtt
+					angeordnet hat lauter beqvemliche Folgen zu erwarten, und er lernt vielleicht
+					auch auf diese Weise einsehen: daß dieser Tummelplatz seiner Begierden billig
+					nicht das Ziel aller seiner Absichten enthalten solte.</p>
+      		
+      		<div n="2">
+      			<head rend="head_03">Vorbereitung</head><head rend="head_04">Von
+      				der Beschaffenheit des Erdbodens in seinem</head><head rend="head_05">inwendigen.</head>
+      			<p>
+						<hi rend="initial">W</hi>ir kennen die Oberfläche des Erdbodens wenn es auf
+						die Weitläuftigkeit ankommt ziemlich vollständig. Allein wir haben noch eine
+						Welt unter unsern Füßen, mit der wir zur Zeit nur sehr wenig bekannt sind.
+						Die Bergspalten, welche unserm Senkbley unergründliche Klüfte eröfnen, <pb ed="oldAA" n="432" xml:id="B01S0432"/>die Hölen die wir in dem innern der
+						Berge antreffen, die tiefsten Schachte der Bergwerke die wir Jahrhunderte
+						hindurch erweitern, sind bey weitem <pb ed="AA" n="3"/>nicht zureichend uns von dem inwendigen
+						Bau des großen Klumpens den wir bewohnen deutliche Kenntnisse zu
+						verschaffen.</p><p rend="indent">Die größte Tiefe zu der Menschen von der
+						obersten Fläche des festen Landes hinabgekommen <ref type="critApp" xml:id="app43206a">seyn</ref>, beträgt noch nicht 500 <ref type="critApp" xml:id="app43206b">
+							<ref type="editorialNote" target="#en43206">Klafter</ref>.
+							<abbr>D. i.</abbr>
+						</ref> noch nicht den sechstausensten Theil von der Entfernung bis zum
+						Mittelpunkte der Erde und gleichwohl befinden sich diese Grüfte noch in den
+						Gebirgen, und selbst alles feste Land ist ein Berg, in welchem, um nur zu
+						gleicher Tiefe als der Meeres-Grund liegt zu gelangen, man wenigstens dreymal
+						tiefer hinab kommen müste.</p><p rend="indent">Was aber die Natur unserm
+						Auge und unsern unmittelbaren Versuchen verbirgt, das entdeckt sie selber
+						durch ihre Wirkungen. Die Erdbeben haben uns offenbahret daß die Oberfläche
+						der Erde voller Wölbungen und Hölen <ref type="critApp" xml:id="app43215">seyn</ref>, und daß unter unsern Füßen verborgene Minen mit
+						mannigfaltigen Irrgängen allenthalben <w lemma="fortlaufen">fort<pb ed="firstPrint" n="5" xml:id="B01S0432Z16fp"/>laufen</w>. Der
+						Verfolg in der Geschichte des Erdbebens wird dieses außer Zweifel setzen.
+						Diese Hölen haben wir eben derselben Ursache zuzuschreiben, welche den
+						Meeren ihr Bette zubereitet <ref type="critApp" xml:id="app43217">hat; denn</ref> es ist gewiß, wenn man von den
+						Ueberbleibseln die das Weltmeer von seinem ehemaligen Aufenthalte über dem
+						gesammten vesten Lande zurück gelaßen hat, von den unermeßlichen
+						Muschelhaufen die selbst in dem innern der Berge angetroffen werden, von den
+						versteinerten Seethieren die man aus den tiefsten Schachten herausbringt,
+						ich sage, wenn man von <ref type="critApp" xml:id="app43224">allem
+							diesem</ref> nur einiger Maaßen unterrichtet ist, so wird man leicht
+						einsehen, daß erstlich das Meer ehedem eine lange Zeit alles Land überdeckt
+						habe, daß dieser Aufenthalt lange gedauret habe und älter als die Sündfluth
+						sey, und daß endlich das Gewässer sich unmöglich anders habe zurück ziehen
+						können als daß der Boden deßelben hin und wieder in tiefe Grüfte
+						herabgesunken und demselben tiefe Becken zubereitet hat, darinn es
+						abgefloßen ist, und zwischen deren Ufern es noch jetzo beschränkt erhalten
+						wird, indessen daß die erhöheten Gegenden dieser eingesunkenen Rinde festes
+						Land geworden, welches allenthalben mit Hölungen untergraben ist, und dessen
+						Strecke mit den steilen Gipfeln besetzt ist, die unter den Nahmen der
+						Gebirge die oberste Höhe des festen Landes nach allen denjenigen Richtungen
+						durchlaufen nach welchen es sich in eine beträchliche Länge
+						erstrecket.</p><p rend="indent">
+						<pb ed="oldAA" n="433" xml:id="B01S0433"/>Diese Hölen enthalten alle ein
+						loderndes Feuer, oder wenigstens denjenigen brennbaren Zeug, der nur einer
+						geringen Reizung bedarf um mit Heftigkeit um sich zu wüten und den Boden
+						über sich zu erschüttern oder gar zu spalten.</p><p rend="indent">Wenn wir
+						das Gebiet dieses unterirrdischen Feuers in dem ganzen Umfange, wohin es
+						sich erstreckt, erwegen, so werden wir gestehen müssen, daß wenig Länder auf
+						dem Erdboden sind die nicht bisweilen dessen <pb ed="AA" n="4"/>Wirkung verspühret hätten. In
+						dem äußersten Norden ist die Insel Island den heftigsten Anfällen desselben
+						und zwar nicht selten unterworfen. Man hat in Engelland und selbst <pb ed="firstPrint" n="6" xml:id="B01S0433Z10fp"/>in Schweden einige leichte
+						Erschütterungen gehabt. Gleichwohl finden sie sich in den südlichen Ländern,
+						ich meyne denenjenigen, die dem Aeqvator näher liegen, häufiger und stärker.
+						Italien, die Inseln aller Meere, welche der Mittellinie nahe liegen,
+						vornehmlich die im Indischen Ocean, sind von dieser Beunruh
+						igung ihres
+						Fußbodens häufig angefochten. Unter den letztern ist fast nicht eine einzige
+						die nicht einen Berg hätte, der entweder noch jetzo bisweilen Feuer spie,
+						oder es wenigstens vormals gethan hätte, und der Erschütterung sind sie eben
+						so häufig unterworfen. Es ist eine artige Vorsicht, wenn man hierinn der
+						Nachricht des <persName key="hbner_johann"><ref type="editorialNote" target="#en43319">
+							Hübners</ref>
+							</persName>
+						 glauben darf, die die Holländer um deswillen anwenden um das
+						kostbare Gewürz der Muscaten und Würznelken, die sie einzig und allein auf
+						den beyden Inseln <ref type="editorialNote" target="#en46514">Banda und Amboina</ref> fortzupflanzen erlauben, nicht der
+						Gefahr blos zu stellen von dem Erdboden vertilget zu werden, wenn eine
+						dieser Inseln etwa das Schicksal eines völligen Unterganges durch ein
+						Erdbeben betreffen solte, daß sie auf einer andern weit davon entlegenen
+						jederzeit eine Pflanzschule beyder Gewächse unterhalten. Peru und <ref type="editorialNote" target="#en46519">Chili</ref>
+							welche der Linie nahe liegen sind <ref type="critApp" xml:id="app43328">mit</ref> diesem Uebel häufiger wie irgend ein
+						Land in der Welt beunruhiget. In dem ersten Lande geht fast kein Tag vorbey,
+						da nicht einige leichte Stösse von Erdbeben verspühret werden. Man darf sich
+						nicht einbilden, dieses sey als eine Folge der weit grössern Sonnenhitze
+						welche auf das Erdreich dieser Länder wirkt anzusehen. In einem Keller der
+						kaum 40 <ref type="editorialNote" target="#en43331">Fuß</ref> Tiefe hat ist
+						fast gar kein Unterschied zwischen Sommer und Winter zu spühren. So wenig
+						ist die Sonnenwärme vermögend das Erdreich in grossen Tiefen zu
+						durchdringen, um den entzündbaren Stoff zu <ref type="critApp" xml:id="app43334">locken</ref> und in Bewegung zu setzen. Vielmehr
+						richten sich die Erdbeben nach der Beschaffenheit der unterirrdischen
+						Grüffte und diese nach demjenigen Gesetze, nach welchem die Einsinkungen der
+						obersten Erdrinde im Anfange müssen geschehen seyn, und die, je näher <pb ed="oldAA" n="434" xml:id="B01S0434"/>zur Linie, desto tiefere und
+						mannigfaltigere <w lemma="Einbeugungen">Ein<pb ed="firstPrint" n="7" xml:id="B01S0434Z01fp"/>beugungen</w> gemacht haben, wodurch diese
+						Minen, die den Zunder zu den Erdbeben enthalten, weitläuftiger und dadurch
+						zu der Entzündung deßelben geschickter geworden.</p><p rend="indent">Diese
+						Vorbereitung von den unterirrdischen Gängen ist zur Einsicht dessen, was von
+						der weiten Ausbreitung der Erdbeben in grosse Länder, von dem Striche den
+						sie halten, von den Orten wo sie am meisten wüten und von denjenigen wo sie
+						sich zuerst anheben in der Folge vorkommen wird von keiner geringen
+						Erheblichkeit.</p><p rend="indent">Ich fange nunmehro von der Geschichte des
+						letztern Erdbebens selber an. Ich verstehe unter derselben keine Geschichte
+						der Unglücksfälle <pb ed="AA" n="5"/>die die Menschen dadurch erlitten haben, kein Verzeichnis
+						der verheerten Städte und unter ihrem Schutt begrabenen Einwohner. Alles was
+						die Einbildungskraft sich Schreckliches vorstellen kan, muß man zusammen
+						nehmen, um das Entsetzen sich einigermaassen vorzubilden darinn sich die
+						Menschen befinden müssen, wenn die Erde unter ihren Füßen bewegt wird, wenn
+						alles um sie her einstürzt, wenn ein in seinem Grunde bewegtes Wasser das
+						Unglück durch Ueberströhmungen vollkommen macht, wenn die Furcht des Todes,
+						die Verzweifelung wegen des völligen Verlusts aller Güter, endlich der
+						Anblick anderer Elenden den standhaftesten Muth <ref type="critApp" xml:id="app43420">niederschlagen</ref>. Eine solche
+						Erzehlung würde rührend seyn, sie würde weil sie eine Wirkung auf das Herz
+						hat, vielleicht auch eine auf die Besserung deßelben haben können. Allein
+						ich überlasse diese Geschichte geschickteren Händen. Ich beschreibe hier nur
+						die Arbeit der Natur, die merkwürdigen natürlichen Umstände die die
+						schreckliche Begebenheit begleitet haben und die Ursachen
+					derselben.</p></div>
+      		<div n="2">
+      			<head rend="head_04">Von den
+						Vorboten des letzteren Erdbebens.</head>
+      			<p rend="indent">Das Vorspiel der
+						unterirrdischen Entzündung, welche in der Folge so entsetzlich geworden ist,
+						setze ich in der <w lemma="Lufterscheinung">Lufterschei<pb ed="firstPrint" n="8" xml:id="B01S0434Z28fp"/>nung</w>, die zu Locarno in der
+						Schweiz den 14ten October vorigen Jahres Morgens um 8 Uhr wargenommen
+						worden. Ein warmer als aus einem Ofen kommender Dampf breitete sich aus und
+						verwandelte sich in 2 Stunden <ref type="critApp" xml:id="app43431">in
+							einen</ref> rothen Nebel, daraus gegen Abend ein blutrother Regen
+						entstand, welcher nachdem er aufgefangen war ⅑ eines röthlichen leimigten Bodensatzes fallen ließ. Der 6
+						Fuß hohe Schnee war ebenfalls roth gefärbt. Dieser Purpurregen ward 40 <ref type="editorialNote" target="#en43435">Stunden</ref>, das ist ohngefehr
+						20 deutsche Meilen ins Gevierte, ja selbst bis in Schwaben wahrgenommen. Auf
+						diese Lufterscheinung folgten <pb ed="oldAA" n="435" xml:id="B01S0435"/>unnatürliche Regengüsse, die in 3 Tagen auf 23 <ref type="editorialNote" target="#en43501">Zoll</ref> hoch Wasser gaben, das ist, mehr als in
+						einem Lande von mittelmäßig feuchter Beschaffenheit das ganze Jahr hindurch
+						herabfället. Dieser Regen dauerte über 14 Tage, obgleich nicht jederzeit mit
+						gleicher Heftigkeit. Die Flüsse in der Lombardey, die in den
+						Schweitzergebürgen ihren Ursprung nehmen, imgleichen die <ref type="editorialNote" target="#en46631"><ref type="critApp" xml:id="app43506">Rohne</ref></ref> schwollen von Wasser auf und traten über
+						ihre Ufer. Von dieser Zeit an herrschten fürchterliche Orkane in der Luft,
+						welche überall grausam wüteten. Noch in der Mitte des Novembers fiel in Ulm
+						ein dergleichen Purpurregen und die Unordnung in dem Luftkreise, die
+						Wirbelwinde in Italien, die überaus nasse Witterung dauerten fort.</p><p rend="indent">Wenn man sich einen Begriff von den Ursachen dieser
+						Erscheinung und deren Folgen machen will, so muß man auf die Beschaffenheit
+						des <pb ed="AA" n="6"/>Bodens über dem sie sich zugetragen hat Acht haben. Die Schweitzerische
+						Gebirge begreifen insgesamt weitläuftige Klüfte unter sich, die ohne Zweifel
+						mit den tiefsten unterirrdischen Gängen im Zusammenhange stehen. <ref type="editorialNote" target="#en43516">
+							<persName key="scheuchzer_johann_jacob">Scheuchzer</persName> zehlet
+							beynahe 20 Schlünde</ref> welche zu gewissen Zeiten Winde ausblasen.
+						Wenn wir nun annehmen, daß die in dem innern dieser Hölen verborgene
+						mineralische Materien mit denen Flüßigkeiten womit sie aufbrausen in
+						Vermischung und dadurch in eine innere Gährung gerathen sind, die die
+						feuernährende Materien zu derjenigen <w lemma="Entzuendung">Ent<pb ed="firstPrint" n="9" xml:id="B01S0435Z20fp"/>zündung</w>
+						vorbereiten konte, welche binnen einigen Tagen völlig ausbrechen <ref type="critApp" xml:id="app43521">solte. Wenn</ref> wir
+							<abbr>z. E.</abbr> diejenige Säure, die in dem Salpetergeiste steckt,
+						und die nothwendig die Natur selber zubereitet, uns vorstellen, wie sie
+						entweder durch den Zufluß des Wassers, oder <ref type="critApp" xml:id="app43524">andere</ref> Ursachen in Bewegung gebracht, die
+						Eisenerde worauf sie fiel angriff, so werden diese Materien bey ihrer
+						Vermengung sich erhitzet und rothe warme Dämpfe aus den Klüften der Gebirge
+						ausgestossen haben, womit in der Heftigkeit der Aufwallung die Partickeln
+						der rothen Eisenerde zugleich vermenget und fortgeführet worden, welches den
+						leimigten Blutregen davon wir Erwehnung gethan haben veranlaßt hat. Die
+						Natur solcher Dünste gehet dahin die Ausspannungskraft der Luft zu verringern
+						und eben dadurch die in derselben hängende Wasserdünste zusammen fließend zu
+						machen, imgleichen durch das Herbeyziehen aller rund umher in dem Luftkreise
+						schwebenden feuchten Wolken vermöge des natürlichen Abhanges nach der Gegend
+						wo die Höhe der Luftsäule verringert worden, diejenige heftige und
+						anhaltende Platzregen zu verursachen, welche in den genannten Gegenden
+						wahrgenommen worden.</p><p rend="indent">Auf solche
+						Weise kündigte die unterirrdische Gährung das Unglück, <pb ed="oldAA" n="436" xml:id="B01S0436"/>das sie im verborgenen zubereitete, durch
+						ausgestossene Dämpfe zum voraus an. <note place="foot" n="*)" xml:id="fn01">
+							<p rend="indent">Acht Tage vor der Erschütterung war die Erde bey Cadix
+								mit einer Menge von aus der Erde gekrochenem Gewürme bedeckt. Diese
+								hatte <ref type="critApp" xml:id="app43633">die nur</ref> angeführte
+								Ursache hervorgetrieben. Bey einigen andern Erdbeben sind heftige
+								Blitze in der Luft und die Bangigkeit die man bey Thieren vermerkt
+								Vorboten gewesen.</p>
+						</note> Die Vollendung des Schicksaals folgte ihr mit langsamen Schritten
+						nach. Eine Gährung schlägt nicht sogleich in Entzündungen aus. Die gährende
+						und <ref type="critApp" xml:id="app43603">erhitzte</ref> Materien müßen ein brennbares Oel, Schwefel, <ref type="editorialNote" target="#en43605">Erdpech</ref>, oder dergleichen
+						etwas antreffen um in Entzündung zu gerathen. So lange <ref type="critApp" xml:id="app43606">breitete</ref> sich die Erhitzung hin und wieder in den
+						unterirrdischen Gängen aus, und in dem Augenblicke da die aufgelöseten
+						brennbaren <pb ed="firstPrint" n="10" xml:id="B01S0436Z08fp"/>Materien in
+						der Mischung mit den andern bis auf den Punkt in Feuer zu gerathen erhitzt
+						waren, wurden die Gewölber der Erde erschüttert und der Schluß der
+						Verhängnisse war vollführet.</p></div><pb ed="AA" n="7"/><div n="2"><head rend="head_04">Das Erdbeben und die Wasserbewegung</head><head rend="head_05">vom
+							1. November 1755.</head>
+						    <p rend="indent">Der Augenblick <ref type="critApp" xml:id="app43612">indem</ref> dieser Schlag geschahe, scheinet am
+							richtigsten auf 9 Uhr 50 Minuten Vormittags zu <hi rend="spaced">Lissabon</hi> bestimmt zu <ref type="critApp" xml:id="app43613">seyn, diese</ref> Zeit stimmt genau mit derjenigen
+						da es in <hi rend="spaced">Madrit</hi> wargenommen worden, nemlich 10 Uhr 17
+							bis 18 <ref type="critApp" xml:id="app43614">Minuten</ref>, wenn man den Unterschied der Länge beyder Städte in den
+						Unterschied der Zeit verwandelt. Zu derselben Zeit wurden die Gewässer in
+						einem erstaunlichen Umfange, so wohl diejenige die mit dem Weltmeere eine
+						sichtbare Gemeinschaft haben, als <ref type="critApp" xml:id="app43616">auch welche</ref> darinn auf eine verborgene Art
+							stehen mögen in Erschütterung gesetzt. Von <ref type="editorialNote" target="#en46811">Abo</ref> in Finnland an bis in den
+						Archipelagus von Westindien sind wenig oder gar keine Küsten davon frey
+						geblieben. Sie hat eine Strecke von <ref type="editorialNote" target="#en46813">1500 Meilen</ref> fast in eben derselben Zeit
+						beherrschet. Wenn man versichert wäre, daß die Zeit darinn sie zu <hi rend="spaced">Glückstadt</hi> an der Elbe verspührt worden, nach den
+						öffentlichen Nachrichten gantz genau auf 11 Uhr 30 Minuten zu setzen wäre,
+						so würde man daraus schließen, daß die Wasserbewegung 15 Minuten zugebracht
+						habe, von Lissabon bis an die Holsteinischen Küsten zu gelangen. In eben
+						dieser Zeit wurde sie auch an allen Küsten des Mittelländischen Meeres
+						verspühret, und man weiß noch nicht die ganze Weite ihrer Erstreckung.</p><p rend="indent">Die Gewässer, die auf dem festen Lande von aller Gemeinschaft
+						mit dem Meere scheinen abgeschnitten zu seyn, die Brunnqvellen, die Seen,
+							<pb ed="oldAA" n="437" xml:id="B01S0437"/>wurden in vielen weit von
+						einander entlegenen Ländern zu gleicher Zeit in außerordentliche Regung
+						versetzt. Die meisten Seen in der <hi rend="spaced">Schweitz</hi>, der See
+						bey <hi rend="spaced">Templin</hi> in der Mark, einige Seen in <hi rend="spaced">Norwegen</hi> und <hi rend="spaced">Schweden</hi>,
+						geriethen in <pb ed="firstPrint" n="11" xml:id="B01S0437Z04fp"/>wallende
+						Bewegung, die weit ungestühmer und unordentlicher war als bey einem Sturme,
+						und die Luft war zugleich stille. Der <ref type="editorialNote" target="#en46828">See bey <hi rend="spaced">Neuschatel</hi>, wenn man sich auf die Nachrichten verlassen darf,
+						verlief sich in verborgene Klüfte, und der bey <hi rend="spaced">
+							<ref type="critApp" xml:id="app43707">Meinungen</ref>
+						</hi></ref> that dieses gleichfals, kam aber bald wiederum zurück. In eben diesen
+							Minuten blieb das mineralische Wasser zu <ref type="editorialNote" target="#en46831">Töplitz in Böhmen</ref> plötzlich aus,
+						und kam bluthroth wieder. Die Gewalt womit das Wasser hindurch getrieben
+						war, hatte seine alte Gänge erweitert und es bekam dadurch einen stärkern
+						Zufluß. Die Einwohner dieser Stadt hatten gut <hi rend="antiqua">
+							<foreign xml:lang="la">te Deum laudamus</foreign>
+						</hi> zu singen, indeßen daß die zu Lissabon ganz andere Thöne anstimmten.
+						So sind die Zufälle beschaffen, welche das menschliche Geschlecht
+						betreffen. Die Freude der einen und das Unglück der andern haben oft eine
+						gemeinschaftliche Ursache. Im <ref type="editorialNote" target="#en46838">Königreich Fez in Afrika</ref> spaltete eine
+							<w lemma="unterirrdische">un<pb ed="AA" n="8" break="no"/>terirrdische</w> Gewalt einen Berg und goß blutrothe Ströhme aus seinem
+							Schlunde. Bey <ref type="editorialNote" target="#en46902">Angouleme in Frankreich hörete man ein unterirrdisches Getöse,
+						es öfnete sich eine tiefe Gruft auf der Ebene und hielt unergründliches
+						Wasser in sich. Zu Gemenox</ref> in Provence wurde eine Qvelle plötzlich
+						schlammicht und ergoß sich darauf roth gefärbt. Die umliegende Gegenden
+						berichteten gleiche Veränderungen an ihren Qvellen. Alles dieses geschahe in
+						denselben Minuten da das Erdbeben die Küsten von Portugall verheerete. Es
+						wurden auch hin und wieder in eben diesem kurzen Zeitpunkte einige
+						Erderschütterungen in weit entlegenen Ländern wahrgenommen. Allein sie
+						geschahen fast alle dicht an der Seeküste. Zu <ref type="editorialNote" target="#en46910">Korck in Irrland</ref>, imgleichen
+						zu Glückstadt und an einigen andern Orten die am Meere liegen, geschahen
+						leichte Bebungen. <ref type="editorialNote" target="#en46912">Mayland</ref> ist vielleicht derjenige Ort der noch in der
+						weitesten Entfernung von dem Seeufer an eben demselben Tage erschüttert
+						worden. Eben diesen Vormittag um 8 Uhr tobte der Vesuvius bey Neapolis und
+						ward stille gegen die Zeit da die Erschütterung zu Portugall
+					geschahe.</p></div><div n="2">
+					<head rend="head_04">
+						<pb ed="firstPrint" n="12" xml:id="B01S0437Z32fp"/>Betrachtung über die
+						Ursache dieser</head>
+					<head rend="head_05">Wasserbewegung.</head>
+					<p rend="indent">Die Geschichte hat kein Exempel von einer so weit
+						ausgebreiteten und in dem Verlauf von wenigen Minuten zugleich gespührten
+						Rüttelung aller Gewässer und eines grossen Theils der Erde. Man hat daher <w lemma="Behutsamkeit">Behutsam<pb ed="oldAA" n="438" xml:id="B01S0438"/>keit</w> nöthig, um aus einem einzigen Vorfall die Ursache derselben
+						abzunehmen. Man kan sich vornehmlich folgende Ursachen gedenken, welche die
+						angeführte Naturbegebenheit hätten hervorbringen <ref type="critApp" xml:id="app43803">können. Entweder</ref> erstlich durch eine Bebung des
+						Meergrundes allenthalben unmittelbar unter denjenigen Oertern wo die See in
+						Rüttelung gerieth, und alsdenn müste man Grund angeben, <ref type="critApp" xml:id="app43806">woher</ref> die Feuerader die diese Bebungen hervor
+						brachte bloß unter dem Boden der Seen fortgelaufen sey, ohne unter die
+						Länder sich zu erstrecken, die mit diesen Meeren in naher Verbindung stehen
+						und oft die Gemeinschaft derselben unterbrechen. Man würde sich durch die
+						Frage betreten finden, woher die Erschütterung des Bodens, da sie von
+						Glückstadt an der Nordsee bis zu Lübeck an der Ostsee, und an den
+						mecklenburgischen Küsten sich ausgebreitet hat, nicht in Holstein empfunden
+						worden, welches zwischen diesen Meeren mitten inne liegt und woselbst nur
+						etwa eine gelinde Bebung dicht an dem Ufer des Gewässers verspührt worden,
+						keine aber in dem innern des Landes. Am deutlichsten aber wird man durch die
+						Wallung der weit von dem Meer <pb ed="AA" n="9"/>entlegenen Waßer überführt, als des <ref type="editorialNote" target="#en47001">Sees bey
+						Templin</ref>, derer in der Schweitz und anderer. Man kan leicht erachten daß, um
+						ein Gewässer durch die Bebung des Bodens in ein so gewaltiges Aufwallen zu
+						bringen, die Erschütterung gewiß nicht gering seyn müße. Warum aber haben
+						diesen gewaltigen Stoß alle umliegende Länder nicht empfunden, unter welchen
+						die Feuerader doch nothwendig <ref type="critApp" xml:id="app43822">muste</ref> fortgelaufen <ref type="critApp" xml:id="app43823">seyn</ref>? Man siehet leicht, daß alle Merkmale der
+						Warheit dieser Meinung entgegen seyn. Eine Erschütterung die der dichten
+						Masse der Erde selber durch einen an einem Orte <w lemma="geschehenen">geschehe<pb ed="firstPrint" n="13" xml:id="B01S0438Z25fp"/>nen</w>
+						heftigen Schlag rund umher eingedrückt worden, so wie der Boden in einiger
+						Entfernung bebt, wenn ein Pulverthurm springt, verliehrt in der Anwendung
+						auf diesen Fall auch ganz und gar die Warscheinlichkeit, sowohl aus der
+						<ref type="critApp" xml:id="app43828">schon</ref> angeführten Ursache, als wegen des entsetzlichen Umfanges, welcher
+						wenn man ihn mit dem Umfange der ganzen Erde vergleicht einen so
+						beträchtlichen Theil derselben ausmacht, daß deßen Bebung nothwendig eine
+						Schüttelung der ganzen Erdkugel hätte nach sich ziehen müssen. Nun kan man
+						sich aber aus <ref type="critApp" xml:id="app43832">dem</ref> 
+						<persName key="buffon_george_louis_leclerc_graf_v"><ref type="editorialNote" target="#en43832">
+						Büffon</ref></persName>
+						 belehren, daß ein Ausbruch des unterirrdischen Feuers, welches ein
+						Gebirge das 1700 Meilen lang und 40 breit wäre eine Meile hoch werfen könte,
+						den Erdkörper nicht einen Daumen breit aus seiner Lage würde verrücken
+						können.</p>
+					<p rend="indent">Wir werden also die Ausbreitung dieser Waßerbewegung in einer
+							<pb ed="oldAA" n="439" xml:id="B01S0439"/>Mittelmaterie zu suchen haben,
+						die geschickter ist eine Erschütterung in grossen Weiten mitzutheilen,
+						nemlich in dem Gewäßer der Meere selber, welches mit demjenigen im
+						Zusammenhange steht das durch eine unmittelbare Bebung des Seegrundes in
+						eine heftige und plötzliche Rüttelung versetzt worden.</p>
+					<p rend="indent">
+						<ref type="editorialNote" target="#en43906">Ich habe in den wöchentlichen
+							Königsbergschen Anzeigen</ref> die Gewalt zu schätzen gesucht, womit das
+						Meer durch den Schlag der von seinem Boden geschehenen Bebung in dem ganzen
+						Umfange fortgetrieben worden, indem ich den erschütterten Platz des
+						Seegrundes nur als ein Viereck angenommen, dessen Seite der Entfernung von
+							<ref type="editorialNote" target="#en43910">Cap St. Vincent und Cap
+								Finisterre</ref>, <abbr>d. i.</abbr> der Länge der westlichen Küsten von
+						Portugall und Spanien gleich ist, und die Gewalt des auffahrenden Grundes
+						wie die von einer Pulvermine angesehen, welche im Aufspringen vermögend ist
+						die Körper die darüber befindlich sind 15 Fuß hoch zu werfen, und nach den
+						Regeln nach denen die Bewegung in einem flüßigen Wesen fortgesetzt wird, sie
+						an den Hollsteinischen Küsten stärker als den schnellsten anprellenden
+						Strohm befunden. Laßt uns allhier die Gewalt, die es aus diesen Ursachen
+						ausgeübt hat, noch aus einem andern <w lemma="Gesichtspunkte">Ge<pb ed="firstPrint" n="14" xml:id="B01S0439Z18fp"/>sichtspunkte</w>
+						betrachten. Der <ref type="editorialNote" target="#en43919">Graf <persName key="marsigh_louis_ferdinand_comte_de">Marsigli</persName> hat die
+							größte Tiefe des mittelländischen Meers durch das Senkbley über 8000 <ref type="editorialNote" target="#en47041">Fuß</ref>
+							befunden</ref>, und es ist gewiß, daß das <pb ed="AA" n="10"/>Weltmeer in gehöriger
+						Entfernung vom Lande noch tiefer sey; wir wollen es aber hier nur 6000 <ref type="editorialNote" target="#en47102">Fuß
+							<abbr>d. i.</abbr> 1000 Klafter</ref> tief annehmen. Wir wißen daß die Last
+						womit eine so hohe Säule von Meereswaßer auf den Grund der See drückt, den
+						Druck der Atmosphäre beynahe 200 mal übertreffen müsse, und daß sie die
+						Gewalt womit das Feuer hinter einer Kugel her ist, die aus der Hölung einer
+						<ref type="editorialNote" target="#en47106a">Carthaune</ref> in der Zeit eines Pulsschlages 
+						100 <ref type="editorialNote" target="#en47606b">Klafter</ref> weit fortgeschleudert
+						wird, noch weit übertreffe. Diese erstaunliche Last konte die Gewalt nicht
+						zurücke halten, womit das unterirrdische Feuer den Meeresgrund schnell in
+						die Höhe stieß, also war diese bewegende Gewalt grösser. Mit welchem Drucke
+						wurde also das Waßer gepreßet um nach den Seiten plötzlich fortzuschießen, und ist es wohl
+						zu verwundern wenn es in einigen Minuten in Finnland und zugleich in
+						Westindien gespühret <ref type="critApp" xml:id="app43933">worden.</ref> Man
+						kan gar nicht ausmachen wie groß die Grundfläche der unmittelbaren
+						Erschütterung eigentlich gewesen seyn möge; sie wird vielleicht ungleich
+						größer seyn als wir sie angenommen haben; aber unter den Meeren wo die
+						Waßerbewegung ohne alles Erdbeben verspühret worden, an den Holländischen,
+						Englischen, Norwegischen Küsten, und in der Ostsee <pb ed="oldAA" n="440" xml:id="B01S0440"/>ist sie gewiß nicht im Meeresgrunde anzutreffen
+						gewesen. Denn alsdenn wäre das feste Land in seinem Innern gewiß mit
+						erschüttert worden, welches aber gar nicht beobachtet worden.</p>
+					<p rend="indent">Indem ich die heftige Erschütterung aller zusammenhängenden
+						Theile des Oceans dem einzigen Stoße zuschreibe den sein Boden in einem
+						gewissen Bezirke erlitten hat, so will ich darum die wirkliche Ausbreitung
+						des unterirrdischen Feuers, unter dem festen Lande fast des gesamten
+						Europens nicht geläugnet haben. Sie sind aller Warscheinlichkeit nach zu
+						gleicher Zeit geschehen und haben an den Erscheinungen die sich eräugneten
+						beyde Antheil gehabt, <pb ed="firstPrint" n="15" xml:id="B01S0440Z10fp"/>nur
+						daß eine jede ins besondere nicht <ref type="critApp" xml:id="app44010">vor</ref> die einzige Ursache aller insgesammt anzusehen ist. Die
+						Bebung des Waßers in der Nordsee, welche einen plötzlichen Stoß empfinden
+						ließ, war nicht die Wirkung eines unter dem Grunde tobenden Erdbebens.
+						Solche Erschütterungen müßten, um dergleichen Wirkung hervorzubringen, sehr
+						heftig seyn und hätten also unter dem festen Lande sehr merklich müssen
+						verspührt werden. Allein darum bin ich nicht in Abrede, daß selbst alles
+						feste Land in eine leichte <ref type="critApp" xml:id="app44017">Schwänkung</ref>, durch eine schwache Kraft der unter seinem Boden
+						entbrannten Dünste oder anderer Ursachen sey versetzt worden. Man sieht
+						dieses an <ref type="editorialNote" target="#en47136">Meyland</ref>, das an diesem Tage mit der größten Gefahr eines
+						gänzlichen Umsturzes bedrohet worden. Wir wollen also setzen, daß die Erde
+						durch ein leichtes Schwanken in eine gelinde Bewegung gesetzt worden, die so
+						groß gewesen, daß sie auf 100 <ref type="editorialNote" target="#en44022">
+							<abbr>Rheinl.</abbr> Ruthen</ref>, das Erdreich um einen Zoll
+						wechselsweise hin und her <ref type="critApp" xml:id="app44023">gewackelt</ref> hat: So wird <pb ed="AA" n="11"/>diese Bewegung so unmerklich gewesen seyn,
+						daß ein Gebäude von 4 <ref type="editorialNote" target="#en47201">Ruthen</ref> Höhe nicht um die 
+						<ref type="editorialNote" target="#en47202">Helfte eines Grans</ref> 
+						<abbr>d. i.</abbr> um einen halben Meßerrücken aus der senkrechten
+						Stellung dadurch hat gebracht werden können, welches selbst auf den höchsten
+						Thürmen kaum merklich werden würde. Dagegen <ref type="critApp" xml:id="app44028">werden</ref> die Seen diese unempfindliche Bewegung sehr
+						merklich <ref type="critApp" xml:id="app44029">haben</ref> machen müßen. Denn wenn ein See, <abbr>z. E.</abbr>
+						nur 2 <ref type="editorialNote" target="#en47206">deutsche Meilen</ref> lang ist, so wird sein Waßer durch dieses geringe
+						Wanken seines Bodens schon in eine
+							recht starke Schauckelung versetzt werden; denn das Waßer hat
+							alsdenn auf 14000 <ref type="editorialNote" target="#en47209">Zoll</ref>, ohngefehr <ref type="critApp" xml:id="app44032">ein</ref> Zoll Fall und einen Ablauf, der fast nur um die Helfte
+						kleiner ist, als der Ablauf eines recht schnellen Flußes, wie die
+						Waßerabwägung der <hi rend="spaced">Seine</hi> bey Paris uns belehren kan,
+						welches nach etlichen hin und wieder geschehenen Schwingungen, dem Waßer
+						wohl eine außerordentliche Rüttelung hat verursachen können. Wir können aber
+						die Erdbewegung mit gutem Fug noch einmal <pb ed="oldAA" n="441" xml:id="B01S0441"/>so groß annehmen als wirs gethan haben, ohne daß es auf dem festen
+						Lande füglich hätte gespührt werden können, und denn <pb ed="firstPrint" n="16" xml:id="B01S0441Z02fp"/>fällt die Bewegung der inländischen Seen
+						um desto begreiflicher in die Augen.</p>
+					<p rend="indent">Man wird sich also nicht mehr wundern, wenn alle inländische
+						Seen in der Schweitz, in Schweden, in Norwegen und in Deutschland, ohne eine
+						Erschütterung des Bodens zu fühlen, so unruhig und aufwallend erblicket
+						worden. Man findet es aber etwas außerordentlicher, daß gewisse Seen bey
+						dieser Unordnung gar <ref type="critApp" xml:id="app44108">versieget seyn</ref>, als der 
+						<ref type="editorialNote" target="#en47222">See bey Neuschatel, der bey
+						Como, und der bey <ref type="critApp" xml:id="app44109">Meinungen</ref></ref>,
+						obgleich deren einige sich schon wieder mit Waßer angefüllet haben. Diese
+						Begebenheit aber ist nicht ohne Exempel. Man hat einige Seen auf dem
+						Erdboden die ganz ordentlich sich zu gewissen Zeiten, durch verborgene
+						Canäle verlaufen, und zur gesetzten Zeit wiederkommen. Der <ref type="editorialNote" target="#en47227"><ref type="critApp" xml:id="app44113">Cirnitzer</ref> See im Herzogthum Crain</ref>
+						ist ein merkwürdiges Beyspiel hievon. Er hat in seinem Boden einige Löcher,
+						durch welche er aber nicht eher abfließt als <ref type="editorialNote" target="#en47229">um Jacobi</ref>, da er sich denn mit
+						allen Fischen plötzlich verläuft, und nachdem er 3 Monathe lang seinen Boden
+						als einen guten Weide und Ackerplatz trocken gelassen, gegen den
+						Novembermonat sich plötzlich wieder einfindet. Man erklärt diese
+						Naturbegebenheit sehr begreiflich durch die Vergleichung <ref type="editorialNote" target="#en44119">mit dem Diabetes der
+							Hydraulick</ref>. Allein in unsern <ref type="critApp" xml:id="app44120">vorhabenden</ref> Fällen kann man leicht erachten, daß, da viele Seen
+						durch unter ihrem Boden befindliche Qvelladern Zufluß bekommen, <ref type="critApp" xml:id="app44122">und</ref> diese, die in den umliegenden
+						Anhöhen ihren Ursprung finden, nachdem die Wirkung der unterirrdischen
+						Erhitzung und Ausdämpfung in den Hölungen, welche ihre Waßerhälter <ref type="critApp" xml:id="app44124">seyn</ref>, die
+						Luft <pb ed="AA" n="12"/>verschlungen, in dieselbe dadurch <ref type="critApp" xml:id="app44125">müssen</ref> zurückgezogen 
+						worden <ref type="critApp" xml:id="app44126">seyn</ref>, und
+						selbst ein kräftiges Saugwerk abgegeben haben, den See mit hineinzuführen
+						der, nach hergestelltem Gleichgewichte der Luft, seinen natürlichen Ausgang
+						wieder gesucht. Denn daß ein Landsee wie die öffentliche Berichte von dem zu
+							<ref type="critApp" xml:id="app44129">Meinungen</ref> haben erklären
+						wollen, durch die unterirrdische Gemeinschaft mit dem Meere unterhalten <pb ed="firstPrint" n="17" xml:id="B01S0441Z30fp"/>werde, weil er keinen
+						äußerlichen Zufluß von Bächen hat, ist sowohl wegen der <ref type="critApp" xml:id="app44131">dawieder</ref> streitenden Gesetze des Gleichgewichts,
+						als auch wegen der Saltzigkeit des Meerwaßers, einer gar zu offenbahren
+						Ungereimtheit ausgesetzt.</p>
+					<p rend="indent">Die Erdbeben haben das
+							schon als etwas gewöhnliches an sich, daß sie die Waßerqvellen in
+						Unordnung bringen. Ich könnte hier ein ganz Register von verstopften und an
+						andern Orten ausgebrochenen Qvellen, von recht hoch aus der Erde
+						herausgeschossenem Springwaßer und <w lemma="dergleichen">der<pb ed="oldAA" n="442" xml:id="B01S0442"/>gleichen</w>, aus der Geschichte anderer
+						Erdbeben, anführen, allein ich bleibe bey meinem Gegenstande. Aus Frankreich
+						hat man uns an einigen Orten berichtet, daß Qvellen verstopfet worden, und
+						andere übermäßig viel Waßer gegeben haben. Der <ref type="editorialNote" target="#en47317">Töplitzer Brunn</ref> blieb aus,
+						machte den armen Töplitzern bange, kam zuerst schlammigt, denn blutroth,
+						zuletzt natürlich und stärker als vorher wieder. Die Verfärbung der Wasser
+						in so vielen Gegenden, selbst im <ref type="editorialNote" target="#en47320">Königreiche Fetz</ref>, und in Frankreich ist
+						meinem Erachten nach, der Vermischung, der durch die Erdschichten, wo die
+						Qvellen ihren Durchgang haben, gedrungenen, mit Schwefel und Eisentheilchen
+						in Gährung gerathenen Dämpfe zuzuschreiben. Wenn diese bis in das inwendige
+						der Cisternen dringen, die den Ursprung des Brunnqvells enthalten, so
+						treiben sie entweder ihn mit größerer Gewalt heraus, oder indem sie das
+						Waßer in andere Gänge preßen, so verändern sie seinen Ausfluß.</p>
+					<p rend="indent">Dieses sind die vornehmste Merkwürdigkeiten der Geschichte vom
+						1sten <abbr>Nov.</abbr> und der Waßerbewegung die die seltenste von ihren
+						Umständen ist. Es ist mir überaus glaublich, daß die Erderschütterungen die
+						sich deicht am Meeresufer, oder eines Waßers das damit Gemeinschaft hat,
+						zugetragen haben, zu Cork in Irrland, in Glückstadt, und hin und wieder in
+						Spanien, größten theils eben dem Drucke des gepreßten Meerwaßers
+						zuzuschreiben sind, dessen Gewalt unglaublich groß seyn muß, wenn man die
+						Heftigkeit <w lemma="womit">wo<pb ed="firstPrint" n="18" xml:id="B01S0442Z21fp"/>mit</w> es anschläget durch die Fläche
+						multipliciret, worauf es <ref type="critApp" xml:id="app44223">trift, und</ref> ich bin der Meinung, das Unglück von
+						Lissabon sey, so wie das von den meisten Städten der westlichen Küste
+						Europens, der Lage zuzuschreiben, die es in Ansehung der 
+						<ref type="critApp" xml:id="app44225">beregten</ref> Gegend des
+						Oceans gehabt hat, da dessen ganze Gewalt noch überdem in der Mündung des
+						<ref type="editorialNote" target="#en47338">Tagus</ref>, durch die Enge eines Busens verstärkt, den Boden außerordentlich hat
+						erschüttern müssen. <pb ed="AA" n="13"/>Man mag urtheilen, ob die Erderschütterung lediglich in
+						Städten die am Meeresufer liegen, würde deutlich haben <ref type="critApp" xml:id="app44228">vermerkt</ref> werden können, die doch in dem innern
+						des Landes nicht empfindlich war, wenn nicht der Druck der Waßer einen
+						Antheil an derselben gehabt hätte.</p>
+					<p rend="indent">Noch ist die letzte Erscheinung dieser großen Begebenheit
+						merkwürdig, da eine geraume Zeit, nemlich beynahe 1 bis 1½ Stunden nach dem Erdbeben, eine entsetzliche
+						Aufthürmung der Waßer im Ocean, und eine Aufschwellung des Tagus, die
+						wechselsweise 6 Fuß höher als die höchste Fluth stieg, und bald darauf fast
+						so viel niedriger als die niedrigste Ebbe fiel, gesehen wurde. Diese
+						Bewegung des Meeres die eine geraume Zeit nach <pb ed="oldAA" n="443" xml:id="B01S0443"/>dem Erdbeben, und nach dem ersten entsetzlichen Drucke
+						der Waßer sich eräugnete, vollendete auch das Verderben der Stadt 
+						<ref type="editorialNote" target="#en47412"><ref type="critApp" xml:id="app44302"><hi rend="spaced">Setuval</hi></ref></ref>, indem es über deren Trümmer sich erhob, und was die Erschütterung
+						verschonet hatte, völlig aufrieb. Wenn man sich vorhero von der Heftigkeit,
+						des durch den bewegten Meeresgrund fortgeschoßenen Seewaßers, einen rechten
+						Begriff gemacht hat, so wird man sich leicht vorstellen können, daß es mit
+						Gewalt wieder zurückkehren müsse, nachdem sich sein Druck in alle die
+						unermeßliche Gegenden umher ausgebreitet hatte. Die Zeit seiner Wiederkehr
+						hänget von dem weiten Umfange ab, in welchem es um sich her gewirkt hat, und
+						seine Aufwallung vornemlich an den Ufern, muß nach Maasgebung derselben,
+						auch eben so fürchterlich gewesen seyn <note place="foot" n="*)" xml:id="fn02">
+							<p rend="indent">In dem Hafen zu Husum war diese Aufwallung des Waßers
+								auch zwischen 12 und 1 also um eine Stunde später als der erste Stoß
+								der Gewäßer in der Nordsee wargenommen.</p>
+						</note>.</p>
+				</div><div n="2">
+					<head rend="head_04">
+						<pb ed="firstPrint" n="19" xml:id="B01S0443Z12fp"/>Das Erdbeben vom 18ten
+						Novembr.</head>
+					<p rend="indent">Von dem 17ten bis zum 18ten eben dieses Monats, berichteten die
+						öffentliche Nachrichten, eine nahmhafte Erderschütterung, an den Küsten
+						sowohl von Portugal als Spanien und in Afrika. Den 17ten des Mittags war sie
+						in Gibraltar an der Meerenge des Mittelländischen Meeres, und gegen Abend zu
+						Whitehaven in <ref type="critApp" xml:id="app44317">Yorkshirn</ref> in
+						England zu spühren. Den 17ten auf den 18ten war sie schon in den englischen
+						Pflanzstädten von Amerika. Denselben 18ten wurde es auch in der Gegend von
+						<ref type="editorialNote" target="#en47429">Aqvapendente, und della Grotta</ref> in Italien heftig gefühlet. <note place="foot" n="**)" xml:id="fn03">
+							<p rend="indent">Imgleichen zu <ref type="editorialNote" target="#en47435">Glowson in der Grafschaft <ref type="critApp" xml:id="app44332">Hertford</ref></ref> wo es <ref type="critApp" xml:id="app44332a">bey einen</ref> heftigen
+								Getöse einen Abgrund eröfnete, welcher ein sehr tiefes Waßer in sich
+								enthielte.</p>
+						</note><pb ed="AA" n="14"/>
+					</p>
+				</div><div n="2">
+					<head rend="head_04">Das Erdbeben vom 9ten Decembr.</head>
+					<p rend="indent">Nach dem Zeugniße der öffentlichen Nachrichten, hat Lissabon
+						keine so heftige Anfälle der Erschütterung seit dem 1ten Nov. erlitten, als
+						diejenige vom 9ten Decembr. Es wurde dieses an den südlichen Küsten von
+						Spanien, an selbigen von Frankreich, durch die Schweitzergebirge, Schwaben,
+						Tyrol bis in Bäyern verspühret. Es durchstrich von Südwesten nach Nordosten,
+						gegen 300 <ref type="editorialNote" target="#en47507">deutsche Meilen</ref>, und indem es sich in der Richtung derjenigen
+						Kette von Bergen hielt, die die oberste Höhe des festen Landes <pb ed="oldAA" n="444" xml:id="B01S0444"/>von Europa seiner Länge nach durchlaufen,
+						breitete es sich nicht sehr seitwerts aus. Die sorgfältigsten
+						Erdbeschreiber, <persName key="varen_bernhard">
+							<ref type="editorialNote" target="#en44402">Varen</ref>
+						</persName>, <persName key="buffon_george_louis_leclerc_graf_v"><ref type="editorialNote" target="#en47510">Büffon</ref></persName>, <persName key="lulof_johann">
+							<ref type="editorialNote" target="#en44402a">Lulof</ref>
+						</persName> bemerken, daß, gleich wie alles Land, welches mehr in die Länge
+						als Breite sich erstreckt, in der Richtung seiner Länge von einem
+						Hauptgebirge durchlaufen wird, also der vornehmste Strich der Gebirge
+						Europens aus einem Hauptstamme, nemlich den Alpen gegen Westen, durch die
+						südliche Provinzen von Frankreich mitten durch Spanien, bis an das äußerste
+						Ufer von Europa gegen Abend sich erstrecke, obgleich es unterwegens
+						ansehnliche <pb ed="firstPrint" n="20" xml:id="B01S0444Z09fp"/>Nebenäste
+						ausschießet, und eben so ostwerts, durch die tyrolische und andere weniger
+						ansehnliche Berge, zuletzt mit den Carpatischen zusammen stößt.</p>
+					<p rend="indent">Diese Richtung durchlief das Erdbeben in demselben Tage. Wenn
+						die Zeit der Erschütterung eines jeden Orts richtig aufgezeichnet wäre, so
+						würde man die Schnelligkeit einigermaaßen schätzen, und die Gegend der
+						ersten Entzündung warscheinlich bestimmen können, nun sind aber die
+						Nachrichten so wenig zusammenstimmend, <ref type="critApp" xml:id="app44416">daß in Ansehung dessen auf nichts sich zu verlassen ist.</ref>
+					</p>
+					<p rend="indent">Ich habe schon sonsten angeführt, daß die Erdbeben gemeiniglich
+						wenn sie sich ausbreiten, den Strich der höchsten Gebirge halten, und zwar
+						durch ihre ganze Erstreckung, ob diese sich gleich, je mehr sie sich dem
+						Meeresufer näheren desto mehr erniedrigen. Die Richtung langer Flüße
+						bezeichnet sehr gut die Richtung der Gebirge, als zwischen deren neben
+						einander laufenden Reihen dieselbe, als in dem untersten Theile eines langen
+						Thales fortlaufen. Dieses Gesetz der Ausbreitung der Erdbeben ist keine
+						Sache der Speculation oder Beurtheilung, sondern etwas das durch
+						Beobachtungen vieler Erdbeben ist bekannt worden. Man muß sich desfalls an
+						die Zeugnisse des 
+						<persName key="ray_john"><ref type="editorialNote" target="#en44427">Raj</ref></persName>
+						, <persName key="buffon_george_louis_leclerc_graf_v">Buffon</persName>, <persName key="le_gentil_guilleaume_joseph_hyacinthe_jean_baptiste_de_la_galaisiere">Gentil</persName>
+						 <abbr>u. s. w.</abbr> halten. Allein dieses Gesetze hat soviel innere
+						Wahrscheinlichkeit, daß es auch von sich selber sich leichtlich Beyfall
+						erwerben muß. Wenn man bedenkt, daß die Oeffnungen dadurch das
+						unterirrdische Feuer Ausgang sucht, nirgend anders als in den Gipfeln der
+						Berge sind, daß man niemals in den Ebenen feuerspeiende Schlünde
+						wahrgenommen, daß in Ländern wo die Erdbeben <w lemma="gewaltig">ge<pb ed="AA" n="15" break="no"/>waltig</w> und häufig <ref type="critApp" xml:id="app44433">seyn</ref>, die mehresten Berge weite
+						Rachen enthalten die zum Auswurfe des Feuers dienen und daß, was unsere
+						Europäische Berge betrifft, man sonst nirgends als in ihnen geraumige
+						Hölungen entdeckt, die ohne Zweifel in einem Zusammenhange stehen, wenn man
+						hiezu noch den Begriff von der Erzeugung aller dieser unterirrdischen
+						Wölbungen <w lemma="anwendet">anwen<pb ed="oldAA" n="445" xml:id="B01S0445"/>det</w>, von der oben geredet worden, <pb ed="firstPrint" n="21" xml:id="B01S0445Z01fp"/>so wird man keine Schwierigkeit in der
+						Vorstellung finden, wie die Entzündung vornemlich unter der Kette <ref type="critApp" xml:id="app44503">an</ref> Bergen, die die Länge von
+						Europa durchlaufen, offene und freye Gänge antreffen könne, um darinn sich
+						schneller als nach andern Gegenden auszubreiten.</p>
+					<p rend="indent">Selbst die Fortsetzung des Erdbebens vom 18ten
+							<abbr>Nov.</abbr> aus Europa nach Amerika unter dem Boden eines weiten
+						Meeres, ist in dem Zusammenhange der Kette von Bergen zu suchen, die ob sie
+						gleich in der Fortsetzung so niedrig werden, daß sie von dem Meere bedeckt
+						sind, dennoch auch daselbst Berge <ref type="critApp" xml:id="app44510">bleiben, denn</ref> wir wissen daß auf dem
+						Boden des Oceans eben so wohl Gebirge als auf dem Lande anzutreffen <ref type="critApp" xml:id="app44511">seyn</ref>; und in dieser Art müssen
+						die Azorischen Inseln mit in diesen Zusammenhang gesetzt werden, die auf dem
+						halben Wege zwischen Portugall und Nordamerika angetroffen werden.</p>
+				</div><div n="2">
+					<head rend="head_04">Das Erdbeben vom 26ten Decembr.</head>
+					<p rend="indent">Nachdem die Erhitzung der mineralischen Materien den Hauptstamm
+						der höchsten Gebirge von Europa, nemlich die Alpen durchdrungen <ref type="critApp" xml:id="app44517">war</ref>, so
+						öfnete sie sich auch die engere <ref type="critApp" xml:id="app44518">Gänge</ref> unter der Reihe der Berge, welche von Süden nach Norden
+						rechtwinklicht auslaufen, und erstreckte sich in der Richtung des
+						Rheinstroms, welcher, wie überhaupt alle Flüße, ein langes Thal zwischen
+						zwey Reihen von Bergen einnimmt, aus der Schweitz bis an die Nordsee. Es
+						erschütterte auf der Westseite des Flußes die Landschaften Elsaß,
+						Lothringen, das Churfürstenthum Cöln, <ref type="editorialNote" target="#en47629">Brabant, und die Picardie und an der
+						Ostseite Cleve</ref>, einen Theil von Westphalen und vermuthlich noch einige an
+						dieser Seite des Rheins belegene Länder, wovon die Nachrichten nichts
+						nahmentlich gemeldet haben. Es hielt offenbar den Strich mit der Richtung
+						dieses großen Flußes Parallel und breitete sich nicht weit davon zu den
+						Seiten aus.</p>
+					<p rend="indent">
+						<pb ed="firstPrint" n="22" xml:id="B01S0445Z29fp"/>Man wird fragen wie man
+						es mit dem obigen zusammenreimen <ref type="critApp" xml:id="app44529">kan</ref>, daß es bis in die Niederlande
+						gedrungen, welche doch ohne sonderliche Berge <ref type="critApp" xml:id="app44531">seyn</ref>. Allein es ist genug, daß ein Land in einem
+						unmittelbaren <w lemma="Zusammenhange">Zu<pb ed="AA" n="16" break="no"/>sammenhange</w> mit gewissen Reihen von Bergen stehe, und als
+						eine Fortsetzung davon anzusehen sey, um die unterirrdische Entzündung bis
+						unter diesem sonst niedrigen Boden <ref type="critApp" xml:id="app44534">fortzusetzen, denn</ref> es ist gewiß, daß
+						alsdenn die Kette der Hölungen sich auch bis unter denselben erstrecken
+						werde, gleichwie sie wie schon angeführt, selbst unter dem Meeresgrunde
+						fortgehet.</p>
+				</div><div n="2">
+					<head rend="head_04">
+						<pb ed="oldAA" n="446" xml:id="B01S0446"/>Von den Zwischenzeiten die binnen
+						einigen auf</head>
+					<head rend="head_05">einander folgenden Erdbeben verlaufen.</head>
+					<p rend="indent">Wenn man die Folge der nach einander vorgegangenen
+						Erschütterungen mit Aufmerksamkeit betrachtet, so könte man, wenn man es
+						wagen wolte zu muthmassen, einen Periodus herausbringen, in welchem die
+						Entzündung nach einem Zwischenstillstande aufs neue ausgebrochen ist. Wir
+						finden nach dem 1sten <abbr>Novembr.</abbr> noch eine sehr heftige
+						Erschütterung in Portugall auf den 9ten, imgleichen auf den 18ten da sie
+						sich nach England, Italien, Afrika und selbst bis in Amerika <ref type="critApp" xml:id="app44609">erstreckte. Den</ref> 27ten ein starkes
+						Erdbeben an den südlichen Küsten von Spanien vornemlich in Malaga. Von
+						dieser Zeit an dauerte es 13 Tage, bis es den 9ten <abbr>Dec.</abbr> die
+						ganze Strecke von Portugall bis in Bayern von Südwesten nach Nordosten <ref type="critApp" xml:id="app44613">traf, und</ref> seit diesem nach einem
+						Verlauf von 18 Tagen, nemlich den 26ten auf den 27ten <abbr>Decembr.</abbr>
+						erschütterte es die Breite von Europa von Süden nach Norden <note place="foot" n="*)" xml:id="fn04">
+							<p rend="indent">Den 21ten war es in Lissabon sehr heftig, den 23ten in
+								den Gebirgen von <ref type="editorialNote" target="#en47730">Roußillon</ref> und dauerte daselbst bis zum 27ten. Es
+								ist hieraus zu sehen, daß es wiederum von Südwesten angefangen und
+								<ref type="critApp" xml:id="app44634">zwar</ref> eine weit längere Zeit zur Ausbreitung bedurft hat. Und wenn
+								man den Entzündungsplatz, wie <ref type="critApp" xml:id="app44635">aus den</ref> ganzen Verlauf des Erdbebens klar ist, in den
+								Ocean von Portugall gegen Abend setzt, so hängt der Anfang desselben
+								mit dem berührten Periodus ziemlich zusammen.</p>
+						</note>, so daß überhaupt ein ziemlich <w lemma="richtiger">rich<pb ed="firstPrint" n="23" xml:id="B01S0446Z15fp"/>tiger</w> Zeitlauf
+						von 9, oder 2mal 9 Tagen, zwischen den wiederholten Entzündungen verlaufen
+						ist, wenn man diejenige Zeit ausnimmt die es angewandt hat, bis in das
+						innerste der Gebirge unseres festen Landes zu dringen, und den 9ten Decembr.
+						die Alpen und die ganze Kette ihrer Verlängerung zu bewegen. Ich führe
+						dieses nicht zu dem Ende an, um etwas daraus zu folgern, weil die
+						Nachrichten dazu gar zu wenig zuverläßig sind, sondern um bey ähnlichen
+						Vorfällen Anlaß zur genauern Beobachtung und zum Nachsinnen zu geben.</p>
+					<pb ed="AA" n="17"/>
+					<p rend="indent">Ich will hier nur überhaupt etwas von den wechselsweise
+						nachlassenden und wiederum anhebenden Erschütterungen anführen. <ref type="editorialNote" target="#en47802">Herr
+							<persName key="bouguer_pierre">Bouguer</persName>, einer von den
+						Abgeordneten der Königl. Acad. der Wißensch. zu Paris nach Peru</ref>, hatte die
+						Unbeqvemlichkeit in diesem Lande neben einem feuerspeyenden Berge sich
+						aufzuhalten, dessen donnerndes Getöse ihm keine Ruhe ließ. Die Beobachtung
+						die er hiebey machte konte ihm <ref type="critApp" xml:id="app44629">davor</ref> einige Genugthuung seyn, indem er bemerkte daß der Berg
+						immer in gleichen Zwischenzeiten ruhig ward, und das toben desselben
+						ordentlich mit <w lemma="gewechselten">ge<pb ed="oldAA" n="447" xml:id="B01S0447"/>wechselten</w> Ruhepunkten auf einander folgte.
+							<ref type="editorialNote" target="#en44701">Die Bemerkung, die <persName key="mariotte_edme">Mariotte</persName> bey einem Kalkofen machte,
+							welcher eingeheitzet war, und bald die Luft aus einem offenen Fenster
+							ausstieß, bald darauf wieder zurück zog, wodurch er der Respiration der
+							Thiere gewissermaaßen nachahmete</ref>, hat hiemit große Aehnlichkeit,
+						beyde beruhen auf folgenden Ursachen. Wenn das unterirrdische Feuer in
+						Entzündung geräth so stößt es alle Luft aus den Hölen umher von sich. Wo
+						diese Luft nun, die mit den feurigen Theilen angefüllet ist eine Oefnung
+						findet, <abbr>z. E.</abbr> in dem Rachen eines feuerspeyenden Berges, da
+						fährt sie alsdenn hinaus und der Berg wirft Feuer aus. Allein so bald die
+						Luft aus dem Umfange des Heerdes der Entzündung verjagt ist, so läßt die
+						Entzündung nach, denn ohne Zugang der Luft verlöscht alles Feuer; alsdenn
+						tritt die verjagte Luft, da die Ursache die sie vertrieben hatte aufhöret,
+						wieder in ihren <pb ed="firstPrint" n="24" xml:id="B01S0447Z13fp"/>Platz
+						zurück und wecket das erloschene Feuer <ref type="critApp" xml:id="app44714">auf, auf</ref> solche Weise wechseln die Ausbrüche eines feuerspeyenden
+						Berges, in gewissen Zwischenzeiten richtig nach einander ab. Eben die
+						Bewandniß hat es mit den unterirrdischen Entzündungen, auch selbst da wo die
+						ausgedehnte Luft keinen Ausgang durch die Klüffte der Berge gewinnen kan.
+						Denn wenn die Entzündung an einem Orte in den Hölen der Erde ihren Anfang
+						nimmt, so stößt sie die Luft mit Heftigkeit in einem großen Umfange, in alle
+						die Gänge der unterirrdischen Wölbungen fort, die damit Zusammenhang haben.
+						In diesem Augenblicke ersticket das Feuer selbst durch den Mangel der Luft.
+						Und so bald eben diese ausdehnende Gewalt der Luft nachläßt, so kehrt
+						diejenige die in allen Hölen ausgebreitet war mit großer Gewalt zurück, und
+						fachet das erloschene Feuer zu einem neuen Erdbeben an. Es ist merkwürdig
+						daß Vesuvius, welcher, als die Gährungen in dem innern der Erde recht
+						angingen, durch den Ausgang, der durch seinen Schlund getriebenen Luft in
+						Bewegung und Feuer gebracht war, eine kurze Zeit darauf plötzlich nachließ,
+						da das Erdbeben bey Lissabon geschehen war, denn da drang alle mit diesen
+						Grüften in einigem Zusammenhange stehende Luft, und selbst die so über dem
+						Gipfel des Vesuvius befindlich ist, durch alle Canäle zu dem Feuerheerde der
+						Entzündung, wo die Verminderung der Ausspannungskraft der Luft ihr den
+						Zugang verstattete. Was <ref type="critApp" xml:id="app44733">vor</ref> ein
+						erstaunlicher Gegenstand! Einen <pb ed="AA" n="18"/>Camin sich vorzustellen welcher durch
+						Luftöfnungen die 200 <ref type="editorialNote" target="#en48004">Meilen</ref> davon entlegen <ref type="critApp" xml:id="app44735a">seyn</ref> sich einen Zug <ref type="critApp" xml:id="app44735b">verschaffet.</ref>
+					</p>
+					<p rend="indent">Eben dieselbe Ursache ist es auch welche unterirrdische
+						Sturmwinde in den Grüften der Erde hervorbringen muß, deren Gewalt alles was
+							<pb ed="oldAA" n="448" xml:id="B01S0448"/>wir auf der Oberfläche der Erde
+						verspühren weit übertreffen wird, wenn die Lage und Verknüpfung der Hölen
+						sich zu ihrer Ausbreitung anschicket. Das Getöse, das bey dem Fortgange
+						eines Erdbebens unter den Füßen verspühret worden, ist vermuthlich keiner
+						andern Ursache als eben dieser zuzuschreiben.</p>
+					<p rend="indent">
+						<pb ed="firstPrint" n="25" xml:id="B01S0448Z06fp"/>Eben dieses läßt uns
+						warscheinlich vermuthen, daß eben nicht alle Erdbeben dadurch verursacht
+						werden, daß die Entzündung gerade unter dem Boden geschiehet welcher
+						erschüttert wird; sondern daß die Wuth dieser unterirrdischen Stürme das
+						Gewölbe, welches über ihnen ist in Bewegung setzen könne, woran man desto
+						weniger zweifeln wird, wenn man bedenket: daß eine viel dichtere Luft als
+						diejenige ist die sich auf der Oberfläche der Erde befindet, durch weit
+						plötzlichere Ursachen als diese in Bewegung gesetzt, und zwischen Gängen die
+						ihre Ausbreitung verhindern, verstärket, eine unerhörte Gewalt ausüben
+						könne. Es ist also muthmaßlich, daß die gringe Wankung des Bodens in dem
+						größten Theil von Europa bey der heftigen Entzündung die am 1ten
+							<abbr>Nov.</abbr> in der Erde vorging, vielleicht von nichts als dieser
+						gewaltsamer Weise bewegten unterirrdischen Luft herzuleiten sey, die als ein
+						heftiger Sturmwind den Boden der seiner Ausbreitung <ref type="critApp" xml:id="app44819">wiederstand</ref> gelinde erschütterte.</p>
+				</div><div n="2">
+					<head rend="head_04">Von dem Heerde der unterirrdischen Entzündung,</head>
+					<head rend="head_05">und den Oertern so den meisten und gefährlichsten Erdbeben
+						unterworfen sind.</head>
+					<p rend="indent">Durch die Vergleichung der Zeit ersehen wir, daß der
+						Entzündungsplatz bey dem Erdbeben vom 1ten Nov. in dem Boden der See
+						gewesen. Der Tajo der schon vor der Erschütterung aufschwoll, der Schwefel
+						den Seefahrende mit dem Senkbley aus dem erschütterten Grunde brachten, und
+						die Heftigkeit der Stöße die sie fühlten, bestätigen es. Die Geschichte
+						vormaliger Erdbeben giebt es auch deutlich zu erkennen, daß in dem
+						Meeresgrunde jederzeit die fürchterlichste Erschütterungen vorgefallen sind,
+						und nechst <ref type="critApp" xml:id="app44829">diesen</ref> in den Oertern
+						welche an dem Seeufer oder nicht weit davon entfernet liegen. Zum Beweise
+						des ersteren führe ich die tobende Wuth an, womit die unterirrdische
+						Entzündung oft neue Inseln aus dem <pb ed="AA" n="19"/>Boden des Meeres erhoben hat, und
+						<abbr>z. E.</abbr> im Jahr 1720 nahe bey der <ref type="editorialNote" target="#en44832">Insel St. Michael</ref> einer von den Azorischen, aus
+						einer Tiefe <pb ed="firstPrint" n="26" xml:id="B01S0448Z33fp"/>von 60
+						<ref type="editorialNote" target="#en48002">Klafter</ref>, durch den Auswurf der Materie, aus dem Grunde der See eine Insel
+						auswarf, die 1 <ref type="editorialNote" target="#en48004">Meile</ref> lang und etliche Klafter über dem Meere erhoben war.
+						Die <ref type="editorialNote" target="#en48005">Insel <pb ed="oldAA" n="449" xml:id="B01S0449"/>bey Santorino</ref> im
+						mittelländischen Meer, die in unserm Jahrhundert vor den Augen vieler
+						Menschen aus dem Meeresgrunde in die Höhe kam, und viele andere Beyspiele
+						die ich der Weitläuftigkeit wegen übergehe, sind unverwerfliche Beweise
+						hievon.</p>
+					<p rend="indent">Wie oft erleiden nicht die Schiffer ein Seebeben; und es sind
+						in einigen Gegenden vornemlich in der Nachbarschaft gewisser Inseln, die
+						Meere <ref type="critApp" xml:id="app44907a">mit den Bimsteinen</ref> und
+						anderer Gattung vom Auswurfe, eines durch den Boden des Oceans
+						ausgebrochenen Feuers genugsam angefüllet. Die Bemerkung der häufigen
+						Erschütterungen des Seegrundes hängt mit der Frage natürlicher Weise
+						zusammen; <hi rend="spaced">woher unter allen Oertern desfesten Landes keine
+							heftigern und öfterern Erdbeben unterworfen sind, als <ref type="critApp" xml:id="app44912a">diejenige</ref> die nicht weit vom
+							Meeresufer <ref type="critApp" xml:id="app44912b">liegen</ref>.</hi> Dieser letztere Satz hat eine
+						unzweifelhafte <ref type="critApp" xml:id="app44913">Richtigkeit: Laßt</ref>
+						uns die Geschichte der Erdbeben durchlaufen, so finden wir unendlich viel
+						Unglücksfälle, die Städten oder Ländern durch Erdbeben <ref type="critApp" xml:id="app44915">wiederfahren</ref> sind, welche nahe beym Seeufer
+						liegen, aber sehr wenige und alsdenn von geringer Erheblichkeit, welche in
+						der Mitte des festen Landes wahrgenommen <ref type="critApp" xml:id="app44917">worden</ref>. Die alte Geschichte <ref type="critApp" xml:id="app44918">berichtet uns schon entsetzliche</ref> Verheerungen,
+						die dieses Unheil an den Meeresküsten von klein Asien oder Afrika verübt
+						hat. Wir finden aber weder darunter noch unter den neuern beträchtliche
+						Erschütterungen in der Mitte großer Länder. Italien welches eine Halbinsel
+						ist, die mehresten Inseln aller Meere, der Theil von Peru der am Meeresufer
+						liegt, erleiden die gröste Anfälle dieses Uebels. Und noch in unsern Tagen
+						sind alle westliche und südliche Küsten von Portugall und Spanien weit mehr
+						erschüttert worden, als das innere des festen Landes. Ich gebe von beyden
+						Fragen folgende Auflösung.</p>
+					<p rend="indent">
+						<pb ed="firstPrint" n="27" xml:id="B01S0449Z27fp"/>Unter allen fortgehenden
+						Hölen die unter der obersten Rinde der Erde begriffen sind, müssen diejenige
+						ohne Zweifel die engsten seyn die unter dem Meergrunde fortlaufen, weil
+						daselbst der fortgesetzte Boden des festen Landes in die größte Tiefe
+						herabgesunken ist, und weit niedriger auf seiner untersten Grundlage ruhen
+						muß, als die Oerter die gegen die Mitte des Landes hinliegen. Nun ist es
+						aber bekannt, daß in engen Hölen eine entzündete, sich ausdehnende Materie,
+						heftiger um sich wirken müße als wo sie sich ausbreiten kan. Ueberdem ist es
+						natürlich zu glauben, daß, <ref type="critApp" xml:id="app44935">da</ref> <pb ed="AA" n="20"/>bey der unterirrdischen Erhitzung nicht zu
+						zweifeln ist, die aufwallende mineralischen und entzündbare Materien werden
+						sehr öfters in Fluß gerathen seyn, wie
+							die Schwefelströhme und die <hi rend="spaced">Lava</hi>, die aus den <w lemma="feuerspeyenden">feuerspey<pb ed="oldAA" n="450" xml:id="B01S0450"/>enden</w> Bergen oft ergoßen worden, es
+						bezeugen können, und werden daher wegen des natürlichen Abhanges des Bodens,
+						der unterirrdischen Grüfte nach den niedrigsten Hölen des Meeresgrundes
+						jederzeit abgefloßen seyn, und also wegen des häufigen Vorraths der
+						entzündbaren Materie hier häufigere und gewaltigere <ref type="critApp" xml:id="app45005">Erschütterung</ref> sich zutragen müssen.</p>
+					<p rend="indent">
+						<ref type="editorialNote" target="#en45006">
+							<abbr>Hr.</abbr> 
+							<persName key="bouguer_pierre">Bouguer</persName> muthmaaßet mit
+							Recht</ref>, daß das durchdringen des Meerwaßers, durch Eröfnung einiger
+						Spalten in dem Boden desselben, die zur Erhitzung natürlich geneigte
+						mineralische Materien, in die heftigste Aufwallung bringen <ref type="critApp" xml:id="app45011">müsse</ref>. Denn wir
+						wissen daß nichts das Feuer erhitzter Mineralien in entsetzlichere Wuth
+						versetzen kan, als der Zufluß des Waßers, welches das toben desselben so
+						lange vermehrt bis seine sich nach allen Seiten ausbreitende Gewalt, dem
+						ferneren Zugang deßelben, durch den Auswurf aller irrdischen Materien und
+						Verstopfung der Oefnung gewehret hat.</p>
+					<p rend="indent">Meinem Erachten nach rühret die vorzügliche Heftigkeit, womit
+						ein am Meeresufer liegender Grund erschüttert wird, zum Theil ganz
+						natürlicher Weise von dem Gewicht her, womit das Meereswaßer seinen damit
+						benachbarten Boden belastet. Denn jedermann siehet <pb ed="firstPrint" n="28" xml:id="B01S0450Z18fp"/>leichtlich ein, daß die Gewalt, womit das
+						unterirrdische Feuer dieses Gewölbe, worauf eine so erstaunliche Last ruhet,
+						zu erheben trachtet, sehr müße zurück gehalten werden, und <ref type="critApp" xml:id="app45027">in dem</ref> es hier
+						keinen Raum seiner Ausbreitung vor sich findet, seine ganze Gewalt gegen den
+						Boden des trockenen Landes kehren müsse welcher damit zunechst verbunden
+						ist.</p>
+				</div><div n="2">
+					<head rend="head_04">Von der Richtung nach welcher der Boden durch</head>
+					<head rend="head_05">ein Erdbeben erschüttert wird.</head>
+					<p rend="indent">Die Richtung nach welcher das Erdbeben sich in weite Länder
+						ausbreitet, ist von derjenigen unterschieden, nach welcher der Boden
+						erschüttert wird, an dem es seine Gewalt ausübet. Wenn die oberste Decke der
+						verborgenen Gruft, darinn die entzündete Materie sich ausdehnet, eine
+						horizontale Richtung hat, so muß er wechselweise in senkrechter Stellung
+						gehoben und gesenkt werden, weil nichts ist was die Bewegung mehr nach einer
+						als nach der andern Seite lenken könnte. Ist aber die Erdlage welche die
+						Wölbung ausmacht nach einer Seite geneigt, so treibt die erschütternde Kraft
+						des unterirrdischen Feuers sie auch mit einer schiefen Richtung <w lemma="gegen">ge<pb ed="AA" n="21" break="no"/>gen</w> den
+						Horizont in die Höhe, und man kan die Richtung abnehmen nach <pb ed="oldAA" n="451" xml:id="B01S0451"/>welcher die Wankung des Bodens jederzeit
+						geschehen muß, wenn diejenige allemal sicher bekannt wäre, nach welcher die
+						Schichte der Erde abhängt, unter welcher die Feuergruft befindlich ist. Der
+						Abhang der obersten Fläche des erschütterten Bodens, ist kein sicheres
+						Merkmal von der schiefen Stellung, die das Gewölbe in seiner ganzen Dicke
+						<ref type="critApp" xml:id="app45107">hat; denn</ref> die Erdlagen welche oben aufliegen können mannigfaltige Beugungen
+						und Hügel machen, nach denen sich die unterste Grundlage gar nicht richtet.
+							<hi rend="spaced">
+							<persName key="buffon_george_louis_leclerc_graf_v">Büffon</persName>
+						</hi> ist der Meinung: daß alle verschiedene Schichten die auf der Erden
+						gefunden werden, einen allgemeinen Grundfels zur Base haben, der alle
+						beschlossene tiefe Hölungen von oben decket, und dessen einige Theile auf
+						den Gipfeln hoher Berge gemeiniglich entblößt <ref type="critApp" xml:id="app45111">seyn</ref>, wo Regen und <pb ed="firstPrint" n="29" xml:id="B01S0451Z11fp"/>Sturmwinde die lockere Substanz völlig
+						abgespühlt haben. Diese Meinung bekommt durch das, was die Erdbeben zu
+						erkennen geben viel Wahrscheinlichkeit. Denn eine dermaaßen wütende Gewalt,
+						als die Erdbeben ausüben, würde eine andere als felsigte Wölbung durch die
+						ofters erneuerte Anfälle längst zertrümmert und aufgerieben haben.</p>
+					<p rend="indent">Der Abhang dieser Wölbung ist an dem Meeresufer ohne Zweifel
+						nach dem Meere hin geneigt, und also nach derjenigen Richtung abschießig,
+						nach welcher das Meer <ref type="critApp" xml:id="app45119">dem Orte</ref>
+						liegt. An dem Ufer eines großen Flußes muß sie in der Richtung abschüßig
+						seyn wohin der Ablauf des Strohmes <ref type="critApp" xml:id="app45121">gehet; denn</ref> wenn man die sehr lange und
+						öfters einige hundert Meilen übertreffende Strecken betrachtet, die die
+						Flüße auf dem festen Lande durchlaufen, ohne daß sie stehende Pfützen oder
+						Seen unterwegens machen: so kan man diesen einförmigen Abhang wohl durch
+						nichts anders erklären, als durch diejenige überaus feste Grundlage, die,
+						indem sie ohne vielfältige Einbeugungen sich einförmig zu dem Meeresgrunde
+						hinneiget, dem Fluße eine schiefe Fläche zum Ablaufe verschaffet. Daher ist
+						zu vermuthen: daß die Schwankung des Bodens einer erschütterten Stadt, die
+						an einem großen Fluße liegt, in der Richtung dieses Flußes, als im Tajo von
+						Abend und Morgen geschehen werde <note place="foot" n="*)" xml:id="fn05">
+							<p rend="indent">Gleichwie ein Fluß eine abhängende Schiefe gegen das
+								Meer hin hat, so haben die Länder zu den Seiten einen Abhang zu
+								seinem Bette. Wenn dieses letztere selbst von der ganzen Erdschichte
+								gilt, und diese in der größten Tiefe eben solche Abschießigkeit
+								besitzet, so wird die Richtung der Erderschütterung auch durch diese
+								bestimmt werden.</p>
+						</note>; derjenigen aber die am Meeresufer liegt, in der Richtung nach
+						welcher dieses zum Meere sich neiget. Ich habe <ref type="editorialNote" target="#en45132">an einem andern Orte</ref> angeführet was die Lage des
+						Bodens dazu beytragen kan, <pb ed="oldAA" n="452" xml:id="B01S0452"/>eine
+						Stadt, deren Hauptstraßen in eben der Richtung fortgehen als dieser
+						abschießig ist, bey einem vorfallenden <ref type="critApp" xml:id="app45134">Erdbeben</ref> völlig zu <pb ed="AA" n="22"/>zerstöhren. Diese
+						Anmerkung ist nicht ein Einfall der bloßen Vermuthung; es ist eine Sache der
+						Erfahrung. <ref type="editorialNote" target="#en45204">
+							<hi rend="spaced">
+								<persName key="labarbinais-le-gentil_franz_weltreisender">Gentil</persName>
+							</hi>
+						</ref>
+						<hi rend="spaced">,</hi> der selbst von sehr vielen Erdbeben gute <pb ed="firstPrint" n="30" xml:id="B01S0452Z04fp"/>einzuholen Gelegenheit
+						hatte, berichtet dieses als eine Beobachtung die durch viele Exempel
+						bestätigt worden: daß wenn die Richtung nach der der Boden erschüttert wird,
+						mit der Richtung nach welcher die Stadt erbauet ist gleichläuft, sie ganz
+						und gar umgeworfen werde, anstatt daß, wenn sie diese rechtwinklicht
+						durchschneidet, weniger Schade geschieht.</p>
+					<p rend="indent">
+						<ref type="editorialNote" target="#en45210">Die Historie der <abbr>Königl.
+								Akad.</abbr> zu Paris berichtet</ref>: daß da Smyrna, welches an dem
+						ostlichen Ufer des mittelländischen Meeres liegt, im Jahr 1688 erschüttert
+						wurde, alle Mauren die die Richtung von Osten nach Westen hatten eingestürzt
+						wurden, <ref type="critApp" xml:id="app45213">und die</ref> so von Norden
+						nach Süden erbauet waren stehen blieben.</p>
+					<p rend="indent">Der erschütterte Boden macht nemlich einige Schwankungen, und
+						beweget alles was auf ihm der Länge nach in der Richtung der Schwankung
+						aufgeführt ist, am stärcksten. Alle Körper die eine große Beweglichkeit
+						haben, <abbr>z. E.</abbr> die Kronleuchter in den Kirchen pflegen bey den
+						Erdbeben die Richtung, nach der die Stöße geschehen, anzuzeigen und sind
+						weit sicherere Merkmaale <ref type="critApp" xml:id="app45220">vor</ref>
+						eine Stadt, um die Lage daraus abzunehmen, nach welcher sie sich anbauen
+						muß, als die schon angeführte etwas zweifelhaftere Kennzeichen.</p>
+				</div><div n="2">
+					<head rend="head_04">Von dem Zusammenhange der Erdbeben</head>
+					<head rend="head_05">mit den Jahreszeiten.</head>
+					<p rend="indent">Der schon mehrmals angeführte französische Akademist, <ref type="editorialNote" target="#en45224">
+						<abbr>Hr.</abbr> 
+							<persName key="bouguer_pierre">Bouguer</persName>, führt in seiner Reise
+							nach Peru an, daß wenn die Erdbeben in diesem Lande zu allen
+							Jahreszeiten oft genug geschehen, dennoch die fürchterlichsten und
+							häufigsten in den Herbstmonaten gegen das Ende des Jahres</ref> gefühlet
+						werden. Diese Beobachtung findet nicht allein in Amerika zahlreiche
+						Bestätigungen, indem, außer dem <ref type="editorialNote" target="#en48329">Untergange der Stadt Lima</ref> vor 10 Jahren und
+						der Versinkung einer andern eben so volckreichen im vorigen Jahrhundert,
+						sehr viel Exempel davon bemerket <ref type="critApp" xml:id="app45231">worden, sondern auch</ref> in unserm <pb ed="firstPrint" n="31" xml:id="B01S0452Z32fp"/>Welttheil finden wir außer dem letztern Erdbeben
+						noch viele Beyspiele in der Geschichte, von Erschütterung und Auswürfen
+						feuerspeyender Berge, die sich häufiger in den Herbstmonaten als in irgend
+						einer andern Jahreszeit zugetragen haben. Solte nicht eine gemeinschaftliche
+						Ursache diese <pb ed="oldAA" n="453" xml:id="B01S0453"/>Uebereinstimmung veranlassen, und auf welche kan
+						man füglicher die Vermuthung werfen, als auf die Regen die in Peru in dem
+						langen <pb ed="AA" n="23"/>Thale, zwischen den <ref type="editorialNote" target="#en48401">Cordillerischen Gebirgen</ref> vom September bis in den
+						April dauren, und die auch um die Herbstzeit bey uns am häufigsten <ref type="critApp" xml:id="app45304">seyn</ref>? Wir wissen daß, um einen
+						unterirrdischen Brand zu veranlassen, nichts nöthig sey als die mineralische
+						Materien in den Hölen der Erde in Gährung zu bringen. Dieses thut aber das
+						Wasser, wenn es sich durch die Klüfte der Berge hindurch geseigert hat und
+						in den tiefen Gängen sich verläuft. Die Regen haben die Gährung zuerst
+						gereitzet, die in der Mitte des Octobers so viel fremde Dämpfe aus dem
+						inwendigen der Erde herausstieß. Allein eben diese lokten dem Luftkreise
+						noch mehr naße Einflüße ab, und das Waßer das durch die Felsenritzen bis in
+						die tiefsten Grüfte hineindrang, vollendete die angefangene Erhitzung.</p>
+				</div><div n="2">
+					<head rend="head_04">Von dem Einfluß der Erdbeben in den Luftkreis.</head>
+					<p rend="indent">Wir haben oben ein Beyspiel von Wirkungen gesehen, die die
+						Erderschütterungen auf unsere Luft haben. Es ist zu glauben, daß von den
+						Ausbrüchen der unterirrdischen erhitzten Dämpfe mehr Naturerscheinungen
+						abhängen als man sich wohl gemeiniglich einbildet. Es wäre kaum möglich, daß
+						in den Witterungen eine solche Unregelmäßigkeit und so wenig
+						übereinstimmendes anzutreffen wäre, wenn nicht fremde Ursachen bisweilen in
+						unsere Atmosphäre träten, und ihre richtige Veränderungen in Unordnung
+						brächten. Kan man sich wohl einen wahrscheinlichen Grund gedenken, warum, da
+						der Lauf der Sonne und des Mondes an seine immer sich selbst ähnliche
+						Gesetze gebunden ist, da Waßer und Erde, wenn man es <pb ed="firstPrint" n="32" xml:id="B01S0453Z25fp"/>im Großen nimmt, immer überein bleiben,
+						doch der Ablauf der Witterungen, auch selbst in einem <ref type="critApp" xml:id="app45326">Auszug</ref> vieler Jahre, fast immer anders ausfällt. Wir haben seit der
+						unglücklichen Erschütterung und kurz vor derselben eine so abweichende
+						Witterung durch unsern ganzen Welttheil gehabt, daß man entschuldigt werden
+						kan, wenn man desfalls einige Vermuthung auf die Erdbeben wirft. Es ist
+						wahr, man hat wohl ehedem warme Winterwitterung gehabt, ohne daß einiges
+						Erdbeben vorhergegangen; aber ist man denn sicher, daß nicht eine Gährung in
+						dem innern der Erde sehr oft Dämpfe durch die Felsenklüfte, die Spalten der
+						Erdschichten, und selbst durch derselben lockere Substanz hindurch getrieben
+						habe, die da nahmhafte Veränderungen im Luftkreise nach sich haben ziehen
+							<pb ed="oldAA" n="454" xml:id="B01S0454"/>können? <hi rend="spaced">
+								<persName key="musschenbroeck_peter_van"><ref type="editorialNote" target="#en48434">Musschenbroeck</ref></persName>
+						</hi>, nachdem er bemerket hat, daß nur in diesem Jahrhundert und zwar seit
+						1716 recht helle Nordlichter in Europa und bis in dessen südlichen Ländern
+						gesehen worden, hält <ref type="critApp" xml:id="app45403">vor</ref> die
+						wahrscheinlichste Ursache dieser Veränderung in dem Luftkreise, daß die
+						feuerspeyende Berge und die Erdbeben, die einige Jahre vorher häufig gewütet
+						hatten, <w lemma="entzuendbare">ent<pb ed="AA" n="24" break="no"/>zündbare</w> und flüchtige Dünste ausgestossen, die durch den
+						natürlichen Abfluß der obersten Luft nach Norden sich dahin gehäufet, und
+						die feurige Lufterscheinungen hervorgebracht, die seit dem so häufig sind
+						gesehen worden, und daß sie vermuthlich sich nach und nach verzehren müssen,
+						bis neue Aushauchungen den Abgang wiederum ersetzen.</p>
+					<p rend="indent">Diesen Grundsätzen nach, laßt uns untersuchen ob es nicht der
+						Natur gemäß sey, daß eine veränderte Witterung, wie diejenige die wir gehabt
+						haben, eine Folge von jener Catastrophe seyn könne. Die helle
+						Winterwitterung, und die Kälte die sie begleitet, ist nicht lediglich eine
+						Folge von der größern Entfernung der Sonne von unserm Scheitelpunkte zu
+						dieser <ref type="critApp" xml:id="app45417">Jahreszeit; denn</ref> wir empfinden es oft, daß dem ungeachtet die Luft
+						sehr gemäßigt seyn könne; sondern der Zug der Luft aus Norden, der auch zu
+						Zeiten in einen Ostwind ausschlägt, bringt uns eine erkältete Luft bis <ref type="critApp" xml:id="app45419">aus</ref> der Eiszone <pb ed="firstPrint" n="33" xml:id="B01S0454Z19fp"/>her, die unsere Gewäßer
+						mit Eis belegt und uns einen Theil von dem Winter des Nordpols fühlen läßt.
+						Dieser Zug der Luft von Norden nach Süden ist in den <ref type="critApp" xml:id="app45421">Herbst- und</ref> Wintermonaten so natürlich, wenn ihn
+						nicht fremde Ursachen unterbrechen, daß in dem Ocean in genugsahmer
+						Entfernung von allem festen Lande, dieser <ref type="critApp" xml:id="app45423">Nord oder</ref> Nordostwind die gantze Zeit hindurch
+						ununterbrochen angetroffen wird. Er rührt auch ganz natürlich von der
+						Wirkung der Sonne her, die alsdenn über der südlichen Halbkugel die Luft
+						verdünnet, und dadurch der nordlichen ihren Herbeyzug verursachet: so daß
+						dieses als ein beständiges Gesetze angesehen werden muß, welches durch die
+						Beschaffenheit der Länder wohl einigermaaßen verändert, aber nicht
+						aufgehoben werden kan. Wenn nun unterirrdische Gährungen erhitzte Dämpfe
+						irgendwo in den Ländern, die uns nach Süden liegen ausstossen: so werden
+						diese anfänglich die Höhe des Luftkreises in der Gegend wo sie aufsteigen
+						dadurch verringern, daß sie ihre Ausspannungskraft schwächen und Platzregen,
+						Orkane <abbr>u. d. g.</abbr> verursachen. Allein in der Folge wird dieser
+						Theil der Atmosphäre, da er mit so viel Dünsten beladen ist, die benachbarte
+						durch sein Gewicht bewegen und einen Zug der Luft von Süden nach Norden
+						verursachen. Da nun aber die Bestrebung des Luftkreises von Norden nach
+						Süden in <w lemma="unserem">un<pb ed="oldAA" n="455" xml:id="B01S0455"/>serem</w> Erdstriche bey dieser Jahreszeit natürlich ist, so werden
+						diese beyde gegeneinander streitende Bewegungen sich aufhalten, und erstlich
+						eine trübe regnichte Luft, wegen der zusammen getriebenen Dünste, dabey aber
+						doch einen hohen Stand des Barometers <note place="foot" n="*)" xml:id="fn06">
+							<p rend="indent">Dergleichen bey dieser naßen Winterwitterung fast
+								beständig bemerkt worden.</p>
+						</note> nach sich ziehen, weil die durch den Streit zweyer Winde
+						zusammengedrückte Luft eine hohe Säule ausmachen <pb ed="AA" n="25"/>muß; und man wird dadurch
+						sich in die scheinbare Unrichtigkeit der Barometer finden lernen, wenn bey
+						hohem Stande derselben doch regenhaftes Wetter 
+						<ref type="critApp" xml:id="app45507">ist, denn</ref> alsdenn ist eben
+						diese Näße der Luft eine Wirkung zweyer einander entgegen <w lemma="streitenden">strei<pb ed="firstPrint" n="34" xml:id="B01S0455Z09fp"/>tenden</w> Luftzüge, welche die Dünste
+						zusammentreiben und dennoch die Luft ansehnlich verdichten und schwerer
+						machen können.</p>
+					<p rend="indent">Ich kan nicht mit Stillschweigen übergehen: daß an dem
+						schrecklichen Tage Allerheiligen die Magnete in Augspurg ihre Last
+						abgeworfen haben und die Magnetnadeln in Unordnung gebracht worden. <ref type="editorialNote" target="#en48609"><hi rend="spaced">
+							<persName key="boyle_robert">Boyle</persName>
+						</hi> berichtet schon</ref>, daß einsmals nach einem Erdbeben in Neapel eben
+						dergleichen vorgegangen. Wir kennen die verborgene Natur des Magnets zu
+						wenig, um von dieser Erscheinung Grund angeben zu können.</p>
+				</div><div n="2">
+					<head rend="head_04">Von dem Nutzen der Erdbeben.</head>
+					<p rend="indent">Man wird erschrecken eine so fürchterliche Strafruthe der
+						Menschen von der Seite der Nutzbarkeit angepriesen zu sehen. Ich bin gewiß,
+						man würde gerne Verzicht darauf thun, um nur der Furcht und der Gefahren
+						überhoben zu seyn, die damit verbunden sind. So sind wir Menschen <ref type="critApp" xml:id="app45522">geartet</ref>. Nachdem wir einen <ref type="critApp" xml:id="app45523">wiederrechtlichen</ref> Anspruch auf
+						alle Annehmlichkeit des Lebens gemacht haben, so wollen wir keine Vortheile
+						mit Unkosten erkaufen. Wir verlangen der Erdboden soll so beschaffen seyn:
+						daß man wünschen könte darauf ewig zu wohnen. Ueber dieses bilden wir uns
+						ein, daß wir alles zu unserm Vortheil besser regieren würden, wenn die
+						Vorsehung uns darüber unsere Stimme abgefragt hätte. So wünschen wir
+						<abbr>z. E.</abbr> den Regen in unserer Gewalt zu haben, damit wir ihn
+						nach unserer Beqvemlichkeit das Jahr über vertheilen könten, und immer
+						angenehme Tage zwischen den trüben zu genießen hätten. Aber wir vergessen
+						die Brunnen, die wir gleichwohl nicht entbehren könnten, und die doch auf
+						solche Art gar nicht würden unterhalten werden. Eben so wissen wir den <pb ed="oldAA" n="456" xml:id="B01S0456"/>Nutzen nicht, den uns eben die
+						Ursachen verschaffen könnten die uns in den Erdbeben erschrecken, und wolten
+						sie doch gerne verbannet wissen.</p>
+					<p rend="indent">Als Menschen, die gebohren waren um zu sterben, können wir es
+						nicht vertragen daß einige im Erdbeben gestorben sind, und <ref type="critApp" xml:id="app45604">als die hier</ref> Fremdlinge sind und
+						kein Eigenthum besitzen, sind wir <pb ed="firstPrint" n="35" xml:id="B01S0456Z05fp"/>untröstlich, daß Güter verlohren worden, die in
+						kurzem durch den <ref type="critApp" xml:id="app45606">allgemeinen</ref> Weg
+						der Natur von selbst wären verlaßen worden.</p>
+					<pb ed="AA" n="26"/>
+					<p rend="indent">Es läßt sich leicht rathen: daß wenn Menschen auf einem Grunde
+						bauen der mit entzündbaren Materien angefüllet ist, über kurz oder lang die
+						ganze Pracht ihrer Gebäude durch Erschütterungen über den Haufen fallen <ref type="critApp" xml:id="app45611">könne; aber</ref> muß man denn darum
+						über die Wege der Vorsehung ungeduldig werden. Wäre es nicht besser also zu urtheilen: Es war nöthig daß
+						Erdbeben bisweilen auf dem Erdboden geschähen, aber es war nicht nothwendig
+						daß wir prächtige Wohnplätze darüber erbaueten. Die Einwohner in Peru wohnen in Häusern die nur in
+						geringer Höhe gemauert <ref type="critApp" xml:id="app45616">seyn</ref>, und
+						das übrige besteht aus Rohr. Der Mensch muß sich in die Natur schicken
+						lernen, aber er will daß sie sich in ihn schicken soll.</p>
+					<p rend="indent">Was auch die Ursache der Erdbeben den Menschen auf einer Seite
+						jemals <ref type="critApp" xml:id="app45619">vor</ref> Schaden erweckt hat,
+						das kan sie ihm leichtlich auf der andern Seite mit Gewinst ersetzen. Wir
+						wissen daß die warme Bäder die vielleicht einem beträchtlichen Theil der
+						Menschen zur Beförderung der Gesundheit in der Folge der Zeiten können
+						dienlich gewesen seyn, durch eben dieselbe Ursachen ihre mineralische
+						Eigenschaft und Hitze haben, wodurch die Erhitzungen in dem innern der Erde
+						vorgehen welche diese in Bewegung setzen.</p>
+					<p rend="indent">Man hat schon längst vermuthet: daß die Erzstuffen in den
+						Gebirgen eine langsame Wirkung der unterirrdischen Hitze <ref type="critApp" xml:id="app45627">seyn</ref>, die die Metalle durch allmähliche
+						Wirkungen zur Reife bringt, indem sie sie durch durchdringende Dämpfe in der
+						Mitte des Gesteins bildet und kocht.</p>
+					<p rend="indent">Unser Luftkreis bedarf außer den groben und todten Materien die
+						er in sich enthält auch ein gewisses wirksames Principium, flüchtige Salze
+						und Theile die in den Zusammensatz der Pflanzen kommen sollen, <ref type="critApp" xml:id="app45632">sie</ref> zu bewegen und auszuwickeln.
+						Ist es nicht glaublich daß die Naturbildungen die beständig einen großen
+						Theil davon aufwenden, und die <ref type="critApp" xml:id="app45634">Veränderung</ref> die alle Materie durch die Auflösung und
+						Zusammensetzung endlich erleidet, die wirksamste <pb ed="firstPrint" n="36" xml:id="B01S0456Z36fp"/>Partikeln mit der Zeit gänzlich verzehren <ref type="critApp" xml:id="app45636">würden</ref>, wenn nicht von Zeit zu
+						Zeit ein neuer Zufluß geschähe.
+						Zum wenigsten wird <pb ed="oldAA" n="457" xml:id="B01S0457"/>das Erdreich
+						immer unkräftiger, wenn es kräftige Pflanzen nährt, aber die Ruhe und der
+						Regen bringen es wieder in den Stand. Wo würde aber endlich die kräftige
+						Materie herkommen, die ohne Ersetzung verwandt wird, wenn nicht eine
+						anderweitige Qvelle ihren Zufluß unterhielte? Und diese ist vermuthlich der
+						Vorrath, den die unterirrdische Grüfte an den wirksamsten und flüchtigsten
+						Materien enthalten; davon sie von Zeit zu Zeit einen Theil auf die
+						Oberfläche der Erde ausbreiten. Ich merke noch an: daß <ref type="editorialNote" target="#en45708"><hi rend="spaced">
+							<persName key="haies_stephan">Hales</persName>
+						</hi> mit sehr glücklichem Erfolg die Gefängnisse, und überhaupt alle Oerter
+						deren Luft mit thierischen Ausdufftungen angesteckt wird, durch das Räuchren 
+							<pb ed="AA" n="27"/>des Schwefels befreyet</ref>. Die feuerspeyende Berge stossen eine unermeßliche
+						Menge schwefelichter Dämpfe in den Luftkreis <ref type="critApp" xml:id="app45711">aus, wer</ref> weiß, würden die thierische
+						Ausdünstungen, womit <ref type="critApp" xml:id="app45712">dieser</ref>
+						beladen ist, nicht mit der Zeit schädlich werden, wenn jene nicht ein
+						kräftiges Gegenmittel dawieder abgäben.
+					</p>
+					<p rend="indent">Zuletzt dünket mir die Wärme in dem innern der Erde, <ref type="critApp" xml:id="app45715">einen kräftigen</ref> Beweis von der
+						Wirksamkeit und dem großen Nutzen der Erhitzungen, die in tiefen Grüften
+						vorgehen, abzugeben. Es ist durch tägliche Erfahrungen ausgemacht: daß es in
+						großen, ja in den größten Tiefen, dazu Menschen in dem innern der Berge <ref type="critApp" xml:id="app45719">nur</ref> gelanget sind, eine
+						immerwährende Wärme gebe, die man unmöglich der Wirkung der Sonne
+						zuschreiben kan. <hi rend="spaced">
+							<persName key="boyle_robert"><ref type="editorialNote" target="#en48812">Boyle</ref></persName>
+						</hi> zieht eine gute Anzahl Zeugnisse an, daraus erhellet, daß in allen
+						tiefsten Schachten man zuerst die obere Gegend weit kälter finde als die
+						äußere Luft wenn es zur Sommerzeit ist, je tiefer man sich aber herablasse,
+						desto wärmer befinde man die Gegend, so, daß in der größten Tiefe die
+						Arbeiter genöthigt sind die Kleider bey ihrer Arbeit abzulegen. Jedermann
+						begreift es leicht, daß, da die Sonnenwärme nur auf eine sehr geringe Tiefe
+						in die Erde dringt, sie in den alleruntersten Grüften nicht die geringste
+						Wirkung mehr thun könne; und daß die daselbst befindliche Wärme von einer
+						Ursache <pb ed="firstPrint" n="37" xml:id="B01S0457Z29fp"/>abhänge, die nur
+						in der größten Tiefe herrscht, ist überdem aus der verminderten Wärme zu
+						ersehen, je höher man so gar zur Sommerzeit von unten hinauf kommt.
+							<persName key="boyle_robert">Boyle</persName>, nachdem er die
+						angestellte Erfahrungen behutsam verglichen und geprüft hat, schließt sehr
+						vernünftig: daß in den untersten Hölen zu welchen wir nicht gelangen können,
+						beständige Erhitzungen, und ein dadurch unterhaltenes unauslöschliches Feuer
+						müssen anzutreffen seyn, das seine Wärme der <ref type="critApp" xml:id="app45735">obersten</ref> Rinde mittheilet.</p>
+					<p rend="indent">Wenn sich dieses also verhält, wie man sich denn nicht
+						entbrechen kan es zuzugeben, werden wir uns nicht von diesem unterirrdischen
+						Feuer <pb ed="oldAA" n="458" xml:id="B01S0458"/>die vortheilhafteste Wirkungen
+						zu versprechen haben, welches der Erde jederzeit eine gelinde <ref type="critApp" xml:id="app45802">Wärme</ref> erhält, zu der Zeit wenn
+						uns die Sonne die ihrige entziehet, welches den Trieb der Pflanzen und die
+						Oekonomie der Naturreiche zu befördern im Stande ist. Und kan uns wohl bey dem Anschein so vieler
+						Nutzbarkeit der Nachtheil, der dem Menschlichen Geschlecht durch <ref type="critApp" xml:id="app45806">eine und die andere</ref> Ausbrüche
+						derselben erwächst der Dankbarkeit überheben, die wir der Vorsehung <ref type="critApp" xml:id="app45807">vor</ref> alle Anstalten derselben
+						schuldig <ref type="critApp" xml:id="app45808">seyn</ref>.
+					</p>
+					<p rend="indent">Die Gründe die ich zur Aufmunterung derselben angeführt habe,
+						sind freylich nicht von der Art derjenigen welche die größeste <w lemma="Ueberzeugung">Ueberzeu<pb ed="AA" n="28" break="no"/>gung</w>
+						und Gewisheit verschaffen. Allein auch Muthmaßungen sind annehmungswürdig,
+						wenn es darauf ankömmt den Menschen zu der Dankbegierde gegen das höchste
+						Wesen zu bewegen, das selbst alsdenn wenn es züchtiget, <ref type="critApp" xml:id="app45814">verehrungs und</ref> liebenswürdig ist.</p>
+				</div><div n="2">
+					<head rend="head_04">Anmerkung.</head>
+					<p rend="indent">
+						<hi rend="smaller">Ich hatte oben angeführt, daß die Erdbeben schwefeligte
+							Ausdämpfungen durch das Gewölbe der Erde hindurch treiben. Die letzte
+							Nachrichten von den Schachten in den sächsischen Gebirgen bestätigen es
+							durch ein neues Beyspiel. Man findet sie jetzto so angefüllt von
+							schwefeligten Dämpfen, daß die Arbeiter sie verlassen müssen. Die
+							<ref type="editorialNote" target="#en48910">Begebenheit von Tuam in Irrland</ref>, da eine leuchtende Lufterscheinung in
+							der Gestalt von Wimpeln und Flaggen auf der See <ref type="critApp" xml:id="app45822">erschienen</ref>, die ihre Farben nach und nach
+							änderten und zuletzt ein helles Licht ausbreiteten, <pb ed="firstPrint" n="38" xml:id="B01S0458Z23fp"/>worauf ein heftiger Stoß von Erdbeben
+							erfolgte, ist eine neue Bestätigung hievon. Die Verwandelung der Farben
+							vom dunkelsten blau bis in roth und endlich in einen hellen weißen
+							Schein, ist der herausgebrochenen zuerst sehr dünnen Ausdämpfung, die
+							nach und nach durch häufigeren Zufluß mehrer Dünste vermehret 
+							<ref type="critApp" xml:id="app45827">worden</ref>,
+							zuzuschreiben, die wie in der Naturwissenschaft bekannt ist, die Grade
+							des Lichts von der blauen Farbe bis zur rothen, und endlich bis in einen
+							weißen Schein durchgehen müssen. Alles dieses ging vor dem Stoß vorher.
+							Es war auch ein Beweis: daß der Heerd der Entzündung in dem Grunde des
+							Meeres gewesen, wie denn selbst das Erdbeben an der Meeresküste
+							hauptsächlich verspühret worden.</hi>
+					</p>
+					<p rend="indent">
+						<hi rend="smaller">Wenn man die Anmerkungen von den Oertern der Erde, da die
+							häufigste und schwereste Erschütterungen von je her sind empfunden
+							worden, <pb ed="oldAA" n="459" xml:id="B01S0459"/> weiter ausdehnen will,
+							so kan man noch dazu setzen: daß die westliche Küsten jederzeit weit
+							mehr Anfälle davon als die östlichen erlitten haben. In Italien, in
+							Portugall, in Südamerica, ja selbst neulich in Irrland hat die Erfahrung
+							diese Uebereinstimmung bestätigt. Peru welches an dem westlichen Seeufer
+							der neuen Welt lieget hat fast tägliche Erschütterungen, da indessen
+							Brasilien welches den Ocean gegen Osten hat nichts davon verspühret.
+							Wenn man von dieser seltsamen Analogie einige Ursachen muthmaßen will so
+							kan man es wohl einem <ref type="editorialNote" target="#en45908">
+								<hi rend="spaced">
+									<persName key="gautier_dagoty_jacques">Gautier</persName>
+								</hi>
+							</ref> einem Mahler verzeihen, wenn er die Ursache aller Erdbeben in den
+							Sonnenstrahlen der Qvelle seiner Farben und seiner Kunst, sucht, und
+							sich einbildet, eben dieselbe treiben auch unsere große Kugel von Abend
+							gegen Morgen herum, indem sie an die westliche Küsten stärker anschlagen
+							und eben dadurch würden diese Küsten mit so vielen Erschütterungen
+							beunruhiget. Allein in einer gesunden Naturwissenschaft verdient ein
+							solcher Einfall kaum die <ref type="critApp" xml:id="app45914">Wiederlegung</ref>. Mir scheinet der Grund dieses Gesetzes mit
+							einem andern in Verbindung zu stehen, wovon man noch zur Zeit keine
+							genugsame Erklährung gegeben hat: daß nemlich die westliche und südliche
+							<w lemma="Kuesten">Küs<pb ed="AA" n="29" break="no"/>ten</w> fast aller Länder steiler abschüßig <ref type="critApp" xml:id="app45918">seyn</ref>, als die östliche und nordliche,
+							welches so wohl durch den Anblick der Carte als durch die Nachrichten
+							des <ref type="editorialNote" target="#en45919">
+								<persName key="dampier_william">Dampiers</persName>, der sie auf allen seinen Seereisen</ref> fast allgemein befunden hat,
+							bestätigt wird. Wenn man die Beugungen des festen Landes von den
+							Einsinkungen herleitet, so müssen in den Gegenden der größten
+							Abschießigkeit tiefere und mehr Hölen anzutreffen seyn, als wo die
+							Erdrinde nur einen gemäßigten Abhang hat. Dieses aber hat mit den
+							Erderschütterungen wie wir oben gesehen haben einen natürlichen
+							Zusammenhang.</hi>
+					</p>
+				</div><div n="2">
+					<head rend="head_04">Schlußbetrachtung.</head>
+					<p>
+						<hi rend="initial">D</hi>er Anblick so vieler Elenden als die letztere
+						Catastrophe unter unsern Mitbürgern gemacht hat, soll die Menschenliebe rege
+						machen und uns einen Theil des Unglücks empfinden lassen, welches sie mit
+						solcher Härte betroffen hat. Man verstößt aber gar <pb ed="firstPrint" n="39" xml:id="B01S0459Z30fp"/>sehr <ref type="critApp" xml:id="app45930">dawieder</ref>, wenn man dergleichen Schicksale
+						jederzeit als verhängte Strafgerichte ansieht, die die verheerte Städte um
+						ihrer Uebelthaten willen betreffen, und wenn wir diese Unglückseelige als
+						das Ziel der Rache GOttes betrachten, über die seine Gerechtigkeit alle ihre
+							<ref type="critApp" xml:id="app45934">Zornschalen</ref> ausgiesset.
+						Diese Art des Urtheils ist ein sträflicher Vorwitz der sich anmaaßet, die
+						Absichten der göttlichen Rathschlüsse einzusehen und nach seinen Einsichten
+						auszulegen.</p>
+					<p rend="indent">
+						<pb ed="oldAA" n="460" xml:id="B01S0460"/>Der Mensch ist von sich selbst so
+						eingenommen, daß er sich lediglich als das einzige Ziel der Anstalten GOttes
+						ansiehet, gleich als wenn diese kein ander Augenmerk hätten als ihn allein,
+						um die Maaßregeln in der Regierung der Welt darnach einzurichten. Wir wissen
+						daß der ganze Inbegriff der Natur ein würdiger Gegenstand der göttlichen
+						Weisheit und seiner Anstalten sey. Wir sind ein Theil derselben und wollen
+						das Ganze seyn. Die Regeln der Vollkommenheit der Natur im Großen sollen in
+						keine Betrachtung kommen, und es soll sich alles bloß in richtiger Beziehung
+						auf uns anschicken. Was in der Welt zur Beqvemlichkeit und dem Vergnügen
+						gereicht, das, stellt man sich vor, sey bloß um unsert willen da, und die
+						Natur beginne keine Veränderungen die irgend eine Ursache der
+						Ungemächlichkeit <ref type="critApp" xml:id="app46012">vor</ref> den
+						Menschen werden, als um sie zu züchtigen, zu drohen oder Rache an ihnen
+						auszuüben.</p>
+					<p rend="indent">Gleichwohl sehen wir daß unendlich viel Bösewichter in Ruhe
+						entschlafen, daß die Erdbeben gewisse Länder von je her erschüttert haben,
+						ohne Unterschied der alten oder neuen Einwohner, daß das christliche Peru so
+						gut bewegt wird als das heidnische, und daß viele Städte von dieser
+						Verwüstung von Anbeginn befreyet geblieben, die über jene sich keines
+						Vorzuges der Unsträflichkeit anmaaßen können.</p>
+					<pb ed="AA" n="30"/>
+					<p rend="indent">So ist der Mensch im dunkeln wenn er die Absichten errathen
+						will, die GOtt in der Regierung der Welt vor Augen hat. Allein wir sind in
+						keiner Ungewisheit, wenn es auf die Anwendung ankommt, wie wir diese Wege
+						der Vorsehung dem Zwecke derselben gemäß gebrauchen sollen. Der Mensch ist
+						nicht geboren um <pb ed="firstPrint" n="40" xml:id="B01S0460Z24fp"/>auf
+						dieser Schaubühne der Eitelkeit ewige Hütten zu erbauen. Weil sein ganzes
+						Leben ein weit edleres Ziel hat, wie schön stimmen dazu nicht alle die
+						Verheerungen, die der Unbestand der Welt selbst in denjenigen Dingen blicken
+						läßt, die uns die größte und wichtigste zu sein scheinen, um uns zu
+						erinnern: daß die Güter der Erden unserm Triebe zur Glückseligkeit keine
+						Genugthuung verschaffen <ref type="critApp" xml:id="app46029">können?</ref>
+					</p>
+					<p rend="indent">Ich bin weit davon entfernet hiemit anzudeuten, als wenn der
+						Mensch einem unwandelbaren Schicksale der Naturgesetze ohne Nachsicht auf
+						seine besondere Vortheile überlaßen sey. Eben dieselbe höchste Weisheit, von
+						der der Lauf der Natur diejenige Richtigkeit entlehnet, die keiner
+						Ausbesserung bedarf, hat die niederen Zwecke den höheren untergeordnet, und
+						in eben den Absichten, in welchen jene oft die wichtigsten Ausnahmen von den
+						allgemeinen Regeln der Natur gemacht hat, um die unendlich höhere Zwecke zu
+						erreichen, die weit über alle Naturmittel erhaben sind, wird auch die <pb ed="oldAA" n="461" xml:id="B01S0461"/>Führung des menschlichen Geschlechts
+						in dem Regimente der Welt selbst dem Laufe der Naturdinge Gesetze
+						vorschreiben. Wenn eine Stadt oder Land das Unheil gewahr wird, womit die
+						göttliche Vorsehung sie oder ihre Nachbaren in Schrecken setzt: ist es denn
+						wohl noch Zweifelhaft welche Parthey sie zu ergreifen habe, um dem Verderben
+						vorzubeugen das ihnen <ref type="critApp" xml:id="app46106">drohet und</ref>
+						sind die Zeichen noch wohl zweydeutig die Absichten begreiflich zu machen,
+						zu deren Vollführung alle Wege der Vorsehung einstimmig den Menschen
+						entweder einladen oder antreiben?</p>
+					<p rend="indent">Ein Fürst der durch ein edles Herz getrieben sich diese
+						Drangsale des menschlichen Geschlechts bewegen läßt, das Elend des Krieges
+						von denen abzuwenden, welchen von allen Seiten überdem schwere Unglücksfälle
+						drohen, ist ein wohlthätiges Werkzeug in der gütigen Hand GOttes, und ein
+						Geschenk das er den Völkern der Erde macht, dessen Werth sie niemals nach
+						seiner Größe schätzen können.</p>
+					<milestone unit="section" rend="line"/>
+				</div></div>
+      	<pb ed="AA" n="31"/>
+      </body>
+   </text>
+</TEI>

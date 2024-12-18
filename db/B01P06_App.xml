@@ -1,0 +1,843 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Kant's Werke</title>
+            <title type="volume" n="1">Schriften 1747–1756</title>
+            <title type="part" n="6" subtype="criticalApparatus">
+               Principiorum primorum cognitionis metaphysicae nova dilucidatio
+            </title>
+            <author>
+               <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                  <surname>Kant</surname>
+                  <forename>Immanuel</forename>
+               </persName>
+            </author>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0003-4081-401X">
+                  <surname>Hohenegger</surname>
+                  <forename>Hansmichael</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0002-0322-4734">
+                  <surname>Lamarra</surname>
+                  <forename>Antonio</forename>
+               </persName>
+            </editor>
+            <editor role="editor">
+               <persName ref="https://orcid.org/0000-0001-5535-5894">
+                  <surname>Pozzo</surname>
+                  <forename>Riccardo</forename>
+               </persName>
+            </editor>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/12439826X">
+                  <surname>Gerhardt</surname>
+                  <forename>Volker</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Antragsteller und Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/113092008">
+                  <surname>Willaschek</surname>
+                  <forename>Marcus</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Projektleitung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://d-nb.info/gnd/1137889055">
+                  <surname>Schepelmann</surname>
+                  <forename>Maja</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName>
+                  <surname>Rosie</surname>
+                  <forename>Martin</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination und editionswissenschaftliche Beratung</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0003-0548-4545">
+                  <surname>Karl</surname>
+                  <forename>Jacqueline</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Koordination</note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="GN">
+                  <surname>Neumann</surname>
+                  <forename>Gerald</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition, Bereitstellung der Schnittstellen
+                        </note>
+               </resp>
+            </respStmt>
+            <respStmt>
+               <persName xml:id="EF">
+                  <surname>Fricke</surname>
+                  <forename>Edna</forename>
+               </persName>
+               <resp>
+                  <note type="remarkResponsibility">Entwicklung TEI-Datenmodell und Schema sowie Konversionsroutinen für Überführung der Daten in das TEI-Format</note>
+               </resp>
+            </respStmt>
+            <funder>
+               <note>Geldgeber sind im Folgenden alphabetisch angeordnet; kein Anspruch auf Vollständigkeit.</note>
+               <orgName>
+                  <ref target="https://www.bbaw.de">Akademienprogramm</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/staatsministerin-fuer-kultur-und-medien">
+                            Beauftragte der Bundesregierung für Kultur und Medien, Prof. Monika Grütters</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.dfg.de">Deutsche Forschungsgemeinschaft (DFG)</ref>
+               </orgName>
+               <orgName>Hamburger Stiftung zur Förderung von Wissenschaft und Kultur</orgName>
+               <orgName>Mathias-Tantau-Stiftung</orgName>
+               <orgName>
+                  <ref target="https://www.fritz-thyssen-stiftung.de/">Fritz-Thyssen-Stiftung</ref>
+               </orgName>
+               <orgName>
+                  <ref target="https://www.zeit-stiftung.de/">ZEIT STIFTUNG BUCERIUS</ref>
+               </orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Vollständige digitalisierte Ausgabe der Druckversion der historisch-kritischen Neuedition der Akademieausgabe.</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">
+                        Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</orgName>
+               <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung I, „Werke“, der 
+                        Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
+            </publisher>
+            <pubPlace>Berlin</pubPlace>
+            <date type="publication">2023</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Nova dilucidatio</bibl>
+            <biblFull>
+               <titleStmt>
+                  <title type="main">
+                     Kant's Werke
+                  </title>
+                  <title type="volume" n="1">Band 1: Schriften 1747–1756</title>
+                  <title type="part" n="6">
+                     Principiorum primorum cognitionis metaphysicae nova dilucidatio
+                  </title>
+                  <author>
+                     <persName key="kant" ref="https://d-nb.info/gnd/118559796">
+                        <surname>Kant</surname>
+                        <forename>Immanuel</forename>
+                     </persName>
+                  </author>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0003-4081-401X">
+                        <surname>Hohenegger</surname>
+                        <forename>Hansmichael</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0002-0322-4734">
+                        <surname>Lamarra</surname>
+                        <forename>Antonio</forename>
+                     </persName>
+                  </editor>
+                  <editor role="editor">
+                     <persName ref="https://orcid.org/0000-0001-5535-5894">
+                        <surname>Pozzo</surname>
+                        <forename>Riccardo</forename>
+                     </persName>
+                  </editor>
+               </titleStmt>
+               <extent>
+                  <measure type="pages">366–450</measure>
+               </extent>
+               <publicationStmt>
+                  <publisher>
+                     <name>De Gruyter</name>
+                  </publisher>
+                  <pubPlace>Berlin</pubPlace>
+                  <pubPlace>Boston</pubPlace>
+                  <date type="publication">2023</date>
+                  <idno type="pISBN">9783110706482
+                  </idno>
+               </publicationStmt>
+               <seriesStmt>
+                  <title>Kant's gesammelte Schriften</title>
+                  <biblScope unit="division">
+                     Erste Abteilung <lb/>Werke – Neuedition
+                  </biblScope>
+                  <biblScope unit="volume" n="1">
+                     Band 1
+                  </biblScope>
+               </seriesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="external"/>
+      </encodingDesc>
+      <revisionDesc>
+         <change when="2024-09-23" who="#EF">Corrected</change>
+         <change when="2023-12-08" who="#EF">Corrected</change>
+         <change when="2023-09-20" who="#EF">Initial conversion into TEI and manual adaptations</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="apparatus" xml:id="B001P06App">
+            <listApp>
+               <head>Apparat</head>
+               <app from="#app38829">
+                  <lem><hi rend="antiqua">Catholicon</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="spaced antiqua">catholicon</hi>
+                  </rdg>
+               </app>
+               <app from="#app38924">
+                  <lem><hi rend="spaced antiqua">
+                        non</hi>).</lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">
+                        <hi rend="spaced">non</hi>)</hi>
+                  </rdg>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>:
+						<hi rend="antiqua">
+                        <hi rend="spaced">non</hi>.)</hi>
+                  </rdg>
+               </app>
+               <app from="#app39003">
+                  <lem><hi rend="antiqua">foecunditate</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">fecunditate</hi>
+                  </rdg>
+               </app>
+               <app from="#app39019">
+                  <lem><hi rend="antiqua">exprimens</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">exprimentem</hi>
+                  </rdg>
+               </app>
+               <app from="#app39115">
+                  <lem><hi rend="antiqua">binis</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">bina</hi>
+                  </rdg>
+               </app>
+               <app from="#app39125">
+                  <lem><hi rend="antiqua">spectato</hi></lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">spectati</hi>
+                  </rdg>
+               </app>
+               <app from="#app39204">
+                  <lem><hi rend="antiqua">ipsa</hi></lem>
+                  <rdg wit="#Erh #A">
+					mit <abbr>V</abbr>(<wit wit="#Erh">Erh</wit>) zu <wit wit="#A">A</wit>: <hi rend="antiqua">ipso</hi>
+                  </rdg>
+               </app>
+               <app from="#app39302">
+                  <lem><hi rend="antiqua">amplecteris,)</hi></lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">amplecteris,</hi>
+                  </rdg>
+               </app>
+               <app from="#app39402">
+                  <lem><hi rend="antiqua">quum</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">cum</hi>
+                  </rdg>
+               </app>
+               <app from="#app39707">
+                  <lem><hi rend="antiqua">egerit;</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">egerit?</hi>
+                  </rdg>
+               </app>
+               <app from="#app39717">
+                  <lem><hi rend="antiqua">extiterit</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">exstiterit</hi>
+                  </rdg>
+               </app>
+               <app from="#app39717a">
+                  <lem><hi rend="antiqua">determinat</hi></lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: <hi rend="antiqua">determinet</hi>
+                  </rdg>
+               </app>
+               <app from="#app40009">
+                  <lem><hi rend="antiqua">determinantium</hi></lem>
+                  <rdg wit="#Ki">
+                     <wit wit="#Ki">Ki</wit>: <hi rend="antiqua">determinatium</hi>
+                  </rdg>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">determinantum</hi>
+                  </rdg>
+               </app>
+               <app from="#app40023">
+                  <lem><hi rend="antiqua">coeca
+						quadam</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">coeca quidam</hi>
+                  </rdg>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">caeca
+						quadam</hi>
+                  </rdg>
+               </app>
+               <app from="#app40104">
+                  <lem><hi rend="spaced antiqua">ais
+                     </hi></lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: <hi rend="antiqua">ais</hi>
+                  </rdg>
+               </app>
+               <app from="#app40116">
+                  <lem><hi rend="antiqua">per</hi></lem>
+                  <rdg wit="#Ha2 #A">mit
+                     <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">pro</hi>
+                  </rdg>
+               </app>
+               <app from="#app40125">
+                  <lem><hi rend="antiqua">determinantium</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">determinatium</hi>
+                  </rdg>
+               </app>
+               <app from="#app40223">
+                  <lem><hi rend="antiqua">debere.</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">debere?</hi>
+                  </rdg>
+               </app>
+               <app from="#app40232">
+                  <lem><hi rend="antiqua">communitam</hi></lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">communitum</hi>
+                  </rdg>
+               </app>
+               <app from="#app40236">
+                  <lem><hi rend="antiqua">rationibus!</hi></lem>
+                  <rdg wit="#La #A">mit
+                     <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">rationibus?</hi>
+                  </rdg>
+               </app>
+               <app from="#app40240">
+                  <lem><hi rend="antiqua">inclinari?</hi></lem>
+                  <rdg wit="#La #A">mit
+                     <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">inclinari.</hi>
+                  </rdg>
+               </app>
+               <app from="#app40308">
+                  <lem><hi rend="antiqua">vtrinque</hi></lem>
+                  <rdg wit="#La #Th">
+                     <wit wit="#La">La</wit> nach <wit wit="#Th">Th</wit>: <hi rend="antiqua">utroque</hi>
+                  </rdg>
+               </app>
+               <app from="#app40414">
+                  <lem><hi rend="antiqua">est;</hi></lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">est?</hi>
+                  </rdg>
+               </app>
+               <app from="#app40417">
+                  <lem><hi rend="antiqua">ad
+						auersationem</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">adversationem</hi>
+                  </rdg>
+               </app>
+               <app from="#app40422">
+                  <lem><hi rend="antiqua">quantaquanta</hi></lem>
+                  <rdg wit="#Ha #A">mit
+                     <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">quanta quanta</hi>
+                  </rdg>
+               </app>
+               <app from="#app40430">
+                  <lem><hi rend="antiqua">vtvt</hi></lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">vt vt</hi>
+                  </rdg>
+               </app>
+               <app from="#app40435">
+                  <lem><hi rend="antiqua">ob
+						oculos</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">ob oculis</hi>
+                  </rdg>
+               </app>
+               <app from="#app40503">
+                  <lem><hi rend="antiqua">reputandum</hi></lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">reputandus</hi>
+                  </rdg>
+               </app>
+               <app from="#app40507">
+                  <lem><hi rend="antiqua">fruticantes</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">fructicantes</hi>
+                  </rdg>
+               </app>
+               <app from="#app40512">
+                  <lem><hi rend="antiqua spaced">Problematis</hi></lem>
+                  <rdg>
+                     <abbr>V</abbr>: sc. <hi rend="antiqua spaced">Propositionis</hi>
+                  </rdg>
+               </app>
+               <app from="#app40514">
+                  <lem><hi rend="antiqua">earum</hi></lem>
+                  <rdg wit="#Schoe #A">mit <abbr>V</abbr>(<wit wit="#Schoe">Schö</wit>) zu <wit wit="#A">A</wit>: <hi rend="antiqua">eorum</hi>
+                  </rdg>
+               </app>
+               <app from="#app40632">
+                  <lem><hi rend="antiqua">eos</hi></lem>
+                  <rdg wit="#Ti #A">
+					mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">eas</hi>
+                  </rdg>
+               </app>
+               <app from="#app40633">
+                  <lem><hi rend="antiqua">qui</hi></lem>
+                  <rdg wit="#Ha2 #A">
+					mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>:
+                     <hi rend="antiqua">quae</hi>
+                  </rdg>
+               </app>
+               <app from="#app40717">
+                  <lem><hi rend="antiqua">quos</hi></lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">quas</hi>
+                  </rdg>
+               </app>
+               <app from="#app40729">
+                  <lem><hi rend="antiqua">aduersaretur</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">ad versaretur</hi>
+                  </rdg>
+               </app>
+               <app from="#app40734">
+                  <lem><hi rend="antiqua">sollicitatio;
+						Sed</hi></lem>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: <hi rend="antiqua">sollicitatio; sed</hi>
+                  </rdg>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">sollicitatio! Sed</hi>
+                  </rdg>
+               </app>
+               <app from="#app40812">
+                  <lem><hi rend="antiqua">in dies</hi></lem>
+                  <rdg wit="#Ha2 #A">mit
+                     <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">indies</hi>
+                  </rdg>
+               </app>
+               <app from="#app40825">
+                  <lem><hi rend="antiqua">perfectio
+						fatiscens</hi></lem>
+                  <rdg wit="#Ha2">
+                     <wit wit="#Ha2">Ha2</wit>: <hi rend="antiqua">perfectionem fatiscentem</hi>
+                  </rdg>
+               </app>
+               <app from="#app40828">
+                  <lem><hi rend="antiqua">ausit.</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">ausit?</hi>
+                  </rdg>
+               </app>
+               <app from="#app40916">
+                  <lem><hi rend="antiqua">ipsa</hi></lem>
+                  <rdg wit="#La #Th">
+                     <wit wit="#La">La</wit> nach <wit wit="#Th">Th</wit>: <hi rend="antiqua">ipsam</hi>
+                  </rdg>
+               </app>
+               <app from="#app41007">
+                  <lem><hi rend="antiqua">pares</hi></lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">non pares</hi>
+                  </rdg>
+               </app>
+               <app from="#app41025">
+                  <lem><hi rend="antiqua">phaenomenon)</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">phaenomenon,</hi>
+                  </rdg>
+               </app>
+               <app from="#app41116">
+                  <lem><hi rend="antiqua">pendeat</hi></lem>
+                  <rdg wit="#Ha1 #A">mit <wit wit="#Ha1">Ha1</wit> zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">pendat</hi>
+                  </rdg>
+                  <rdg wit="#Ha2"><wit wit="#Ha2">Ha2</wit>: <hi rend="antiqua">pendet</hi></rdg>
+                  <rdg/>
+                  <rdg wit="#Th"><abbr>V</abbr>(<wit wit="#Th">Th</wit>): <hi rend="antiqua">pendat</hi>
+                  </rdg>
+               </app>
+               <app from="#app41136">
+                  <lem><hi rend="antiqua">p.</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">per</hi>
+                  </rdg>
+               </app>
+               <app from="#app41203">
+                  <lem><hi rend="antiqua">reuera</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">re
+						vera</hi>
+                  </rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: <hi rend="antiqua">revera</hi>
+                  </rdg>
+               </app>
+               <app from="#app41206">
+                  <lem><hi rend="antiqua">Leibnizianam</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">Leibnizianum</hi>
+                  </rdg>
+               </app>
+               <app from="#app41227">
+                  <lem><hi rend="antiqua">pedibus</hi></lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">peditus</hi>
+                  </rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>:
+                     <hi rend="antiqua">penitus</hi>
+                  </rdg>
+               </app>
+               <app from="#app41229">
+                  <lem><hi rend="antiqua">conjunctus</hi></lem>
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>:
+						<hi rend="antiqua">conjuncta</hi>
+                  </rdg>
+               </app>
+               <app from="#app41230">
+                  <lem><hi rend="antiqua">sufflato</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">sublato</hi>
+                  </rdg>
+               </app>
+               <app from="#app41302">
+                  <lem><hi rend="antiqua">conformatae</hi></lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">conformata</hi>
+                  </rdg>
+               </app>
+               <app from="#app41316">
+                  <lem><hi rend="antiqua">mutuus</hi></lem>
+                  <rdg wit="#Ha #A">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">mutuas</hi>
+                  </rdg>
+                  <rdg wit="#Ti">
+                     <wit wit="#Ti">Ti</wit>: <hi rend="antiqua">mutuos</hi>
+                  </rdg>
+               </app>
+               <app from="#app41322">
+                  <lem><hi rend="antiqua">eas</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">ea</hi>
+                  </rdg>
+               </app>
+               <app from="#app41339">
+                  <lem><hi rend="antiqua">adsit</hi></lem>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">ad sit</hi>
+                  </rdg>
+               </app>
+               <app from="#app41402">
+                  <lem><hi rend="antiqua">conseruationem
+						appellitant</hi></lem>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">(conservationem appellitant)</hi>
+                  </rdg>
+               </app>
+               <app from="#app41404">
+                  <lem><hi rend="antiqua">orietur</hi></lem>
+                  <rdg wit="#Ti"><wit wit="#Ti">Ti</wit>: <hi rend="antiqua">oriretur</hi>
+                  </rdg>
+               </app>
+               <app from="#app41407">
+                  <lem><hi rend="antiqua">singularum</hi></lem>
+                  <rdg wit="#La #Th #A">mit <wit wit="#La">La</wit> nach <wit wit="#Th">Th</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">singulorum</hi>
+                  </rdg>
+               </app>
+               <app from="#app41501">
+                  <lem><hi rend="antiqua">causam</hi></lem>
+                  <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">causa</hi>
+                  </rdg>
+                  <rdg wit="#Th"><abbr>V</abbr>(<wit wit="#Th">Th</wit>): sc. <hi rend="antiqua">dictites causa</hi></rdg>
+               </app>
+               <app from="#app41521">
+                  <lem><hi rend="antiqua">p. demonstr.</hi></lem>
+                  <rdg wit="#Ha">
+                     <wit wit="#Ha">Ha</wit>: <hi rend="antiqua">per demonstrata</hi>
+                  </rdg>
+               </app>
+               <app from="#app41608">
+                  <lem><hi rend="antiqua">contemtoribus</hi></lem>
+                  <rdg wit="#Ki #A">mit <wit wit="#Ki">Ki</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">contemporibus</hi>
+                  </rdg>
+                  <rdg wit="#La">
+                     <wit wit="#La">La</wit>: <hi rend="antiqua">contemptoribus</hi>
+                  </rdg>
+               </app>
+            </listApp>
+         </div>
+         <div type="editorialNotes" xml:id="B001P06En">
+            <head>Sacherläuterungen</head>
+            <note type="editorial" xml:id="en38936">
+               <hi rend="antiqua">Leibnitius</hi>] Anspielung auf Leibniz’ Plan einer <hi rend="italic">Characteristica
+                  universalis</hi> als einer Erweiterung der mathematischen Zeichensprache
+               für alle Denkgebiete. Vgl. <hi rend="smallCaps">Leibniz</hi> 1666; die
+               <hi rend="italic">Dissertatio</hi> kam im selben Jahr auch als <hi rend="italic">Tractatus
+                  de arte combinatoria</hi> heraus, von dem es im 17. Jahrhundert mehrere
+               unautorisierte Nachdrucke gab. Vgl. <hi rend="smallCaps">Agostini</hi> 2014, 317.</note>
+            <note type="editorial" xml:id="en38938">
+               <hi rend="antiqua">Aesopici
+                  testamentum</hi>] Gemeint ist die Fabel vom Vater und seinen Söhnen, wie sie sich etwa in <hi rend="smallCaps">La
+                     Fontaines</hi> Fabelsammlung findet (1678, 5. Buch, 9. Fabel): <hi rend="italic">Le
+                        labourieur et ses enfants:</hi> „<foreign xml:lang="fr">Mais le père fut sage / De leur montrer
+                           avant sa mort / Que le travail est un trésor.</foreign>“ Kant besaß laut <hi rend="smallCaps">Warda</hi>
+               1922 eine Renaissance-Ausgabe der Fabeln Äsops (<hi rend="smallCaps">Äsop</hi> 1538); in der
+               ersten Hälfte des Jahrhunderts kamen auch sehr viele Fabel-Übertragungen in den
+               verschiedenen Volkssprachen Europas heraus.</note>
+            <note type="editorial" xml:id="en39007">
+               <hi rend="antiqua">Boerhaauius</hi>] Vgl. <hi rend="smallCaps">Boerhaave</hi> 1732, Teil 2
+               (<hi rend="italic">De theoria artis</hi>), 120 f.
+               Kant erwähnt Boerhaaves Chemie auch in <hi rend="italic">De igne</hi> 
+               <ref type="textRef" target="#tr35002">350<hi rend="sup">02</hi></ref>. 
+               Vgl. <hi rend="smallCaps">Agostini</hi> 2014, 317.</note>
+            <note type="editorial" xml:id="en39017">
+               <hi rend="antiqua">Daries</hi>] Vgl. <hi rend="smallCaps">Darjes</hi> 1742, § 18, und <hi rend="smallCaps">Darjes</hi> 1753. Vgl. auch
+               <hi rend="smallCaps">Baumgarten</hi> 1750, § 9 (<hi rend="smallCaps">Baumgarten</hi> 2011, 56).</note>
+            <note type="editorial" xml:id="en39105">
+               <hi rend="antiqua">ad lapidem
+                  Lydium</hi>] Kleiner, harter, sogenannter Probierstein (lydischer Stein), der zur
+               Feststellung des Reinheitsgrades von Metallen verwendet wurde.</note>
+            <note type="editorial" xml:id="en39301">
+               <hi rend="antiqua">Cartesii</hi>] Descartes’ Lichttheorie findet sich in seinen <hi rend="italic">Principia
+                  philosophiae</hi> (<hi rend="smallCaps">Descartes</hi> 1644, Teil 3, §§ 63–64, und Teil 4, § 28;
+               <hi rend="smallCaps">Descartes</hi> 1905, 114–116 und 217–218). Vgl. die <ref type="editorialNote" target="#en37118">erste Sacherläuterung</ref>
+               in der Neuausgabe von <hi rend="italic">De igne</hi>.</note>
+            <note type="editorial" xml:id="en39309">
+               <hi rend="antiqua">Wolfii</hi>] Vgl. Christian Wolffs <hi rend="italic">Ontologia</hi> (<hi rend="smallCaps">Wolff</hi> 1736),
+               § 56: „<foreign xml:lang="la">Per rationem sufficientem intelligimus id, unde
+                  intelligitur, cur aliquid sit.</foreign> / Unter zureichenden Grund verstehen wir das, von
+               woher eingesehen wird, warum etwas ist.“ (Auch in: <hi rend="italic">Gesammelte
+                  Werke</hi> II.3, 129) Vgl. <hi rend="smallCaps">Agostini</hi> 2014, 319.</note>
+            <note type="editorial" xml:id="en39319">
+               <hi rend="antiqua">Crusium</hi>] Vgl. <hi rend="smallCaps">Crusius</hi> 1743, § 2: „<foreign xml:lang="la">Sed minus commoda mihi videtur
+                  appellatio principii rationis sufficientis, quanquam satis apta sit ad fucum
+                  bonis animis faciendum, qui vocabuli lenitate facile se adduci ad credendum
+                  patientur, iniquum esse, omnium rerum rationem sufficientem concedere nolle, quo
+                  postulato nihil aequius dici possit.</foreign> / Der Ausdruck Prinzip des zureichenden Grundes scheint mir jedoch weniger geeignet zu sein, obwohl er durchaus
+               geeignet ist, jene guten Seelen zu täuschen, die sich durch die Anziehungskraft
+               des Wortes zu dem Glauben verleiten lassen, dass es ungerecht sei, nicht allen
+               Dingen eine hinreichende Vernunft zuzugestehen, ein Postulat, von dem nichts
+               gerechter gesagt werden kann.“ (<hi rend="italic">Hauptwerke</hi>, Bd. 4,
+               160 f.) Vgl. auch <hi rend="smallCaps">Crusius</hi> 1747, § 291
+               (<hi rend="italic">Hauptwerke</hi>, Bd. 3, 521 f.)
+               sowie <hi rend="smallCaps">Crusius</hi> 1745, §§ 85–87 (<hi rend="italic">Hauptwerke</hi>,
+               Bd. 2, 151–154). Vgl. <hi rend="smallCaps">Agostini</hi> 2014, 317 f.</note>
+            <note type="editorial" xml:id="en39422">
+               <hi rend="antiqua">in recentiorum
+                  Philosophorum</hi>] Vgl. Wolffs <hi rend="italic">Ontologia</hi>
+               (<hi rend="smallCaps">Wolff</hi> 1736), § 309. Vgl. auch <hi rend="smallCaps">Baumgarten</hi>
+               1750, § 820 (<hi rend="smallCaps">Baumgarten</hi> 2011, 442).</note>
+            <note type="editorial" xml:id="en39602">
+               <hi rend="antiqua">Cartesium</hi>] Vgl. <hi rend="smallCaps">Descartes</hi> 1650, 1. Meditation, Abschnitt 5 (<hi rend="smallCaps">Descartes</hi>
+               1904, 1–90).</note>
+            <note type="editorial" xml:id="en39604">
+               <hi rend="antiqua">in scholio §hi
+                  prioris</hi>] Gemeint ist das <hi rend="italic">Scholion</hi> der 6. <hi rend="italic">Propositio</hi>.</note>
+            <note type="editorial" xml:id="en39624">
+               <hi rend="antiqua">Crusium</hi>] Vgl. <hi rend="smallCaps">Crusius</hi> 1745, § 31 (<hi rend="italic">Hauptwerke</hi>,
+               Bd. 2, 49 f.).</note>
+            <note type="editorial" xml:id="en39705">
+               <hi rend="antiqua">Crusius</hi>] Vgl. <hi rend="smallCaps">Crusius</hi> 1745, § 83 und § 380
+               (Hauptwerke Bd. 2, 145–148 und 723–725).</note>
+            <note type="editorial" xml:id="en39733">
+               <hi rend="antiqua">Wolffio</hi>] Vgl. <hi rend="smallCaps">Wolffs</hi>
+               <hi rend="italic">Ontologia</hi> (1736), § 70: „<foreign xml:lang="la"><hi rend="italic">Nihil est sine ratione
+                  sufficiente, cur potius sit quam non sit, hoc est, si aliquid esse ponitur,
+                  ponendum etiam est aliquid, unde intelligitur, cur idem potius sit, quam non
+                  sit.</hi> Aut enim nihil est sine ratione sufficiente, cur potius sit,
+                  quam non sit; aut aliquid esse potest absque ratione sufficiente, cur sit
+                  potius, quam non sit (§ 53).</foreign> / <hi rend="italic">Nichts ist ohne zureichenden Grund, warum
+                     es eher ist als nicht ist, das heißt: Wenn gesetzt wird, daß etwas ist, ist
+                     auch etwas zu setzen, von woher eingesehen wird, daß dasselbe eher ist als
+                     nicht ist.</hi> Entweder nämlich ist nichts ohne zureichenden Grund,
+               warum es eher ist als nicht ist, oder etwas kann sein ohne zureichenden Grund,
+               warum es eher ist als nicht ist (§ 53).“ (<hi rend="italic">Gesammelte
+                  Werke</hi> II.3, 159). Vgl. <hi rend="smallCaps">Agostini</hi> 2014, 324.</note>
+            <note type="editorial" xml:id="en39735">
+               <hi rend="antiqua">Baumgartenio</hi>] Vgl. <hi rend="smallCaps">Baumgarten</hi> 1750,
+               § 20: „<foreign xml:lang="la">Omne possibile aut habet rationem, aut minus
+                  (§ 10). Si habet rationem, aliquid est eius ratio
+                  (§ 8). Si non habet, nihil est eius ratio (§ 7).
+                  Ergo omnis possibilis ratio aut nihil est, aut aliquid (§ 10).
+                  Si nihil foret ratio alicuius possibilis, foret ex nihilo cognoscibile, cur
+                  illud sit (§ 14). Hinc quoddam possibile impossibile (§ 7, 8,
+                  q. a. § 9). Ergo omnis possibilis aliquid est ratio, s. omne
+                  possibile est rationatum, s. nihil est sine ratione, seu, posito aliquo, ponitur
+                  aliquid eius ratio. Haec propositio dicitur principium rationis, quam colligas
+                  etiam (ex § 265, 297), partim abstrahendo, partim vitando circulum.</foreign> /
+               Jedes Mögliche hat entweder einen Grund oder es hat keinen (§ 10).
+               Wenn es einen Grund hat, ist etwas sein Grund (§ 8).
+               Wenn es keinen hat, ist nichts sein Grund (§ 7).
+               Also ist der Grund jedes Möglichen entweder nichts oder er ist etwas (§ 10).
+               Wenn nichts der Grund eines Möglichen wäre, wäre aus nichts zu erkennen, warum
+               es ist (§ 14). Folglich wäre einiges Mögliche unmöglich,
+               (§ 7, 8, als Voraussetzung für § 9).
+               Also ist etwas der Grund jedes Möglichen, oder: Jedes Mögliche ist begründet,
+               oder Nichts ist ohne Grund, oder: Wenn etwas gesetzt ist, wird etwas als sein
+               Grund gesetzt. Dieser Satz heißt das Prinzip des Grundes; man kann ihn auch aus
+               § 265, 297 entnehmen, wenn man einerseits abstrahiert,
+               andererseits einen Zirkel vermeidet.“ (<hi rend="smallCaps">Baumgarten</hi> 2011, 62–65). 
+               Vgl. <hi rend="smallCaps">Agostini</hi> 2014, 324.</note>
+            <note type="editorial" xml:id="en39814">
+               <hi rend="antiqua">acutissimus
+                  Crusius</hi>] Vgl. <hi rend="smallCaps">Crusius</hi> 1743, §§ 4–18 (<hi rend="italic">Hauptwerke</hi>,
+               Bd. 4, 163–195); <hi rend="smallCaps">Crusius</hi> 1744, § 164
+               (<hi rend="italic">Hauptwerke</hi>, Bd. 1, 204–206);
+               <hi rend="smallCaps">Crusius</hi> 1747, § 154 (<hi rend="italic">Hauptwerke</hi>,
+               Bd. 3, 285–288).</note>
+            <note type="editorial" xml:id="en39821">
+               <hi rend="antiqua">aegre intelligi
+                  queat</hi>] Vgl. <hi rend="smallCaps">Crusius</hi> 1743, §§ 16–17 (<hi rend="italic">Hauptwerke</hi>,
+               Bd. 4, 191–193); <hi rend="smallCaps">Crusius</hi> 1745,
+               § 37 (<hi rend="italic">Hauptwerke</hi>, Bd. 2,
+               55 f.).</note>
+            <note type="editorial" xml:id="en39834">
+               <hi rend="antiqua">Darjes</hi>] Vgl. <hi rend="smallCaps">Darjes</hi> 1753: <hi rend="italic">Praecognoscenda</hi>, §§ 6 und 8 sowie §§ 96–120.</note>
+            <note type="editorial" xml:id="en39828">
+               <hi rend="antiqua"><hi rend="spaced">vnde</hi> existentia
+                  ipsorum</hi>] Siehe oben <ref type="textRef" target="#tr39227">392<hi rend="sup">27-28</hi></ref>.</note>
+            <note type="editorial" xml:id="en39901">
+               <hi rend="antiqua">fati
+                  stoici</hi>] Vgl. <hi rend="smallCaps">Aulus Gellius</hi> 1651, VII, 2.</note>
+            <note type="editorial" xml:id="en39914">
+               <hi rend="antiqua">Chrysippus</hi>] Vgl. <hi rend="smallCaps">Diogenes Laertios</hi> 1611, VII, 7.</note>
+            <note type="editorial" xml:id="en39915">
+               <hi rend="antiqua">in primo mundi
+                  statu</hi>] Es
+               handelt sich um eine Paraphrase aus einem Zitat <hi rend="smallCaps">Crusius’</hi> (1743,
+               § 7) mit Bezug auf <hi rend="smallCaps">Aulus Gellius</hi> 1651, VII, 7:
+               „<foreign xml:lang="la">Fatum est sempiterna quaedam et indeclinabilis series rerum et catena, volvens
+                  semet ipsam et implicans per aeternos consequentiae ordines ex quibus apta
+                  connexaque est.</foreign> / Das Schicksal ist eine immerwährende und unveränderliche Reihe
+               und Kette von Dingen, die sich durch die ewigen Ordnungen der Folgerichtigkeit,
+               durch die es gebildet und verbunden ist, umhüllt und verkettet.“ (auch:
+               <hi rend="smallCaps">Crusius</hi>, <hi rend="italic">Hauptwerke</hi>, Bd. 4,
+               170).</note>
+            <note type="editorial" xml:id="en39920">
+               <hi rend="antiqua">impugnat Vir
+                  Clar.</hi>] Vgl. <hi rend="smallCaps">Crusius</hi> 1745, § 125 (<hi rend="italic">Hauptwerke</hi>,
+               Bd. 2, 203 f.).</note>
+            <note type="editorial" xml:id="en40008">
+               <hi rend="antiqua">Philosophiae Wolffianae
+                  sectatores</hi>] Vgl. <hi rend="smallCaps">Leibniz</hi> 1710, § 132 (<hi rend="smallCaps">Leibniz</hi> GP, Bd. 6,
+               183 f.); <hi rend="smallCaps">Wolff</hi> 1719, § 575;
+               <hi rend="smallCaps">Baumgarten</hi> 1750, § 707 (<hi rend="smallCaps">Baumgarten</hi> 2011,
+               428). Vgl. auch <hi rend="smallCaps">Baumeister</hi> 1735.</note>
+            <note type="editorial" xml:id="en40011">
+               <hi rend="antiqua">hisce Illustri
+                  antagonistae</hi>] <hi rend="smallCaps">Crusius</hi> 1745, § 126
+               (<hi rend="italic">Hauptwerke</hi>, Bd. 2,
+               205–208).</note>
+            <note type="editorial" xml:id="en40117">
+               <hi rend="antiqua">commemorationem</hi>] Vgl. den Abschnitt <hi rend="italic">Instantiarum
+                  confutatio … vocant</hi> 
+               <ref type="textRef" target="#tr41823">(418<hi rend="sup">23</hi>-420<hi rend="sup">17</hi>)</ref>.</note>
+            <note type="editorial" xml:id="en40517">
+               <hi rend="antiqua">Crusius</hi>] Vgl. <hi rend="smallCaps">Crusius</hi> 1745, §§ 269 und 271–273
+               (<hi rend="italic">Hauptwerke</hi>, Bd. 2,
+               483–485 und 488–496).</note>
+            <note type="editorial" xml:id="en40728">
+               <hi rend="antiqua">sanae
+                  rationi</hi>] Vgl. bezüglich der Unmöglichkeit eines <hi rend="italic">perpetuum mobile</hi> zum
+               Beispiel <hi rend="italic">Wahre Schätzung</hi>, § 99 (im Zusammenhang des Disputes
+               zwischen Leibniz und Denis Papin). Vgl. exemplarisch auch: <hi rend="italic">Logik
+                  Pölitz</hi> (AA 24: 539), <hi rend="italic">Metaphysik Herder</hi> 
+               (AA 28: 13). Vgl. <hi rend="smallCaps">Agostini</hi> 2014, 379 f.</note>
+            <note type="editorial" xml:id="en40736">
+               <hi rend="antiqua">secundum
+                  Halesii</hi>] <hi rend="smallCaps">Hales</hi> 1727, Kapitel VI. Gemäß <hi rend="smallCaps">Warda</hi> 1922 besaß Kant die deutsche
+               Übersetzung (<hi rend="smallCaps">Hales</hi> 1748). Vgl. dazu auch <hi rend="italic">De igne</hi>,
+               <ref type="textRef" target="#tr35630">356<hi rend="sup">30</hi></ref>.</note>
+            <note type="editorial" xml:id="en40832">
+               <hi rend="antiqua">Baumgartenium</hi>] <hi rend="smallCaps">Baumgarten</hi> 1750, § 23:
+               „<foreign xml:lang="la">Omne possibile est ratio, seu nihil est sine rationato, nihil sine corollario
+                  et auctoramento, nihil omnino sterile, otiosum, et infoecundum, seu posito
+                  aliquo ponitur aliquid rationatum eius. Nam omne possibile aut habet rationatum,
+                  aut minus (§ 10). Si habet, est aliquid rationatum eius
+                  (§ 8). Si non habet, nihil est eius rationatum
+                  (§ 7). Ergo omnis possibilis rationatum aut nihil est, aut
+                  aliquid (§ 10). Si nihil esset rationatum possibilis alicuius, posset
+                  ex hoc cognosci (§ 14), hinc esset aliquid
+                  (§ 8), adeoque quoddam possibile impossibile (§ 7, 8,
+                  q. a. § 9). Haec propositio dicatur principium rationati</foreign> / Jedes Mögliche ist
+               ein Grund, oder: Nichts ist ohne Folge, nichts ohne Korollar oder Auswirkung,
+               nichts ist völlig steril, müßig und unfruchtbar, oder: Wenn etwas gesetzt ist,
+               wird etwas als Folge gesetzt. Denn jedes Mögliche hat entweder eine Folge oder
+               es hat keine (§ 10). Wenn es eine hat, ist etwas
+               seine Folge (§ 8): wenn es keine hat, ist nichts
+               seine Folge (§ 7). Also ist die Folge eines jeden
+               Möglichen entweder nichts oder etwas (§ 10). Wenn nichts die Folge irgendeines
+               Möglichen wäre, könnte es aus diesem erkannt werden (§ 14), folglich wäre es
+               etwas (§ 8), und daher wäre einiges Mögliche unmöglich
+               (§ 7, 8. Als Voraussetzung für § 9).
+               Dieser Satz soll das Prinzip der Folge heißen.“ (<hi rend="smallCaps">Baumgarten</hi> 2011,
+               62) Vgl. <hi rend="smallCaps">Agostini</hi> 2014, 333.</note>
+            <note type="editorial" xml:id="en41003">
+               <hi rend="antiqua">Leibnizium</hi>] Vgl. <hi rend="smallCaps">Leibniz</hi> 1720,
+               § 9 (<hi rend="smallCaps">Leibniz</hi> GP, Bd. 6,
+               612).</note>
+            <note type="editorial" xml:id="en41117">
+               <hi rend="antiqua">qui Philosophiae
+                  Wolfianae nomen dant</hi>] Vgl. <hi rend="smallCaps">Wolff</hi> 1736, §§ 721–722; Baumgarten 1750, § 704
+               (<hi rend="smallCaps">Baumgarten</hi> 2011, 376).</note>
+            <note type="editorial" xml:id="en41206">
+               <hi rend="antiqua">Harmoniam praestabilitam
+                  Leibnizianam</hi>] Vgl. <hi rend="smallCaps">Leibniz</hi> 1720,
+               § 78 (<hi rend="smallCaps">Leibniz</hi> GP, Bd. 6,
+               620); <hi rend="smallCaps">Leibniz</hi> 1680 (<hi rend="smallCaps">Leibniz</hi> GP, Bd. 2,
+               450 ff.).</note>
+            <note type="editorial" xml:id="en41227">
+               <hi rend="antiqua">Crusium</hi>] Vgl. <hi rend="smallCaps">Crusius</hi> 1747, §§ 79–81 (<hi rend="italic">Hauptwerke</hi>,
+               Bd. 3, 142–150).</note>
+            <note type="editorial" xml:id="en41434">
+               <hi rend="antiqua">Manichaeorum opinio]</hi> Gemeint ist der Manichäismus, die von Mani
+               gegründete Religion, die zwei gleichwertige und entgegengesetzte Prinzipien,
+               Licht und Dunkelheit, als Ursprung des Universums ansieht.</note>
+            <note type="editorial" xml:id="en41523">
+               <hi rend="antiqua">Influxus Physicus
+                  proprie sic dictus</hi>] Vgl. <hi rend="smallCaps">Wolff</hi> 1740, § 558
+               (<hi rend="italic">Gesammelte Werke</hi> II.3, 424 f.);
+               vgl. auch die Dissertation <hi rend="smallCaps">Knutzens</hi> (1735), bei welcher Christoph
+               Friederich Grube (1692–1740) die Rolle des Respondenten überrnahm. Kants Theorie des
+               physischen Einflusses wird an dieser Stelle übrigens substantiell abgeändert;
+               vgl. auch Kants Bemerkungen dazu in <hi rend="italic">De forma</hi>, § 22;
+               vgl. dazu <hi rend="smallCaps">Agostini</hi> 2014, 339. Wolff erörtert und verwirft den
+               physischen Einfluss in Bezug auf die Seele-Körper-Wechselwirkung in
+               <hi rend="smallCaps">Wolff</hi> 1734, §§ 558–588 (<hi rend="italic">Gesammelte Werke</hi> II.6,
+               480–512).</note>
+            <note type="editorial" xml:id="en41525">
+               <hi rend="antiqua">
+                  <hi rend="spaced">praestabilita</hi> illa
+                  <hi rend="spaced">Leibniziana</hi></hi>] Vgl. <hi rend="smallCaps">Leibniz</hi> 1720,
+               § 78; <hi rend="smallCaps">Leibniz</hi> 1680 (<hi rend="smallCaps">Leibniz</hi> GP,
+               Bd. 2, 450 ff.).</note>
+            <note type="editorial" xml:id="en41529">
+               <hi rend="antiqua">
+                  <hi rend="spaced">Malebranchii</hi></hi>] Vgl.
+               <hi rend="smallCaps">Malebranche</hi> 1678, Buch 6, Teil 2, Kap. 3:
+               <hi rend="italic">De l’erreur la plus dangereuse de la philosophie des
+                  Anciens</hi> (in: <hi rend="smallCaps">Malebranche</hi> 1979, 643–653).</note>
+         </div>
+      </body>
+   </text>
+</TEI>
