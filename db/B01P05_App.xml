@@ -83,7 +83,7 @@
                </persName>
                <resp>
                   <note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition,
-                     Bereitstellung der Schnittstellen </note>
+                     Bereitstellung der Schnittstellen</note>
                </resp>
             </respStmt>
             <respStmt>
@@ -125,7 +125,7 @@
          </editionStmt>
          <publicationStmt>
             <publisher>
-               <orgName role="hostingInstitution" ref="http://www.bbaw.de"> Berlin-Brandenburgische
+               <orgName role="hostingInstitution" ref="http://www.bbaw.de">Berlin-Brandenburgische
                   Akademie der Wissenschaften (BBAW)</orgName>
                <orgName role="project" ref="https://kant-digital.bbaw.de/">Neuedition der Abteilung
                   I, „Werke“, der Akademie-Ausgabe von „Kant‘s gesammelten Schriften“</orgName>
@@ -598,7 +598,7 @@
                   </rdg>
                </app>
                <app from="#app38229">
-                  <lem><hi rend="antiqua">acidum, amplexibus</hi></lem>
+                  <lem><hi rend="antiqua">acidum, <choice><sic>ampleximus</sic><corr>amplexibus</corr></choice></hi></lem>
                   <rdg wit="#SchuRo">
                      <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">acidum complexibus</hi>
                   </rdg>
@@ -615,7 +615,7 @@
                </app>
                <app from="#app38307">
                   <lem><hi rend="antiqua">elementis</hi></lem>
-                  <rdg wit="#Ha #A1"> mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">elementi</hi>
+                  <rdg wit="#Ha #A1">mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A1">A1</wit>: <hi rend="antiqua">elementi</hi>
                   </rdg>
                   <rdg wit="#SchuRo">
                      <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="antiqua">elemento</hi>
@@ -808,7 +808,7 @@
                Mariotte, oder die daraus folgende geometrische Progreßion, noch die an ihrer
                statt angenommene arithmetische mit ihren Beobachtungen recht genau
                übereinstimmten, und daß sie destomehr von einander abwichen, je höher die Berge
-               waren.“ (A. a. O., 439)</note>
+               waren.“ (A.&#8239;a.&#8239;O., 439)</note>
             <note type="editorial" xml:id="en38238a">
                <hi rend="antiqua">Cassinus</hi>] Vgl. <hi rend="smallCaps">Cassini</hi> 1742,
                92.</note>

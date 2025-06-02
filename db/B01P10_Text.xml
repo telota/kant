@@ -200,6 +200,7 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
+			<change when="2025-04-01" who="#EF">Corrected</change>
 			<change when="2024-10-24" who="#GN">Corrected</change>
 			<change when="2024-09-23" who="#EF">Corrected</change>
 			<change when="2024-04-29" who="#GN">Corrected</change>
@@ -336,7 +337,7 @@
 					qvam philosophia transscendentalis Geometriae jungi posse videantur? Etenim cum
 					illa spatium in infinitum divisibile esse praefracte neget, haec eadem qva
 					cetera solet certitudine asseverat. Haec vacuum spatium ad motus liberos
-					necessarium esse contendit, illa explodit. Haec attractionem s. gravitatem
+					necessarium esse contendit, illa explodit. Haec attractionem <abbr>s.</abbr> gravitatem
 					vniversalem a causis mechanicis <pb ed="oldAA" n="476" xml:id="B01S0476"/>vix
 					explicabilem, sed ab insitis corporum in qviete et in distans agentium viribus
 					proficiscentem, commonstrat, illa inter vana imaginationis ludibria
@@ -346,7 +347,7 @@
 					qvorum vires magis sufficiunt huic negotio, ad ea perficienda invitatis, qvae
 					hic solum <ref type="critApp" xml:id="app47605">afficere</ref> satagam.</p>
       		<p rend="indent" xml:id="la040" corresp="#de040">Coronidis loco tantum addo; cum principium omnium
-					internarum actionum s. vim elementorum insitam, motricem esse necesse sit, et
+      			internarum actionum <abbr>s.</abbr> vim elementorum insitam, motricem esse necesse sit, et
 					extrinsecus qvidem applicatam, qvoniam illa praesens est externis, nec aliam ad
 					movenda compraesentia vim concipere possimus nisi qvae illa vel repellere vel
 					trahere conatur neqve porro posita sola vi repellente, elementorum ad componenda
@@ -375,7 +376,7 @@
 								primitivae sunt partes, me <ref type="critApp" xml:id="app47723">in
 									posterum</ref> terminis, <hi rend="spaced">substantiarum
 									simplicium, Monadum, elementorum materiae, partium corporis
-									primitivarum,</hi> tanqvam <ref type="critApp" xml:id="app47724">synonimis</ref> vsurum in antecessum
+									primitivarum</hi>, tanqvam <ref type="critApp" xml:id="app47724">synonimis</ref> vsurum in antecessum
 								moneo.</hi>
 						</p>
 					</note>
@@ -555,7 +556,7 @@
 					praesentiam externam <abbr>h. e.</abbr> determinationes substantiae respectivas aliae
 					internae quae nisi forent non haberent illae cui inhaererent subjectum. Sed
 					internae non sunt in spatio propterea qvia sunt internae. Neqve itaqve divisione
-					externarum determinationum ipsae dividuntur, adeoqve nec subjectum ipsum s.
+					externarum determinationum ipsae dividuntur, adeoqve nec subjectum ipsum <abbr>s.</abbr>
 					substantia hoc pacto dividitur. Pariter ac si dixeris: Deus omnibus rebus
 					creatis per actum conservationis interne praesto est, qvi itaqve dividit
 					congeriem rerum creatarum dividit Deum qvia ambitum praesentiae suae dividit;
@@ -666,7 +667,7 @@
       		<p rend="indent" xml:id="la067" corresp="#de067">
                	<hi rend="larger">Prop. <hi rend="uppercase">x. theorema</hi>. Corpora per vim
 						solam impenetrabilitatis non gauderent definito volumine, nisi adforet alia pariter
-						insitaattractionis cum illa conjunctim limitem definiens
+						insita attractionis cum illa conjunctim limitem definiens
 						extensionis.</hi>
                </p>
       		<p rend="indent" xml:id="la068" corresp="#de068">
@@ -732,7 +733,7 @@
 					diametri puncto aeqvales esse attractionem et
 						repulsionem necesse est. Et hoc
 					punctum determinabit limitem impenetrabilitatis, et contactus externi
-					ambitum s. volumen; victa enim attractione vis
+					ambitum <abbr>s.</abbr> volumen; victa enim attractione vis
 						repulsiva vlterius non agit.</p>
       		<p rend="indent" xml:id="la072" corresp="#de072"><anchor type="textRefStart" xml:id="tr53023"/><hi rend="uppercase">corollarium</hi>. Si hanc
 					virium insitarum legem ratam habes, agnosces etiam omnium
@@ -771,7 +772,7 @@
                	<hi rend="uppercase">
                		<abbr>coroll.</abbr> i.</hi> Dari possunt elementis
 					qvibuslibet datis alia, <ref type="critApp" xml:id="app48527">qvorum</ref>
-						vis inertiae, s. qvod diverso respectu idem est, vis motrix,
+      			vis inertiae, <abbr>s.</abbr> qvod diverso respectu idem est, vis motrix,
 						duplo vel triplo major est, <abbr>h. e.</abbr> qvae et
 					certae celeritati duplo vel <pb ed="firstPrint" n="15" xml:id="B01S0485Z29fp"/>triplo majori vi resistunt, et
 						eadem celeritate mota duplo vel triplo majori pollent
@@ -804,8 +805,8 @@
       		<p rend="indent" xml:id="la078" corresp="#de078">
                	<hi rend="larger">Prop. <hi rend="uppercase">xii. theorema</hi>. Diversitas
 						specifica densitatis
-						corporumin mundo observabilium absqve diversitate specifica
-						inertiae ipsorumelementorum explicari plane non
+						corporum in mundo observabilium absqve diversitate specifica
+						inertiae ipsorum elementorum explicari plane non
 						potest.</hi>
                </p>
       		<p rend="indent" xml:id="la079" corresp="#de079">Si elementa omnia pari
@@ -818,7 +819,7 @@
                   </ref>, aliorumqve
 						demonstrationes, in medio tali ratione perfecte impleto
 					motui libero locus est. Ideoqve ad explicandam mediorum infinite diversam densitatem
-					specificam e. g. aetheris, aëris, aqvae, auri, indulgendum est
+					specificam <abbr>e.&#8239;g.</abbr> aetheris, aëris, aqvae, auri, indulgendum est
 					immodicae conjectandi libidini, qva qvae ab hominum
 					intelligentia maxime remota est ipsa <ref type="editorialNote" target="#en48615">
                      <ref type="editorialNote" target="#en48614">elementorum textura
@@ -887,8 +888,8 @@
 						qvantacunqve vi externa spatio qvod occupant, penitus
 					excludi nescia, sed sunt condensibilia, et corpora etiam talia
 					constituunt, qvippe concedentia aliqvantulum vi
-						externae comprimenti. Hinc origo corporum s. mediorum primitive
-					elasticorum, in qvibus aetherem s. materiam ignis in
+					externae comprimenti. Hinc origo corporum <abbr>s.</abbr> mediorum primitive
+      			elasticorum, in qvibus aetherem <abbr>s.</abbr> materiam ignis in
 					antecessum profiteri liceat.</p>
             <p rend="center">
             	<hi rend="spaced larger uppercase">finis.</hi>

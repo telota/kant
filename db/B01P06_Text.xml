@@ -202,6 +202,7 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
+			<change when="2025-04-01" who="#EF">Corrected</change>
 			<change when="2024-10-24" who="#GN">Corrected</change>
 			<change when="2024-09-23" who="#EF">Corrected</change>
 			<change when="2024-04-29" who="#GN">Corrected</change>
@@ -243,7 +244,7 @@
 							borchard</persName>, <hi rend="smaller">Heiligenb. bor.</hi>
 					</hi>
 				</p>
-         	   <p rend="head_05"><hi rend="uppercase">s. s. theol. cvltore,</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase"><abbr>s. s. theol.</abbr> cvltore,</hi></p>
          	   <p rend="head_05"><hi rend="uppercase">oppenentibvs</hi></p>
          	   <p rend="head_04">
 					<hi rend="uppercase">
@@ -251,22 +252,22 @@
 							<hi rend="smaller">reg.</hi>
 					</hi>
 				</p>
-         	   <p rend="head_05"><hi rend="uppercase">s. s. theol. stvd.</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase"><abbr>s. s. theol. stvd.</abbr></hi></p>
          	   <p rend="head_04"><hi rend="uppercase">
 						<persName key="lysio_friedrich_heinrich_samuel">friderico henrico samvele lysio</persName>, <hi rend="smaller">regiom.</hi>
 					</hi>
 				</p>
-         	   <p rend="head_05"><hi rend="uppercase">i. v. c.</hi></p>
+         	   <p rend="head_05"><hi rend="uppercase"><abbr>i. v. c.</abbr></hi></p>
          	   <p rend="head_05"><hi rend="uppercase">et</hi></p>
          	   <p rend="head_04"><hi rend="uppercase">
-					<persName key="grube_johann_reinhold">iohanne reinholdo grvbe</persName>, <hi rend="smaller">Reg. <hi rend="uppercase">i. v. c.</hi></hi>
+					<persName key="grube_johann_reinhold">iohanne reinholdo grvbe</persName>, <hi rend="smaller">Reg. <hi rend="uppercase"><abbr>i. v. c.</abbr></hi></hi>
 					</hi>
 				</p>
          	   <p rend="head_05"><hi rend="uppercase">anno mdcclv.</hi></p>
          	<milestone unit="section" rend="line"/>
          	   <p rend="head_05"><hi rend="uppercase">regiomonti,</hi>
 				</p>
-         	   <p rend="head_05"><hi rend="uppercase">typis sacr. reg. maiest. et vniv. typogr. i. h. hartvngii.</hi>
+         	   <p rend="head_05"><hi rend="uppercase">typis <abbr>sacr. reg. maiest.</abbr> et <abbr>vniv. typogr. i. h.</abbr> hartvngii.</hi>
 				</p>
 			</div>
       	<pb ed="AA" n="1"/>
@@ -401,7 +402,7 @@
 							paulo explicatius: quandocunque identitas subjecti inter ac praedicati
 							notiones reperitur, propositio est vera; quod terminis generalissimis,
 							vt principium primum decet, expressum ita audit: <hi rend="spaced">Quicquid est est &amp; quicquid non est non est</hi>. Directae ergo
-							argumentationi omni certe praesidebit principium identitatis, q. e.
+							argumentationi omni certe praesidebit principium identitatis, <abbr>q. e.</abbr>
 							primum.</p>
 						<p rend="indent" xml:id="la020" corresp="#de020">Si de indirecta concludendi ratione
 							quaeras, idem reperies vltimo substratum principium geminum. Etenim
@@ -417,7 +418,7 @@
 								<hi rend="spaced">non</hi>).</ref> Posteriorem sequenti ratione
 							informabis: <hi rend="spaced">Quicquid non est non est</hi>, (nempe hic
 							iterum vox oppositi effertur per particulam <hi rend="spaced">non</hi>,
-							&amp; vox falsitatis s. remotionis pariter per eandem particulam). Si
+							&amp; vox falsitatis <abbr>s.</abbr> remotionis pariter per eandem particulam). Si
 							nunc, lege Characteristica ita exigente, vocum priore propositione
 							contentarum vim exsequaris, quia vna particula <hi rend="spaced">non</hi> indicat alteram esse tollendam, vtraque deleta tibi
 							prodibit propositio <hi rend="spaced">quicquid est est</hi>. Altera
@@ -461,7 +462,7 @@
 							 principium contradictionis characterum ope explicatum reddere
 							tentasse, affirmatiuam notionem signo + A, negatiuam signo – A <ref type="critApp" xml:id="app39019">exprimens</ref>, vnde prodit
 							aequatio + A – A = 0, <abbr>h. e.</abbr> idem affirmare &amp; negare est
-							impossibile s. nihil. In quo quidem conatu, quod pace tanti viri
+							impossibile <abbr>s.</abbr> nihil. In quo quidem conatu, quod pace tanti viri
 							dixerim, petitionem principii haud dubie animaduerto. Etenim si signo
 							negatiuae notionis eam tribuis vim, vt affirmatiuam ipsi junctam tollat,
 							aperte principium contradictionis supponis, in quo statuitur, notiones
@@ -490,8 +491,8 @@
 							possunt.</p>
 						<pb ed="AA" n="7"/>
 						<p rend="indent" xml:id="la024" corresp="#de024"><pb ed="oldAA" n="391" xml:id="B01S0391"/>Principium contradictionis, quod effertur propositione: <hi rend="spaced">Impossibile estidem simul esse ac non esse</hi>, re
-							ipsa non est nisi definitio <hi rend="spaced">impossibilis,</hi>
-							quicquid enim sibi contradicit, s. quod simul esse ac non esse
+							ipsa non est nisi definitio <hi rend="spaced">impossibilis</hi>,
+							quicquid enim sibi contradicit, <abbr>s.</abbr> quod simul esse ac non esse
 							concipitur, vocatur impossibile. Quo vero pacto statui potest, omnes
 							veritates ad hanc definitionem velut <ref type="editorialNote" target="#en39105">ad lapidem Lydium</ref> 
 							<w lemma="reuocari">re<pb ed="firstPrint" n="6" xml:id="B01S0391Z05fp"/>uocari</w> oportere? Neque enim necesse est vt quamlibet veritatem
@@ -564,11 +565,11 @@
 							subjectum inter ac praedicatum aliquod nexum efficit &amp;
 							colligationem. Ideo desiderat semper subjectum &amp; quod ipsi vniat
 							praedicatum. Si quaeras rationem circuli, plane non intelligo ecquid sit
-							quod quaeris, nisi addas praedicatum, e. g. quod sit omnium figurarum
-							isoperimetrarum capacissima. Quaerimus v. c. rationem malorum in mundo.
+							quod quaeris, nisi addas praedicatum, <abbr>e. g.</abbr>. quod sit omnium figurarum
+							isoperimetrarum capacissima. Quaerimus <abbr>v. c.</abbr> rationem malorum in mundo.
 							Habemus itaque propositionem: <pb ed="AA" n="9"/>Mundus continet plurima mala. Ratio Quod,
 							seu cognoscendi non quaeritur, quia experientia ipsius vicem sustinet,
-							sed ratio Cur s. fiendi indicanda, h. e. qua posita intelligibile est,
+							sed ratio Cur <abbr>s.</abbr> fiendi indicanda, <abbr>h. e.</abbr> qua posita intelligibile est,
 							Mundum antecedenter respectu hujus praedicati non esse indeterminatum,
 							sed qua praedicatum malorum ponitur cum exclusione oppositi. Ratio
 							igitur ex indeterminatis efficit determinata. Et quoniam omnis veritas
@@ -588,10 +589,10 @@
 							tantum determinans hanc veritatem; si enim vel maxime nulli adforent
 							Jouis satellites, nec eorum per vices facta occultatio, tamen lux
 							perinde in tempore moueretur, quanquam cognitum forsitan nobis non
-							esset, s. vt ad definitionem datam propius applicem, phaenomena
+							esset, <abbr>s.</abbr> vt ad definitionem datam propius applicem, phaenomena
 							satellitum Jouialium successiuum lucis motum probantia, supponunt hoc
 							ipsum lucis ingenium, sine quo ita contingere non possent, ideoque
-							consequenter tantum hanc veritatem determinant. Ratio autem fiendi, s.
+							consequenter tantum hanc veritatem determinant. Ratio autem fiendi, <abbr>s.</abbr>
 							cur motus <pb ed="oldAA" n="393" xml:id="B01S0393"/>lucis cum assignabili
 							temporis dispendio junctus sit, (si sententiam 
 								<persName key="cartes"><ref type="editorialNote" target="#en39301">Cartesii</ref></persName> 
@@ -600,7 +601,7 @@
 							elasticitatis ictui aliquantulum concedentes, quod in quouis globulo
 							absorbent punctum tempusculi, per seriem immensam concatenatam summando,
 							perceptibile tandem faciunt. Haec foret ratio antecedenter determinans,
-							s. qua non posita determinato locus plane non esset. Si enim globuli
+							<abbr>s.</abbr> qua non posita determinato locus plane non esset. Si enim globuli
 							Aetheris perfecte duri forent, per distantias quantumlibet immensas
 							nullum, emissionem inter &amp; appulsum lucis, perciperetur temporis
 							interuallum.</p>
@@ -635,7 +636,7 @@
 								determinante.</hi>
 						</p>
 						<p rend="indent" xml:id="la037" corresp="#de037">Omnis propositio vera indicat subjectum
-							respectu praedicati esse determinatum, i. e. hoc poni cum exclusione
+							respectu praedicati esse determinatum, <abbr>i. e.</abbr> hoc poni cum exclusione
 							oppositi: In omni itaque propositione vera oppositum praedicati
 							competentis excludatur necesse est. Excluditur autem praedicatum, cui ab
 							alia notione posita repugnatur, vi princip. contrad. Ergo exclusio locum
@@ -658,7 +659,7 @@
 							Veritatis cognitionem rationis semper intuitu niti communi omnium
 							mortalium sensu stabilitum est. Verum nos saepenumero ratione
 							consequenter determinante contenti sumus, cum de certitudine nobis
-							tantum res est; sed dari semper rationem antecedenter determinantem s.
+							tantum res est; sed dari semper rationem antecedenter determinantem <abbr>s.</abbr>
 							si mauis geneticam aut saltem identicam, e theoremate allegato &amp;
 							definitione junctim spectatis facile apparet, siquidem ratio
 							consequenter determinans veritatem non efficit sed explanat. Sed
@@ -750,7 +751,7 @@
 							consistit in trium laterum consertione, non est per se necessaria; quis
 							enim sanae mentis contenderet, necessarium in se esse vt tria semper
 							latera conjuncta concipiantur; verum triangulo hoc necessarium esse
-							concedo, h. e. si cogitas triangulum, cogitas necessario tria latera,
+							concedo, <abbr>h. e.</abbr> si cogitas triangulum, cogitas necessario tria latera,
 							quod idem est ac si dicis: si quid est, est. Quo autem pacto eueniat, vt
 							cogitationi laterum, spatii comprehendendi, cet. notiones suppetant, hoc
 							est, vt sit in genere quod cogitari possit, vnde resultet postea
@@ -774,15 +775,14 @@
 						</p>
 						<p rend="indent" xml:id="la050" corresp="#de050"><anchor type="textRefStart" xml:id="tr39227"/>Pone carere. Nihil erit quod vt existens
 							determinet; praeter ipsam rei existentiam. Quoniam igitur nihilo minus
-							existentia determinata est, h. e. ponitur ita, vt quodlibet oppositum
+							existentia determinata est, <abbr>h. e.</abbr> ponitur ita, vt quodlibet oppositum
 							omnimodae suae determinationis plane exclusum sit; non alia erit
 							oppositi exclusio quam quae a positione existentiae proficiscitur. Quae
 							vero exclusio cum sit identica, (quippe nihil aliud vetat rem non
 							existere, quam quod non existentia remota sit,) oppositum existentiae
-							per se ipsum exclusum, h. e. absolute impossibile erit; h. e. res
+							per se ipsum exclusum, <abbr>h. e.</abbr> absolute impossibile erit; <abbr>h. e.</abbr> res
 							existet absolute necessario, quod repugnat hypothesi.</p>
 						<pb ed="AA" n="14"/>
-						<p rend="indent"/>
 						<p rend="indent" xml:id="la051" corresp="#de051"><hi rend="uppercase">corollarium</hi>. E
 							demonstratis itaque liquet, non nisi contingentium existentiam rationis
 							determinantis firmamento egere, vnicum absolute necessarium hac lege
@@ -806,7 +806,7 @@
 							Existentiae studiose mihi distinguendum erat; quanquam videri poterat,
 							vniuersalitatem principii rationis determinantis in regione veritatum,
 							eandem pariter supra existentiam extendere. Etenim si verum nihil est,
-							h. e. si subjecto non competit praedicatum, sine ratione determinante,
+							<abbr>h. e.</abbr> si subjecto non competit praedicatum, sine ratione determinante,
 								<w lemma="praedicatum">praedi<pb ed="firstPrint" n="13" xml:id="B01S0396Z37fp"/>catum</w> existentiae absque hac nullum
 							fore etiam consequitur. Verum ad veritatem firmandam non ratione
 							antecendenter determinante opus esse, sed identitatem praedicatum inter
@@ -842,7 +842,7 @@
 							antea non extitisse, simul a non existentia ad existentiam
 							determinauerit, (quia propositiones: Quare quod jam existit olim non
 							extiterit, et quare quod olim non extiterit jam existat, reuera sunt
-							identicae,) h. e. ratio sit existentiam antecedenter determinans, sine
+							identicae,) <abbr>h. e.</abbr> ratio sit existentiam antecedenter determinans, sine
 							hac etiam omnimodae entis illius quod ortum esse concipitur
 							determinationi, hinc nec existentiae locum esse posse <w lemma="abunde">ab<pb ed="firstPrint" n="14" xml:id="B01S0397Z30fp"/>unde</w>
 							patet. Haec si demonstratio propter profundiorem notionum Analysin
@@ -858,7 +858,7 @@
 							</persName> enodatius exposita reperitur, ad haec, vt paucis multa
 							complectar, redit. Si quid non haberet rationem, nihil esset ejus ratio;
 							ergo nihil aliquid, quod absurdum. Verum ita potius informanda erat
-							argumentandi ratio: si enti non est ratio, ratio <pb ed="AA" n="16"/>ipsius nihil est i. e.
+							argumentandi ratio: si enti non est ratio, ratio <pb ed="AA" n="16"/>ipsius nihil est <abbr>i. e.</abbr>
 							non ens. Hoc vero ambabus manibus largior, quippe si ratio nulla est,
 							conceptus ipsi respondens erit non entis, hinc si enti non poterit
 							assignari ratio, nisi cui nullus <pb ed="oldAA" n="398" xml:id="B01S0398"/>plane conceptus respondet, ratione plane carebit, quod redit ad
@@ -925,7 +925,7 @@
 							validius ab ipso traditum, quantum ejus fieri potest enucleate, illibato
 							tamen ipsius robore allegabo.</p>
 						<p rend="indent" xml:id="la059" corresp="#de059">Si quicquid fit non aliter fieri potest,
-							nisi vt habeat rationem antecedenter determinantem, sequitur vt <hi rend="spaced">quicquid non fit etiam fieri non possit,</hi> quia
+							nisi vt habeat rationem antecedenter determinantem, sequitur vt <hi rend="spaced">quicquid non fit etiam fieri non possit</hi>, quia
 							videlicet nulla adest ratio sine qua tamen fieri omnino non potest. Quod
 							quia de omnibus rationum rationibus retrogrado ordine est concedendum,
 							sequitur: omnia naturali colligatione ita conserte contexteque fieri,
@@ -1019,7 +1019,7 @@
 								<hi rend="spaced">ais</hi>
 							</ref> ob rationem agit, quam quia ita potissimum <hi rend="spaced">lubuit</hi>. Jam teneo te tua ipsius confessione constrictum. Quid
 							enim est lubitus nisi voluntatis pro allectamento objecti ad hanc potius
-							quam oppositam partem facta inclinatio; Ergo tuum <hi rend="spaced">libet</hi> s. volupe est actionem per internas rationes
+							quam oppositam partem facta inclinatio; Ergo tuum <hi rend="spaced">libet</hi>&#8239;<abbr>s.</abbr> volupe est actionem per internas rationes
 							determinatam innuit. Lubitus enim ex tua sententia actionem determinat;
 							est vero non nisi voluntatis in objecto, pro ratione allectamenti; quo
 							voluntatem inuitat, acquiescentia. Ergo est determinatio respectiua, in
@@ -1277,7 +1277,7 @@
 						sinistri indifferenti ad promouendum libertate dictitant. Omnibus vno verbo
 						&amp; quod quidem mihi <pb ed="firstPrint" n="25" xml:id="B01S0406Z12fp"/>videtur affatim respondebo. Quando in principio nostro de rationibus
 						determinantibus sermo est, non hic vnum vel aliud rationum genus
-						intelligitur, <abbr>e. g.</abbr> in actionibus liberis rationes intellectui
+						intelligitur, <abbr>e.&#8239;g.</abbr> in actionibus liberis rationes intellectui
 						conscio obuersantes, sed vtcunque determinetur actio, tamen ratione quadam
 						determinata sit necesse est, si eam fieri opus est. Rationes objectiuae in
 						arbitrii determinatione plane deesse possunt, &amp; motiuorum cum
@@ -1321,11 +1321,11 @@
 							decrescendo.</p>
 						<p rend="indent" xml:id="la077" corresp="#de077"><hi rend="uppercase">dilvcidatio</hi>.
 							Hujus regulae in corporum mutationibus euidentia facillime elucescit. Si
-							e. g. Corpus A alterum B percutiendo propellat, vis quaedam per
+							<abbr>e. g.</abbr> Corpus A alterum B percutiendo propellat, vis quaedam per
 							consequens realitas<note place="foot" n="*" xml:id="fn03">
 								<p rend="indent">Hic secundum sensum communem vim impressam, tanquam
 									illatam realitatem, quanquam proprie non sit nisi quaedam
-									realitatis insitae limitatio s. directio, concipere liceat.</p>
+									realitatis insitae limitatio <abbr>s.</abbr> directio, concipere liceat.</p>
 							</note>, huic accedit. Verum par motus quantitas corpori impingenti
 							detracta est, igitur virium summa in effectu aequiparatur viribus
 							causae. In incursu quidem corporis minoris elastici in majus, lex
@@ -1432,7 +1432,7 @@
 							esse nisi vnum idemque ens, cui plura loca <pb ed="firstPrint" n="29" xml:id="B01S0409Z15fp"/>assignentur, quod cum sanae rationi
 							aduersetur, hanc sententiam <w lemma="secum">se<pb ed="AA" n="31" break="no"/>cum</w> <ref type="critApp" xml:id="app40916">ipsa</ref> pugnare contendunt. Sed quis est qui fucum argutiarum
 							non animaduertat? Ad perfectam duarum rerum identitatem omnium notarum
-							s. determinationum, tam internarum quam externarum requiritur identitas.
+							<abbr>s.</abbr> determinationum, tam internarum quam externarum requiritur identitas.
 							Ab hac omnimoda determinatione, ecquisnam exceperit locum? Ideoque non
 							vnum idemque ens sunt, quae, vtcunque notis internis conuenientia, loco
 							saltem discernuntur. Sed quae principio rationis sufficientis falso
@@ -1475,7 +1475,7 @@
 							Sed hic vniuersalitas principii hujus metaphysica tantum repudiatur.
 							Caeterum &amp; in figuris corporum naturalium identitatem exemplaris
 							saepenumero reperiri vix inficiandum videtur. In crystallisationibus
-							v. g. inter infinita diuersa non vnum atque alterum reperiri perfecta
+							<abbr>v. g.</abbr> inter infinita diuersa non vnum atque alterum reperiri perfecta
 							similitudine aliud exscribens, quis est qui contendere ausit?</p>
 					</div>
 				</div></div>
@@ -1533,7 +1533,7 @@
 					non poni rationatum absurdum est. Quaecunque itaque in statu
 					aliquo substantiae simplicis sunt determinantia, cum iis
 					omnia omnino determinata simul sint necesse est.
-						Quia vero mutatio est determinationum successio, s. vbi
+					Quia vero mutatio est determinationum successio, <abbr>s.</abbr> vbi
 					determinatio quaedam oritur quae antea non fuit, adeoque ens
 					determinatur ad oppositum cujusdam quae ipsi competit
 					determinationis, haec per ea quae in substantia intrinsecus
@@ -1544,7 +1544,7 @@
                         <hi rend="spaced">Adhuc
 						quodammodo aliter.</hi> Fac oriri nominatis sub conditionibus
 						mutationem; quia existere incipit
-						cum antea non fuerit, h. e. cum
+						cum antea non fuerit, <abbr>h. e.</abbr>. cum
 						substantia determinata esset ad oppositum, neque accedere sumantur
 					praeter interna quae aliunde substantiam determinent, iisdem
 					rationibus, quibus certo modo substantia determinata habetur, determinabitur ad oppositum,
@@ -1566,7 +1566,7 @@
 					aueret, quonam tandem pacto mutationes, quarum
 						in vniuerso reperitur vicissitudo oriantur, cum ex internis
 					substantiae cujuslibet solitario consideratae non fluant, is ad
-					ea, quae per nexum rerum, h. e.
+					ea, quae per nexum rerum, <abbr>h. e.</abbr>
 						mutuam ipsarum in determinationibus dependentiam consequuntur,
 					animum velim aduertat. Ceterum
 					quia haec fusius hic explicare aliquanto prolixius foret
@@ -1646,7 +1646,6 @@
       		<head rend="head_04" xml:id="la109" corresp="#de109">Principium
 					Coexistentiae.</head>
                   <div n="3">
-                  	<span/>
                   	<p rend="indent" xml:id="la110" corresp="#de110">
                         <hi rend="larger">
                            <hi rend="smallCaps">Prop. XIII.</hi>
@@ -1663,11 +1662,11 @@
                   	<p rend="indent" xml:id="la111" corresp="#de111"><hi rend="uppercase">demonstratio</hi>.
 					Substantiae singulae, quarum neutra est causa
 						existentiae alterius,
-						existentiam habent separatam, h. e. absque omnibus
+						existentiam habent separatam, <abbr>h. e.</abbr> absque omnibus
 						aliis prorsus intelligibilem. Posita igitur cujuslibet
 					existentia simpliciter, nihil ipsi inest, quod arguat
 					existentiam aliarum a se diuersarum. Quoniam vero
-					relatio est determinatio respectiua, h. e. in
+					relatio est determinatio respectiua, <abbr>h. e.</abbr>. in
 					ente absolute spectato haud intelligibilis, haec pariter ac ratio
 					ejus determinans per existentiam substantiae in se
 						positam intelligi nequit. Si praeter hanc igitur nihil insuper
@@ -1723,7 +1722,7 @@
 					nullusque respectus mutuus <ref type="critApp" xml:id="app41404">orietur</ref>, si vero in ipsius intelligentia respectiue
 					concipiantur, huic ideae in continuatione
 						existentiae conformiter postea determinationes semet
-						semper respiciunt, h. e.
+						semper respiciunt, <abbr>h. e.</abbr>
 						agunt reaguntque, statusque quidam <ref type="critApp" xml:id="app41407">singularum</ref> externus est, qui, si ab hoc
 						principio discesseris, per solam ipsarum existentiam nullus esse
 					posset.</p>
@@ -1745,7 +1744,7 @@
 					delineationem, haec vero repraesentatio deo plane
 						arbitraria est, adeoque admitti pro ipsius beneplacito pariter ac
 					omitti potest: <w lemma="sequitur">se<pb ed="firstPrint" n="36" xml:id="B01S0414Z18fp"/>quitur</w> substantias existere posse ea lege,
-						<hi rend="spaced">vt nullo sint in loco,</hi> nullaque plane,
+						<hi rend="spaced">vt nullo sint in loco</hi>, nullaque plane,
 						respectu rerum vniuersitatis nostrae,
 					relatione.</p>
       			<p rend="indent" xml:id="la116" corresp="#de116">2. Quoniam substantiae
@@ -1754,7 +1753,7 @@
 					quae nihilo secius inter se determinationum quodam nexu colligatae
 					sint, hinc locum, situm &amp; spatium efficiant,
 						mundum component, illius cujus partes nos sumus ambitu exemtum,
-						i. e. solitarium. Hacque ratione plures
+      				<abbr>i. e.</abbr> solitarium. Hacque ratione plures
 					esse posse mundos etiam sensu metaphysico, si DEO
 						ita volupe fuerit, haud absonum est.</p>
       			<p rend="indent" xml:id="la117" corresp="#de117">3. Cum itaque
@@ -1764,7 +1763,7 @@
 						externo arguat communem omnium causam, in qua respectiue
 					informata sit earum existentia, neque sine hac principii
 					communione nexus vniuersalis concipi possit, euidentissimum
-					inde depromitur summae rerum omnium causae, i. e. DEI, &amp; quidem vnius, testimonium,
+					inde depromitur summae rerum omnium causae, <abbr>i. e.</abbr> DEI, &amp; quidem vnius, testimonium,
 					quod mea quidem sententia demonstrationem illam contingentiae longe antecellere
 					videtur.</p>
       			<p rend="indent" xml:id="la118" corresp="#de118">4. Insana etiam
@@ -1780,7 +1779,7 @@
 					principiorum vel ab altero, vel vtrumque a communi causa
 					pendere, quod pariter contrariatur hypothesi.</p>
       			<p rend="indent" xml:id="la119" corresp="#de119">5. Porro, cum
-      				determinationes substantiarum se inuicem respiciant, h. e. substantiae a se diuersae mutuo agant,
+      				determinationes substantiarum se inuicem respiciant, <abbr>h. e.</abbr> substantiae a se diuersae mutuo agant,
 					(quippe vna in altera nonnulla determinat,) spatii notio implicatis substantiarum actionibus absoluitur, cum
 						quibus reactionem semper junctam esse necesse est. Cujus actionis
 					&amp; reactionis vniuersalis per
@@ -1790,7 +1789,7 @@
       				 <hi rend="spaced">attractio</hi>,
 					quae cum per solam compraesentiam efficiatur, in distantias
 					quaslibet pertingit, &amp; est <hi rend="spaced">attractio <persName key="newton_isaac">neutoniana</persName>
-                        </hi> s. vniuersalis grauitas; quam
+					</hi> <abbr>s.</abbr> vniuersalis grauitas; quam
 					adeoque eodem substantiarum nexu
 					effici probabile est, quo spatium determinant hinc maxime
 						primitiuam, cui materia adstricta est,
@@ -1823,7 +1822,7 @@
 					progignitur, nec enim artificiorum technis in rationum
 					concinnatarum serie adaptatis ad conspirationem
 						substantiarum efficiendam deus
-					vtitur, neque porro specialis semper DEI influxus, i. e. commercium substantiarum per
+						vtitur, neque porro specialis semper DEI influxus, <abbr>i. e.</abbr> commercium substantiarum per
 						<hi rend="spaced">causas occasionales <persName key="malebranche_nicolas">
                               <ref type="editorialNote" target="#en41529">Malebranchii</ref>
                            </persName>
@@ -1833,7 +1832,7 @@
 					conciliat, ita vt diuinae actioni non aliter atque aliter pro
 					circumstantiis determinari opus sit; Sed est realis
 						substantiarum in se inuicem
-					facta actio, s. commercium per causas vere
+						facta actio, <abbr>s.</abbr> commercium per causas vere
 						efficientes, quoniam idem quod existentiam rerum
 					stabilit principium, ipsas huic legi alligatas exhibet, hinc per eas, quae existentiae suae origini adhaerent,
 						determinationes, mutuum

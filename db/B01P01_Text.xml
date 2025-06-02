@@ -187,6 +187,9 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
+			<change when="2025-04-26" who="#EF">Corrected</change>
+			<change when="2025-04-07" who="#EF">Corrected</change>
+			<change when="2024-12-05" who="#GN">Corrected</change>
 		    <change when="2024-10-25" who="#EF">Corrected</change>
 			<change when="2024-10-24" who="#GN">Corrected</change>
 			<change when="2024-09-24" who="#EF">Corrected</change>
@@ -809,8 +812,8 @@
                      </ref>
 						ihre Zuflucht nahmen.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr14031">
+      		<div n="2" xml:id="tr14031">
+                  <head rend="head_05">
                      <pb ed="firstPrint" n="5" xml:id="B01S0018Z17fp"/>§
 					3.</head>
       			<p rend="indent"><note place="margin" xml:id="mn03">Man
@@ -1354,7 +1357,7 @@
 								<hi rend="antiqua">A</hi> nach verrichtetem
 							Stoße werde in <hi rend="antiqua">C</hi> seyn,
 							wenn <hi rend="antiqua">B</hi> den Punct
-								<hi rend="antiqua">D,</hi> der die Linie
+								<hi rend="antiqua">D</hi>, der die Linie
 								<hi rend="antiqua">A C</hi> auf die Helfte theilet,
 							noch nicht überschritten hat; mithin werde jener diesen haben
 							durchdringen müssen, denn sonst hätte er vor ihm keinen Vorsprung
@@ -1362,8 +1365,8 @@
                      </note>
                   </p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr03333">
+      		<div n="2" xml:id="tr03333">
+                  <head rend="head_05">
                      <pb ed="oldAA" n="28" xml:id="B01S0028"/>§ 15.</head>
       			<p rend="indent"><note place="margin" xml:id="mn18">Doppelte
       				Ein­theilung der Bewegung.</note>
@@ -1397,8 +1400,8 @@
 						Geschwindigkeit gezogen werden.</ref>
                   </p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr03001">§ 16.</head>
+      		<div n="2" xml:id="tr03001">
+                  <head rend="head_05">§ 16.</head>
       			<p rend="indent"><note place="margin" xml:id="mn19">Die
       				Bewegung von der
       				<ref type="critApp" xml:id="app02823">zweyten</ref> Art ist
@@ -1425,8 +1428,8 @@
 							hat</ref>.
                   </p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr11507">§
+      		<div n="2" xml:id="tr11507">
+                  <head rend="head_05">§
 						17.</head>
       			<p rend="indent"><note place="margin" xml:id="mn20">Die
       				Bewegung von der
@@ -1448,14 +1451,14 @@
 							ganzen Intensität der Kraft gleich sey, eine längere Zeit
 						nehmen müssen, als die unendliche Zeit ist, welches
 						ungereimt ist. Man vergleiche nun zweene Körper
-							<hi rend="antiqua">A,</hi> und <hi rend="antiqua">B,</hi> von denen <hi rend="antiqua">A</hi> eine Geschwindigkeit wie 2,
+							<hi rend="antiqua">A</hi>, und <hi rend="antiqua">B</hi>, von denen <hi rend="antiqua">A</hi> eine Geschwindigkeit wie 2,
 							<hi rend="antiqua">B</hi> aber eine solche wie 1 hat, so
-						drucket <hi rend="antiqua">A,</hi> von dem Anfange
+						drucket <hi rend="antiqua">A</hi>, von dem Anfange
 						seiner Bewegung an, in Ewigkeit, die
 						unendlich kleine Massen des Raumes, den <pb ed="AA" n="24"/>er durchläuft, mit
-						doppelt mehr Geschwindigkeit wie <hi rend="antiqua">B,</hi> allein er legt auch in dieser
+						doppelt mehr Geschwindigkeit wie <hi rend="antiqua">B</hi>, allein er legt auch in dieser
 						unendlichen Zeit einen zweymal größeren Raum
-							zurück als <hi rend="antiqua">B,</hi> also ist die ganze Größe der Würkung, welche
+							zurück als <hi rend="antiqua">B</hi>, also ist die ganze Größe der Würkung, welche
 							<hi rend="antiqua">A</hi> verrichtet,
 							dem Product aus der Kraft, womit er denen kleinen Theilen
 						des Raumes begegnet, in die Menge dieser Theile, proportionirt,
@@ -1471,15 +1474,15 @@
 								Leibnitz</persName> gewisse Einwürfe <w lemma="entgegen">entge<pb ed="firstPrint" n="21" xml:id="B01S0029Z28fpa"/>gen</w>
 							setzen will, so scheint es, daß ich mir selber widerspreche, da ich in
 							diesem § einen Beweiß zur Bestätigung seiner Meynung darbiete. Allein
-								<ref type="textRef" target="#tr02928">in <ref type="editorialNote" target="#en02935">dem letzten Capitel</ref></ref> werde ich zeigen, daß
+								in <ref type="editorialNote" target="#en02935">dem <ref type="textRef" target="#tr02928">letzten Capitel</ref></ref> werde ich zeigen, daß
 							des Herrn <persName key="leibniz_gottfried_wilhelm_v">von
 								Leibnitz</persName> Meynung, wenn sie nur auf gewisse Weise
 							eingeschränkt wird, würklich statt habe.</p>
                      </note>
                   </p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr14718">
+      		<div n="2" xml:id="tr14718">
+                  <head rend="head_05">
                      <pb ed="firstPrint" n="21" xml:id="B01S0029Z29fp"/>§ 18.</head>
       			<p rend="indent"><note place="margin" xml:id="mn21">Zweyter
       				Grund hievon.</note>Zum bessern Begriff dieser Eigenschaft der
@@ -1520,7 +1523,7 @@
 						und unwidersprechliches,
 						in einer Betrachtung zu erlangen, die bloß
 						metaphysisch ist, daher <ref type="critApp" xml:id="app03120">wende
-						mich</ref> zu <ref type="textRef" target="#tr03030">dem folgenden Capitel</ref>,
+						mich</ref> zu dem <ref type="textRef" target="#tr03030">folgenden Capitel</ref>,
 							welches durch die Anwendung der Mathematick,
 						vielleicht mehr Ansprüche auf die Ueberzeugung
 						wird machen können</ref>. Unsere Metaphysick ist
@@ -1550,8 +1553,8 @@
 					weitläuftige reizendes an sich hat.</p>
                </div>
       	</div>
-      	<div n="1">
-      		 <head rend="head_04" xml:id="tr03030">
+      	<div n="1" xml:id="tr03030">
+      		 <head rend="head_04">
                   <pb ed="oldAA" n="32" xml:id="B01S0032"/>Zweytes Hauptstück,</head>
       		 <head rend="head_05">Untersuchung der Lehr-Sätze der <persName key="leibniz_gottfried_wilhelm_v">Leibnitzischen</persName>
 						Parthey von den lebendigen Kräften.</head>
@@ -1613,8 +1616,9 @@
       		</div>
       		<div n="2">
                   <head rend="head_05">§ 23.</head>
-                  <note place="margin" xml:id="mn23">Erster Fehler des <persName key="leibniz_gottfried_wilhelm_v">Leibnitzischen</persName> Kräften-Maaßes.</note>
-                  <p rend="indent">Es sind eigentlich zwey Stücke, die ich an des
+                  <p rend="indent">
+      			<note place="margin" xml:id="mn23">Erster Fehler des <persName key="leibniz_gottfried_wilhelm_v">Leibnitzischen</persName> Kräften-Maaßes.</note>
+                  Es sind eigentlich zwey Stücke, die ich an des
 						Herrn von <hi rend="spaced">
                         <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName>
                      </hi> Regel auszusetzen finde. Dasjenige
@@ -1633,10 +1637,10 @@
 						Geschwindigkeit.</hi> Also ist, nach diesem Satze, das
 					Kennzeichen von  diesem Maaße der Kraft nichts wie die
 						<hi rend="spaced">würkliche</hi> Bewegung.
-						Es kan aber ein Körper sich <hi rend="spaced">würklich,</hi>
+						Es kan aber ein Körper sich <hi rend="spaced">würklich</hi>,
 					bewegen, obgleich seine Kraft nicht größer ist, als
 						<w lemma="diejenige">die<pb ed="firstPrint" n="26" xml:id="B01S0033Z32fp"/>jenige</w>, die er etwa mit dieser Anfangs-Geschwindigkeit bloß durch den Druck
-					ausüben würde. Ich habe dieses in <ref type="textRef" target="#tr03333">dem vorigen Capitel</ref> schon erwiesen, und wiederhole es
+					ausüben würde. Ich habe dieses in dem <ref type="textRef" target="#tr03333">vorigen Capitel</ref> schon erwiesen, und wiederhole es
 					nochmals. Eine Kugel die ich auf einer glatten Fläche ganz sachte
 					fortschiebe, höret so gleich auf sich ferner zu bewegen,
 					wenn ich die Hand abziehe. Es <pb ed="oldAA" n="34" xml:id="B01S0034"/>verschwindet also in einer solchen Bewegung die Kraft des
@@ -1664,7 +1668,7 @@
 						<hi rend="spaced">freye</hi> Bewegung hinzuzusetzen.
 					Denn wenn die Bewegung nicht frey ist, so hat der Körper niemals
 					eine lebendige Kraft. Nach dieser Bestimmung wird das <persName key="leibniz_gottfried_wilhelm_v">Leibnitzische</persName> Gesetze, <hi rend="spaced">wo es sonsten nur richtig
-						ist,</hi> in dieser Formul erscheinen müssen: <hi rend="spaced">Ein
+						ist</hi>, in dieser Formul erscheinen müssen: <hi rend="spaced">Ein
 						Körper der sich in
                      <pb ed="firstPrint" n="27" xml:id="B01S0034Z19fp"/>
                      würklicher und freyer
@@ -1673,8 +1677,8 @@
                      </hi>
                   </p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr03629">§ 24.</head>
+      		<div n="2" xml:id="tr03629">
+                  <head rend="head_05">§ 24.</head>
       			<p rend="indent"><note place="margin" xml:id="mn24">Was
       				eine würkliche Bewegung
       				sey.</note>Nunmehro mache ich die zweyte Anmerkung, die
@@ -1694,11 +1698,11 @@
 					untersuchen, was eigentlich eine <hi rend="spaced">würkliche</hi>
 						Bewegung sey. Denn dieses Wort war
 					die Ursache des Abfalls von <hi rend="spaced">
-                        <persName key="cartes">Cartesen</persName>,</hi> allein vielleicht kan sie auch eine
+                        <persName key="cartes">Cartesen</persName></hi>, allein vielleicht kan sie auch eine
 					Ursache der Wiedervereinigung werden.</p>
                   <p rend="indent">
                      <pb ed="oldAA" n="35" xml:id="B01S0035"/><ref type="editorialNote" target="#en03501">Man nennet eine Bewegung alsdenn
-							<hi rend="spaced">würklich,</hi> wenn sie sich
+							<hi rend="spaced">würklich</hi>, wenn sie sich
 							nicht bloß in dem Puncte des Anfangs befindet, sondern wenn
 						indem sie währet, eine Zeit verflossen ist</ref>. Diese
 					verflossene Zeit, die zwischen dem Anfange der Bewegung, und dem
@@ -1716,8 +1720,8 @@
 						nein, die Zeit überhaupt ist es, sie sey so klein, oder so
 					groß, wie sie wolle.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr097061">
+      		<div n="2" xml:id="tr04032">
+      			<head rend="head_05">
                      <ref type="editorialNote" target="#en03514">§
 								25</ref>.
                   </head>
@@ -1795,7 +1799,7 @@
 						<persName key="leibniz_gottfried_wilhelm_v">Leibnitzens</persName>
 					Gesetze, von der Schätzung der Kräfte, nicht statt finden; denn es
 					legt den Körpern, die sich überhaupt eine Zeit lang bewegt haben, (dies will so viel sagen als
-						<hi rend="spaced">diesich würklich
+						<hi rend="spaced">die sich würklich
 						bewegen</hi>) ohne Unterscheid eine lebendige Kraft
 						bey, diese Zeit mag nun so kurz, oder so lang seyn wie man
 						wolle. <note place="foot" n="**" xml:id="fn08">
@@ -1813,9 +1817,9 @@
                      </note>
                   </p>
       		</div>
-      		<div n="2">
+      		<div n="2" xml:id="tr040182">
       			<pb ed="AA" n="30"/>
-                  <head rend="head_05" xml:id="tr040182">
+                  <head rend="head_05">
                      <pb ed="oldAA" n="37" xml:id="B01S0037"/>§ 26.</head>
       			<p rend="indent"><note place="margin" xml:id="mn26">Beweiß
       				eben desselben
@@ -1827,7 +1831,7 @@
 						weitläuftigen Nutzen man vielleicht noch nicht genug hat
 						kennen gelernet. Der Herr von
 							<hi rend="spaced">
-                        <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName>,</hi> der Erfinder
+                        <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName></hi>, der Erfinder
 						desselben, machte ihn <pb ed="firstPrint" n="31" xml:id="B01S0037Z06fp"/>zum Probierstein, an dem die Gesetze
       				des <hi rend="spaced"><persName key="cartes">Cartes</persName></hi> die Probe nicht hielten. Ich halte
 					es vor den grösten Beweiß seiner Vortreflichkeit, daß <ref type="critApp" xml:id="app03708">er</ref> fast allein ein Mittel darbietet, das
@@ -1835,9 +1839,9 @@
 					und in der wahren Gestalt zu zeigen.</p>
                   <p rend="indent">Man darf nur seine
 					Aufmerksamkeit auf die Art und Weise richten, wie Herr von
-						<persName key="leibniz_gottfried_wilhelm_v">
-                        <hi rend="spaced">Leibnitz</hi>
-                     </persName> sich dieses Grundsatzes
+						<hi rend="spaced"><persName key="leibniz_gottfried_wilhelm_v">
+                        Leibnitz
+                     </persName></hi> sich dieses Grundsatzes
 					gegen <hi rend="spaced">
                         <persName key="cartes">Cartesen</persName>
                      </hi>
@@ -1861,9 +1865,9 @@
 					anfängt zu bewegen. Denn es ist einerley, ob er eben erst
 					anfängt, oder <pb ed="firstPrint" n="32" xml:id="B01S0037Z29fp"/>etwa schon eine
 						ungemein kleine Zeit fortfähret sich zu bewegen. Und also schließe
-					ich; weil aus dem <persName key="leibniz_gottfried_wilhelm_v">
-                        <hi rend="spaced">Leibnitzischen</hi>
-                     </persName> Gesetze der
+					ich; weil aus dem <hi rend="spaced"><persName key="leibniz_gottfried_wilhelm_v">
+                        Leibnitzischen
+                     </persName></hi> Gesetze der
 						Kräften-Schätzung diese
 						Ungereimtheit folget, daß selber im Anfangspuncte der
 					Bewegung die Kraft lebendig seyn würde, so könne man ihm nicht
@@ -1983,7 +1987,7 @@
 						niemals einige
 						Beweise zum Vortheil der
 						lebendigen Kräfte
-						darbiethen könne,</hi> und daß eine auf diese
+						darbiethen könne</hi>, und daß eine auf diese
 						Weise geschätzte Kraft, wenn sie sonsten gleich statt hat,
 					dennoch zum wenigsten ausserhalb dem Gebiethe der
 					mathematischen Betrachtung sey. Jedermann weiß es, daß, wenn man in dieser Wissenschaft die Kraft
@@ -1996,7 +2000,7 @@
 					Bewegungen überhaupt erstreckt, die Zeit, die darüber verflossen ist,
 					mag so kurz seyn wie man wolle, und daß sie uns hierinn gar keine
 					Grenzen setzet. Eine Schätzung von der Art aber gehet auch auf die
-					Bewegung der Körper die im Anfange ist, <ref type="textRef" target="#tr04018">§ 25</ref>. <ref type="textRef" target="#tr040182">26</ref>. und die also todt ist, und die schlechte Geschwindigkeit
+					Bewegung der Körper die im Anfange ist, <ref type="textRef" target="#tr04032">§ 25</ref>. <ref type="textRef" target="#tr040182">26</ref>. und die also todt ist, und die schlechte Geschwindigkeit
 					zu ihrem Maaße hat. Und da die lebendigen Kräfte mit den todten zugleich
 						unter einerley Schätzung nicht begriffen seyn können; so siehet
 					man leicht, daß die erstere von einer mathematischen
@@ -2014,7 +2018,7 @@
 					Augenblicken seiner Bewegung haben können, sondern es
 					würde eine Zeit nach dem Anfange derselben seyn, darinnen er sie noch
 					nicht hätte, ob in ihm gleich alle
-						Geschwindigkeit schon vorhanden wäre. <ref type="textRef" target="#tr04032">§ 25</ref>. <ref type="textRef" target="#tr040322">26</ref>. Die Masse ist noch viel
+					Geschwindigkeit schon vorhanden wäre. <ref type="textRef" target="#tr04032">§ 25</ref>. <ref type="textRef" target="#tr040182">26</ref>. Die Masse ist noch viel
 						weniger ein Grund zu derselben. Endlich haben wir eben dasselbe
 					auch von der Zeit erwiesen. Es hat also die Bewegung eines jeden
 						Körpers besonders genommen, nichts in sich, was in einer
@@ -2127,9 +2131,9 @@
 						Parthey hauptsächlich in dieser Streitsache bedienet
 					hat.</p>
                   <p rend="indent">Der Herr von
-						<persName key="leibniz_gottfried_wilhelm_v">
-                        <hi rend="spaced">Leibnitz</hi>
-                     </persName> ist durch dasjenige, was
+						<hi rend="spaced"><persName key="leibniz_gottfried_wilhelm_v">
+                        Leibnitz
+                     </persName></hi> ist durch dasjenige, was
 					man bey dem Falle der Körper durch ihre Schwere wahrnimmt, zuerst auf
 						seine Meynung geleitet worden. Allein es war ein unrecht
 						<w lemma="angewandter">ange<pb ed="firstPrint" n="39" xml:id="B01S0042Z22fp"/>wandter</w> Grundsatz des <hi rend="spaced">
@@ -2150,7 +2154,7 @@
       				von <hi rend="spaced">
       					<persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName>
       				</hi>
-      				zuerst <pb ed="mun" n="35"/> auf die
+      				zuerst <pb ed="mun" n="35"/>auf die
       				lebendigen
       				Kräfte gebracht hat.</note>Weil er sich auf den Beyfall aller Mechaniker
 						seiner Zeit beruft, so dünkt mich, er habe
@@ -2169,7 +2173,7 @@
 						Körper alsdenn im Gleichgewichte, wenn diese Räume gegen einander
 						umgekehrt wie die Gewichte der Körper
 					sind; und also schloß <hi rend="spaced">
-                        <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName>,</hi>
+                        <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName></hi>,
 						ist nicht mehr Kraft nöthig, einen Körper von einem Pfunde zur
 						Höhe vier zu erheben, als einen andern dessen Masse vier ist,
 					zur einfachen Höhe. Man wird leicht gewahr, daß diese Schlußfolge aus
@@ -2186,8 +2190,8 @@
 						Acht, und schloß auch auf die Bewegung in Zeiten die einander
 						nicht gleich seyn.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr04811">
+      		<div n="2" xml:id="tr04811">
+                  <head rend="head_05">
                      <pb ed="firstPrint" n="40" xml:id="B01S0043Z13fp"/>
                      <ref type="editorialNote" target="#en04313">§ 31</ref>.
                   </head>
@@ -2217,15 +2221,15 @@
                            <persName key="hermann_jacob">Herrmann</persName>
                         </hi></ref>, werde die Schwere dem Körper
 					in jedem Puncte des Raumes einen gleichen Druck mittheilen. Diese
-					Drucke bildet er durch die Linien <hi rend="antiqua">AC, DE, BF,</hi> 
+					Drucke bildet er durch die Linien <hi rend="antiqua">AC</hi>, <hi rend="antiqua">DE</hi>, <hi rend="antiqua">BF</hi>, 
                   	<abbr>u. s w.</abbr> ab, die
 					zusammen das Rektangulum <hi rend="antiqua">AF</hi> ausmachen. Der Körper hat also nach seiner
 						Meynung wenn er den Punct <hi rend="antiqua">B</hi> erreicht hat, eine Kraft, die der Summe aller
                   	dieser Drucke, <abbr>d. i.</abbr> dem <hi rend="antiqua">Rectangulo AF</hi> gleich ist. Es verhält sich
-					also die Kraft in <hi rend="antiqua">D,</hi> zur Kraft in <hi rend="antiqua">B</hi>, wie das <hi rend="antiqua">Rectangulum AE,</hi> zum <hi rend="antiqua">Rectangulo AF,</hi>
+					also die Kraft in <hi rend="antiqua">D</hi>, zur Kraft in <hi rend="antiqua">B</hi>, wie das <hi rend="antiqua">Rectangulum AE</hi>, zum <hi rend="antiqua">Rectangulo AF</hi>,
                   	 <abbr>d. i.</abbr> wie der durchgelaufene Raum
-						<hi rend="antiqua">AD,</hi> zum Raum
-						<hi rend="antiqua">AB,</hi>
+						<hi rend="antiqua">AD</hi>, zum Raum
+						<hi rend="antiqua">AB</hi>,
 						mithin wie die Quadrate der
 					Geschwindigkeiten in <hi rend="antiqua">D</hi> und
 						<hi rend="antiqua">B</hi>.</p>
@@ -2246,13 +2250,13 @@
 							<persName key="cartes">Cartesianer</persName>
                      </ref> ausser Zweifel setzen wird,
 					und daraus man zugleich wird einsehen lernen, worinn der
-					scheinbare Beweiß des Herrn <persName key="hermann_jacob">
-                        <hi rend="spaced">Herrmanns</hi>
-                     </persName>
+					scheinbare Beweiß des Herrn <hi rend="spaced"><persName key="hermann_jacob">
+                        Herrmanns
+                     </persName></hi>
 					fehle.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr08909">§ 32.</head>
+      		<div n="2" xml:id="tr08909">
+                  <head rend="head_05">§ 32.</head>
       			<p rend="indent"><note place="margin" xml:id="mn32">Beweis
       				der den Fall
       				des Herrn <persName key="hermann_jacob">Herrmanns</persName> widerleget.</note>Es
@@ -2272,9 +2276,9 @@
 						alle diese fünf Theile der <hi rend="antiqua">Secunde</hi> hindurch, auf die Feder <hi rend="antiqua">A</hi> losdrückt,
 						so nehme man an, daß er die Feder <hi rend="antiqua">A</hi> nur in dem ersten Theil
 						der <hi rend="antiqua">Secunde</hi>
-					drücke, und daß in dem zweyten Theil der <hi rend="antiqua">Secunde,</hi> an statt der Feder
-						<hi rend="antiqua">A,</hi> die andere
-						<hi rend="antiqua">B,</hi> die gleichen Grad der
+					drücke, und daß in dem zweyten Theil der <hi rend="antiqua">Secunde</hi>, an statt der Feder
+						<hi rend="antiqua">A</hi>, die andere
+						<hi rend="antiqua">B</hi>, die gleichen Grad der
 					Spannung hat, untergeschoben werde, so wird in der Kraft die
 						<hi rend="antiqua">M</hi> zu drücken
 						brauchet, bey dieser Verwechslung kein Unterscheid anzutreffen
@@ -2283,7 +2287,7 @@
 					gleich, und also ists einerley, ob in dem
 					zweyten Secundtheile annoch dieselbe Feder <hi rend="antiqua">A</hi> oder ob <hi rend="antiqua">B</hi> gedruckt werde. Eben so ist es gleich viel, ob
 						<hi rend="antiqua">M</hi> in dem
-						dritten Theil der <hi rend="antiqua">Secunde,</hi> die dritte Feder <hi rend="antiqua">C</hi> spanne, oder ob er in
+						dritten Theil der <hi rend="antiqua">Secunde</hi>, die dritte Feder <hi rend="antiqua">C</hi> spanne, oder ob er in
 						diesem Zeittheile annoch auf die vorige <hi rend="antiqua">B</hi> drückte; denn man kan eine
       				Feder an der andern Stelle setzen, weil <ref type="critApp" xml:id="app04424">sie nichts</ref> unterschieden <ref type="critApp" xml:id="app04425">seyn</ref>.
 						Es wendet also der Körper <hi rend="antiqua">M</hi> so viel Kraft an, die einzige Feder <hi rend="antiqua">A</hi> eine ganze <hi rend="antiqua">Secunde</hi> lang zugedrückt zu halten, als er
@@ -2340,7 +2344,7 @@
 						gegen die neue Schätzung der Kräfte <w lemma="anfuehret">anfüh<pb ed="firstPrint" n="43" xml:id="B01S0045Z16fp"/>ret</w>, sehe
 						ich, daß ihm der wahre Vortheil
 						unbekannt gewesen sey, den er aus dem Unterscheide der
-							Zeit hätte ziehen können, und den ich im <ref type="textRef" target="#tr04518">vorhergehenden §</ref> angezeigt
+						Zeit hätte ziehen können, und den ich im <ref type="textRef" target="#tr08909">vorhergehenden §</ref> angezeigt
 							zu haben glaube, welcher gewiß so einfach und deutlich
 						ist, daß man sich wundern muß, wie es möglich gewesen
 						ihn bey einem solchen Lichte des Verstandes
@@ -2352,9 +2356,9 @@
 					nachgingen, daß nemlich die Kraft, die die Schwere einem
 					Körper raubet, der Zeit und nicht dem Raum proportionirt sey.
 					Nachdem sie sich so weit vergangen, daß sie den
-						<persName key="leibniz_gottfried_wilhelm_v">
-                        <hi rend="spaced">Leibnitzianern</hi>
-                     </persName> zugegeben, ein
+						<hi rend="spaced"><persName key="leibniz_gottfried_wilhelm_v">
+                        Leibnitzianern
+                     </persName></hi> zugegeben, ein
 					Körper könne mit doppelter Geschwindigkeit vierfache Wirkung thun,
 					nachdem sie sage ich ihre Sache so verdorben haben, so sind sie
 					genöthigt sich mit einer ziemlich schlechten
@@ -2397,7 +2401,7 @@
                            <persName key="lichtscheid">Lichtscheid</persName>
                         </hi>
                      </ref> bemerket in den
-						<hi rend="antiqua">Actis <abbr>Erudit.</abbr>,</hi> wenn man einen
+						<hi rend="antiqua">Actis <abbr>Erudit.</abbr></hi>, wenn man einen
 						Perpendikel <note place="foot" n="*" xml:id="fn11">
                         <p rend="indent">
                            <hi rend="antiqua">
@@ -2410,10 +2414,10 @@
 					wieder in die Höhe steiget einen kleinern Circul beschreibet, so erlange
 					er doch, vermöge seiner in <hi rend="antiqua">B</hi>
 					erhaltenen Geschwindigkeit,
-					wieder die Höhe <hi rend="antiqua">CF,</hi> welche der
+					wieder die Höhe <hi rend="antiqua">CF</hi>, welche der
 					Höhe <hi rend="antiqua">DG</hi> gleich ist, von
 						der er herunter gefallen. Es ist aber die Zeit, die der
-					Perpendikel, im Falle durch den Bogen <hi rend="antiqua">DB,</hi> zubringt, länger, als die Zeit in der
+					Perpendikel, im Falle durch den Bogen <hi rend="antiqua">DB</hi>, zubringt, länger, als die Zeit in der
 					er bis zu <hi rend="antiqua">C</hi> wieder
 					in die Höhe steigt. Also hat die Schwere dorten in
 						den Perpendikel länger, als wie hier gewirket. Man sollte nun
@@ -2481,12 +2485,12 @@
 					Betrachtung der Zeit von der Schätzung der Kraft die die Schwere
 					in einen Körper hineinbringt unmöglich ausgeschlossen werden könne, wie Herr von
 							<hi rend="spaced">
-                        <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName>,</hi> und die
+                        <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName></hi>, und die
 						Vertheidiger desselben, uns bis daher haben überreden
 					wollen.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr128102">§ 36.</head>
+      		<div n="2" xml:id="tr128102">
+                  <head rend="head_05">§ 36.</head>
       			<p rend="indent"><note place="margin" xml:id="mn35">Neuer Fall
       				der darthut, daß
       				in der
@@ -2513,7 +2517,7 @@
                      </hi>, bis zur Horizontallinie <hi rend="antiqua">bc</hi>
 					mitgetheilet werden, durch die <pb ed="oldAA" n="48" xml:id="B01S0048"/>unendliche
 					Anzahl Blechfedern <hi rend="antiqua">AB, CD, EF,
-						GH,</hi> vor. Ferner setze ich einen Körper
+						GH</hi>, vor. Ferner setze ich einen Körper
 						<hi rend="antiqua">m</hi> auf die schiefe Fläche
 						<hi rend="antiqua">ac</hi> und einen andern <hi rend="antiqua">l</hi> lasse ich von <hi rend="antiqua">a</hi> in <hi rend="antiqua">b</hi> frey herunter fallen. Wie werden nun
 					die <hi rend="spaced">
@@ -2529,12 +2533,12 @@
 						Richtung <hi rend="antiqua">ac</hi> eindrücket, zum <pb ed="firstPrint" n="47" xml:id="B01S0048Z10fp"/>Maaße angeben,
 					denn dieses erfordert ihr Lehrgebäude, wie
 					wir aus dem Falle des Herrn <hi rend="spaced">
-                        <persName key="hermann_jacob">Herrmanns</persName>,</hi>
+                        <persName key="hermann_jacob">Herrmanns</persName></hi>,
                      <ref type="textRef" target="#tr04811">§ 31.</ref>
 						gesehen haben. Und eben so werden
 					sie auch die Kraft, die sich in dem andern Körper
 						<hi rend="antiqua">l</hi> findet der von
-      				<hi rend="antiqua">a</hi> bis in <hi rend="antiqua">b</hi> frey fällt durch das <ref type="critApp" xml:id="app04804"><hi rend="antiqua">Factum,</hi></ref> aus der Menge Federn
+      				<hi rend="antiqua">a</hi> bis in <hi rend="antiqua">b</hi> frey fällt durch das <ref type="critApp" xml:id="app04804"><hi rend="antiqua">Factum</hi>,</ref> aus der Menge Federn
 					von denen er fortgetrieben worden, in die Intensität, womit jede
 					ihn fortgestoßen hat, zu schätzen genöthiget. Es ist aber die Anzahl
 					Federn von beyden Seiten, so wohl die schiefe Fläche <hi rend="antiqua">ac</hi>, als die Höhe <hi rend="antiqua">ab</hi> hindurch, gleich, also bleibt nur die
@@ -2614,7 +2618,7 @@
       				sind.</note>Fast alle
 						Beweise, zum wenigsten die
 						scheinbarsten, unter denen die
-					man vor die lebendigen Kräfte, von der <hi rend="spaced">Bewegung elastischer Körper durch den Stoß,</hi>
+					man vor die lebendigen Kräfte, von der <hi rend="spaced">Bewegung elastischer Körper durch den Stoß</hi>,
 						entlehnet
 					hat, sind auf folgende Art entsprungen. Man hat die Kraft, die sich in ihnen nach verübtem Stoße
 						befindet, mit der Kraft vor dem Anstoße
@@ -2630,8 +2634,8 @@
 					wäre; denn nach diesem Maaße sey die Ursach immer kleiner als die
 					hervorgebrachte Würkung.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr097062">§ 40.</head>
+      		<div n="2" xml:id="tr097062">
+                  <head rend="head_05">§ 40.</head>
                   <p rend="indent">
                   	<note place="margin" xml:id="mn37">Die <persName key="leibniz_gottfried_wilhelm_v">Leibnitzianer</persName> widerlegen
                   		ihre Schlüße
@@ -2653,7 +2657,7 @@
 					finden, die keinen Zweifel mehr übrig lassen, daß die
 					elastische Körper dem Gesetze,
 						<hi rend="spaced">von der Gleichheit der Würkungen
-						und der Ursache,</hi> ganz gemäß, alle die Bewegungen
+						und der Ursache</hi>, ganz gemäß, alle die Bewegungen
 					andern Körpern ertheilen, ohne daß man nöthig hat in ihnen eine
 					andere Kraft, als die bloße Geschwindigkeit zu
 						setzen. Ich kan noch dazu thun, daß man die lebendigen Kräfte gar
@@ -2686,9 +2690,9 @@
                      <pb ed="oldAA" n="51" xml:id="B01S0051"/>§
 					41.</head>
       			<p rend="indent"><note place="margin" xml:id="mn38">Der Fall
-      				des Herrn <persName key="hermann_jacob">
-      					<hi rend="spaced">Herrmanns</hi>
-      				</persName>
+      				des Herrn <hi rend="spaced"><persName key="hermann_jacob">
+      					Herrmanns
+      				</persName></hi>
       				von dem
       				Stoße dreyer
       				elastischer
@@ -2706,9 +2710,9 @@
                               <abbr>Fig.</abbr> VII.</hi>
                         </p>
 					</note> 
-                     <hi rend="antiqua">A,</hi>
+                     <hi rend="antiqua">A</hi>,
 						dessen Masse 1, und die Geschwindigkeit 2
-					ist, auf einer vollkommen glatten Fläche, eine Kugel <hi rend="antiqua">B,</hi> die ruhig, und
+					ist, auf einer vollkommen glatten Fläche, eine Kugel <hi rend="antiqua">B</hi>, die ruhig, und
 						deren Masse 3 ist, nachher aber, indem <hi rend="antiqua">A</hi> von der Kugel <hi rend="antiqua">B</hi> abprellet
 						und mit einem Grade Geschwindigkeit wieder zurückkehret, eine
 					Kugel <hi rend="antiqua">C</hi>,
@@ -2735,7 +2739,7 @@
                      <hi rend="antiqua">A</hi>, die durch den Stoß würksam wird, durch
 					die Feder <hi rend="antiqua">AD</hi> und <pb ed="firstPrint" n="52" xml:id="B01S0051Z21fp"/>die
 						Elasticität der Kugel
-						<hi rend="antiqua">B,</hi> durch die Feder
+						<hi rend="antiqua">B</hi>, durch die Feder
 						<hi rend="antiqua">DB</hi> vor. Wir wissen nun aus
 						den ersten Gründen der Mechanik: daß der Körper
 						<hi rend="antiqua">A</hi> in die Kugel
@@ -2831,7 +2835,7 @@
                      </hi> ihm
 					abstreiten wollen; und man verletze das Gesetz,
 					von der <hi rend="spaced">Gleichheit der Ursachen und
-						Würkungen,</hi> wenn <pb ed="AA" n="44"/>man behauptet, er habe 4 Grade Kraft
+						Würkungen</hi>, wenn <pb ed="AA" n="44"/>man behauptet, er habe 4 Grade Kraft
 					gehabt, und doch nur so viel ausgerichtet, als er mit 2
 						<ref type="critApp" xml:id="app05304">ausrichten können</ref>.</p>
       		</div>
@@ -2879,7 +2883,14 @@
 					gespannet worden. Man darf sich darüber nicht wundern, daß auf diese
 					Weise zwey ganz neue Kräfte in die Natur kommen, die vorher in
 						<hi rend="antiqua">A</hi> alleine nicht befindlich
-					waren. Dieses geschiehet würklich jederzeit wenn auch ein
+      				waren.<note place="margin" xml:id="mn40">In dem Augenblicke,
+      					darinnen auch
+      					unelastische
+      					Körper sich stossen,
+      					ist mehr Kraft
+      					in der
+      					Ausübung, als vor
+      					dem Stoße war.</note> Dieses geschiehet würklich jederzeit wenn auch ein
 					unelastischer Körper in einen andern würket, nur daß in diesem Falle
 					die Folgen dieser neuen Kraft, nicht wie bey federharten Körpern,
 					aufbehalten werden, sondern verlohren <pb ed="oldAA" n="54" xml:id="B01S0054"/>gehen. Denn in dem Augenblicke, darinn <hi rend="antiqua">A</hi> mit der Kraft <hi rend="antiqua">x</hi> in <hi rend="antiqua">B</hi> würket, empfängt nicht allein <hi rend="antiqua">B</hi> diese Kraft nach
@@ -2890,9 +2901,9 @@
 					der Intensität <hi rend="antiqua">x</hi> in <hi rend="antiqua">A</hi> wieder zurück. Es sind also vors
 						erste 2<hi rend="antiqua">x</hi> in der
 					Natur vorhanden; nemlich <hi rend="antiqua">x</hi> vor
-					den Druck der Kugel <hi rend="antiqua">A</hi> gegen <hi rend="antiqua">B,</hi> und ebenfalls <hi rend="antiqua">x</hi> vor den Gegendruck der Kugel
+					den Druck der Kugel <hi rend="antiqua">A</hi> gegen <hi rend="antiqua">B</hi>, und ebenfalls <hi rend="antiqua">x</hi> vor den Gegendruck der Kugel
 						<hi rend="antiqua">B</hi>: Zweytens noch
-						<hi rend="antiqua">x,</hi> als die Kraft die aus
+						<hi rend="antiqua">x</hi>, als die Kraft die aus
 						<hi rend="antiqua">A</hi> in <hi rend="antiqua">B</hi> nach der Richtung <hi rend="antiqua">
                         <ref type="critApp" xml:id="app05408">BE</ref></hi> übertritt. Die beyden <pb ed="AA" n="45"/>erste Gewalten werden in dem Zusammenstoße
 					elastischer Körper angewandt, zwey Federn zu spannen, die hernach,
@@ -2907,14 +2918,7 @@
       		<div n="2">
                   <head rend="head_05">
                      <pb ed="firstPrint" n="56" xml:id="B01S0054Z17fp"/>§ 43.</head>
-      			<p rend="indent"><note place="margin" xml:id="mn40">In dem Augenblicke,
-      				darinnen auch
-      				unelastische
-      				Körper sich stossen,
-      				ist mehr Kraft
-      				in der
-      				Ausübung, als vor
-      				dem Stoße war.</note>Ich habe, in der
+      			<p rend="indent">Ich habe, in der
 					Auflösung des <hi rend="spaced">
                         <persName key="hermann_jacob">Herrmannischen</persName>
                      </hi>
@@ -3010,15 +3014,15 @@
 						ich meine Weitläuftigkeit in dieser Materie
 					entschuldige.</p>
       		</div>
-      		<div n="2">
+      		<div n="2" xml:id="tr133231">
                   <head rend="head_05">
                      <pb ed="oldAA" n="56" xml:id="B01S0056"/>
                      <ref type="editorialNote" target="#en05601">§
 							45</ref>.
                   </head>
-      			<p rend="indent"><note place="margin" xml:id="mn42">Herrn <persName key="jurin_james">
-      				<hi rend="spaced">Jurins</hi>
-      			</persName> Einwurf
+      			<p rend="indent"><note place="margin" xml:id="mn42">Herrn <hi rend="spaced"><persName key="jurin_james">
+      				Jurins
+      			</persName></hi> Einwurf
       				von dem
       				Gegenstoße zweener
       				unelastischer und ungleicher Körper.</note>Es
@@ -3034,11 +3038,11 @@
 						zweene Kräfte, die man so ungleich machen kan, als man will, und
 					die sich dennoch einander im Gleichgewicht
 					erhalten.</p>
-      			<p rend="indent"><note place="margin" xml:id="mn43">Des Herrn <persName key="bernoulli_johann">
-      				<hi rend="spaced">Bernoulli</hi>
-      			</persName>Widerlegung dieses
+      			<p rend="indent"><note place="margin" xml:id="mn43">Des Herrn <hi rend="spaced"><persName key="bernoulli_johann">
+      				Bernoulli
+      			</persName></hi> Widerlegung dieses
       				Einwurfs
-      				durch Vergleichung <pb ed="mun" n="47"/> mit
+      				durch Vergleichung <pb ed="mun" n="47"/>mit
       				der Zudrückung
       				der Federn.</note>Ich finde in der <ref type="editorialNote" target="#en05610">Frau von
 								<hi rend="spaced">
@@ -3073,13 +3077,13 @@
 					setzen würden. Bis so weit ist alles richtig, und mit den
 					Lehrsätzen der <persName key="cartes">Cartesianer</persName> vollkommen übereinstimmend. Allein
 					lasset uns sehen wie er seinen Schluß verfolget. Die Theile der Feder, indem sie aus einander springt,
-						bewegen sich theils nach der Seite von <hi rend="antiqua">A,</hi> theils nach der Seite von
-						<hi rend="antiqua">B,</hi>
-						der Punct der Theilung aber ist in <hi rend="antiqua">R,</hi> der die Feder nach der
+						bewegen sich theils nach der Seite von <hi rend="antiqua">A</hi>, theils nach der Seite von
+						<hi rend="antiqua">B</hi>,
+						der Punct der Theilung aber ist in <hi rend="antiqua">R</hi>, der die Feder nach der
 						umgekehrten Proportion der Massen <hi rend="antiqua">A</hi> und <hi rend="antiqua">B</hi> theilet. Es würket also der Theil <hi rend="antiqua">RB</hi> von der Feder
 						<hi rend="antiqua">R</hi> in den Körper
-						<hi rend="antiqua">B,</hi> dessen Masse 3 ist,
-					hingegen theilet der andere Theil <hi rend="antiqua">RA,</hi> der Kugel <hi rend="antiqua">A</hi> deren Masse 1 ist seine
+						<hi rend="antiqua">B</hi>, dessen Masse 3 ist,
+					hingegen theilet der andere Theil <hi rend="antiqua">RA</hi>, der Kugel <hi rend="antiqua">A</hi> deren Masse 1 ist seine
 						Kraft mit. Es verhalten sich aber die Kräfte, welche in diese
 					Körper gebracht werden, wie die Anzahl der
 					Federn die ihren Druck an sie  <pb ed="oldAA" n="57" xml:id="B01S0057"/>angewandt haben; folglich sind die Kräfte derer Kugeln <hi rend="antiqua">A</hi> und <hi rend="antiqua">B</hi> ungleich, obgleich
@@ -3094,8 +3098,8 @@
 					einander in Ruhe versetzen können. Hievon machet er die Anwendung
 					auf den Zusammenstoß der unelastischen Körper</ref>.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr05807">
+      		<div n="2" xml:id="tr05807">
+                  <head rend="head_05">
                      <pb ed="firstPrint" n="60" xml:id="B01S0056Z21fpa"/>§
 						46.</head>
       			<p rend="indent"><note place="margin" xml:id="mn44">Des
@@ -3104,7 +3108,7 @@
       				</hi> Gedanken werden
       				widerlegt.</note>Ich erkenne in dieser Schlußrede nicht den
 						Herrn <hi rend="spaced">
-                        <persName key="bernoulli_johann">Bernoulli</persName>,</hi> der gewohnt war, seine Beweise
+                        <persName key="bernoulli_johann">Bernoulli</persName></hi>, der gewohnt war, seine Beweise
 					in viel vollkommnerer Schärfe zu bilden. Es ist unstreitig
 						gewiß, daß die von einander springende
 					Feder einem von denen Körpern
@@ -3144,8 +3148,8 @@
                      </hi>
 					bestätiget unsern Gedanken.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr133233">
+      		<div n="2" xml:id="tr133233">
+                  <head rend="head_05">
                      <pb ed="oldAA" n="58" xml:id="B01S0058"/>§ 47.</head>
       			<p rend="indent"><note place="margin" xml:id="mn45">Der
       				Gedanke des
@@ -3173,7 +3177,7 @@
       		</div>
       		<div n="2">
                   <head rend="head_05">§ 48.</head>
-      			<p rend="indent"><note place="margin" xml:id="mn46">Ver­theidigung der
+      			<p rend="indent"><note place="margin" xml:id="mn46">Vertheidigung der
       				lebendigen Kräfte,
       				durch die
       				beständige Erhaltung einerley
@@ -3264,9 +3268,9 @@
 						wie die <persName key="leibniz_gottfried_wilhelm_v">Leibnitzianer</persName> es
 					thun, nemlich mathematisch erwogen, eine
 					Schätzung nach <pb ed="AA" n="50"/>dem Quadrat geben werde. Ich habe aber deswegen noch
-						nicht den lebendigen Kräften gänzlich abgesagt. In <ref type="textRef" target="#tr05932">dem
-						<ref type="editorialNote" target="#en05933">dritten Hauptstücke</ref>
-                     </ref> dieser Abhandlung werde
+						nicht den lebendigen Kräften gänzlich abgesagt. In dem
+                  	<ref type="editorialNote" target="#en05933"><ref type="textRef" target="#tr02928">dritten</ref> Hauptstücke</ref>
+                      dieser Abhandlung werde
 					ich darthun, daß in der Natur würklich diejenigen Kräfte zu finden seyn, deren Maaß das Quadrat
 					ihrer <w lemma="Geschwindigkeit">Ge<pb ed="oldAA" n="60" xml:id="B01S0060"/>schwindigkeit</w> ist; nur mit
 					der Einschränkung, daß man sie auf die Art, wie man es bis
@@ -3377,9 +3381,9 @@
 					Materie empfangen könne, welche selber in Ruhe
 					ist.</p>
       			<p rend="indent"><note place="margin" xml:id="mn51">
-      				<pb ed="oldAA" n="62" xml:id="B01S0062"/>Entscheidung des
+      				Entscheidung des
       				Einwurfs den der
-      				Herr von <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName> machet.</note>Wie werden wir also dem Streiche ausweichen,
+      				Herr von <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName> machet.</note><pb ed="oldAA" n="62" xml:id="B01S0062"/>Wie werden wir also dem Streiche ausweichen,
 						den der Herr von <persName key="leibniz_gottfried_wilhelm_v">Leibnitz</persName> dem <persName key="cartes">Cartesianischen</persName> Gesetze,
 						durch die Betrachtung der Weisheit GOttes
 					beybringen wollen? Es kommt alles
@@ -3446,16 +3450,16 @@
       		</div>
       		<div n="2">
                   <head rend="head_05">§ 53.</head>
-      			<p rend="indent"><note place="margin" xml:id="mn53">Die
-      				angeführte Beobachtung der
-      				<persName key="leibniz_gottfried_wilhelm_v">Leibnitzianer</persName> ist
-      				den lebendigen Kräften
-      				gänzlich
-      				entgegen.</note>
+      			<p rend="indent">
                      <ref type="editorialNote" target="#en06305">Unter den Vordersätzen dieser Schlußrede ist nur
 							der <hi rend="antiqua">Major</hi>
 						zu erweisen</ref>. Wir wollen dieses auf folgende
-						Weise bewerkstelligen. Indem die Kugel <hi rend="antiqua">A</hi> <note place="foot" n="*" xml:id="fn18">
+      				Weise bewerkstelligen. <note place="margin" xml:id="mn53">Die
+      					angeführte Beobachtung der
+      					<persName key="leibniz_gottfried_wilhelm_v">Leibnitzianer</persName> ist
+      					den lebendigen Kräften
+      					gänzlich
+      					entgegen.</note>Indem die Kugel <hi rend="antiqua">A</hi> <note place="foot" n="*" xml:id="fn18">
                         <p rend="indent">
                            <hi rend="antiqua">
                               <abbr>Fig.</abbr> VIII.</hi>
@@ -3467,7 +3471,7 @@
 						er durch seine Trägheits-Kraft in <hi rend="antiqua">A</hi>
 					vernichtet, und der Körper <hi rend="antiqua">A</hi> im Gegentheil verlieret nicht mehr von
 					seiner Kraft durch den Widerstand der
-					Masse <hi rend="antiqua">B,</hi> der sich vermittelst
+					Masse <hi rend="antiqua">B</hi>, der sich vermittelst
 					der Intensität der Feder die er spannet, in ihn fortpflanzet, als er
 					in eben <pb ed="AA" n="53"/>diese Kugel hineinbringt. Wenn man dieses leugnen
 					wollte, so würde auch nicht mehr gewiß seyn, daß die in einen
@@ -3489,8 +3493,8 @@
 					vorauszusetzen. Wenn der Stoß geschehen, und die Feder eben zugedrückt
 					ist, so hat <hi rend="antiqua">A</hi> eben so viel
 						Geschwindigkeit als
-						<hi rend="antiqua">B,</hi> nach der Richtung
-						<hi rend="antiqua">AE,</hi> aber weniger Masse,
+						<hi rend="antiqua">B</hi>, nach der Richtung
+						<hi rend="antiqua">AE</hi>, aber weniger Masse,
 						also auch weniger Kraft, als die Feder in ihrer Losspringung
 						ausübet; denn diese hat eine Kraft der Spannung, die so groß ist,
 					als die Kraft der Kugel <hi rend="antiqua">B</hi>. Hieraus folget, daß die Elasticität nicht so viel <pb ed="oldAA" n="64" xml:id="B01S0064"/>von
@@ -3705,10 +3709,10 @@
       					<persName key="chastelet_marquise_du">Chastelet</persName>
       				</hi> hat
       				hierüber zur
-      				Unzeit gescherzet.</note>Es hat also der erleuchteten Frau <persName key="chastelet_marquise_du">
-                        <hi rend="spaced">Marquisin
-							von Chastelet</hi>
-                     </persName> gegen dem Herrn von <hi rend="spaced"><persName key="mairan_jean_jacques_dortous_de">Mairan</persName>
+      				Unzeit gescherzet.</note>Es hat also der erleuchteten Frau <hi rend="spaced"><persName key="chastelet_marquise_du">
+                        Marquisin
+							von Chastelet
+                     </persName></hi> gegen dem Herrn von <hi rend="spaced"><persName key="mairan_jean_jacques_dortous_de">Mairan</persName>
                      </hi>, zur
 						Unzeit gefallen scherzhaft zu seyn. Sie
 					antwortet ihm auf eben die Beobachtung,
@@ -3737,7 +3741,7 @@
 					auch würkliche Würkungen ausüben, wenn man
 					sie auf die Probe stellen wollte. Nur dieses
 						wird hiedurch angedeutet: daß so wohl diese Kraft als auch ein
-					Theil in der Kraft der Kugel <hi rend="antiqua">B,</hi> welcher ihr gleich ist, nicht zu der
+					Theil in der Kraft der Kugel <hi rend="antiqua">B</hi>, welcher ihr gleich ist, nicht zu der
 						vollständigen Wirkung der Kugel <hi rend="antiqua">A</hi> könne gerechnet werden; sondern daß man
 						sie vielmehr so ansehen müsse, als wenn sie in
 						<hi rend="antiqua">A</hi> gar nicht
@@ -3760,7 +3764,7 @@
                      <ref type="editorialNote" target="#en06807">Nun werden meine Leser vermuthen,
 						auch aus der Lehre
 							<hi rend="spaced">von der Bewegung unelastischer
-							Körper durch den Stoß,</hi> gewisse Beweise angeführt zu
+							Körper durch den Stoß</hi>, gewisse Beweise angeführt zu
 							finden, deren die
 						Anhänger der <persName key="leibniz_gottfried_wilhelm_v">Leibnitzischen</persName> Schätzung sich
 							bedienet
@@ -3819,8 +3823,8 @@
 					lassen, wenn er nur nicht das ganze Gebäude der
 					lebendigen Kräfte umkehrte.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr07007">§ 60.</head>
+      		<div n="2" xml:id="tr07007">
+                  <head rend="head_05">§ 60.</head>
       			<p rend="indent"><note place="margin" xml:id="mn60">Die
       				Ausflucht der <persName key="leibniz_gottfried_wilhelm_v">Leibnitzianer</persName> in Absicht auf
       				den Einwurf,
@@ -3839,8 +3843,8 @@
 					anstößt, und verzehret sich bey dem Eindrücken
 						derer Theile.</p>
       		</div>
-      		<div n="2">
-      			<head rend="head_05">§ 61.</head><anchor type="textRefStart" xml:id="tr05923"/>
+      		<div n="2" xml:id="tr05923">
+      			<head rend="head_05">§ 61.</head>
       			<p rend="indent"><note place="margin" xml:id="mn61">Der
       				Ursprung dieses
       				irrigen Gedankens.</note>Dieser Gedanke hat mehr wie eine schlimme
@@ -3871,8 +3875,8 @@
 					gesehen, und die ganz ohne Grund ist, wie wir itzo lernen
 					werden.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr097063">§ 62.</head>
+      		<div n="2" xml:id="tr097063">
+                  <head rend="head_05">§ 62.</head>
       			<p rend="indent"><note place="margin" xml:id="mn62">
       				<hi rend="spaced">Erste
       					Antwort</hi> auf
@@ -4051,8 +4055,8 @@
 					ein so großer Theil, als die <persName key="leibniz_gottfried_wilhelm_v">Leibnitzianer</persName>
 					fälschlich vorgeben.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr097064">
+      		<div n="2" xml:id="tr097064">
+                  <head rend="head_05">
                      <pb ed="firstPrint" n="83" xml:id="B01S0072Z19fpb"/>§ 65.</head>
                   <p rend="indent">Ich werde müde, alle Unrichtigkeiten und Widersprechungen
 						auszukramen, die in dieser Schwierigkeit begriffen sind, welche die <persName key="leibniz_gottfried_wilhelm_v">Leibnitzianer</persName> uns in der Sache von dem Stoße unelastischer
@@ -4153,8 +4157,8 @@
 						lebendige Kräfte aufhebe. Ein jedweder Fall den man nimmt, thut dieses ohne die geringste
 							Ausnahme oder
 							Schwierigkeit. <abbr>Z. E.</abbr> Wenn ein unelastischer Körper
-							<hi rend="antiqua">A,</hi> einen andern
-						gleichartigen und gleich schweren <hi rend="antiqua">B,</hi> der in Ruhe ist, anstößt;
+							<hi rend="antiqua">A</hi>, einen andern
+						gleichartigen und gleich schweren <hi rend="antiqua">B</hi>, der in Ruhe ist, anstößt;
 						so bewegen sich beyde nach dem Stoße mit ½
 							Grade der Geschwindigkeit, die vor dem Anstoße war. Es ist
 						also, nach der <persName key="leibniz_gottfried_wilhelm_v">Leibnitzischen</persName> Schätzungsart, in jedwedem nach verübtem
@@ -4194,8 +4198,8 @@
 					sonsten in tausend andern Fällen so offenbar zeigen als man
 					immer wolle.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr07715">
+      		<div n="2" xml:id="tr07715">
+                  <head rend="head_05">
                      <pb ed="oldAA" n="76" xml:id="B01S0076"/>§ 68.</head>
       			<p rend="indent"><note place="margin" xml:id="mn69">Ausführung dieses
       				Beweises.</note>Mein Beweis beruhet auf folgendem.</p>
@@ -4358,9 +4362,9 @@
                      </note> Ein Körper <hi rend="antiqua">A</hi>, der zwey
 					Bewegungen zu gleicher Zeit empfängt, eine nach der Richtung
 						<hi rend="antiqua">AB</hi> mit der Geschwindigkeit
-                  	<hi rend="antiqua">AB,</hi> und eine <pb ed="AA" n="67"/>andere, nach einer Richtung,
+                  	<hi rend="antiqua">AB</hi>, und eine <pb ed="AA" n="67"/>andere, nach einer Richtung,
 					welche mit der vorigen senkrecht verbunden ist, mit der
-					Geschwindigkeit <hi rend="antiqua">AC,</hi> bewegt sich
+					Geschwindigkeit <hi rend="antiqua">AC</hi>, bewegt sich
 					die Diagonallinie dieses rechtwinklichten
 					Parallelograms in eben der Zeit hindurch, darinn er eine jedwede
 					von denen Seiten insbesondere durchlaufen würde. Es sind aber die
@@ -4409,8 +4413,8 @@
 					mit der Fläche <hi rend="antiqua">CD</hi>
 						parallel läuft, folglich den Körper weder zu derselben hinzu, noch
 					von ihr abziehet. Eben desgleichen wird die
-					Seitenbewegung <hi rend="antiqua">AC,</hi> der
-      				Bewegung in der andern Seite <hi rend="antiqua">AB,</hi> 
+					Seitenbewegung <hi rend="antiqua">AC</hi>, der
+      				Bewegung in der andern Seite <hi rend="antiqua">AB</hi>, 
                      <hi rend="spaced">in Absicht auf die Würkung die
 						der Körper mit ihr gegen die
 						Fläche 
@@ -4473,7 +4477,7 @@
 						Bewegung durch die Diagonallinie <hi rend="spaced">einen Gegenstand, der
 						der Richtung dieser seiner Bewegung
 						perpendikular entgegen gesetzt
-						ist,</hi> mit einer Kraft stoßen, die der Summe der
+						ist</hi>, mit einer Kraft stoßen, die der Summe der
 					Kräfte, womit er durch die abgesonderte Seitenbewegungen, die
 					ihm unterliegende Flächen anstoßen würde,
 					gleich ist: so bewieß er, daß derselbe das Aggregat
@@ -4515,7 +4519,7 @@
 					der Diagonallinie fortfähret; und also
 					ist nicht die ganze Kraft der beyden Seitenbewegungen in der Richtung der Diagonallinie vorhanden,
 					sondern es ist in dieser Absicht nur ein Theil von derselben
-					anzutreffen. Ferner, weil die Bewegungen <hi rend="antiqua">AF</hi> und <hi rend="antiqua">AE</hi> ohnedem mit der Fläche <hi rend="antiqua">BH,</hi> die der Körper in der Diagonalbewegung
+					anzutreffen. Ferner, weil die Bewegungen <hi rend="antiqua">AF</hi> und <hi rend="antiqua">AE</hi> ohnedem mit der Fläche <hi rend="antiqua">BH</hi>, die der Körper in der Diagonalbewegung
 					perpendikular anstößt, parallel laufen, mithin keine von beyden dieselbe
 					treffen kan, so siehet man so wohl aus diesem als dem vorhergehenden,
 					der Körper werde den, seiner Bewegung durch <hi rend="antiqua">AD</hi> senkrecht entgegen gesetzten Gegenstand,
@@ -4539,11 +4543,11 @@
 					gedachte Gleichheit nothwendig müssen angetroffen werden, die doch in
 					der That nicht anzutreffen ist.</p>
       		</div>
-      		<div n="2">
-      			<head rend="head_05" xml:id="tr08415">§ 76.</head>
+      		<div n="2" xml:id="tr08415">
+      			<head rend="head_05">§ 76.</head>
       			<p rend="indent"><note place="margin" xml:id="mn76">Aus dem
       				<persName key="bilfinger_georg_bernhard">Bülfingerischen</persName> Falle
-      				werden <pb ed="mun" n="70"/> die
+      				werden <pb ed="mun" n="70"/>die
       				lebendigen Kräfte
       				selber widerleget.</note>Wir wollen uns hieran nicht begnügen. An statt
 						daß wir uns vor <ref type="critApp" xml:id="app08215">die Schlüße</ref> des Herrn <persName key="bilfinger_georg_bernhard">Bülfingers</persName> fürchten sollten, wollen wir sie lieber willig ergreifen; um
@@ -4559,7 +4563,7 @@
                      </note> Die Seitenbewegung <hi rend="antiqua">AB</hi>,
 						bringet, nach dem was itzo erwiesen worden, in die Richtung der
 						Diagonallinie keine andere
-					Geschwindigkeit, als nur die Geschwindigkeit <hi rend="antiqua">AH,</hi> womit der Körper in abgesonderter
+					Geschwindigkeit, als nur die Geschwindigkeit <hi rend="antiqua">AH</hi>, womit der Körper in abgesonderter
 					Bewegung die Fläche <hi rend="antiqua">BH</hi>
 						perpendicular treffen würde.
 					Ferner bringt die andere Seitenbewegung <hi rend="antiqua">AC</hi> vor sich allein in die Richtung der
@@ -4578,20 +4582,20 @@
       				 <hi rend="antiqua">AH, plus</hi> der Kraft mit der
 					Geschwindigkeit <hi rend="antiqua">AG</hi> gleich
 						seyn; und es frägt <pb ed="firstPrint" n="97" xml:id="B01S0083Z02fp"/>sich, was vor Potenzen von
-						<hi rend="antiqua">AH,</hi> von <hi rend="antiqua">AG</hi>, und von <hi rend="antiqua">AD</hi>, man nehmen müße, damit die Summe der
+						<hi rend="antiqua">AH</hi>, von <hi rend="antiqua">AG</hi>, und von <hi rend="antiqua">AD</hi>, man nehmen müße, damit die Summe der
 					beyden ersten, der letztern gleich sey. Hier ist es aus den
 					leichtesten Gründen der Arithmetik klar, daß wenn man die
-					Kräfte durch eine Potenz der Linien <hi rend="antiqua">AH, AG,</hi> und <hi rend="antiqua">AD</hi> schätzen wollte, die größer ist als die erste Potenz,
+					Kräfte durch eine Potenz der Linien <hi rend="antiqua">AH</hi>, <hi rend="antiqua">AG</hi>, und <hi rend="antiqua">AD</hi> schätzen wollte, die größer ist als die erste Potenz,
 						die, auf diese Weise geschätzte Kraft des Körpers, mit der
-						Geschwindigkeit <hi rend="antiqua">AD,</hi> größer seyn würde, als die Summe der Kräfte mit denen
-						Geschwindigkeiten <hi rend="antiqua">AH,</hi> und <hi rend="antiqua">AG</hi>; wenn man aber eine kleinere <hi rend="spaced">
+						Geschwindigkeit <hi rend="antiqua">AD</hi>, größer seyn würde, als die Summe der Kräfte mit denen
+						Geschwindigkeiten <hi rend="antiqua">AH</hi>, und <hi rend="antiqua">AG</hi>; wenn man aber eine kleinere <hi rend="spaced">
                         <ref type="editorialNote" target="#en08309">Function</ref>
                      </hi>
 						(wie Herr <persName key="bilfinger_georg_bernhard">Bülfinger</persName> sich
 					ausdrückt,) als die <hi rend="spaced">Function</hi> der schlechten
 						Geschwindigkeiten nehmen
 					wollte, so würde das Aggregat der Theilkräfte größer seyn, als die
-					ganze daraus entsprungene Kraft, welche die Geschwindigkeit <hi rend="antiqua">AD,</hi> zum Merkmahl hat, im Gegentheil werden sie
+					ganze daraus entsprungene Kraft, welche die Geschwindigkeit <hi rend="antiqua">AD</hi>, zum Merkmahl hat, im Gegentheil werden sie
 						gleich befunden werden, wenn alles zusammen nach der bloßen
 						Geschwindigkeit
 					geschätzet wird. Hieraus folget: man müsse entweder die Kräfte
@@ -4612,18 +4616,18 @@
                               <abbr>Tab.</abbr> II. <abbr>Fig.</abbr> XII.</hi>
                         </p>
                      </note> 
-                     <hi rend="antiqua">AB</hi> und <hi rend="antiqua">AC</hi> dem Körper <hi rend="antiqua">a,</hi> durch den
+                     <hi rend="antiqua">AB</hi> und <hi rend="antiqua">AC</hi> dem Körper <hi rend="antiqua">a</hi>, durch den
 						Stoß zweyer gleicher Kugeln, mit den
 					Geschwindigkeiten <ref type="critApp" xml:id="app08323">
                         <hi rend="antiqua">ba=AB</hi></ref>, und <hi rend="antiqua">ca=AC</hi>, mitgetheilt
-							werden, und daß diese beyde <w lemma="zugleich">zu<pb ed="AA" n="71" break="no"/>gleich</w> geschehene Antriebe, die Bewegung
-							und Kraft durch die Diagonallinie veranlassen</ref>.<note place="margin" xml:id="mn77">Eben
+							werden, und daß diese beyde <w lemma="zugleich">zu<pb ed="AA" n="71" break="no"/>gleich</w> <note place="margin" xml:id="mn77">Eben
 								dieselbe Widerlegung: auf
-								eine andere Art.</note> Wir wollen <pb ed="firstPrint" n="98" xml:id="B01S0083Z26fp"/>aber, weil es einerley ist, annehmen:
+								eine andere Art.</note> geschehene Antriebe, die Bewegung
+							und Kraft durch die Diagonallinie veranlassen</ref>. Wir wollen <pb ed="firstPrint" n="98" xml:id="B01S0083Z26fp"/>aber, weil es einerley ist, annehmen:
 					daß diese Kugeln aus <hi rend="antiqua">C</hi> und <hi rend="antiqua">B</hi>
 					ausliefen, und den Körper <hi rend="antiqua">a</hi> im
 					Puncte <hi rend="antiqua">D</hi>,
-						mit den Geschwindigkeiten <hi rend="antiqua">CD=ba,</hi> und
+						mit den Geschwindigkeiten <hi rend="antiqua">CD=ba</hi>, und
 						<hi rend="antiqua">BD=ca</hi>, anstiessen. Es ist
 						unleugbar, daß der Körper
 						<hi rend="antiqua">a</hi> in diesem Orte von
@@ -4644,7 +4648,7 @@
 						<hi rend="antiqua">a</hi> mit der Bewegung
 						<hi rend="antiqua">BD</hi>,
 						eigentlich nur die Geschwindigkeit <hi rend="antiqua">BE</hi>, in Absicht auf die Würkung in diese
-						Fläche, ertheilen, und von dem Anlaufe der Kugel <hi rend="antiqua">C,</hi> mit der
+						Fläche, ertheilen, und von dem Anlaufe der Kugel <hi rend="antiqua">C</hi>, mit der
 						Geschwindigkeit <hi rend="antiqua">CD</hi>, wird eben derselbe Körper <hi rend="antiqua">A</hi> nur die Geschwindigkeit <hi rend="antiqua">CF</hi>
 						erlangen, womit er im Puncte <hi rend="antiqua">D</hi>, in die Fläche <hi rend="antiqua">FE</hi> würken kan. Denn die andere zwey Bewegungen,
 						<hi rend="antiqua">Bg</hi> und <hi rend="antiqua">Ch</hi>, welche <hi rend="antiqua">a</hi> annoch von diesem zwiefachen Stoße erhalten hat, gehen mit der Fläche parallel,
@@ -4663,7 +4667,7 @@
 						hier eben so augenscheinlich, als im <ref type="textRef" target="#tr08415">vorigen §</ref> erhellet, daß sie <pb ed="firstPrint" n="99" xml:id="B01S0084Z15fp"/>sich zu
 						denen, aus welchen sie zusammen gesetzet ist, wie die
 					Geschwindigkeit <hi rend="antiqua">AD</hi>
-						zu den Geschwindigkeiten <hi rend="antiqua">CF</hi> und <hi rend="antiqua">BE,</hi> und nicht wie die Quadrate
+						zu den Geschwindigkeiten <hi rend="antiqua">CF</hi> und <hi rend="antiqua">BE</hi>, und nicht wie die Quadrate
 						derselben verhalten müsse.</p>
       		</div>
       		<div n="2">
@@ -4704,8 +4708,8 @@
 					thut die Mathematik doch einmal den Ausspruch, und nach ihrem Urtheile
 					kan man nicht länger zweifeln</ref>.</p>
       		</div>
-      		<div n="2">
-      			<head rend="head_05" xml:id="tr08717">
+      		<div n="2" xml:id="tr08717">
+      			<head rend="head_05">
                      <pb ed="firstPrint" n="100" xml:id="B01S0085Z04fp"/>§
 					79.</head>
       			<p rend="indent"><note place="margin" xml:id="mn79">In
@@ -4802,8 +4806,8 @@
 					die des <persName key="cartes">Cartesius</persName>, die wahre sey; denn
 					die eine Frage ist mit der andern unzertrennlich verbunden.</p>
       		</div>
-      		<div n="2">
-      			<head rend="head_05" xml:id="tr08806">§ 80.</head>
+      		<div n="2" xml:id="tr08806">
+      			<head rend="head_05">§ 80.</head>
       			<p rend="indent"><note place="margin" xml:id="mn80">Die
       				lebendigen Kräfte
       				werden durch
@@ -4920,7 +4924,7 @@
 					genommen, welche durch die Perpendikellinie
 						<hi rend="antiqua">ac</hi> ausgedruckt wird, die
 					auf die, bis in <hi rend="antiqua">c</hi> verlängerte Linie <hi rend="antiqua">
-                        <ref type="critApp" xml:id="app08820">bd</ref>,</hi> gefället worden. Es <w lemma="erleidet">er<pb ed="firstPrint" n="105" xml:id="B01S0088Z20fp"/>leidet</w> also
+                        <ref type="critApp" xml:id="app08820">bd</ref></hi>, gefället worden. Es <w lemma="erleidet">er<pb ed="firstPrint" n="105" xml:id="B01S0088Z20fp"/>leidet</w> also
 					der Körper durch die Hinderniß der Schwere im Punkte
 						<hi rend="antiqua">b</hi> eben denselben
 						Widerstand, den er von einer Fläche <hi rend="antiqua">
@@ -4939,7 +4943,7 @@
       		<div n="2">
                   <head rend="head_05">§ 82.</head>
                   <p rend="indent">Der dritte
-					von den angenommenen Grundsätzen unseres Beweises im <ref type="textRef" target="#tr08831">80ten §</ref>, scheinet
+                  	von den angenommenen Grundsätzen unseres Beweises im <ref type="textRef" target="#tr08806">80ten §</ref>, scheinet
 						<hi rend="spaced">zweytens</hi> noch einiger Bestätigung
 						zu bedörfen; zum wenigsten kan man, wenn man mit solchen
 						Gegnern zu thun hat, auch in Ansehung der augenscheinlichsten
@@ -5004,7 +5008,7 @@
                   <p rend="indent">
                      <pb ed="firstPrint" n="107" xml:id="B01S0089Z36fp"/>Es ist aus der Mathematik bekannt: daß die
 						kleine <pb ed="oldAA" n="90" xml:id="B01S0090"/>Linie
-						<hi rend="antiqua">ac,</hi> <note place="foot" n="*" xml:id="fn29">
+						<hi rend="antiqua">ac</hi>, <note place="foot" n="*" xml:id="fn29">
                         <p rend="indent">
                            <hi rend="antiqua">
                               <abbr>Fig.</abbr> XIII.</hi>
@@ -5018,14 +5022,14 @@
                         <foreign xml:lang="la">Sinus</foreign>
                      </hi> des Winkels, womit der Körper
 						allenthalben in seiner Kreisbewegung
-					dem Drucke der Schwere entgegen würket, und <hi rend="antiqua">ab,</hi> als ein unendlich kleiner Theil der
+					dem Drucke der Schwere entgegen würket, und <hi rend="antiqua">ab</hi>, als ein unendlich kleiner Theil der
 					absoluten Bewegung des Körpers selber, ist der <hi rend="antiqua">Sinus totus</hi> desselben. Es ist aber aus
-						dem vorher erwiesenen <ref type="textRef" target="#tr09008">§ 79.</ref> bekannt,
+                  	dem vorher erwiesenen <ref type="textRef" target="#tr08717">§ 79.</ref> bekannt,
 					daß: wenn ein Körper in schiefer Bewegung dergestalt
 					gegen eine gewisse Hinderniß würket, daß der <hi rend="antiqua">
                         <foreign xml:lang="la">Sinus</foreign>
                      </hi> des Einfallswinkels, in
-					Ansehung des <hi rend="antiqua"><foreign xml:lang="la">Sinus totius</foreign>,</hi>
+					Ansehung des <hi rend="antiqua"><foreign xml:lang="la">Sinus totius</foreign></hi>,
 					durchgehends unendlich klein
 					ist, die, durch die Hindernisse, verlohrne Kraft gegen
 						die gesammte Gewalt aller überwundenen Hindernisse bey der
@@ -5036,7 +5040,7 @@
 					Zurückhaltungen der Schwere eine Kraft die unendlich groß ist
 					überwunden hat. Nun beträget aber die Summe aller
 					Schwerdrückungen eine endliche Zeit hindurch nur eine endliche Kraft,
-                  	<ref type="textRef" target="#tr09018">§ 80.</ref> <hi rend="antiqua">Lemma
+                  	<ref type="textRef" target="#tr08806">§ 80.</ref> <hi rend="antiqua">Lemma
 						3</hi>, und
 					folglich nicht eher eine unendliche Kraft als nach einer
 					unendlichen Zeit: Also verlieret der Körper, der um einen
@@ -5044,7 +5048,7 @@
 					Hindernisse der Schwere nur in einer unendlichen Zeit eine
 					endliche Kraft, und folglich in jedweder endlichen Zeit unendlich wenig. Hingegen würde der <w lemma="Verlust">Ver<pb ed="firstPrint" n="108" xml:id="B01S0090Z23fp"/>lust</w>
 						bey der <persName key="leibniz_gottfried_wilhelm_v">Leibnitzischen</persName>
-					Schätzung in eben diesen Umständen in jeder endlichen Zeit etwas endliches betragen, <ref type="textRef" target="#tr09025">§ 80.</ref> folglich
+                  	Schätzung in eben diesen Umständen in jeder endlichen Zeit etwas endliches betragen, <ref type="textRef" target="#tr08806">§ 80.</ref> folglich
 					ist die <persName key="cartes">Cartesianische</persName> Schätzung in diesem Falle der Schwürigkeit nicht
 						unterworfen, welcher die <persName key="leibniz_gottfried_wilhelm_v">Leibnitzische</persName>, wie wir gesehen haben, allemal ausgesetzet
 					ist.</p>
@@ -5059,7 +5063,7 @@
 					eine seltsame Art des Widerspruches in
 					der Schätzung der Kräfte nach dem Quadrat. Denn jedermann ist darinn einig; daß die,
 						nach dem <hi rend="antiqua">
-                        <foreign xml:lang="la">Rectangulo</foreign>,</hi> der in sich selbst
+                        <foreign xml:lang="la">Rectangulo</foreign></hi>, der in sich selbst
 					multiplicirten Geschwindigkeit, geschätzte Kraft, unendlich mehr Gewalt
 						haben müsse, als diejenige, die nur durch das schlechte Maaß
 					der <w lemma="Geschwindigkeit">Geschwindig<pb ed="oldAA" n="91" xml:id="B01S0091"/>keit</w> ausgedrücket wird, und daß sie in
@@ -5119,8 +5123,8 @@
 					Kraft sey, <pb ed="firstPrint" n="110" xml:id="B01S0092Z01fp"/>der Vortheil auf der Seite des <persName key="cartes">Cartesius</persName> gegen die Parthey der lebendigen
 					Kräfte.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr09310">§ 87.</head>
+      		<div n="2" xml:id="tr09310">
+                  <head rend="head_05">§ 87.</head>
                   <p rend="indent">Es gründet
 					sich endlich auf die Zusammensetzung der
 						Bewegung noch ein Fall, den man wohl den Achilles unserer Gegner
@@ -5130,9 +5134,9 @@
       				Herrn von <persName key="mairan_jean_jacques_dortous_de">Mairans</persName> Einwendung gegen
       				den <persName key="hermann_jacob">Herrmannschen</persName> Fall.
       		</note><ref type="editorialNote" target="#en09207">Er
-					bestehet hierinn: Ein Körper <hi rend="antiqua">A,</hi>
+					bestehet hierinn: Ein Körper <hi rend="antiqua">A</hi>,
 					der 1 zur Masse, und 2 zur
-					Geschwindigkeit hat, stösset auf einmal unter einem Winkel von 60 Graden zweene Körper <hi rend="antiqua">B</hi> und <hi rend="antiqua">B,</hi>
+					Geschwindigkeit hat, stösset auf einmal unter einem Winkel von 60 Graden zweene Körper <hi rend="antiqua">B</hi> und <hi rend="antiqua">B</hi>,
 						die jeder zur Masse 2 haben. Hier
 					bleibet der stoßende Körper
 						<hi rend="antiqua">A</hi> nach dem Stoße in Ruhe,
@@ -5176,11 +5180,11 @@
 					Herbeyziehung dessen, was ich hiebey erinnert habe, einer
 					ferneren Weitläuftigkeit überheben.</p>
       	</div>
-      	<div n="2">
-                  <head rend="head_05" xml:id="tr151271">§ 88.</head>
-                  <p rend="indent">Der Herr <persName key="mairan_jean_jacques_dortous_de">von
-							<hi rend="spaced">Mairan</hi>
-                     </persName> ist der einzige unter
+      		<div n="2" xml:id="tr151271">
+                  <head rend="head_05">§ 88.</head>
+                  <p rend="indent">Der Herr <hi rend="spaced"><persName key="mairan_jean_jacques_dortous_de">von
+							Mairan
+                     </persName></hi> ist der einzige unter
 					denen Vertheidigern des <persName key="cartes">Cartesius</persName>, der über die Wahl der
 					Gründe, worauf die <persName key="leibniz_gottfried_wilhelm_v">Leibnitzianer</persName> eine neue
 					Kräftenschätzung bauen wollen, einige Betrachtungen
@@ -5285,8 +5289,8 @@
 						bestehen. Ich <pb ed="firstPrint" n="115" xml:id="B01S0095Z12fp"/>bilde mir ein mein Vorhaben habe mir
 					nicht gänzlich fehl geschlagen.</p>
       	</div>
-      	<div n="2">
-                  <head rend="head_05" xml:id="tr151272">§ 89.</head>
+      		<div n="2" xml:id="tr151272">
+                  <head rend="head_05">§ 89.</head>
       		<p rend="indent"><note place="margin" xml:id="mn90">Der
       			Mangel dieser
       			Methode ist eine
@@ -5375,12 +5379,12 @@
 						einen Zweifel und Mißtrauen zu setzen. Diese Methode hat uns in
 						den <hi rend="antiqua">
                         <foreign xml:lang="la">Paragraphis</foreign>
-						</hi> <ref type="textRef" target="#tr097061">25</ref>, <ref type="textRef" target="#tr097062">40</ref>, <ref type="textRef" target="#tr097063">62</ref>,
-						<ref type="textRef" target="#tr097064">65</ref>, <ref type="textRef" target="#tr097065">68</ref> geholfen, und sie wird uns noch
+						</hi> <ref type="textRef" target="#tr04032">25</ref>, <ref type="textRef" target="#tr097062">40</ref>, <ref type="textRef" target="#tr097063">62</ref>,
+      			<ref type="textRef" target="#tr097064">65</ref>, <ref type="textRef" target="#tr07715">68</ref> geholfen, und sie wird uns noch
 						ferner gute Dienste leisten.</p>
       	</div>
-      	<div n="2">
-                  <head rend="head_05" xml:id="tr151273">§ 90.</head>
+      		<div n="2" xml:id="tr151273">
+                  <head rend="head_05">§ 90.</head>
                   <p rend="indent">Es würde
 					eine Betrachtung von nicht geringem Nutzen seyn,
 						wenn man diese Methode etwas <pb ed="firstPrint" n="118" xml:id="B01S0097Z10fp"/>deutlicher
@@ -5523,10 +5527,10 @@
 					wenn sie sich gleich hinter noch so undurchdringliche
 					Decken der Dunkelheit verborgen haben.</p>
       		<p rend="indent"><note place="margin" xml:id="mn93">
-      			<pb ed="oldAA" n="100" xml:id="B01S0100"/>Unsere Methode
+      			Unsere Methode
       			beuget den
       			Unterscheidungen des <persName key="bilfinger_georg_bernhard">Herrn
-      				Bülfingers</persName> vor.</note>Es
+      				Bülfingers</persName> vor.</note><pb ed="oldAA" n="100" xml:id="B01S0100"/>Es
 					ist hier vornemlich die Frage: ob die Unterscheidungen des Herrn <persName key="bilfinger_georg_bernhard">Bülfingers</persName> den
 						mathematischen Beweis, den er aus
 						<ref type="critApp" xml:id="app10003">der Verhältniß</ref> der
@@ -5600,28 +5604,28 @@
 					insbesondere beruffen: Also werden wir ihn, als eine
 						Hauptstütze der lebendigen Kräfte,
 					anzusehen und wegzuräumen haben.</p>
-      		<p rend="indent">
+      		<p rend="indent"><ref type="editorialNote" target="#en10115">
       			<note place="foot" n="**" xml:id="fn31">
                            <p rend="indent">
                               <hi rend="antiqua">
                                  <abbr>Fig.</abbr> XIV.</hi>
                            </p>
-                        </note><ref type="editorialNote" target="#en10115">Eine Kugel <hi rend="antiqua">A,</hi> 
+                        </note> Eine Kugel <hi rend="antiqua">A</hi>, 
                          von vierfacher Masse, falle auf der schiefen
-							und gebogenen Fläche, deren Höhe 1 <hi rend="antiqua">AE</hi> wie 1 ist, aus 1 <hi rend="antiqua">A</hi> in 2 <hi rend="antiqua">A,</hi> und setze auf der
-      					Horizontalfläche <hi rend="antiqua">EC,</hi> 
+							und gebogenen Fläche, deren Höhe 1 <hi rend="antiqua">AE</hi> wie 1 ist, aus 1 <hi rend="antiqua">A</hi> in 2 <hi rend="antiqua">A</hi>, und setze auf der
+      					Horizontalfläche <hi rend="antiqua">EC</hi>,
                         <ref type="critApp" xml:id="app10117">seine</ref> Bewegung, mit dem Grade Geschwindigkeit, den
       			    <ref type="critApp" xml:id="app10118P01" next="#app10118P02">er durch den Fall erlanget
       			        hat, und der wie 1 ist, fort</ref></ref><ref type="critApp" xml:id="app10118P02" prev="#app10118P01">
       			. Man setze ferner: daß er alle Kraft, welche 
-      			<ref type="critApp" xml:id="app10119">er</ref>
+      			<ref type="critApp" xml:id="app10119">er</ref></ref>
       			        <!-- Druckfehler im Druck 2023, 1. Auflage: -->
-      			        	<!-- <choice><sic><ref type="critApp" xml:id="app10119">er</ref></sic><corr>er</corr></choice> --></ref>
+      			        	<!-- <choice><sic><ref type="critApp" xml:id="app10119">er</ref></sic><corr>er</corr></choice> -->
       			 hat, in
 						eine Kugel <hi rend="antiqua">B</hi>
 					von einfacher Masse übertrage, und nach diesem selber
-						im Puncte 3 <hi rend="antiqua">A</hi> ruhe. Was wird nun die Kugel <hi rend="antiqua">B,</hi> die 1 zur Masse
-						hat, von der Kugel <hi rend="antiqua">A,</hi> die 4mal mehr Masse, und einen einfachen
+						im Puncte 3 <hi rend="antiqua">A</hi> ruhe. Was wird nun die Kugel <hi rend="antiqua">B</hi>, die 1 zur Masse
+						hat, von der Kugel <hi rend="antiqua">A</hi>, die 4mal mehr Masse, und einen einfachen
 						Grad der Geschwindigkeit hat, vor eine Geschwindigkeit
 					erhalten sollen, wenn ihre Kraft hiedurch der Kraft, die der
 					Körper <hi rend="antiqua">A</hi> hatte, gleich
@@ -5630,7 +5634,7 @@
 					der Körper <hi rend="antiqua">B</hi>, 
                      <pb ed="firstPrint" n="125" xml:id="B01S0101Z26fp"/>mit 4 Graden
 						Geschwindigkeit, auf der Horizontalfläche aus 1
-						<hi rend="antiqua">B</hi> in 2 <hi rend="antiqua">B,</hi> und, nachdem er daselbst
+						<hi rend="antiqua">B</hi> in 2 <hi rend="antiqua">B</hi>, und, nachdem er daselbst
 						die schiefe und gebogene Fläche 2 <hi rend="antiqua">B</hi> 3 <hi rend="antiqua">B</hi> angetroffen, bewege er sich
 						dieselbe hinauf, und erreiche mithin auf derselben, durch die ihm
 						beywohnende Geschwindigkeit, den Punct 3
@@ -5665,7 +5669,7 @@
 					dem Puncte 1 <hi rend="antiqua">A</hi> die
 					schiefe Fläche 1 <hi rend="antiqua">A</hi> 2
 						<hi rend="antiqua">A</hi> herablaufe, und alles in
-					den vorigen Zustand setze, auch der Kugel <hi rend="antiqua">B,</hi> welche durch eine unmerklich
+					den vorigen Zustand setze, auch der Kugel <hi rend="antiqua">B</hi>, welche durch eine unmerklich
       			kleine Neigung der Fläche 2 <hi rend="antiqua">B</hi> 
                      <pb ed="firstPrint" n="126" xml:id="B01S0102Z16fp"/>4
 						<hi rend="antiqua">B</hi>, wieder in dem Puncte 1
@@ -5757,7 +5761,7 @@
       			erhält, ist
       			keine hervorgebrachte
       			Würkung der
-      			Kraft des Körpers <hi rend="antiqua">B</hi>.</note>Der Körper <hi rend="antiqua">B,</hi> in welchen man
+      			Kraft des Körpers <hi rend="antiqua">B</hi>.</note>Der Körper <hi rend="antiqua">B</hi>, in welchen man
 					alle Kraft der Kugel <hi rend="antiqua">A</hi> übertragen hat, wendet dieselbe gänzlich
 						auf, indem er die schiefe Fläche 2
 						<hi rend="antiqua">B</hi> 3 <hi rend="antiqua">B</hi> hinauf läuft. In
@@ -5835,8 +5839,7 @@
 					werden. Allein dieses zeiget sich hier in der Maschine ganz anders.
 					Wenn wir setzen: daß der <ref type="critApp" xml:id="app10510">Körper</ref> 1 <hi rend="antiqua">B</hi> etwas minder als 4 Grade Geschwindigkeit habe,
 						so wird er nur bis zum Puncte <hi rend="antiqua">a</hi>, auf der gebogenen Fläche <ref type="critApp" xml:id="app10512">2 <hi rend="antiqua">Ba</hi>
-                     </ref>
-                     <hi rend="antiqua">,</hi>
+                     </ref>,
 						hinaufgelangen, wo die Länge 3
 						<hi rend="antiqua">AF</hi> des einen Waagbalkens,
 					gegen die Länge des andern Waagarmes ganz genau in
@@ -5864,11 +5867,11 @@
       			in dem vorhergehenden Zustande.</note>Wenn man die Anlegung des Hebels in dieser Maschine, und ihre geometrische Bestimmung in
 						Absicht auf die Proportion der Körper
 					erweget, wenn man hiezu noch das Uebermaaß
-					der Verhältniß der Höhe 3 <hi rend="antiqua">B</hi> 4 <hi rend="antiqua">B,</hi> gegen die Höhe
-						1 <hi rend="antiqua">AE,</hi> über
+					der Verhältniß der Höhe 3 <hi rend="antiqua">B</hi> 4 <hi rend="antiqua">B</hi>, gegen die Höhe
+						1 <hi rend="antiqua">AE</hi>, über
 					die Proportion der Masse des Körpers
 						<hi rend="antiqua">B</hi> zur Masse <hi rend="antiqua">A</hi> hinzuthut, (denn die Höhe 3 <hi rend="antiqua">B</hi> 4 <hi rend="antiqua">B</hi> ist gegen die
-						<pb ed="firstPrint" n="131" xml:id="B01S0105Z33fp"/>Höhe 1 <hi rend="antiqua">AE,</hi> wie
+						<pb ed="firstPrint" n="131" xml:id="B01S0105Z33fp"/>Höhe 1 <hi rend="antiqua">AE</hi>, wie
 					16 zu 1, die Masse <hi rend="antiqua">A</hi>
 						aber gegen <hi rend="antiqua">B</hi>
 					nur wie 4 zu 1) so hat man die ganze Größe
@@ -5947,7 +5950,7 @@
 						Geometrie ihm keine tüchtige Waffen dargebothen
 					hätte.</p>
       		<cit>
-                  <quote rend="intented">
+                  <quote rend="indented">
                      <hi rend="antiqua">
                         <foreign xml:lang="la">
                            <ref type="editorialNote" target="#en10705">Nec <hi rend="uppercase">devs</hi>
@@ -6084,16 +6087,16 @@
 						Leibnitz</persName> alle die Kunststücke
 						verdächtig zu machen, wodurch er dieses zu leisten vermeynete. Daher
 						widerstritte er ihm mit allem Eifer: daß der vierfache
-					Körper 1 <hi rend="antiqua">A,</hi> <note place="foot" n="*" xml:id="fn34">
+					Körper 1 <hi rend="antiqua">A</hi>, <note place="foot" n="*" xml:id="fn34">
                         <p rend="indent">
                            <hi rend="antiqua">
                               <abbr>Fig.</abbr>
 							XV.</hi>
                         </p>
                      </note> durch einen Stoß auf den vollkommen steifen Hebel
-						1 <hi rend="antiqua">A C B,</hi> im Puncte
-						1 <hi rend="antiqua">A,</hi>
-						dessen Entfernung vom Ruhepuncte <hi rend="antiqua">C,</hi> gegen die Entfernung <hi rend="antiqua">CB</hi> viertheilig ist, dem einfachen
+						1 <hi rend="antiqua">A C B</hi>, im Puncte
+						1 <hi rend="antiqua">A</hi>,
+						dessen Entfernung vom Ruhepuncte <hi rend="antiqua">C</hi>, gegen die Entfernung <hi rend="antiqua">CB</hi> viertheilig ist, dem einfachen
 					Körper <hi rend="antiqua">B</hi> seine ganze Kraft
 					mittheilen könne; denn dahin lenkte sich der Herr <persName key="leibniz_gottfried_wilhelm_v">von
 						Leibnitz</persName> in Behauptung seines
@@ -6143,8 +6146,8 @@
                      <pb ed="firstPrint" n="137" xml:id="B01S0109Z33fp"/>Wenn der vierfache Körper 1 <hi rend="antiqua">A</hi> mit
 					einem Grade Geschwindigkeit den Hebel in
 						1 <hi rend="antiqua">A</hi>
-					stösset, so ist augenscheinlich: daß
-					er in einen andern 2 <hi rend="antiqua">A,</hi> der mit ihm von
+      			stösset, so ist <w lemma="augenscheinlich">augen<pb ed="oldAA" n="110" xml:id="B01S0110"/>scheinlich</w>: daß
+					er in einen andern 2 <hi rend="antiqua">A</hi>, der mit ihm von
 						gleicher Masse ist, und auch eben so weit vom Ruhepuncte
 						des Hebels abstehet, durch diesen Stoß seine ganze Kraft
 						und Geschwindigkeit versetzen werde. Weil aber diese
@@ -6154,7 +6157,7 @@
 						den Körper fortstößet, den unendlich kleinen Raum
 						2 <hi rend="antiqua">A</hi> 2 <hi rend="antiqua">a</hi> zurückleget, so ist die Geschwindigkeit
 					dieser unendlich kleinen Bewegung, der Geschwindigkeit des
-					fortgestoßenen Körpers 2 <hi rend="antiqua">A,</hi> und also derjenigen, womit 1 <hi rend="antiqua">A</hi> den
+					fortgestoßenen Körpers 2 <hi rend="antiqua">A</hi>, und also derjenigen, womit 1 <hi rend="antiqua">A</hi> den
 					Hebel stösset, gleich; mithin wird diese Kugel 1 <hi rend="antiqua">A</hi>
 						in ihrem Anlaufe den Hebel die unendlich kleine Linie
 						1 <hi rend="antiqua">A</hi> 1 <hi rend="antiqua">a</hi>
@@ -6173,7 +6176,7 @@
                      <ref type="critApp" xml:id="app11017">niederzudrücken</ref> bemühet ist, machen werde. Es
 					ist bekannt, daß die <hi rend="antiqua">
                         <foreign xml:lang="la">vis
-							inertiae</foreign>,</hi> oder der Widerstand den ein
+							inertiae</foreign></hi>, oder der Widerstand den ein
 					Körper vermittelst seiner Trägheitskraft
 					der Bewegung eines andern in den Weg leget, seiner Masse
 					proportioniret sey; nun ist aber eine
@@ -6222,7 +6225,7 @@
 					verzehret, denjenigen <hi rend="antiqua">
                         <foreign xml:lang="la">momentis</foreign>
                      </hi> gleich, womit die
-						Feder <hi rend="antiqua">C</hi> 2 <hi rend="antiqua">A,</hi> als
+						Feder <hi rend="antiqua">C</hi> 2 <hi rend="antiqua">A</hi>, als
 					der fortgesetzte Arm des Hebels, zu gleicher Zeit
 						vermöge dieser Spannung durch den Raum 2 <hi rend="antiqua">A</hi> 2 <hi rend="antiqua">a</hi>
       			aufspringet; mithin, wenn diese steife Linie bis <hi rend="antiqua">B</hi> 
@@ -6234,17 +6237,17 @@
 					Hebel 1 <hi rend="antiqua">a CB</hi> sich in die gerade
 					Linie 1 <hi rend="antiqua">a Cb</hi> wieder herstellet, viermal größer,
 						als die <hi rend="antiqua">
-                        <foreign xml:lang="la">momenta</foreign>,</hi> womit er im Puncte
+                        <foreign xml:lang="la">momenta</foreign></hi>, womit er im Puncte
 						2 <hi rend="antiqua">A</hi> zurück
-					schläget, (denn der Raum <hi rend="antiqua">b B,</hi> den der Punct <hi rend="antiqua">B</hi> zu gleicher Zeit zurücke leget, ist
+					schläget, (denn der Raum <hi rend="antiqua">b B</hi>, den der Punct <hi rend="antiqua">B</hi> zu gleicher Zeit zurücke leget, ist
 					viermal größer als 2 <hi rend="antiqua">A</hi> 2 <hi rend="antiqua">a</hi>.)
 					Allein, wegen der vierfachen Entfernung des Punctes <hi rend="antiqua">B</hi> vom Ruhepuncte
-						<hi rend="antiqua">C,</hi> ist die Steife der
+						<hi rend="antiqua">C</hi>, ist die Steife der
 						<ref type="critApp" xml:id="app11116">Feder</ref>
                      <hi rend="antiqua">CB</hi> dennoch
 						viermal schwächer als die Steife der Feder <hi rend="antiqua">C</hi> 2 <hi rend="antiqua">A</hi>; daher muß man dagegen den Widerstand in
 						<hi rend="antiqua">B</hi> viermal kleiner machen,
-					als in 2 <hi rend="antiqua">A,</hi> und
+					als in 2 <hi rend="antiqua">A</hi>, und
 						alsdenn bleibet das <hi rend="antiqua">
                         <foreign xml:lang="la">momentum</foreign>
                      </hi> der Geschwindigkeit, daß die
@@ -6256,9 +6259,9 @@
       			so groß als diejenige, darinn die <hi rend="antiqua">C</hi> 2 <hi rend="antiqua">A</hi> 
                      <ref type="critApp" xml:id="app11123">aufspringen</ref> würde, und die
 						Geschwindigkeiten die
-					zweene Körper, 2 <hi rend="antiqua">A</hi> und <hi rend="antiqua">B,</hi>
+					zweene Körper, 2 <hi rend="antiqua">A</hi> und <hi rend="antiqua">B</hi>,
 					durch die Würkung zweyer Federn, <hi rend="antiqua">C</hi> 2 <hi rend="antiqua">A</hi> und
-						<hi rend="antiqua">CB,</hi> die gleich lange
+						<hi rend="antiqua">CB</hi>, die gleich lange
 					würken, erhalten, sind wie die <hi rend="antiqua">
                         <foreign xml:lang="la">momenta</foreign>
                      </hi> der Geschwindigkeiten, welche
@@ -6465,7 +6468,7 @@
 							Körpers; folglich ist er seinem Versprechen nicht nachgekommen.</p>
                      </note>. Lasset uns sehen, wie er es angefangen hat, ihn
 						zu beweisen. Er schliesset auf folgende Weise: Wenn der
-					Effect durch den Raum <hi rend="antiqua">A,</hi> wie <hi rend="antiqua">e</hi>
+					Effect durch den Raum <hi rend="antiqua">A</hi>, wie <hi rend="antiqua">e</hi>
 					ist, so ist derjenige Effect, der in einem gleichen
 						oder eben demselben Raum <hi rend="antiqua">A</hi> geschiehet, auch <hi rend="antiqua">e</hi>; folglich in dem Raum 2 <hi rend="antiqua">A</hi> ist er 2 <hi rend="antiqua">e</hi>, in dem
 					Raum 3 <hi rend="antiqua">A</hi> wird er
@@ -6509,7 +6512,7 @@
 							war</ref>.
                   </p>
       	</div>
-      	<div n="2">
+      		<div n="2" xml:id="tr13526">
       		<pb ed="AA" n="99"/>
                   <head rend="head_05">
                      <ref type="editorialNote" target="#en11523">§ 105</ref>.
@@ -6540,7 +6543,8 @@
                            <hi rend="antiqua"><ref type="editorialNote" target="#en11536">Actiones, quibus idem effectus
 								<w lemma="producitur">produ<pb ed="oldAA" n="116" xml:id="B01S0116"/>citur</w>, sunt vt
 								celeritates</ref>.</hi>
-						</foreign> <note place="margin" xml:id="mn111">Wird widerleget.</note>In dem
+						</foreign></p> 
+							<p rend="indent"><note place="margin" xml:id="mn111">Wird widerleget.</note>In dem
 					Beweise dieses Lehrsatzes findet sich ein Fehlschluß, der wo möglich noch härter ist
 						als der, welchen wir kaum bemerket
 					haben. Er hatte bewiesen: daß, wenn zwey gleiche Körper einerley
@@ -6561,7 +6565,7 @@
 							geraden von den Geschwindigkeiten seyn</hi></ref>. Hierauf gehet
 						er weiter fort, und erweget den Fall, da zwey
 						<hi rend="spaced">verschiedene</hi> Körper einerley Wirkung in
-					gleicher Zeit <w lemma="ausueben">aus<pb ed="firstPrint" n="147" xml:id="B01S0116Z16fp"/>üben</w>. Er zeiget: daß in
+								gleicher Zeit <w lemma="ausueben">aus<pb ed="firstPrint" n="147" xml:id="B01S0116Z16fp"/><anchor type="textRefStart" xml:id="tr13528"/>üben</w>. Er zeiget: daß in
 						diesem Falle die Geschwindigkeiten in umgekehrter Verhältniß der
 						Massen seyn werden, und schliesset ferner also: <ref type="editorialNote" target="#en11618">
                         <hi rend="antiqua"><foreign xml:lang="la">
@@ -6577,7 +6581,7 @@
 					sollte. Man erinnere sich: daß in dem vorigen Falle nur
 					deswegen sey gesagt worden, die <hi rend="antiqua">Actiones</hi> zweyer gleichen Körper, welche
 					in ungleichen Zeiten gleiche Wirkung ausrichten, seyn umgekehrt wie die
-					Zeiten, weil diejenige <hi rend="antiqua">Action,</hi>
+					Zeiten, weil diejenige <hi rend="antiqua">Action</hi>,
 					die eine Würkung in kürzerer Zeit ausrichtet, eben
 					deswegen, und auch in eben <pb ed="AA" n="100"/>demselben Maaße größer ist, als
 					eine andere, welche dazu mehr Zeit aufwendet. Also hat dieser Schluß
@@ -6638,7 +6642,7 @@
 					Dynamische Grundsätze, auf welche wir mit Recht bauen können.
 					Unsere Schrift, welche die wahre Schätzung der
 					lebendigen Kräfte darzulegen verspricht, sollte
-					diesen Mangel ergänzen. <ref type="textRef" target="#tr11735"><ref type="editorialNote" target="#en11735">Das dritte <pb ed="AA" n="101"/>Capitel</ref>
+					diesen Mangel ergänzen. <ref type="editorialNote" target="#en11735">Das <ref type="textRef" target="#tr02928">dritte <pb ed="AA" n="101"/>Capitel</ref>
                      </ref> soll hievon
 					einen Versuch machen; allein darf man wohl hoffen: daß man das Ziel
 					treffen werde, <pb ed="oldAA" n="118" xml:id="B01S0118"/>da es
@@ -6661,7 +6665,7 @@
 							Naturwissenschaft</hi> des Herrn <persName key="musschenbroeck_peter_van">Peters
 								von</persName> 
                         <hi rend="spaced">
-                           <persName key="musschenbroeck_peter_van">Muschenbröck</persName>,</hi> die in der Ostermesse dieses
+                           <persName key="musschenbroeck_peter_van">Muschenbröck</persName></hi>, die in der Ostermesse dieses
 						1747sten Jahres an das Licht getreten sind</ref>. Dieser große
 					Mann, der größeste unter den Naturforschern dieser Zeit, an dessen
 					Meynungen das Vorurtheil und der Seckteneifer weniger als an irgend
@@ -6691,7 +6695,7 @@
                      </note>
                   	Wenn eine gewisse äusserliche Ursache, die sich mit dem
 						gedruckten Körper zugleich mit
-						beweget, <abbr>z. E.</abbr> eine Feder <hi rend="antiqua">BC,</hi> die an dem Wiederhalte
+						beweget, <abbr>z. E.</abbr> eine Feder <hi rend="antiqua">BC</hi>, die an dem Wiederhalte
 						<hi rend="antiqua">AS</hi> befestiget, einen Körper
 						<hi rend="antiqua">F</hi> fortstößet, gegeben
 						ist: so wird sie demselben, wenn er in Ruhe ist, 1 Grad
@@ -6711,7 +6715,7 @@
                   	</note>
                   	<pb ed="AA" n="102"/>
                      <hi rend="antiqua">DB</hi> hinzukommen, die da machet,
-					daß der Punct <hi rend="antiqua">B,</hi>
+					daß der Punct <hi rend="antiqua">B</hi>,
 					an welchem sich die Feder <hi rend="antiqua">BC</hi>
 					steifet, dem Körper mit der Geschwindigkeit, damit er entfliehen
 					würde, nachfolge, und daß auf diese Weise der Körper <hi rend="antiqua">F</hi> wie anfänglich in Ansehung der Feder
@@ -6723,8 +6727,8 @@
                               <abbr>Fig.</abbr> XVIII.</hi>
                         </p>
                      </note> so werden drey Federn <hi rend="antiqua">ED, DB,
-						BC,</hi> erfordert, um dem Körper
-						<hi rend="antiqua">F,</hi> der schon an sich 2
+						BC</hi>, erfordert, um dem Körper
+						<hi rend="antiqua">F</hi>, der schon an sich 2
 					Grade Geschwindigkeit besitzet, <ref type="critApp" xml:id="app11910">nur</ref>
 					den dritten zu ertheilen. Einem Körper, der schon 100
 						Grade hat, einen einzigen neuen zu ertheilen, werden 101 Federn
@@ -6742,7 +6746,7 @@
 					</note> 
                      <hi rend="antiqua">ABC</hi>, dessen <hi rend="antiqua">Cathetus AB</hi> in gleiche
 						Theile getheilet worden, die Linien <hi rend="antiqua">DE, FG, HJ, <abbr>&amp;c.</abbr>
-                     </hi> wie die Linien <hi rend="antiqua">AD, AF, AH,</hi> folglich kan man sich der Linie
+						</hi> wie die Linien <hi rend="antiqua">AD</hi>, <hi rend="antiqua">AF</hi>, <hi rend="antiqua">AH</hi>, folglich kan man sich der Linie
 						<hi rend="antiqua">DE</hi> bedienen, um diejenige
 						Feder anzuzeigen, die dem Körper den ersten Grad
 					Geschwindigkeit <hi rend="antiqua">AD</hi>
@@ -6762,7 +6766,7 @@
 							hat</ref>, den ganzen Inhalt des Triangels
 						<hi rend="antiqua">ABC</hi> ausmachen. Also ist
 						die Summe aller Federn, die in einem Körper die
-					Geschwindigkeit <hi rend="antiqua">AB</hi> erzeugen, wie die Fläche <hi rend="antiqua">ABC,</hi>
+					Geschwindigkeit <hi rend="antiqua">AB</hi> erzeugen, wie die Fläche <hi rend="antiqua">ABC</hi>,
                   	<abbr>d. i.</abbr> wie das Quadrat der
 						Geschwindigkeit <hi rend="antiqua">AB</hi>. Diese Federn aber stellen die Kräfte
 					vor, welche zusammen in dem Körper gedachte Geschwindigkeit
@@ -6790,10 +6794,10 @@
 					dieses sind seine Worte: <ref type="editorialNote" target="#en12015">Wie sich
 							<pb ed="firstPrint" n="153" xml:id="B01S0120Z15fp"/>die Anzahl Kräfte,
 							<hi rend="spaced">die in einen
-							Körper würken,</hi> verhält, so verhält sich auch die in
+							Körper würken</hi>, verhält, so verhält sich auch die in
 							demselben hervorgebrachte
 							Kraft</ref>.
-					Wenn aber ein Körper <hi rend="antiqua">F,</hi> der
+					Wenn aber ein Körper <hi rend="antiqua">F</hi>, der
 					sich schon mit 1 Grade Geschwindigkeit beweget, durch die
 					Ausstreckung der zweyen Federn <hi rend="antiqua">DB, BC</hi> den 2ten Grad erhält; so würket von
 					diesen zweyen Federn nur <hi rend="antiqua">BC</hi> in ihn, <hi rend="antiqua">DB</hi> aber bringet nichts von ihrer
@@ -6804,9 +6808,9 @@
 						<hi rend="antiqua">F</hi> den Druck dieser Feder,
 					und dieselbe wird ihn in ihrer Ausbreitung nicht erreichen können, um
 					die Kraft ihrer Ausspannung in ihn zu übertragen. Sie thut weiter
-					nichts, als daß sie den Widerhalt <hi rend="antiqua">B,</hi> an welchem sich die Feder <ref type="critApp" xml:id="app12026">
+					nichts, als daß sie den Widerhalt <hi rend="antiqua">B</hi>, an welchem sich die Feder <ref type="critApp" xml:id="app12026">
                         <hi rend="antiqua">BC</hi>
-                     </ref> steifet, dem Körper <hi rend="antiqua">F,</hi> mit eben der Geschwindigkeit, womit er
+                     </ref> steifet, dem Körper <hi rend="antiqua">F</hi>, mit eben der Geschwindigkeit, womit er
 					sich beweget, nachträget, damit
 					derselbe, in Ansehung dieses Körpers, ruhe, und die
 						Feder <hi rend="antiqua">BC</hi> ihre ganze Kraft, die wie 1 ist, in ihn
@@ -6815,7 +6819,7 @@
 						einzige Feder <hi rend="antiqua">BC</hi> aber ist die würkende Ursache
 					derselben. Ferner, wenn dieser Körper schon 2 Grade
 					Geschwindigkeit besitzet, so ertheilet ihm unter den dreyen
-					gleichen Federn <hi rend="antiqua">ED, DB, BC,</hi> nur
+					gleichen Federn <hi rend="antiqua">ED</hi>, <hi rend="antiqua">DB</hi>, <hi rend="antiqua">BC</hi>, nur
 					die einzige <hi rend="antiqua">BC</hi>
 						ihre Kraft und auch den dritten Grad der Geschwindigkeit,
                   	<abbr>u. s. w.</abbr>
@@ -6826,16 +6830,16 @@
                         </p>
                      </note> die erste Feder ist, deren Kraft in den Körper <hi rend="antiqua">F</hi> hinein gekommen, und den ersten Grad
 					Geschwindigkeit <hi rend="antiqua">AD</hi> in ihm erwecket hat, so hat die Feder
-						<hi rend="antiqua">f G,</hi> die <pb ed="firstPrint" n="154" xml:id="B01S0121Z03fp"/>ihr gleich
+						<hi rend="antiqua">f G</hi>, die <pb ed="firstPrint" n="154" xml:id="B01S0121Z03fp"/>ihr gleich
 					ist, ihm den zweyten Grad Geschwindigkeit gegeben, und ihre Kraft in
 						ihm
 						übertragen; die Feder
                   	<hi rend="antiqua">h I</hi> den dritten Grad, <abbr>u. s. w.</abbr> folglich machet
-						die Summe der Federn <hi rend="antiqua">DE + fG +  hJ + kM + lN + rO + bC = BC</hi> die ganze Größe der
+						die Summe der Federn <hi rend="antiqua">DE + fG +  hI + kM + lN + rO + bC = BC</hi> die ganze Größe der
 					Kraft aus, die an den Körper <hi rend="antiqua">F</hi>
 					von seiner Ruhe an angewandt worden, und die in ihm die
 					Geschwindigkeit <hi rend="antiqua">AB</hi>
-						erwecket hat. Es verhält sich aber <hi rend="antiqua">BC</hi> wie <hi rend="antiqua">AB,</hi> und <hi rend="antiqua">BC</hi> ist die Kraft, <hi rend="antiqua">AB</hi> aber die Geschwindigkeit; also ist die
+						erwecket hat. Es verhält sich aber <hi rend="antiqua">BC</hi> wie <hi rend="antiqua">AB</hi>, und <hi rend="antiqua">BC</hi> ist die Kraft, <hi rend="antiqua">AB</hi> aber die Geschwindigkeit; also ist die
 					Kraft wie die Geschwindigkeit, und nicht wie das Qvadrat
 					derselben.</p>
       	</div>
@@ -6854,7 +6858,7 @@
 					vielköpfigte Ungeheuer, das nach jedwedem Streiche neue Köpfe
 					aushecket.</p>
       		<cit>
-      			<quote rend="intented">
+      			<quote rend="indented">
                      <hi rend="antiqua">
                         <foreign xml:lang="la">
                            <ref type="editorialNote" target="#en12121">Vulneribus foecunda suis erat
@@ -6903,7 +6907,7 @@
 						niedergedrückt, <hi rend="antiqua">a</hi> aber durch den Bogen <hi rend="antiqua">a A</hi> hinauf gehoben werden;
 						<hi rend="antiqua">b</hi> aber,
 						welches einerley mit <hi rend="antiqua">B</hi> ist, wird hiedurch eben so viel Geschwindigkeit als
-						in dem erstern Falle erhalten, imgleichen <hi rend="antiqua">a,</hi> welches einerley mit <hi rend="antiqua">A</hi> ist, wird seine
+						in dem erstern Falle erhalten, imgleichen <hi rend="antiqua">a</hi>, welches einerley mit <hi rend="antiqua">A</hi> ist, wird seine
 					Geschwindigkeit, die in ihn im erstern Falle hinein
 						gebracht wurde nun ebenfalls bekommen; nur mit diesem
 					Unterschiede: daß die Richtung der Bewegungen umgekehrt wird.
@@ -6924,8 +6928,8 @@
 						ihrer Massen sind, gleiche Kräfte; welches die Schätzung nach
 					dem Quadrate umwirft.</p>
       	</div>
-      	<div n="2">
-                  <head rend="head_05" xml:id="tr15816">§ 110.</head>
+      		<div n="2" xml:id="tr14107">
+      		<head rend="head_05">§ 110.</head>
       		<p rend="indent"><note place="margin" xml:id="mn116">
       			<persName key="leibniz_gottfried_wilhelm_v">Leibnitzens</persName> Zweifelsknoten.</note>Die <persName key="cartes">Cartesianer</persName> haben den Vertheidigern des
 						neuen Kräftenmaaßes niemals mit mehr
@@ -7057,7 +7061,7 @@
 						<hi rend="antiqua">AB</hi> als durch eine solche
 					Kraft getrieben, vorzustellen,
 					die ihm nicht verstattet, vermöge der Anstrengung der
-						Feder gegen <hi rend="antiqua">D,</hi>
+						Feder gegen <hi rend="antiqua">D</hi>,
                   	in die Richtung <hi rend="antiqua">AF</hi> im <w lemma="geringsten">ge<pb ed="AA" n="107" break="no"/>ringsten</w> zurück zu weichen. Man darf ihn zu diesem Ende
 					nur von unendlich großer Masse gedenken. Der Kahn wird alsdenn
 					durch die endliche Kraft der Feder <hi rend="antiqua">R</hi> nur unendlich wenig, <abbr>d. i.</abbr> gar nicht
@@ -7072,7 +7076,7 @@
       			Herrn <persName key="richter_georg_friedrich">Richters</persName> Einwurf
       				gegen <persName key="jurin_james">Jurins</persName> Argument.
       		</note><ref type="editorialNote" target="#en12431">Herr <hi rend="spaced">
-                        <persName key="richter_georg_friedrich">Richter</persName>,</hi> der in dem Verzeichnisse
+                        <persName key="richter_georg_friedrich">Richter</persName></hi>, der in dem Verzeichnisse
 						dererjenigen, welche zu der
 					Emporhaltung des neuen Kräftenmaaßes ihren Beytrag gethan haben, keine geringe Stelle
 						verdienet, hat einen etwas scheinbareren
@@ -7134,7 +7138,7 @@
 						Kahn sich alsdenn auch anfängt mit einem Grade zu bewegen: so
 					ist dieses wiederum eine absolute Bewegung, weil er vorher gegen
 					alle Dinge ruhete. Er theilet also allem demjenigen, was zu seiner
-					Masse gehöret, <pb ed="oldAA" n="126" xml:id="B01S0126"/>folglich auch dem Körper <hi rend="antiqua">E,</hi>
+					Masse gehöret, <pb ed="oldAA" n="126" xml:id="B01S0126"/>folglich auch dem Körper <hi rend="antiqua">E</hi>,
 					wiederum einen Grad Kraft mit, der, weil die Ursache, die
 					ihn erzeugete, in absoluter Bewegung gewirket
 						hat, von derselben nicht mehr wie einfach seyn kan. Also
@@ -7183,7 +7187,7 @@
                            </p>
                         </note> die während der Bewegung verfliessende endliche Zeit vorstellet:
 					So hat der Körper in <hi rend="antiqua">B</hi> eine
-						würkliche Bewegung, ferner in <hi rend="antiqua">C,</hi> als der Helfte, auch in <hi rend="antiqua">D,</hi> als dem Punkte des Viertheiles, 
+						würkliche Bewegung, ferner in <hi rend="antiqua">C</hi>, als der Helfte, auch in <hi rend="antiqua">D</hi>, als dem Punkte des Viertheiles, 
                      	<note place="margin" xml:id="mn120">Deutlicherer Vortrag
                      		des 25. §.</note>und so
 					fort an in allen noch kleineren Theilen dieser
@@ -7229,7 +7233,7 @@
 						sie müssen wissen, daß ihr Anherr das Gesetze der Continuität
 						auf diesem Grunde erbauet habe</ref>: daß nemlich, wenn man annimmt,
 						<hi rend="antiqua">A</hi> sey
-						größer als <hi rend="antiqua">B,</hi>
+						größer als <hi rend="antiqua">B</hi>,
 					doch so, daß es unbestimmt sey, wie viel oder wenig es
 						größer sey, so werde man ohne den Gesetzen die unter dieser
 					Bedingung wahr seyn, Eintrag zu thun, auch sagen können, <hi rend="antiqua">A</hi> sey <hi rend="antiqua">B</hi> gleich, oder, wenn man <hi rend="antiqua">A</hi> gegen <hi rend="antiqua">B</hi> anlaufen läßt, und annimmt, daß sich <hi rend="antiqua">B</hi> auch
@@ -7266,7 +7270,7 @@
       			<head rend="head_04">
                         <hi rend="antiqua">II.</hi>
                      </head>
-      			   <head rend="head_05">Zusätze zu den <ref type="textRef" target="#tr128101">§. 31</ref>, bis
+      			<head rend="head_05">Zusätze zu den <ref type="textRef" target="#tr04811">§. 31</ref>, bis
 						<ref type="textRef" target="#tr128102">36</ref>.</head>
                      <p rend="indent">Unsere Gegner rechnen
 					es unter die klärsten Begriffe, die man nur haben kan: daß ein
@@ -7308,7 +7312,7 @@
       				bey der
       				Hinderniß der Schwere
       				in Anschlag kommt.</note>Wenn eine jede von den Federn <hi rend="antiqua">A, B, C, D,
-						E,</hi> von solcher Art ist,
+						E</hi>, von solcher Art ist,
 					daß sie nur einem einzigen Drucke des Körpers <hi rend="antiqua">M</hi> widerstehet, und
 					zugleich dadurch ihre ganze Thätigkeit
 					verlieret, folglich hernach in dem Körper <hi rend="antiqua">M</hi> gar keine Wirkung mehr
@@ -7386,7 +7390,7 @@
 							dennoch würden zugedrückt worden seyn, wenn
 							man durch eine Hypothese
 							annähme, daß er seine Kraft
-							behalten, oder immer wieder <w lemma="angenommen">ange<pb ed="AA" n="112" break="no"/>nommen</w> <ref type="critApp" xml:id="app13018">hatte</ref>,</hi> so findet seine
+							behalten, oder immer wieder <w lemma="angenommen">ange<pb ed="AA" n="112" break="no"/>nommen</w> <ref type="critApp" xml:id="app13018">hatte</ref></hi>, so findet seine
 							Gegnerinn dennoch so etwas unerlaubtes und
 						unbefugtes in dieser Hypothese, daß sie ihm
 						deswegen einen noch viel härteren Vorwurf machet</ref>.
@@ -7428,10 +7432,10 @@
                         	<abbr>u. s. w.</abbr> sollen
 						die Elemente der ganzen Zeit <hi rend="antiqua">AB</hi> ausdrücken, folglich die kleinen
 						Triangel, daraus die Fläche des großen zusammen gesetzt ist, und die
-					alle so groß sind, wie <hi rend="antiqua">A D E,</hi> die
+					alle so groß sind, wie <hi rend="antiqua">A D E</hi>, die
 					Elemente des ganzen Raumes, oder die Anzahl aller Federn, die der Körper binnen der Zeit <hi rend="antiqua">A B</hi> zudrückt.
 						Demnach drücket unser Körper in dem
-					ersten Zeittheilchen <hi rend="antiqua">BK,</hi> darinn
+					ersten Zeittheilchen <hi rend="antiqua">BK</hi>, darinn
 						er anfängt in <pb ed="firstPrint" n="169" xml:id="B01S0131Z12fp"/>die Höhe zu steigen, die 9 Federn
 					zu, die er in dem Raume <hi rend="antiqua">KL BC</hi> antrifft. Er würde aber, wenn die
 					Zurückhaltung dieser Federn in ihm keine Kraft verzehret
@@ -7464,13 +7468,13 @@
 					den der Widerstand der 7 Federn seiner Kraft zugezogen hat. Auf
 					eben diese Weise wird die Feder <ref type="critApp" xml:id="app13132"><hi rend="antiqua">G gi</hi></ref> die Einbusse
 					der Kraft, durch die Zurückhaltungen der Schwere in dem dritten
-					Zeittheilchen <hi rend="antiqua">FH,</hi> zu erkennen
+					Zeittheilchen <hi rend="antiqua">FH</hi>, zu erkennen
 					geben, und so weiter. So ist denn also <pb ed="firstPrint" n="170" xml:id="B01S0131Z35fp"/>der Verlust,
 					den der frey in die Höhe <w lemma="steigende">stei<pb ed="oldAA" n="132" xml:id="B01S0132"/>gende</w> Körper erleidet, indem er die Hinderniß der
 					Schwere überwindet, wie die Summe der nicht
 					zugedrückten Federn <hi rend="antiqua">Llc, IiL, <ref type="critApp" xml:id="app13202">Ggi</ref>, 
 						<ref type="critApp" xml:id="app13203">Eeg</ref>,
-						AaE,</hi> folglich auch die Quantität der Hinderniß selber,
+						AaE</hi>, folglich auch die Quantität der Hinderniß selber,
 						die er bezwungen hat, und mithin seine Kraft, in dieser
 					Proportion. Und, da die nicht zugedruckten Federn die
 					Verhältniß der Zeiten oder Geschwindigkeiten haben, so ist die Kraft des Körpers auch wie
@@ -7552,7 +7556,7 @@
       			   <head rend="head_04">
                         <hi rend="antiqua">III.</hi>
                      </head>
-      			   <head rend="head_05">Zusätze zu den <ref type="textRef" target="#tr133231">§. 45</ref>, <ref type="textRef" target="#tr133232">46</ref>, 
+      			<head rend="head_05">Zusätze zu den <ref type="textRef" target="#tr133231">§. 45</ref>, <ref type="textRef" target="#tr05807">46</ref>, 
                      	<ref type="textRef" target="#tr133233">47</ref>.</head>
                      <p rend="indent">
                         <ref type="editorialNote" target="#en13324">Mich deucht ich habe nichts Gewisseres und
@@ -7563,7 +7567,7 @@
 						anstämmet, als sie auf der andern Seite mit ihrer
 						Spannungskraft den Körper stößt; und folglich, weil in
 						dem Falle des <pb ed="AA" n="115"/>Herrn <persName key="bernoulli_johann">Bernoulli</persName>, kein anderer
-						Wiederhalt ist, als der Körper <hi rend="antiqua">B,</hi> sie eben dieselbe Gewalt der
+						Wiederhalt ist, als der Körper <hi rend="antiqua">B</hi>, sie eben dieselbe Gewalt der
 						Anstrengung gegen ihn anwenden müsse, als sie
 						gegen <hi rend="antiqua">A</hi> anwenden kan; denn
 						die Feder würde den Körper <hi rend="antiqua">A</hi> gar nicht fortstoßen, wenn
@@ -7581,7 +7585,7 @@
 								pertinacissimus
 								adversarius, si vel scepticus esset, huic
 								evidentissimae demonstrationi opponere
-							queat</ref>,</hi>
+							queat</ref></hi>,
                            </foreign>
                          und bald darauf:
                            <foreign xml:lang="la">
@@ -7613,7 +7617,7 @@
 							besonderen Nutzen haben kan. Er spricht
 						daselbst: die Kugel <hi rend="antiqua">F</hi> werde
 						durch die 4 Federn <hi rend="antiqua">a, b, c,
-							d,</hi> allemal gleiche Kraft erhalten, man mag sie
+							d</hi>, allemal gleiche Kraft erhalten, man mag sie
 							in einer Linie, wie <hi rend="antiqua">
                               <abbr>Fig.</abbr></hi> 23, oder
 						in zwey Theilen neben einander, wie <hi rend="antiqua">
@@ -7694,14 +7698,14 @@
                               <foreign xml:lang="la"><w lemma="Tempora">Tem<pb ed="firstPrint" n="176" xml:id="B01S0135Z34fp"/>pora</w>,
 								quibus duo mobilia, <hi rend="spaced">si
 								sunt 
-                        <pb ed="oldAA" n="136" xml:id="B01S0136"/>aequalia,</hi> eosdem effectus patrant, sunt reciproce vt
+                        <pb ed="oldAA" n="136" xml:id="B01S0136"/>aequalia</hi>, eosdem effectus patrant, sunt reciproce vt
 							celeritates</foreign></hi>
                          </ref>. Darauf folgt in der
 					zweyten Nummer des Beweises: <ref type="editorialNote" target="#en13602">
                            <foreign xml:lang="la">
                               <hi rend="antiqua">Massae 
                               <hi rend="spaced">
-                                 corporum inaequalium,</hi> quae eosdem effectus patrant, sunt reciproce vt
+                                 corporum inaequalium</hi>, quae eosdem effectus patrant, sunt reciproce vt
 								celeritates</hi>
                            </foreign>
                         </ref>. Hieraus folgert Herr
@@ -7751,9 +7755,9 @@
                      </p>
                      <p rend="indent">Wenn wir nun, nach
 					Maaßgebung des ersten Satzes, zwey gleiche Körper nehmen
-						<hi rend="antiqua">A</hi> und <hi rend="antiqua">B,</hi> so, daß <hi rend="antiqua">B</hi> zweymal mehr
-						Geschwindigkeit habe als <hi rend="antiqua">A</hi>: so ist nach dieser Regel, die <hi rend="antiqua">Action,</hi> womit <hi rend="antiqua">B</hi> eben denselben <hi rend="antiqua">Effect</hi> thut als
-						<hi rend="antiqua">A,</hi> zweymal größer als die
+						<hi rend="antiqua">A</hi> und <hi rend="antiqua">B</hi>, so, daß <hi rend="antiqua">B</hi> zweymal mehr
+						Geschwindigkeit habe als <hi rend="antiqua">A</hi>: so ist nach dieser Regel, die <hi rend="antiqua">Action</hi>, womit <hi rend="antiqua">B</hi> eben denselben <hi rend="antiqua">Effect</hi> thut als
+						<hi rend="antiqua">A</hi>, zweymal größer als die
 						<hi rend="antiqua">Action</hi> des
 						Körpers <hi rend="antiqua">A</hi>; weil
 					jener nemlich, wegen seiner größeren Geschwindigkeit,
@@ -7795,7 +7799,7 @@
 					betrachte. Es würde also eben so viel gesagt seyn, als: eine
 						<hi rend="antiqua">Action</hi> könne sich selber
 					ungleich seyn. Zudem hat es nur deswegen den Namen der
-						<hi rend="antiqua">Action,</hi> weil von ihr ein
+						<hi rend="antiqua">Action</hi>, weil von ihr ein
 						<hi rend="antiqua">Effect</hi>
 						abhänget, und wenn in dieser <hi rend="antiqua">Action</hi> ein Theil seyn könte, von dem nicht
 						ein ihm gleicher <hi rend="antiqua">Effect</hi> abhinge, so würde derselbe Theil den Nahmen
@@ -7803,8 +7807,8 @@
 					auch nicht haben können. Wenn auch schon die Zeiten
 						ungleich seyn, darinn eben dieselbe <hi rend="antiqua">Effectus</hi> hervorgebracht worden, so bleiben
 						die daran gewandte <hi rend="antiqua">Actiones</hi> dennoch gleich, und es folget nur daraus:
-						daß bey gleichen Zeiten, die <hi rend="antiqua">Effecte,</hi> und auch die ihnen
-						correspondirende <hi rend="antiqua">Actiones,</hi> ungleich seyn werden.</p>
+						daß bey gleichen Zeiten, die <hi rend="antiqua">Effecte</hi>, und auch die ihnen
+						correspondirende <hi rend="antiqua">Actiones</hi>, ungleich seyn werden.</p>
                      <p rend="indent">Kurz hievon zu reden:
 					Es leuchtet so gleich in die Augen, daß ganz besondere Ursachen
 					müssen gewesen seyn, welche so ausnehmende Fehler in dieser
@@ -7841,9 +7845,9 @@
                      </p>
                   </div>
                </div>
-      	</div><pb ed="AA" n="119"/>
-      	<div n="1">
-      		<head rend="head_04" xml:id="tr02928">
+      	</div>
+      	<div n="1" xml:id="tr02928"><pb ed="AA" n="119"/>
+      		<head rend="head_04">
                   <pb ed="oldAA" n="139" xml:id="B01S0139"/>
                   <pb ed="firstPrint" n="180" xml:id="B01S0138Z14fp"/>Drittes Hauptstück,</head>
       		 <head rend="head_05">Welches eine neue Schätzung der lebendigen Kräfte,
@@ -7878,7 +7882,7 @@
 						so würden auch die natürlichen darunter begriffen seyn, und
 					es würde vergeblich seyn, eine Ausnahme zu hoffen. Allein sie
 					setzet den Begriff von ihrem Körper selber fest,
-					vermittelst der <hi rend="antiqua">Axiomatum,</hi> von
+					vermittelst der <hi rend="antiqua">Axiomatum</hi>, von
 						denen sie fordert, daß man sie bey ihrem Körper voraussetzen
 					müsse, welche aber so beschaffen <pb ed="firstPrint" n="181" xml:id="B01S0139Z22fp"/>seyn, daß sie an demselben gewisse
 						Eigenschaften nicht erlauben und ausschliessen, die an
@@ -7887,8 +7891,8 @@
 					unterschieden ist, und es kan daher etwas bey jenem wahr
 					seyn, was doch auf diesen nicht zu ziehen ist.</p>
                </div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr14435">§
+      		<div n="2" xml:id="tr14435">
+                  <head rend="head_05">§
 						115.</head>
       			<p rend="indent"><note place="margin" xml:id="mn129">Unterscheid zwischen
       				dem mathematischen und
@@ -7984,7 +7988,7 @@
                      </note> an. Wenn wir nun setzen, daß die Geschwindigkeit, womit eine jede
 					derselben allein sich anfängt auszurecken, wie 1 ist: so ist die
 					Anfangsgeschwindigkeit, womit die ganze Feder
-						<hi rend="antiqua">a d,</hi> die aus 4 dergleichen zusammengesetzet
+						<hi rend="antiqua">a d</hi>, die aus 4 dergleichen zusammengesetzet
 					ist, wenn sie sich frey ausstreckte, wie 4, und es scheinet, als wenn
 					daraus folge, daß die Anfangsgeschwindigkeit, die die
 					vierfache Feder einem Körper <w lemma="eindrueckt">ein<pb ed="oldAA" n="142" xml:id="B01S0142"/>drückt</w>, viermal größer seyn werde, als diejenige,
@@ -8110,8 +8114,8 @@
 					die bloße Geschwindigkeit, das ist, es ist eine todte
 					Kraft.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr15802">§
+      		<div n="2" xml:id="tr15802">
+                  <head rend="head_05">§
 					121.</head>
       			<p rend="indent"><note place="margin" xml:id="mn137">Der
       				Körper erhebet
@@ -8169,8 +8173,8 @@
 						Quadratmaaße gehörige Bestimmungen
 					überkommen.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr15527">§ 122.</head>
+      		<div n="2" xml:id="tr15527">
+                  <head rend="head_05">§ 122.</head>
       			<p rend="indent"><note place="margin" xml:id="mn139">Es sind
       				unendlich
       				viel Zwischengrade zwischen
@@ -8241,7 +8245,7 @@
       				ist.</note>Denjenigen Zustand, da die Kraft des Körpers
 						zwar noch nicht lebendig ist, aber doch
 					dazu fortschreitet, nenne ich die <ref type="editorialNote" target="#en14625">
-                        <hi rend="spaced">Lebendigwerdung,</hi> oder
+                        <hi rend="spaced">Lebendigwerdung</hi>, oder
 								<hi rend="spaced antiqua">Vivification
                         </hi>
                      </ref> derselben.</p>
@@ -8293,7 +8297,7 @@
       				geworden, was würde <pb ed="firstPrint" n="192" xml:id="m192"/>alsdenn
       				mit der
       				Bewegung geschehen?</note>Wenn wir aber annehmen: daß in der <ref type="critApp" xml:id="app14719">Zwischenzeit</ref> der
-						<hi rend="antiqua">Vivification,</hi> ehe diese
+						<hi rend="antiqua">Vivification</hi>, ehe diese
 					noch vollständig geworden, der Körper auf einmal
 					ablasse die Elemente der Intension ferner zu häufen, und die Kraft völlig lebendig zu
 						machen, was wird alsdenn <pb ed="firstPrint" n="192" xml:id="B01S0147Z23fp"/>wohl
@@ -8466,12 +8470,12 @@
 					zwar nicht in der rechten Sprache der
 						Metaphysik, aber dennoch vollkommen deutlich
 					ausgedrücket: <ref type="editorialNote" target="#en15029">
-                        <hi rend="antiqua">Vis viva,</hi> spricht
+                        <hi rend="antiqua">Vis viva</hi>, spricht
 							er, <foreign xml:lang="la">
                            <hi rend="antiqua">est aliquid reale
 								&amp; substantiale, quod per se subsistit, &amp;
 								quantumin se est, non <ref type="critApp" xml:id="app15031">dependit</ref> ab alio; Vis mortua non est
-                           	aliquidabsolutum, &amp; per se durans <abbr>&amp;c.</abbr> <abbr>&amp;c.</abbr>
+                           	aliquid absolutum, &amp; per se durans <abbr>&amp;c.</abbr> <abbr>&amp;c.</abbr>
                            </hi>
                         </foreign>
                      </ref>
@@ -8607,8 +8611,8 @@
 						Kraft empfängt, doch schon eine
 						Geschwindigkeit hat, so muß man diese doch auch mit in
 						Betrachtung ziehen. Man wird also die <w lemma="Geschwindigkeit">Geschwindig<pb ed="oldAA" n="153" xml:id="B01S0153"/>keit</w> 
-                     <hi rend="antiqua">u,</hi> die er schon hat,
-					seine Masse <hi rend="antiqua">M,</hi> und das Element
+                     <hi rend="antiqua">u</hi>, die er schon hat,
+					seine Masse <hi rend="antiqua">M</hi>, und das Element
 					der Geschwindigkeit, oder welches
 					einerley ist, das Product aus der Schwere <hi rend="antiqua">g</hi> in die Zeit, <abbr>d. i.</abbr>
                      <hi rend="antiqua">gdt</hi> zusammen setzen.
@@ -8679,8 +8683,8 @@
 						möglichster Deutlichkeit zu eröffnen bemühet
 					seyn.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr16127">§ 132.</head>
+      		<div n="2" xml:id="tr16127">
+                  <head rend="head_05">§ 132.</head>
                   <p rend="indent">Folgende
 					Anmerkung leget ein ganz unbekanntes Dynamisches
 						Gesetze dar, und ist in der
@@ -8724,8 +8728,8 @@
 					Vivification erlangen kan, und unter welcher in
 						allen kleinern Graden bis zur <ref type="critApp" xml:id="app15435">unendlich kleinen</ref>, dieses nicht
 					angehet.</p>
-      			<p rend="indent"><note place="margin" xml:id="mn160">
-      				<pb ed="oldAA" n="155" xml:id="B01S0155"/>Folglich ist auch nicht
+      			<p rend="indent"><pb ed="oldAA" n="155" xml:id="B01S0155"/><note place="margin" xml:id="mn160">
+      				Folglich ist auch nicht
       				ohne Unterscheid
       				mit allen
       				Geschwindigkeiten eine freye
@@ -8808,7 +8812,7 @@
 					welche die abstracte Mechanik vorher niemals hat gewähren können.</p>
                   <p rend="indent">Wir haben die Frage aufgeworfen, ob die Körper auch bey allen Geschwindigkeiten, <hi rend="spaced">sie mögen so
 						klein seyn,
-						wie sie wollen,</hi> zur völligen Lebendigwerdung
+						wie sie wollen</hi>, zur völligen Lebendigwerdung
 						der Kraft gelangen, und ihre Bewegungen unverändert frey fortsetzen können.
 					Jetzo wollen wir untersuchen, ob sie auch dieselbe in allen höhern Graden der
 					Geschwindigkeiten <pb ed="firstPrint" n="205" xml:id="B01S0156Z21fp"/>ins <w lemma="unendliche">unendli<pb ed="AA" n="134" break="no"/>che</w> zu leisten vermögend seyn, das ist, ob die Körper,
@@ -8883,8 +8887,8 @@
 						freye Bewegung nicht mehr kan erhalten
 					werden.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr15909">
+      		<div n="2" xml:id="tr15909">
+                  <head rend="head_05">
                      <pb ed="oldAA" n="158" xml:id="B01S0158"/>
                      <pb ed="firstPrint" n="207" xml:id="B01S0157Z33fp"/>§ 136.</head>
       			<p rend="indent"><note place="margin" xml:id="mn167">Die
@@ -8899,7 +8903,7 @@
 					Geschwindigkeit 4 Grade Kraft habe, obgleich die äusserliche
 						<ref type="critApp" xml:id="app15807">Ursache</ref> seiner Bewegung, nach
 					Anweisung der <persName key="jurin_james">Jurinischen</persName>
-					Methode, <ref type="textRef" target="#tr15808">§ 110.</ref>
+      				Methode, <ref type="textRef" target="#tr14107">§ 110.</ref>
 					in ihn nur mit 2 Graden Kraft gewirket hat. Jetzt wollen wir
 					erklären: wie eine Hinderniß, deren Gewalt viel kleiner ist, als die
 					Kraft, die der Körper hat, ihm dennoch seine
@@ -8913,17 +8917,17 @@
                   </p>
       			<p rend="indent"><note place="margin" xml:id="mn168">Beweis.</note>
                      <ref type="editorialNote" target="#en15815">Dieses zu beweisen, dürfen wir nur den 
-                     	<persName key="jurin_james">Jurinischen</persName> Fall <ref type="textRef" target="#tr15816">§ 110.</ref> 
+                     	<persName key="jurin_james">Jurinischen</persName> Fall <ref type="textRef" target="#tr14107">§ 110.</ref> 
                      	umkehren</ref>. Es bewege sich nemlich der
 					Kahn <hi rend="antiqua">AB</hi>
 						von <hi rend="antiqua">C</hi> gegen
 						<hi rend="antiqua">B</hi> mit der Geschwindigkeit
 					wie 1. Ferner wollen wir setzen: die Kugel
 						<hi rend="antiqua">E</hi> bewege sich in derselben
-					Richtung, nemlich <hi rend="antiqua">CB,</hi> aber
+					Richtung, nemlich <hi rend="antiqua">CB</hi>, aber
 						in freyer Bewegung und mit lebendiger Kraft, mit einer
 						Geschwindigkeit wie 2, folglich wird diese Kugel die
-					Hinderniß <hi rend="antiqua">R,</hi> die hier durch
+					Hinderniß <hi rend="antiqua">R</hi>, die hier durch
 						eine Feder vorgestellet wird, und deren Kraft wie 1 ist, nur
 					mit einem einfachen Grade Geschwindigkeit
 					treffen; denn was den andern Grad betrift, so bewegt <ref type="critApp" xml:id="app15823">er</ref> sich nicht mit
@@ -8999,7 +9003,7 @@
 					bey ihrer Erzeugung gleichfalls aus dieser
 					Naturkraft von selber hervorgebracht worden.</p>
       		</div>
-      		<div n="2">
+      		<div n="2" xml:id="tr18011">
                   <head rend="head_05">§ 138.</head>
                   <p rend="indent">Diese
 					Anmerkung belohnet unsere Mühe mit wichtigen Folgerungen.</p>
@@ -9063,7 +9067,7 @@
 					es thut sich in der Wirkung keine andere Spur einer Kraft hervor,
 					als die nur der erzeugenden Linie, <abbr>d. i.</abbr> der
 					Geschwindigkeit schlechthin proportionirt ist.</p>
-                  <p rend="indent">4.
+      			<p rend="indent"><anchor type="textRefStart" xml:id="tr16533"/>4.
 						Also findet sich nirgends eine Spur, einer lebendigen Kraft,
 						in den verübten Wirkungen, oder überwältigten Hindernissen,
 					wenn gleich der Körper wirklich eine lebendige Kraft hat, als nur da,
@@ -9083,8 +9087,8 @@
 					lebendigen Kräfte beweiset, recht zu
 					erleuchten und bewährt zu machen.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr18016">
+      		<div n="2" xml:id="tr18016">
+                  <head rend="head_05">
                      <pb ed="oldAA" n="162" xml:id="B01S0162"/>§
 						139.</head>
       			<p rend="indent"><note place="margin" xml:id="mn171">Die Phänomena derer
@@ -9095,7 +9099,7 @@
       				nicht dawider.</note>Da
 					das Moment der Schwerdrückung nur mit unendlich kleiner Geschwindigkeit geschiehet: so
 					erhellet vermittelst
-					der dritten Nummer des <ref type="textRef" target="#tr16204">vorigen §</ref>
+					der dritten Nummer des <ref type="textRef" target="#tr18011">vorigen §</ref>
 					gar deutlich, daß ein Körper, der seine Bewegung
 					aufwendet, indem er die Hindernisse
 					der Schwere überwindet, gegen dieselbe nur eine Wirkung ausüben werde, die seiner
@@ -9226,8 +9230,8 @@
 					die Masse multiplicirt gemäß wäre.</p>
       		</div>
       		<pb ed="AA" n="141"/>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr170011">§ 143.</head>
+      		<div n="2" xml:id="tr170011">
+                  <head rend="head_05">§ 143.</head>
       			<p rend="indent"><note place="margin" xml:id="mn175">Beantwortung.</note>
                      <ref type="editorialNote" target="#en16423">Die Sache kommt einzig und allein
 						darauf an, daß alle Hindernisse in
@@ -9296,8 +9300,8 @@
 					muß, der seine lebendige Kraft zu einer ihr
 					proportionalen Wirkung anwenden soll.</p>
       		</div>
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr170012">
+      		<div n="2" xml:id="tr170012">
+                  <head rend="head_05">
                      <pb ed="oldAA" n="166" xml:id="B01S0166"/>§ 144.</head>
       			<p rend="indent"><note place="margin" xml:id="mn176">Die
       				Masse muß
@@ -9337,9 +9341,8 @@
 					es sich schon von selber, daß diese Abweichung gar
 						nicht angetroffen werde.</p>
       		</div>
-      		
-      		<div n="2">
-                  <head rend="head_05" xml:id="tr170013">§ 145.</head>
+      		<div n="2" xml:id="tr170013">
+                  <head rend="head_05">§ 145.</head>
                   <p rend="indent">Es folgen
 					hieraus nachstehende Anmerkungen:</p>
       			<p rend="indent"><note place="margin" xml:id="mn177">Folgerungen.</note><pb ed="AA" n="143"/></p>
@@ -9440,7 +9443,7 @@
                   </p>
       			<p rend="indent"><note place="margin" xml:id="mn179">
       				<pb ed="firstPrint" n="222" xml:id="fp3"/>Wie dieses
-      				ausdem
+      				aus dem
       				vorigen folge.</note>
                      <pb ed="firstPrint" n="222" xml:id="B01S0168Z16fp"/>Denn die Flüßigkeiten sind in die feinsten
 						Theile, welche vor unendlich klein gelten
@@ -9533,7 +9536,7 @@
       			</note><ref type="editorialNote" target="#en17004">Zu
 					denenjenigen Erfahrungen, welche keine Spur von einer andern Schätzung, als nur der <persName key="cartes">Cartesianischen</persName>, geben, und daher unserem Kräftenmaaße zu
 						wiederstreiten scheinen, gehören
-					endlich noch die Bewegungen elastischer Körper, durch den Stoß, wovon wir <ref type="textRef" target="#tr17008">im vorigen
+						endlich noch die Bewegungen elastischer Körper, durch den Stoß, wovon wir <ref type="textRef" target="#tr03030">im vorigen
 						Hauptstücke</ref> ausführlich gehandelt
 					haben, und welche alle in ganz untrüglichen
 					Versuchen wahr befunden werden</ref>. Sie heben auch in der That die Quadrat-Schätzung des Herrn
@@ -9992,8 +9995,8 @@
 					wo die Bewegung geschwinder ist, folglich erduldet er dort von einer jeden einzelnen Feder eine längere
 						Reihe gleicher Drückungen als
 					hier.</p>
-      			<p rend="indent"><note place="margin" xml:id="mn192">
-      				<pb ed="oldAA" n="179" xml:id="B01S0179"/>Dieses befindet sich bey
+      			<p rend="indent"><pb ed="oldAA" n="179" xml:id="B01S0179"/><note place="margin" xml:id="mn192">
+      				Dieses befindet sich bey
       				der weichen Materie
       				ganz anders.</note>Allein dieses befindet sich bey der Trennung
 						der weichen Masse ganz anders. Ein jedes
@@ -10025,7 +10028,7 @@
 						sie wirklich waren, und darinn sie niemand ohne große
 					Verblendung hätte übersehen können.</p>
       		</div>
-      		<div n="2">
+      		<div n="2" xml:id="tr16134">
                   <head rend="head_05">§ 161.</head>
                   <p rend="indent">Der angeführte
 					Versuch also, erweiset das Daseyn solcher Kräfte in der Natur, die das

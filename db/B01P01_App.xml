@@ -82,7 +82,7 @@
 					</persName>
 					<resp>
 						<note type="remarkResponsibility">Entwicklung und Layout der digitalen Edition,
-							Bereitstellung der Schnittstellen </note>
+							Bereitstellung der Schnittstellen</note>
 					</resp>
 				</respStmt>
 				<respStmt>
@@ -240,8 +240,7 @@
                <app from="#app01817">
                   <lem>
                      <hi rend="antiqua">vim
-						activam</hi>
-                  </lem>
+						activam</hi></lem>
                   <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">vim motricem</hi>
                   </rdg>
                </app>
@@ -418,8 +417,7 @@
 					hindurch</rdg>
                </app>
                <app from="#app05219">
-                  <lem>dem Körper <hi rend="antiqua">A</hi>
-                  </lem>
+                  <lem>dem Körper <hi rend="antiqua">A</hi></lem>
                   <rdg wit="#A">zu <wit wit="#A">A</wit>: dem Körper <hi rend="antiqua">B</hi>
                   </rdg>
                </app>
@@ -532,16 +530,14 @@
                </app>
             	<app from="#app08323">
             		<lem>
-            			<hi rend="antiqua">ba=AB</hi>
-            		</lem>
+            			<hi rend="antiqua">ba=AB</hi></lem>
             		<rdg wit="#La #A">mit
             			<wit wit="#La">La</wit>
             			zu <wit wit="#A">A</wit>: <hi rend="antiqua">bA=AB</hi></rdg>
             	</app>
                <app from="#app08334">
                   <lem>
-                     <hi rend="antiqua">FE</hi>
-                  </lem>
+                     <hi rend="antiqua">FE</hi></lem>
                   <rdg wit="#Ha #A">
 					mit <wit wit="#Ha">Ha</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">FC</hi>
                   </rdg>
@@ -557,24 +553,21 @@
                </app>
                <app from="#app08535">
                   <lem>
-                     <hi rend="antiqua">sinui</hi>
-                  </lem>
+                     <hi rend="antiqua">sinui</hi></lem>
                   <rdg wit="#A">zu <wit wit="#A">A</wit>:
 						<hi rend="antiqua">sinu</hi>
                   </rdg>
                </app>
                <app from="#app08820">
                   <lem>
-                     <hi rend="antiqua">bd</hi>
-                  </lem>
+                     <hi rend="antiqua">bd</hi></lem>
                   <rdg wit="#La #A">
 					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">be</hi>
                   </rdg>
                </app>
                <app from="#app08822">
                   <lem>
-                     <hi rend="antiqua">cd</hi>
-                  </lem>
+                     <hi rend="antiqua">cd</hi></lem>
                   <rdg wit="#La #A">
 					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">ce</hi>
                   </rdg>
@@ -592,8 +585,7 @@
                </app>
             	<app from="#app09626">
             		<lem><choice><sic>vorbeugt</sic><corr>vorbeuget</corr></choice></lem>
-
-            		<rdg wit="#La">
+		<rdg wit="#La">
             			<wit wit="#La">La</wit>: vorbeuge</rdg>
             	</app>
                <app from="#app09718">
@@ -703,9 +695,7 @@
                   </rdg>
                </app>
             	<app from="#app10426">
-            		<lem>
-            			Körpers … Körper
-            		</lem>
+            		<lem>Körpers … Körper</lem>
             		<rdg wit="#La"><wit wit="#La">La</wit>: Körpers in … Körpers in
             		</rdg>
             	</app>
@@ -717,39 +707,33 @@
             		</rdg>
             	</app>
             	<app from="#app10510">
-            		<lem>Körper
-            		</lem>
+            		<lem>Körper</lem>
             		<rdg wit="#La"><wit wit="#La">La</wit>: Körper in
             		</rdg>
             	</app>
                <app from="#app10512">
-                  <lem>2 <hi rend="antiqua">Ba</hi>
-                  </lem>
+                  <lem>2 <hi rend="antiqua">Ba</hi></lem>
                   <rdg wit="#La #A">
 					mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>: 3 <hi rend="antiqua">Ba</hi>
                   </rdg>
                </app>
             	<app from="#app10515">
-            		<lem>Körper
-            		</lem>
+            		<lem>Körper</lem>
             		<rdg wit="#La"><wit wit="#La">La</wit>: Körper in
             		</rdg>
             	</app>
             	<app from="#app10517">
-            		<lem>erlangt 3 <hi rend="antiqua">A</hi>
-            		</lem>
+            		<lem>erlangt 3 <hi rend="antiqua">A</hi></lem>
             		<rdg wit="#La"><wit wit="#La">La</wit>: erlangt der Körper in 3 <hi rend="antiqua">A</hi>
             		</rdg>
             	</app>
             	<app from="#app10524">
-            		<lem>Körpers
-            		</lem>
+            		<lem>Körpers</lem>
             		<rdg wit="#La"><wit wit="#La">La</wit>: Körpers in 
             		</rdg>
             	</app>
             	<app from="#app10615">
-            		<lem>ohne
-            		</lem>
+            		<lem>ohne</lem>
             		<rdg wit="#Ha2"><wit wit="#Ha2">Ha2</wit>: nicht ohne
             		</rdg>
             	</app>
@@ -975,8 +959,7 @@
             			<wit wit="#La">La</wit>: <hi rend="antiqua">videt</hi></rdg>
             	</app>
                <app from="#app13429">
-                  <lem>Federn <hi rend="antiqua">a</hi>, … <hi rend="antiqua">d</hi>
-                  </lem>
+                  <lem>Federn <hi rend="antiqua">a</hi>, … <hi rend="antiqua">d</hi></lem>
                   <rdg wit="#SchuRo">
                      <wit wit="#SchuRo">Schu/Ro</wit>: <hi rend="italic">Verweis</hi> (Fig.
 					23.)</rdg>
@@ -1087,8 +1070,7 @@
                </app>
                <app from="#app15304">
                   <lem>
-                     <hi rend="spaced antiqua">gMudt
-                     </hi>
+                     <hi rend="spaced antiqua">gMudt</hi>
                   </lem>
                   <rdg wit="#La #A">mit <wit wit="#La">La</wit> zu <wit wit="#A">A</wit>:
 						<hi rend="spaced antiqua">gMdt</hi>
@@ -1229,17 +1211,17 @@
 					Apollon geweiht und Wohnsitz der Göttinnen der Künste (Musen).</note>
                <note type="editorial" xml:id="en01104">Der Leser … Blätter] Siehe hierzu den editorischen Bericht,
                	<ref type="editorialReport" target="#er559">Teil 1.1.</ref></note>
-            	 <note type="editorial" xml:id="en01409">Quadrat] Nach Leibniz’ Konzept der lebendigen Kraft (<hi rend="italic">vis viva</hi>) ist
+         	<note type="editorial" xml:id="en01409">Quadrat] Nach Leibniz’ Konzept der lebendigen Kraft (<foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign>) ist
 					diese der Quantität der Materie (heute: Masse, <hi rend="italic">m</hi>) und dem
 						<hi rend="italic">Quadrat der Geschwindigkeit</hi> (<hi rend="italic">v</hi>) eines
                	bewegten Körpers proportional (<hi rend="italic">V ~ m v<hi rend="sup">2</hi>
                   </hi>). Vgl.
 					hierzu <hi rend="smallCaps">Leibniz</hi> 1686, 162 f.</note>
                <note type="editorial" xml:id="en01412">todter Druck] Offenbar in Anlehnung an Leibniz, der
-					passive und aktive Kraft unterscheidet. Passive Kraft (<hi rend="italic">vis
-						passiva</hi>) ist widerstehend, aktive Kraft (<hi rend="italic">vis
-						activa</hi>) bewegend und wiederum in lebendige (<hi rend="italic">vis
-						viva</hi>) und tote Kraft (<hi rend="italic">vis mortua</hi>) zu
+               	passive und aktive Kraft unterscheidet. Passive Kraft (<foreign xml:lang="la"><hi rend="italic">vis
+               		passiva</hi></foreign>) ist widerstehend, aktive Kraft (<foreign xml:lang="la"><hi rend="italic">vis
+               			activa</hi></foreign>) bewegend und wiederum in lebendige (<foreign xml:lang="la"><hi rend="italic">vis
+               				viva</hi></foreign>) und tote Kraft (<foreign xml:lang="la"><hi rend="italic">vis mortua</hi></foreign>) zu
 					unterscheiden: Erstere bringt wirkliche Bewegung hervor, letztere nur eine
 					Tendenz zur Bewegung: „<foreign xml:lang="la">Hinc <hi rend="italic">Vis</hi> [<hi rend="italic">activa</hi>,
 						H. P.] quoque duplex: alia elementaris,
@@ -1275,12 +1257,12 @@
 						(<hi rend="italic">T ~ m v</hi>). Seiner metaphysischen Kraftkonzeption zufolge
 					korrespondiert daher der toten Kraft auf mathematischer Ebene die cartesianische
 					Bewegungsgröße <hi rend="italic">m v</hi>,
-					während sich die lebendige Kraft (<hi rend="italic">vis viva</hi>) proportional zum
+               	während sich die lebendige Kraft (<foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign>) proportional zum
                	Quadrat der Geschwindigkeit verhält (<hi rend="italic">V ~ m v<hi rend="sup">2</hi>
                   </hi>). Zu
 					Leibniz’ Kraftbegriff und dessen diversen Ausdifferenzierungen allgemein vgl.
-						<hi rend="smallCaps">Stammel</hi> 1982, zur Unterscheidung der <hi rend="italic">vis activa</hi> in
-						<hi rend="italic">vis viva</hi> und <hi rend="italic">vis mortua</hi> insbes.
+               	<hi rend="smallCaps">Stammel</hi> 1982, zur Unterscheidung der <foreign xml:lang="la"><hi rend="italic">vis activa</hi></foreign> in
+               	<foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign> und <foreign xml:lang="la"><hi rend="italic">vis mortua</hi></foreign> insbes.
 					251–293.</note>
             	<note type="editorial" xml:id="en01501">Die zwey Herren <hi rend="spaced">Bernoulli</hi>, Herr von <hi rend="spaced">Leibnitz</hi> und 
             		<hi rend="spaced">Herrmann</hi>] Siehe Sacherläuterung zu <ref type="editorialNote" target="#en00719">5<hi rend="sup">18–19</hi></ref>.</note>
@@ -1329,7 +1311,7 @@
 					oder eine Tendenz bezeichnet, die, wenn sie nicht durch ein gegensätzliches
 					Streben gehemmt wird, auch zur vollen Wirksamkeit gelangt.“ (<hi rend="smallCaps">Leibniz</hi>
 						1966 I, 256)</note>
-               <note type="editorial" xml:id="en01803">würkenden Kraft] ‚Vis activa‘ bei <hi rend="smallCaps">Leibniz</hi>,
+               <note type="editorial" xml:id="en01803">würkenden Kraft] ‚<foreign xml:lang="la">Vis activa</foreign>‘ bei <hi rend="smallCaps">Leibniz</hi>,
 					ausgestattet mit Wirksamkeit (<hi rend="italic">virtus</hi>); vgl. 1695, 146; bereits
 					1694 auch in <hi rend="italic">De primae philosophiae</hi>, 111 f.
                	Siehe Sacherläuterung zu <ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>.</note>
@@ -1338,9 +1320,9 @@
 						<hi rend="smallCaps">Westfall</hi> 1971). <hi rend="smallCaps">Leibniz</hi> verwendet sie in kritischer
 					Absetzung von Descartes (vgl. 1686, 161) für sein Kraftmaß,
 						<hi rend="italic">bevor</hi> er die Unterscheidung von lebendiger und toter Kraft
-               	einführte (siehe Sacherläuterung zu <ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) und dann <hi rend="italic">vis
-               		viva</hi> gebraucht. Spätere Verwendung u. a. bei Christian <hi rend="smallCaps">Wolff</hi>, der <hi rend="italic">vis
-						motrix</hi> synonym zu <hi rend="italic">vis activa</hi> gebraucht (vgl. 1737,
+               	einführte (siehe Sacherläuterung zu <ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) und dann <foreign xml:lang="la"><hi rend="italic">vis
+               		viva</hi></foreign> gebraucht. Spätere Verwendung u. a. bei Christian <hi rend="smallCaps">Wolff</hi>, der <foreign xml:lang="la"><hi rend="italic">vis
+               			motrix</hi></foreign> synonym zu <foreign xml:lang="la"><hi rend="italic">vis activa</hi></foreign> gebraucht (vgl. 1737,
 						119 f., § 138). Kant
 						kritisiert das Konzept als zirkulär; siehe die 
                	<ref type="editorialNote" target="#en01815">folgende Sacherläuterung</ref>.</note>
@@ -1357,10 +1339,10 @@
                <note type="editorial" xml:id="en01925">Die Substanz … würket] Kants erstes Argument gegen die
 					Gleichsetzung (siehe Sacherläuterung zu 
                	<ref type="editorialNote" target="#en01811">14<hi rend="sup">33-34</hi></ref>) von wirkender Kraft
-						(<hi rend="italic">vis activa</hi>) und bewegender Kraft (<hi rend="italic">vis
-						motrix</hi>): Wirkung beinhaltet für ihn ein <hi rend="italic">bestimmtes</hi>
+               	(<foreign xml:lang="la"><hi rend="italic">vis activa</hi></foreign>) und bewegender Kraft (<foreign xml:lang="la"><hi rend="italic">vis
+						motrix</hi></foreign>): Wirkung beinhaltet für ihn ein <hi rend="italic">bestimmtes</hi>
 					Potential, das sukzessive in der Zeit ausgeübt werden kann; die Bezeichnung
-						<hi rend="italic">vis motrix</hi> bringt diese Möglichkeit nicht zum Ausdruck.</note>
+               	<foreign xml:lang="la"><hi rend="italic">vis motrix</hi></foreign> bringt diese Möglichkeit nicht zum Ausdruck.</note>
                <note type="editorial" xml:id="en02015">Was thut … könne] Kants zweites Argument gegen die
 					Gleichsetzung von wirkender und bewegender Kraft: Wäre beobachtbare Bewegung die
 					einzige Wirkung von Kraft, könnte nicht erklärt werden, wie die Materie auf den
@@ -1463,13 +1445,13 @@
                <note type="editorial" xml:id="en02824">Man begreift … hat] Siehe Sacherläuterung zu 
                	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>: Kant rekonstruiert die Bewegung erster Art als verursacht
 					durch eine äußere Kraft, die dem Körper eine große Geschwindigkeit
-						<hi rend="italic">v</hi> mit entsprechender innerer <hi rend="italic">vis viva</hi>
+               	<hi rend="italic">v</hi> mit entsprechender innerer <foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign>
                	(<hi rend="italic">V ~ m v<hi rend="sup">2</hi>
                   </hi>) erteilt; die Geschwindigkeit
 					wird hier durch den widerstehenden Raum nicht verringert und ist frei (zur
 					Begründung siehe § 17). Die
 					Bewegung zweiter Art rekonstruiert er als durch einen andauernden äußeren Druck
-					bzw. eine <hi rend="italic">vis mortua</hi> (<hi rend="italic">T ~ m v</hi>) verursacht, wodurch dem
+					bzw. eine <foreign xml:lang="la"><hi rend="italic">vis mortua</hi></foreign> (<hi rend="italic">T ~ m v</hi>) verursacht, wodurch dem
 					Körper eine kleine Geschwindigkeit <hi rend="italic">v</hi> erteilt wird, die durch
 					den widerstehenden Raum (siehe § 17) zum
 					Verschwinden gebracht wird. Im ersten Fall setzt er als Maß einer inneren Kraft
@@ -1483,10 +1465,10 @@
 					den folgenden § 17 und die
 					Sacherläuterung zu <ref type="editorialNote" target="#en11506">99<hi rend="sup">22-37</hi></ref>.</note>
                <note type="editorial" xml:id="en02901">wie Herr … hat] Wolff nimmt, entgegen Kants Zuschreibung,
-					keine Identifikation von Bewegung und totem Druck bzw. <hi rend="italic">vis
-						mortua</hi> vor, sondern folgt Leibniz (siehe Sacherläuterung zu 
-               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) darin, dass die <hi rend="italic">vis mortua</hi> nur eine
-					Tendenz (<hi rend="italic">conatus</hi>) zur Bewegung beinhaltet:
+               	keine Identifikation von Bewegung und totem Druck bzw. <foreign xml:lang="la"><hi rend="italic">vis
+						mortua</hi></foreign> vor, sondern folgt Leibniz (siehe Sacherläuterung zu 
+               	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) darin, dass die <foreign xml:lang="la"><hi rend="italic">vis mortua</hi></foreign> nur eine
+               	Tendenz (<foreign xml:lang="la"><hi rend="italic">conatus</hi></foreign>) zur Bewegung beinhaltet:
 						„<foreign xml:lang="la"><hi rend="italic">Vis</hi> dicitur <hi rend="italic">mortua</hi>, quae in solo conatu
 					ad motum subsistit.</foreign>“ (<hi rend="smallCaps">Wolff</hi> 1737,  259, § 356).</note>
                <note type="editorial" xml:id="en02907">Wenn ein … Verhältniß] Kants metaphysische Begründung für das in
@@ -1507,7 +1489,7 @@
                   </hi>. Kant gibt
                	hier einen Begründungsvorschlag für das Maß <hi rend="italic">m v<hi rend="sup">2</hi>
                   </hi> der
-						<hi rend="italic">vis viva</hi>, der von Leibniz’ ‚mathematischer‘ Begründung
+               	<foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign>, der von Leibniz’ ‚mathematischer‘ Begründung
 					ausdrücklich als ein metaphysischer abgesetzt wird. Er steht in klarem
 					Widerspruch zu Newtons Begründung der Mechanik, insbes. zu dessen
 					Trägheitsprinzip. Die scharfe Kritik von <hi rend="smallCaps">Adickes</hi> (1924,
@@ -1558,8 +1540,8 @@
 					unserer gegenwärtigen Betrachtungen‘ (<ref type="editorialNote" target="#en12618">109<hi rend="sup">22-23</hi></ref>). Gemeint sein dürfte die im Folgenden
 					entwickelte (und in § 113 wieder
 					aufgegriffene) Idee, dass aus der Kontinuität der Zeit auch eine Kontinuität des
-					Übergangs vom Zustand der Ruhe zum Zustand der Bewegung folgt  und daher die – in der leibnizschen Dynamik anzutreffende – qualitative Unterscheidung von <hi rend="italic">vis
-						mortua</hi> und <hi rend="italic">vis viva</hi> (siehe Sacherläuterung zu 
+					Übergangs vom Zustand der Ruhe zum Zustand der Bewegung folgt  und daher die – in der leibnizschen Dynamik anzutreffende – qualitative Unterscheidung von <foreign xml:lang="la"><hi rend="italic">vis
+						mortua</hi></foreign> und <foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign> (siehe Sacherläuterung zu 
                	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref> und zu 
                	<ref type="editorialNote" target="#en02812">23<hi rend="sup">29</hi>-24<hi rend="sup">8</hi></ref>) philosophisch problematisch
 					ist. Zum Kontinuitätsprinzip bei Kant siehe auch Sacherläuterung zu 
@@ -1605,7 +1587,7 @@
 					Geschwindigkeit <hi rend="italic">v</hi> eines Körpers als Maß für den ‚toten Druck‘
 					bzw. die ‚tote Kraft‘ (siehe Sacherläuterung zu 
                	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>) im
-					Unterschied zur ‚guten‘ lebendigen Kraft (<hi rend="italic">vis viva</hi>), die mit
+               	Unterschied zur ‚guten‘ lebendigen Kraft (<foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign>), die mit
                	dem Quadrat der Geschwindigkeit (<hi rend="italic">~ v<hi rend="sup">2</hi>
                   </hi>) gemessen
 					wird. Die Bezeichnung ‚schlecht‘ soll offenbar anzeigen, dass er zwar die
@@ -1818,8 +1800,8 @@
 					deutscher Sprache seit 1720 verfügbar (<hi rend="smallCaps">Leibniz</hi> 1720; vgl.
                	a. a. O., 2).</note>
                <note type="editorial" xml:id="en05911">Denn wenn … könne] Kant bereitet mit dieser Argumentation die
-					weitere Kritik an Leibniz’ Begründung der Erhaltung der <hi rend="italic">vis
-						viva</hi> vor, die er in § 51 mit
+               	weitere Kritik an Leibniz’ Begründung der Erhaltung der <foreign xml:lang="la"><hi rend="italic">vis
+						viva</hi></foreign> vor, die er in § 51 mit
 					Hamberger näher ausführt; siehe Sacherläuterung zu 
                	<ref type="editorialNote" target="#en06030">51<hi rend="sup">33-38</hi></ref>.</note>
                <note type="editorial" xml:id="en05933">dritten Hauptstücke] Gemeint ist das ganze Hauptstück
@@ -1867,7 +1849,7 @@
 							&amp;c. &amp;c.</hi>] Für <hi rend="smallCaps">Leibniz</hi> ist neben der
 					Fallbewegung (vgl. 1686; siehe Sacherläuterung zu 
                	<ref type="editorialNote" target="#en01409">11<hi rend="sup">19</hi></ref>) der Stoß
-					elastischer Körper zentral für die Verteidigung der <hi rend="italic">Vis-viva</hi>-Erhaltung: <hi rend="smallCaps">Leibniz’</hi> Ablehnung des Atomismus und dem
+               	elastischer Körper zentral für die Verteidigung der <foreign xml:lang="la"><hi rend="italic">Vis-viva</hi></foreign>-Erhaltung: <hi rend="smallCaps">Leibniz’</hi> Ablehnung des Atomismus und dem
 					Kontinuitätsprinzip (siehe Sacherläuterung zu 
                	<ref type="editorialNote" target="#en03703">31<hi rend="sup">3</hi></ref>) zufolge sind
 					alle Körper elastisch (vgl. auch 1695, 150–152); der Stoß elastischer Körper ist
@@ -1876,7 +1858,7 @@
 					diesen Stoßprozess eine <hi rend="italic">Zunahme</hi> der lebendigen Kraft. Dabei
 					scheint er mit der Betonung der unterschiedlichen Größe auf die zuvor
 						(§ 51) behandelte Äthertheorie anspielen
-					zu wollen. Zur andauernden Kontroverse über die <hi rend="italic">Vis-viva</hi>-Erhaltung beim elastischen Stoß vgl. auch <hi rend="smallCaps">Scott</hi> 1970 und
+						zu wollen. Zur andauernden Kontroverse über die <foreign xml:lang="la"><hi rend="italic">Vis-viva</hi></foreign>-Erhaltung beim elastischen Stoß vgl. auch <hi rend="smallCaps">Scott</hi> 1970 und
 						<hi rend="smallCaps">Iltis</hi> 1971.</note>
                <note type="editorial" xml:id="en06305">Unter den … erweisen] Die hier von Kant beanspruchte Widerlegung
 					Leibniz’ scheitert im Weiteren daran, dass er unzulässige Annahmen über die
@@ -1919,7 +1901,7 @@
 						einzuführen</hi> (1763) von einem allgemeineren Standpunkt
 					thematisiert.</note>
                <note type="editorial" xml:id="en06807">Nun werden … vertheidigen] Auftakt zu Kants erkenntnistheoretischer
-					und methodologischer Kritik der leibnizschen Verteidigung der <hi rend="italic">Vis-viva</hi>-Erhaltung für <hi rend="italic">alle</hi> Stoßprozesse. Zu Leibniz’
+               	und methodologischer Kritik der leibnizschen Verteidigung der <foreign xml:lang="la"><hi rend="italic">Vis-viva</hi></foreign>-Erhaltung für <hi rend="italic">alle</hi> Stoßprozesse. Zu Leibniz’
 					Position siehe Sacherläuterung zu 
                	<ref type="editorialNote" target="#en06235">53<hi rend="sup">24-28</hi></ref>, zur
 					Ablehnung insbes. der Annahme inelastischer Körper daneben <hi rend="smallCaps">Leibniz</hi>,
@@ -2135,8 +2117,8 @@
 					offenbar einen Widerspruch zu Leibniz’ Kontinuitätsprinzip markieren, beruht
 					aber auf Kants Vergleichung des ‚Drucks‘ der Schwere im Falle der Ruhe mit
 					infinitesimaler Bewegung (vgl. § 95). Nach
-					Leibniz’ Dynamik ist dies nicht statthaft, weil <hi rend="italic">vis mortua</hi> und
-						<hi rend="italic">vis viva</hi> qualitativ verschieden sind. Siehe auch
+					Leibniz’ Dynamik ist dies nicht statthaft, weil <foreign xml:lang="la"><hi rend="italic">vis mortua</hi></foreign> und
+               	<foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign> qualitativ verschieden sind. Siehe auch
 					Sacherläuterung zu 
                	<ref type="editorialNote" target="#en02812">23<hi rend="sup">29</hi>-24<hi rend="sup">8</hi></ref> und zu 
                	<ref type="editorialNote" target="#en03703">31<hi rend="sup">3</hi></ref>.</note>
@@ -2585,7 +2567,7 @@
 					modernisierend und analytischer betrachtet, im ersten Fall die unendlich kleine
 					Intension als Geschwindigkeitsdifferential <hi rend="italic">dv</hi> auf, so würde das
                	Kraftmaß durch Aufsummation (Integration) über <hi rend="italic">m v dv</hi> gebildet und ergäbe
-               	(bis auf den Faktor ½) die leibnizsche <hi rend="italic">vis viva</hi>
+               	(bis auf den Faktor ½) die leibnizsche <foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign>
                	<hi rend="italic">m v<hi rend="sup">2</hi>
                   </hi>. Im zweiten Fall wäre die
 					Intension mathematisch als Einheit (siehe Sacherläuterung zu 
@@ -2598,7 +2580,7 @@
 						<hi rend="italic">Metaphysik</hi> liefert nach Kant die eigentliche Lösung des
 					Problems des wahren Kraftmaßes.</note>
                <note type="editorial" xml:id="en14422">In demselben … ist] Bezugnahme auf Leibniz’ Unterscheidung von
-						<hi rend="italic">vis mortua</hi> und <hi rend="italic">vis viva</hi>; siehe
+               	<foreign xml:lang="la"><hi rend="italic">vis mortua</hi></foreign> und <foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign>; siehe
 					Sacherläuterung zu 
                	<ref type="editorialNote" target="#en01412">11<hi rend="sup">22</hi></ref>.</note>
                <note type="editorial" xml:id="en14520">Dieses giebt … überführen] Siehe zu diesem Kontinuitätsargument
@@ -2733,7 +2715,7 @@
 					(Gravitationsbeschleunigung) und <hi rend="italic">dt</hi> (Zeitelement) führt Kant
                	die Faktoren M (Masse), <hi rend="italic">u</hi> (Geschwindigkeit) und g <hi rend="italic">dt</hi> (Geschwindigkeitselement) auf. Hermann
 					setzt, begründet durch Proportionalitätsüberlegungen, das Element dV der
-						<hi rend="italic">vis viva</hi> keineswegs willkürlich aus ‚seinen‘ drei Faktoren
+               	<foreign xml:lang="la"><hi rend="italic">vis viva</hi></foreign> keineswegs willkürlich aus ‚seinen‘ drei Faktoren
                	zusammen: dV=<hi rend="italic">g</hi> M <hi rend="italic">u dt</hi>. Kants Darstellung
 					von dV gibt diese Überlegungen nicht wieder. Zudem schreibt er im Original
 					‚gleich <hi rend="italic">g M dt</hi>‘, gibt also das als Resultat an, was Hermann

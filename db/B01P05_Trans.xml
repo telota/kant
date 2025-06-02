@@ -235,7 +235,7 @@
          	   <p rend="head_05"><hi rend="uppercase">unterthänigst überreicht</hi></p>
          	   <p rend="head_09"><hi rend="uppercase">Immanuel Kant</hi>,</p>
          	   <p rend="head_05"><hi rend="uppercase">der Philosophie Beflissener aus Königsberg in
-						Preußen</hi></p>
+         	       Preu</hi>ß<hi rend="uppercase">en</hi></p>
 				<milestone unit="section" rend="line"/>
          	   <p rend="head_05"><hi rend="uppercase">Königsberg, den 17. April 1755</hi>.</p>
 			</div>
@@ -446,7 +446,7 @@
 						<figure xml:id="B01S0375Z14Formel01">
 							<graphic url="images/band1/B01S0375Z14Formel02.png" width="35%"/>
 						</figure>
-						</p><p xml:id="de026" corresp="#la026">d. h. die Größen x s und k h, um welche der äußerste
+      			</p><p xml:id="de026" corresp="#la026"><abbr>d. h.</abbr> die Größen x s und k h, um welche der äußerste
 						Rand b c des elastischen Körpers ausgedehnt wird, verhalten sich wie die
 						Räume der Zusammendrückung s c und h c.</p>
       			<p xml:id="de027" corresp="#la027">Da nun nach
@@ -593,7 +593,7 @@
 					Schwerkraft zehntausend Billionen mal übertritt. Da nun der Lichtstoff elastisch
 					ist, so unterliegt es keinem Zweifel, daß er durch diese
 					unermäßliche
-					Kraft auch in etwas kleinere Räume gebracht, <abbr>d. h.</abbr>
+					Kraft auch in etwas kleinere Räume gebracht, <abbr>d. h.</abbr>
 					zusammengepreßt werden kann, und da die Theilchen der Körper dem Lichtstoffe
 					überall begegnen, so liegt nichts Ungereimtes in der Annahme, daß jener
 					elastische Stoff, den ich in den Körpern nachgewiesen habe, sich in nichts von
@@ -675,7 +675,7 @@
 					ableiten kann, so rieth jener berühmte Mann auf Grund dieser Annahme, den Grad
 					der Wärme durch die elastische Kraft der dieser Wärme ausgesetzten Luft zu
 					messen, <abbr>d. h.</abbr> durch ein Gewicht, welches die Luft von gleicher Wärme
-					bei gleichemVolumen
+					bei gleichem Volumen
 					zu tragen vermag.</p>
       			<pb ed="AA" n="12"/>
                <div n="3">

@@ -284,8 +284,7 @@
                </app>
                <app from="#app23234">
                   <lem>
-                     <hi rend="antiqua">Anglican.</hi>
-                  </lem>
+                     <hi rend="antiqua">Anglican.</hi></lem>
                   <rdg wit="#AlDe #A">mit <abbr>V</abbr>(<wit wit="#AlDe">Al/De</wit>) zu <wit wit="#A">A</wit>: <hi rend="antiqua">Anglical.</hi>
                   </rdg>
                      <note rend="italic">siehe philologischer
@@ -490,7 +489,7 @@
                      <wit wit="#Ra">Ra</wit>: derselben</rdg>
                   <rdg><abbr>V</abbr>: sc. des Lichts der Planeten</rdg>
                </app>
-               <app from="#app261.05">
+               <app from="#app26105">
                   <lem>ihrer Bewegungen</lem>
                   <rdg wit="#AuszugGen">
                      <wit wit="#AuszugGen"><hi rend="italic">Auszug</hi></wit>: der

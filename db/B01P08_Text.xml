@@ -190,6 +190,7 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
+			<change when="2025-04-01" who="#EF">Corrected</change>
 			<change when="2024-10-24" who="#GN">Corrected</change>
 			<change when="2024-09-23" who="#EF">Corrected</change>
 			<change when="2024-04-29" who="#GN">Corrected</change>
@@ -677,7 +678,7 @@
 				</div><div n="2">
 					<head rend="head_04">
 						<pb ed="firstPrint" n="19" xml:id="B01S0443Z12fp"/>Das Erdbeben vom 18ten
-						Novembr.</head>
+						<abbr>Novembr.</abbr></head>
 					<p rend="indent">Von dem 17ten bis zum 18ten eben dieses Monats, berichteten die
 						öffentliche Nachrichten, eine nahmhafte Erderschütterung, an den Küsten
 						sowohl von Portugal als Spanien und in Afrika. Den 17ten des Mittags war sie
@@ -694,7 +695,7 @@
 				</div><div n="2">
 					<head rend="head_04">Das Erdbeben vom 9ten Decembr.</head>
 					<p rend="indent">Nach dem Zeugniße der öffentlichen Nachrichten, hat Lissabon
-						keine so heftige Anfälle der Erschütterung seit dem 1ten Nov. erlitten, als
+						keine so heftige Anfälle der Erschütterung seit dem 1ten <abbr>Nov.</abbr> erlitten, als
 						diejenige vom 9ten Decembr. Es wurde dieses an den südlichen Küsten von
 						Spanien, an selbigen von Frankreich, durch die Schweitzergebirge, Schwaben,
 						Tyrol bis in Bäyern verspühret. Es durchstrich von Südwesten nach Nordosten,
@@ -815,7 +816,7 @@
 					<p rend="indent">Ich will hier nur überhaupt etwas von den wechselsweise
 						nachlassenden und wiederum anhebenden Erschütterungen anführen. <ref type="editorialNote" target="#en47802">Herr
 							<persName key="bouguer_pierre">Bouguer</persName>, einer von den
-						Abgeordneten der Königl. Acad. der Wißensch. zu Paris nach Peru</ref>, hatte die
+							Abgeordneten der <abbr>Königl. Acad. der Wißensch.</abbr> zu Paris nach Peru</ref>, hatte die
 						Unbeqvemlichkeit in diesem Lande neben einem feuerspeyenden Berge sich
 						aufzuhalten, dessen donnerndes Getöse ihm keine Ruhe ließ. Die Beobachtung
 						die er hiebey machte konte ihm <ref type="critApp" xml:id="app44629">davor</ref> einige Genugthuung seyn, indem er bemerkte daß der Berg
@@ -883,7 +884,7 @@
 					<head rend="head_05">und den Oertern so den meisten und gefährlichsten Erdbeben
 						unterworfen sind.</head>
 					<p rend="indent">Durch die Vergleichung der Zeit ersehen wir, daß der
-						Entzündungsplatz bey dem Erdbeben vom 1ten Nov. in dem Boden der See
+						Entzündungsplatz bey dem Erdbeben vom 1ten <abbr>Nov.</abbr> in dem Boden der See
 						gewesen. Der Tajo der schon vor der Erschütterung aufschwoll, der Schwefel
 						den Seefahrende mit dem Senkbley aus dem erschütterten Grunde brachten, und
 						die Heftigkeit der Stöße die sie fühlten, bestätigen es. Die Geschichte
@@ -1021,8 +1022,7 @@
 							<hi rend="spaced">
 								<persName key="labarbinais-le-gentil_franz_weltreisender">Gentil</persName>
 							</hi>
-						</ref>
-						<hi rend="spaced">,</hi> der selbst von sehr vielen Erdbeben gute <pb ed="firstPrint" n="30" xml:id="B01S0452Z04fp"/>einzuholen Gelegenheit
+						</ref>, der selbst von sehr vielen Erdbeben gute <pb ed="firstPrint" n="30" xml:id="B01S0452Z04fp"/>Kenntnisse einzuholen Gelegenheit
 						hatte, berichtet dieses als eine Beobachtung die durch viele Exempel
 						bestätigt worden: daß wenn die Richtung nach der der Boden erschüttert wird,
 						mit der Richtung nach welcher die Stadt erbauet ist gleichläuft, sie ganz

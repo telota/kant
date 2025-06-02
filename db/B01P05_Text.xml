@@ -199,6 +199,7 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
+			<change when="2025-04-01" who="#EF">Corrected</change>
 			<change when="2024-10-24" who="#GN">Corrected</change>
 			<change when="2024-09-24" who="#EF">Corrected</change>
 			<change when="2024-04-29" who="#GN">Corrected</change>
@@ -250,7 +251,7 @@
 							Physicorum pars maxima <ref type="editorialNote" target="#en37118">ex
 									<persName key="cartes">Cartesii</persName> sententia</ref>
 							arbitratur.</hi></p>
-					<p rend="indent" xml:id="la008" corresp="#de008">
+					<p xml:id="la008" corresp="#de008">
 						<figure xml:id="B01S0371Z19Bild01R">
 							<graphic url="images/band1/B01S0371Z19Bild01R.png" width="30%"/>
 						</figure>Repraesentet triangulum A B C sectionem cumuli particularum
@@ -668,7 +669,7 @@
 				<div n="2">
 					<head rend="head_04" xml:id="la054" corresp="#de054"><hi rend="uppercase">prop. x</hi>.</head>
 					<p rend="indent" xml:id="la055" corresp="#de055">
-						<hi rend="larger">Naturam et causam exhalationum s. vaporum ex assertis
+						<hi rend="larger">Naturam et causam exhalationum <abbr>s.</abbr> vaporum ex assertis
 							theoriae nostrae explicatam reddere.</hi>
 					</p>
 					<div n="3">
@@ -905,7 +906,7 @@
 						<head rend="head_05" xml:id="la077" corresp="#de077">Conclusio.</head>
 						<p rend="indent" xml:id="la078" corresp="#de078">Verum opellae vix inchoatae jam coronidem
 							impono. Non diutius moror Viros officiis gravioribus <ref type="critApp" xml:id="app38417">districtos hoc, quicquid</ref> est, opusculi meque
-							ipsum simul propensae voluntati atque benevolentiae.</p>
+							ipsum simul propensae voluntati atque benevolentiae</p>
 						<p rend="center" xml:id="la079" corresp="#de079">Amplissimae
 							Facultatis <ref type="critApp" xml:id="app38419">Philosophicae</ref>
 							commendans.</p> 

@@ -196,6 +196,7 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
+			<change when="2025-04-02" who="#EF">Corrected</change>
 			<change when="2024-10-24" who="#GN">Corrected</change>
 			<change when="2024-09-23" who="#EF">Corrected</change>
 			<change when="2024-04-29" who="#GN">Corrected</change>
@@ -649,7 +650,7 @@
 							ebendas versucht haben aus
 							den ursprünglichen und
 							anerschaffenen Eigenschaften der Materie zu
-							thun,</hi> strafbar oder <pb ed="AA" n="10"/>GOtt verkleinerlich sey,
+							thun</hi>, strafbar oder <pb ed="AA" n="10"/>GOtt verkleinerlich sey,
 						wie sich manche eingebildet haben, <hi rend="spaced">indem
 							dadurch vielmehr ein höherer
 							Begriff seiner unendlichen
@@ -727,9 +728,8 @@
 						<ref type="critApp" xml:id="app23015">oder Inseckten</ref> sich solcher
 						Vortheile rühmen? Ist man in Stande zu sagen: <hi rend="spaced">Gebt mir
 						Materie, ich will euch zeigen wie
-						eine</hi> 
-                  <pb ed="firstPrint" n="(xxxi)" xml:id="B01S0230Z17fp"/>
-                  <hi rend="spaced">Raupe erzeuget werden
+						eine 
+                  <pb ed="firstPrint" n="(xxxi)" xml:id="B01S0230Z17fp"/>Raupe erzeuget werden
 						könne?</hi> Bleibt man hier nicht bey dem ersten
 					Schritte, aus Unwissenheit der wahren innern Beschaffenheit des Objects
 					und der Verwickelung der in demselben vorhandenen Mannigfaltigkeit,
@@ -761,11 +761,9 @@
 						man <pb ed="oldAA" n="231" xml:id="B01S0231"/>mir erlauben, mich wegen der Art, nach der ich ihn
 					abgehandelt habe, kürzlich zu erklären. Der erste Theil
 					gehet mit einem neuen System des Weltgebäudes im Großen um. <anchor type="textRefStart" xml:id="tr19837"/>
-						<ref type="editorialNote" target="#en23103">Herrn <persName key="wright_von_durham_thomas">
+						<ref type="editorialNote" target="#en23103">Herrn 
                         <hi rend="spaced">Wright</hi> von
-							<hi rend="spaced">Durham</hi>
-                     </persName>
-                     <hi rend="spaced">,</hi>
+							<hi rend="spaced"><persName key="wright_von_durham_thomas">Durham</persName></hi>,
 							deßen Abhandlung ich aus den Hamburgischen freyen Urtheilen
 						vom Jahr 1751. habe kennen lernen, hat mir zuerst
 						Anlaß gegeben, die Fixsterne nicht als ein ohne
@@ -855,9 +853,9 @@
 						nachgeahmet, oder weiter ausgeführt habe</ref>. Indessen bothen
 					sich mir nach der Hand annehmungswürdige Gründe dar, es auf der einen Seite beträchtlich
 					zu erweitern. <anchor type="textRefStart" xml:id="tr20011"/>Ich betrachtete <anchor type="textRefStart" xml:id="tr20012"/>die Art neblichter Sterne, deren Herr
-						<persName key="maupertuis_pierre_louis_moreau_de">von
-							<hi rend="spaced">Maupertuis</hi>
-                  </persName> in der Abhandlung
+						von
+							<hi rend="spaced"><persName key="maupertuis_pierre_louis_moreau_de">Maupertuis</persName></hi>
+                   in der Abhandlung
 						<hi rend="spaced">von der Figur der Gestirne</hi> 
                	<note place="foot" n="(*)" xml:id="fn02">
                      <p rend="indent">
@@ -926,7 +924,7 @@
 								mit den übrigen Sternen hätte, würde von ungeheurer Grösse seyn
 								müssen, damit sie, aus einem viel grösseren Abstande, als der Sterne
 								ihrer ist, gesehen, dennoch dem Fernglase unter merklicher Gestalt
-								und Grösse erscheinen <pb ed="mun" n="13"/> können. Wenn sie aber an Grösse den übrigen
+								und Grösse erscheinen <pb ed="mun" n="13"/>können. Wenn sie aber an Grösse den übrigen
 								Fixsternen ohngefehr gleich kämen; müsten sie uns nicht allein
 								ungleich viel näher seyn, sondern zugleich ein viel schwächeres
 								Licht haben: weil sie bey solcher Nähe und scheinbarer Grösse doch
@@ -958,7 +956,7 @@
 						der Untersuchung des vorurtheilfreyen Lesers
 					darlegen.</p>
                <p rend="indent">In dem
-						<hi rend="spaced">zweiten Theile,</hi> der den eigentlichsten Vorwurf
+						<hi rend="spaced">zweiten Theile</hi>, der den eigentlichsten Vorwurf
 						dieser Abhandlung in sich enthält, suche ich die
 						<w lemma="Verfassung">Verfas<pb ed="firstPrint" n="(xli)" xml:id="B01S0234Z04fp"/>sung</w> des Weltbaues aus dem einfachsten
 					Zustande der Natur bloß durch mechanische Gesetze zu entwickeln. Wenn ich mich unterstehen darf denenjenigen,
@@ -1098,8 +1096,7 @@
       				<item rend="head_11">Zweyter
       					Theil. 
       				</item>
-      				<item><hi rend="larger">Erstes Hauptstück.</hi>
-      					<list>
+      				<item rend="head_05">Erstes Hauptstück.</item>
       						<item>
       							<p rend="hanging">
       							<hi rend="spaced">Gründe vor die Lehrverfassung eines mechanischen Ursprungs
@@ -1125,10 +1122,7 @@
       							Cirkelkreisen, und weiter von demselben mit zunehmenden Graden der Eccentricität.
       							</p>
       						</item>
-      					</list>
-      				</item>
-      				<item><hi rend="larger">Zweytes Hauptstück.</hi>
-      					<list>
+      				<item rend="head_05">Zweytes Hauptstück.</item>
       						<item>
       							<p rend="hanging">
       								<hi rend="spaced">Handelt von der verschiedenen Dichtigkeit der Planeten und
@@ -1152,10 +1146,7 @@
       									</persName>
       								</hi>.</p>
       						</item>
-      					</list>
-      				</item>
-      				<item><hi rend="larger">Drittes Hauptstück.</hi>
-      					<list>
+      				<item rend="head_05">Drittes Hauptstück.</item>
       						<item>
       							<p rend="hanging">
       								<hi rend="spaced">Von der Eccentricität der Planetenkreise und dem Ursprunge
@@ -1168,10 +1159,7 @@
       								Beyläufige Anmerkung von dem
       								Nordscheine.</p>
       						</item>
-      					</list>
-      				</item>
-      				<item><hi rend="larger">Viertes Hauptstück.</hi>
-      					<list>
+      				<item rend="head_05">Viertes Hauptstück.</item>
       						<item>
       							<p rend="hanging">
       								<hi rend="spaced">Von dem Ursprunge der Monde und den Bewegungen der
@@ -1185,10 +1173,7 @@
       								Von der Stellung der Achse der Planeten <ref type="critApp" xml:id="app23832">gegen den</ref> Plan ihrer Kreise. Verrückung
       								ihrer Achse.</p>
       						</item>
-      					</list>
-      				</item>
-      				<item><hi rend="larger">Fünftes Hauptstück.</hi>
-      					<list>
+      				<item rend="head_05">Fünftes Hauptstück.</item>
       						<item>
       							<p rend="hanging">
       								<hi rend="spaced">Von dem Ursprunge des Saturnusringes und der
@@ -1208,21 +1193,15 @@
       								Vermuthung neuer Entdeckungen. Ob die Erde vor der Sündfluth
       								nicht einem Ring gehabt habe?</p>
       						</item>
-      					</list>
-      				</item>
-      				<item>
-      					<pb ed="firstPrint" n="(l)" xml:id="B01S0239Z08fp"/><hi rend="larger">Sechtes
-      					Hauptstück.</hi>
-      					<list>
+      				<item rend="head_05">
+      					<pb ed="firstPrint" n="(l)" xml:id="B01S0239Z08fp"/>Sechtes
+      					Hauptstück.</item>
       						<item>
       							<p rend="hanging">
       							<hi rend="spaced">Von dem Zodiackallichte.</hi>
       							</p>
       						</item>
-      					</list>
-      				</item>
-      				<item><hi rend="larger">Siebendes Hauptstück.</hi>
-      					<list>
+      				<item rend="head_05">Siebendes Hauptstück.</item>
       						<item>
       							<p rend="hanging">
       							<hi rend="spaced">Von der Schöpfung im ganzen Umfange ihrer Unendlichkeit
@@ -1240,10 +1219,7 @@
       							eines solchen Begriffes. Wiedererneurung der verfallenen
       							Natur.</p>
       						</item>
-      					</list>
-      				</item>
-      				<item><hi rend="larger">Zugabe zum Siebenden Hauptstücke.</hi>
-      					<list>
+      				<item rend="head_05">Zugabe zum Siebenden Hauptstücke.</item>
       						<item>
       							<p rend="hanging">
       							<hi rend="spaced">Allgemeine Theorie und Geschichte der Sonne
@@ -1256,10 +1232,7 @@
       							</hi> von dem Mittelpunkte der ganzen Natur.
       							Verbesserung derselben.</p>
       						</item>
-      					</list>
-      				</item>
-      				<item><hi rend="larger">Achtes Hauptstück.</hi>
-      					<list>
+      				<item rend="head_05">Achtes Hauptstück.</item>
       						<item>
       							<p rend="hanging">
       							<hi rend="spaced">Allgemeiner Beweis von der Richtigkeit einer mechanischen
@@ -1292,10 +1265,7 @@
       							einer Lehrverfassung von der unmittelbaren göttlichen Anordnung
       							hervorthun.</p>
       						</item>
-      					</list>
-      				</item>
-      				<item rend="head_11">Dritter Theil. 
-      					<list>
+      				<item rend="head_11">Dritter Theil.</item> 
       						<item>
       							<p rend="hanging">
       							<hi rend="spaced">Enthält eine Vergleichung zwischen den Einwohnern der
@@ -1316,16 +1286,12 @@
       							Anstalten der göttlichen Vorsehung die zu ihrem Besten
       							gemacht sind. Kurze Ausschweifung.</p>
       						</item>
-      					</list></item>
-      				<item><hi rend="larger">Beschluß.</hi>
-      					<list>
+      				<item><hi rend="larger">Beschluß.</hi></item>
       						<item>
       							<p rend="hanging">
       							Die Begebenheiten des Menschen in dem künftigen
       							Leben.</p>
       						</item>
-      					</list>
-      				</item>
       			</list>
       		</div>
       		<div n="1">
@@ -1360,7 +1326,7 @@
 						<hi rend="spaced">schiessende Kraft</hi>, dadurch sie in jedem Punkte ihres
 					krumlienigten Laufes die gerade Richtung fortsetzen, und sich ins
 					Unendliche entfernen würden, wenn nicht eine andere
-						<hi rend="spaced">Kraft,</hi> welche es auch immer seyn mag, sie
+						<hi rend="spaced">Kraft</hi>, welche es auch immer seyn mag, sie
 						beständig nöthigte diese zu
 					verlassen und in einem krummen Gleise zu laufen, der die Sonne
 					als den Mittelpunkt umfasset. Diese zweyte
@@ -1378,7 +1344,7 @@
 						allen Planeten sowohl als Cometen Ellipsen sind, in
 						deren gemeinschaftlichem Brennpunkte sich die Sonne befindet</ref>, <ref type="editorialNote" target="#en24406">so thut doch die höhere Geometrie
 							mit Hülfe der <persName key="kepler_johannes">Keplerischen</persName> Analogie,
-						(nach welcher der <hi rend="spaced">Radius Vector,</hi>
+						(nach welcher der <hi rend="spaced">Radius Vector</hi>,
 							oder die von dem Planeten zur Sonne gezogene Linie, stets
 						solche Räume von der elliptischen Bahn
 						abschneidet, die den Zeiten proportionirt seyn,)</ref> gleichfals mit
@@ -1512,7 +1478,7 @@
       		 <p rend="head_05">von der Vielheit solcher Fixsternsystemen.</p>
                <milestone unit="section" rend="line"/>
                <cit>
-               	<quote rend="intented">
+               	<quote rend="indented">
                         <ref type="editorialNote" target="#en24107" xml:id="en24107P01" next="#en24107P02">
                   Seht jene
 							grosse <hi rend="spaced">Wunderkette</hi> die alle Theile dieser
@@ -1906,7 +1872,7 @@
 							welche er den Feuerhimmel zu sehen glaubte</ref>. Ein Philosoph
 					von erleuchtetern Einsichten, der schon angeführte Herr
 					von <hi rend="antiqua">
-                     <persName key="maupertuis_pierre_louis_moreau_de">Maupertuis</persName>,</hi> hält sie in
+                     <persName key="maupertuis_pierre_louis_moreau_de">Maupertuis</persName></hi>, hält sie in
 						Betrachtung ihrer Figur und
 						kennbaren Durchmessers vor erstaunlich <pb ed="firstPrint" n="14" xml:id="B01S0254Z23fp"/>grosse Himmelskörper, die durch ihre von dem <pb ed="AA" n="35"/>Drehungsschwunge
 						verursachte grosse Abplattung von der Seite gesehen,
@@ -2097,7 +2063,7 @@
       		 <head rend="head_06">Schöpfung.</head>
                <milestone unit="section" rend="line"/>
       			<cit>
-      				<quote rend="intented">
+      				<quote rend="indented">
       					<ref type="editorialNote" target="#en25908" xml:id="en25908P01" next="#en25908P02">Schau sich die <hi rend="spaced">bildende
 								Natur</hi> zu ihrem grossen Zweck bewegen,<lb/>
                Ein jedes
@@ -2480,7 +2446,7 @@
                   <p rend="indent">Diese abgemessene Cirkelbewegung betrifft <w lemma="eigentlich">ei<pb ed="firstPrint" n="36" xml:id="B01S0268Z17fp"/>gentlich</w> nur die der Sonne nahen Planeten: denn von den grossen
 							Entfernungen, da sich die entlegensten Planeten oder auch die Cometen
 							gebildet haben, ist leicht zu vermuthen, daß, weil die sinkende Bewegung
-							des Grundstoffs daselbst viel schwächer, die Weit<pb ed="mun" n="46"/>läuftigkeit der Räume,
+							des Grundstoffs daselbst viel schwächer, die <w lemma="Weitlaeuftigkeit">Weit<pb ed="mun" n="46"/>läuftigkeit</w> der Räume,
 							da sie zerstreuet seyn, auch grösser ist, die Elemente daselbst an und
 							vor sich schon von der zirkelgleichen Bewegung abweichen, und dadurch
 							die <ref type="critApp" xml:id="app26837">Ursache der</ref>
@@ -2606,7 +2572,7 @@
 					sich von ihrer Ursache gemacht hat, oder noch machen könnte.
 						<ref type="editorialNote" target="#en27111">
                   <hi rend="spaced">
-                     <persName key="newton_isaac">Newton</persName>,</hi> der die Dichtigkeit
+                     <persName key="newton_isaac">Newton</persName></hi>, der die Dichtigkeit
 							einiger Planeten durch Rechnung bestimmet
 						hatte, glaubte, die Ursache, ihres nach dem Abstande
 						eingerichteten Verhältnisses, in der
@@ -2903,7 +2869,7 @@
 					Vermischung eine Dichtigkeit herauskommen müssen, die der
 					Dichtigkeit des Sonnenkörpers beynahe gleich ist. <ref type="editorialNote" target="#en27718">Nun findet diese nöthige Folgerung
 						unseres Systems eine glückliche Bestätigung in der Vergleichung, die der Herr
-							<hi rend="spaced">von <persName key="buffon_george_louis_leclerc_graf_v">Büffon</persName>,</hi> dieser
+							<hi rend="spaced">von <persName key="buffon_george_louis_leclerc_graf_v">Büffon</persName></hi>, dieser
 							so würdigberühmte Philosoph, zwischen den Dichtigkeiten
 						der gesammten planetischen Materie und der Sonnen
 							<ref type="critApp" xml:id="app27722">ihre</ref>, angestellet hat; er
@@ -4000,15 +3966,15 @@
 								Wissenschaften zu Paris vom Jahre 1705. in einer Abhandlung des
 								Herrn <hi rend="spaced">
                            <persName key="cassini_giovanni_dominico">Caßini</persName>, von den Trabanten und dem Ringe des
-									Saturns,</hi> auf der 571sten Seite des zweyten Theils
+									Saturns</hi>, auf der 571sten Seite des zweyten Theils
 								der <persName key="steinwehr_wolf_balthasar_adolph_v">
                            <abbr>v.</abbr>
-									Steinwehrschen</persName> Uebersetzung, eine Bestä<pb ed="mun" n="75"/>tigung
+									Steinwehrschen</persName> Uebersetzung, eine <w lemma="Bestaetigung">Bestä<pb ed="mun" n="75"/>tigung</w>
 								dieser Vermuthung, die fast keinen Zweifel ihrer Richtigkeit mehr
 								übrig läßt. Nachdem Herr <hi rend="spaced">
                            <persName key="cassini_giovanni_dominico">Caßini</persName>
                         </hi> einen Gedanken
-								vorgetragen, der gewisser massen <!-- <pb ed="AA" type="fn" n="76fn"/> -->eine kleine Annäherung zu
+								vorgetragen, der gewisser massen eine kleine Annäherung zu
 								derjenigen Warheit hätte seyn können, die wir herausgebracht haben,
 								ob er gleich an sich unwahrscheinlich ist: nemlich, daß vielleicht
 								dieser Ring ein Schwarm kleiner Trabanten seyn möchte, die vom
@@ -4204,8 +4170,8 @@
 								Mairan</persName>
                   </hi> es abbildet, in der
 						Figur eines erhaben geschliffenen Glases, (<foreign xml:lang="la">
-							<hi rend="antiqua">figura lenticulari,</hi>
-                  </foreign>) mit der Oberfläche der
+							<hi rend="antiqua">figura lenticulari</hi>
+                  </foreign>,) mit der Oberfläche der
 						Sonne zusammen stößt, oder wie der Ring des
 						Saturns allenthalben von <ref type="critApp" xml:id="app30427">ihm</ref>
 							abstehet</ref>. Es sey nun das eine oder das andere;
@@ -4463,8 +4429,8 @@
 								man, bey genauer Erwegung, es noch als eine einer Erörterung
 								bedürftige Frage ansehen kan: ob dasjenige, was eine durch die
 								höchste Weisheit begleitete Macht <hi rend="spaced">hervorgebracht
-									hat,</hi> sich zu offenbaren, zu demjenigen, was sie hat
-									<hi rend="spaced">hervorbringen können,</hi> sich wie eine
+									hat</hi>, sich zu offenbaren, zu demjenigen, was sie hat
+									<hi rend="spaced">hervorbringen können</hi>, sich wie eine
 								Differenzialgrösse <ref type="critApp" xml:id="app31038">verhalte?</ref>
                      </ref>
                   </p>
@@ -4497,7 +4463,7 @@
 					Weltraum mit Welten ohne Zahl und ohne Ende belebet werden.
 					Wird denn nun jene systematische Verbindung, die wir vorher bey
 					allen Theilen insonderheit erwogen haben, auch aufs Ganze gehen, und
-					das gesammte <hi rend="spaced">Universum,</hi> das All
+					das gesammte <hi rend="spaced">Universum</hi>, das All
 						der Natur, in einem <ref type="critApp" xml:id="app31025">einigen</ref> System, durch die Verbindung der
 						Anziehung und der fliehenden Kraft, zusammen fassen? Ich sage ja;
 					wenn nur lauter abgesonderte Weltgebäude, die unter einander keine vereinte <pb ed="oldAA" n="311" xml:id="B01S0311"/>Beziehung zu einem Ganzen hätten, vorhanden wären, so könte
@@ -4521,7 +4487,7 @@
 					mit einem unverhinderten Hang zum Verderben und zur Zerstörung
 					eilen, wenn nicht eine gewisse beziehende Einrichtung gegen einen
 						allgemeinen Mittelpunkt, das Centrum der Attraction
-					des <hi rend="spaced">Universi,</hi> und den Unterstützungspunkt der
+					des <hi rend="spaced">Universi</hi>, und den Unterstützungspunkt der
 					gesammten Natur durch systematische Bewegungen getroffen wäre.</p>
             <p rend="indent">Um diesen allgemeinen
 					Mittelpunkt der Senkung der ganzen Natur, sowohl der
@@ -4671,7 +4637,7 @@
 					beleben. Man kan von ihr dasjenige sagen, was der erhabenste
 					unter den deutschen Dichtern von der Ewigkeit schreibet:</p>
       				<cit>
-      					<quote rend="intented"><ref type="editorialNote" target="#en31501" xml:id="en31501P01" next="#en31501P02">
+      					<quote rend="indented"><ref type="editorialNote" target="#en31501" xml:id="en31501P01" next="#en31501P02">
       						<pb ed="oldAA" n="315" xml:id="B01S0315"/>
                                 <anchor type="textRefStart" xml:id="tr27539"/>
                Unendlichkeit! wer misset dich?<lb/>
@@ -4813,7 +4779,7 @@
 					sich halten, um durch einen allmählichen Verfall den Zeitpunkt ihres
 					Unterganges doch endlich herbey zu führen. <ref type="editorialNote" target="#en31734">
                   <hi rend="spaced">
-                     <persName key="newton_isaac">Newton</persName>,</hi> dieser grosse Bewunderer der
+                     <persName key="newton_isaac">Newton</persName></hi>, dieser grosse Bewunderer der
 						Eigenschaften GOttes, aus der Vollkommenheit seiner Werke,
 						der mit der tiefsten Einsicht, in die Treflichkeit
 						der Natur, die gröste Ehrfurcht gegen die
@@ -4856,7 +4822,7 @@
 					unaufhörlichen Schöpfung geschäftig, den
 					Zeug zur Bildung noch grösserer Welten zu formen.</p>
             <cit>
-            	<quote rend="intented"><ref type="editorialNote" target="#en31834" xml:id="en31834P01" next="#en31834P02">
+            	<quote rend="indented"><ref type="editorialNote" target="#en31834" xml:id="en31834P01" next="#en31834P02">
                Der stets mit einem gleichen Auge, weil er, der Schöpfer, ja von
 								allen, <lb/>Sieht einen Helden untergehn, und einen kleinen Sperling
 						fallen, <lb/>Sieht eine Wasserblase springen, und eine ganze Welt
@@ -4864,8 +4830,8 @@
             	</ref></quote>
             	<bibl rend="right"><ref type="editorialNote" target="#en31834" xml:id="en31834P02" prev="#en31834P01">
                <hi rend="spaced">
-                  <persName key="pope_alexander">
-                     <hi rend="larger">Pope</hi>,</persName>
+                  <hi rend="larger"><persName key="pope_alexander">
+                     Pope</persName></hi>,
                </hi> <lb/>nach <hi rend="spaced">
                   <persName key="brockes_barthold_heinrich">Brockes</persName>
                </hi> Uebersetzung</ref>.</bibl>
@@ -4998,7 +4964,7 @@
 					sagen, was der philosophische Dichter von der Ewigkeit
 					saget:</p>
             <cit>
-            	<quote rend="intented"><ref type="editorialNote" target="#en32131" xml:id="en32131P01" next="#en32131P02">
+            	<quote rend="indented"><ref type="editorialNote" target="#en32131" xml:id="en32131P01" next="#en32131P02">
                Wenn denn ein zweytes Nichts, wird diese Welt begraben;
             <lb/>Wenn von dem Alles selbst, nichts bleibet als die Stelle;<lb/>
             Wenn mancher Himmel noch, von andern Sternen helle,<lb/>
@@ -5040,7 +5006,7 @@
 					kostet; kan er seinen Mund in denjenigen Lobgesängen üben, dadavon
 					dereinst alle Ewigkeiten erschallen sollen.</p>
             <cit>
-            	<quote rend="intented"><ref type="editorialNote" target="#en32223" xml:id="en32223P01" next="#en32223P02">
+            	<quote rend="indented"><ref type="editorialNote" target="#en32223" xml:id="en32223P01" next="#en32223P02">
                Wenn dereinst der Bau der Welt, in sein Nichts zurück geeilet<lb/>
             Und sich deiner Hände Werk nicht durch Tag und Nacht mehr theilet;<lb/>
             Denn soll mein gerührt Gemüthe, sich durch dich gestärkt bemühn,<lb/>
@@ -5314,7 +5280,7 @@
 							ungeheure Höhlen erzeugen, <ref type="critApp" xml:id="app32827">in
 									die</ref> gedachte oberste Rinde, zuletzt mit
 							mannigfaltigen Einbeugungen hereinsinkt, und <w lemma="sowohl">so<pb ed="firstPrint" n="138" xml:id="B01S0327Z34fp"/>wohl</w>
-                  	erhöhete Gegenden <!-- <pb ed="AA" type="fn" n="101fn"/> -->und Gebirge, als auch Thäler und Fluthbette weiter
+                  	erhöhete Gegenden und Gebirge, als auch Thäler und Fluthbette weiter
 							Feuerseen dadurch zubereitet.</p>
                </note> sich in die flammende <pb ed="oldAA" n="328" xml:id="B01S0328"/>Thäler <pb ed="firstPrint" n="138" xml:id="B01S0328Z01fp"/>ergiessen, das Krachen der Elemente, den Schutt
             	ausgebrannter Materien, und die mit <pb ed="AA" n="101"/>der Zerstörung
@@ -5366,11 +5332,11 @@
 							weil daselbst aus dem Zwischenraume, da die Milchstrasse sich theilet,
 							die grösseste scheinbare Zerstreuung der Sterne <w lemma="erhellet">erhel<pb ed="firstPrint" n="140" xml:id="B01S0328Z19fpb"/>let</w>.
 							Wenn man daher ohngefehr von dem Orte neben dem Schwanze des Adlers,
-							eine Linie mitten durch die Fläche der Milchstrasse <!-- <pb ed="AA" type="fn" n="102fn"/> -->bis zu dem gegen
+							eine Linie mitten durch die Fläche der Milchstrasse bis zu dem gegen
 							überstehenden Punkte ziehet; so muß diese auf den Mittelpunkt des
 							Systems zutreffen, und sie trift in der That sehr genau auf den Sirius,
 							den hellesten Stern am ganzen Himmel, der, wegen dieser glücklichen, mit
-							seiner <pb ed="mun" n="101"/> vorzüglichen Gestalt <ref type="critApp" xml:id="app32934">so
+							seiner <pb ed="mun" n="101"/>vorzüglichen Gestalt <ref type="critApp" xml:id="app32934">so
 									wohl</ref> harmonierenden Zusammentreffung, es zu verdienen
 							scheinet, daß man ihn vor den Centralkörper selber halte. Er würde, nach
 							diesem Begriffe, auch gerade in dem Streife der Milchstrasse gesehen
@@ -5385,12 +5351,12 @@
 					einstimmiger Senkung zielen, setzen müsse. <ref type="editorialNote" target="#en32904">Von was vor einer Beschaffenheit dieses
 							Fundamentalstücke der
 						ganzen Schöpfung sey, und was auf ihm
-							befindlich, wollen wir dem Herrn <persName key="wright_von_durham_thomas">
+							befindlich, wollen wir dem Herrn 
                      <ref type="critApp" xml:id="app32906">
                         <hi rend="spaced">Wright</hi>
                      </ref> von
-								<hi rend="spaced">Durham</hi>
-                  </persName> zu bestimmen
+								<hi rend="spaced"><persName key="wright_von_durham_thomas">Durham</persName></hi>
+                   zu bestimmen
 							überlassen, der mit einer fanatischen
 						Begeisterung, ein kräftiges Wesen von der Götterart mit
 						geistlichen Anziehungs und Zurückstossungskräften,
@@ -5440,7 +5406,7 @@
 					Schöpfung sich befindet, sind in eine steife und
 						unbewegliche Materie versenket, die
 					ihre Kräfte in einer unüberwindlichen Trägheit verschlossen enthält, und auch eben so unfähig ist, die
-						Eindrücke des <hi rend="spaced">Universi,</hi> mit der nöthigen
+						Eindrücke des <hi rend="spaced">Universi</hi>, mit der nöthigen
 					Deutlichkeit und Leichtigkeit, zu übertragen und mitzutheilen. Man wird diese denkende Wesen
 					also in die niedrige Classe zu zehlen haben; dagegen wird, mit den
 						Entfernungen vom allgemeinen Centro, diese
@@ -5808,7 +5774,7 @@
 							abgeben können, denen Himmelskörpern
 						gemeinschaftliche Bewegungen einzudrücken. Diese Schwierigkeit
 						ist so bedeutend und gültig, daß <hi rend="spaced">
-                     <persName key="newton_isaac">Newton</persName>,</hi>
+                     <persName key="newton_isaac">Newton</persName></hi>,
 							welcher Ursache hatte, den Einsichten seiner
 						Weltweisheit, so viel als irgend ein Sterblicher zu
 						vertrauen, sich genöthiget sahe, allhier die
@@ -5851,7 +5817,7 @@
 						darinn irrete, daß er ihn vor den einzigen, unter allen
 					möglichen seiner Art, hielte. Es ist ganz leicht und
 					natürlich, selbst vermittelst der Schwierigkeit des <hi rend="spaced">
-                  <persName key="newton_isaac">Newton</persName>,</hi> durch
+                  <persName key="newton_isaac">Newton</persName></hi>, durch
 					eine kurze und gründliche Schlußfolge auf die Gewißheit derjenigen
 					mechanischen Erklärungsart zu kommen, die wir in dieser Abhandlung
 					entworfen haben. Wenn man voraussetzt, (wie man denn nicht umhin
@@ -5956,8 +5922,8 @@
 					mindeste Beziehung auf die Stärke oder
 					Schwäche der Sonnenstrahlen haben <ref type="critApp" xml:id="app34131">darf</ref>. <ref type="editorialNote" target="#en34132">Wenn man daher fraget, woher die aus den richtigen Rechnungen
 							des <persName key="newton_isaac">Newton</persName> gezogene
-						Dichtigkeiten der <hi rend="spaced">Erde,</hi> des
-							<hi rend="spaced">Jupiters,</hi> des
+						Dichtigkeiten der <hi rend="spaced">Erde</hi>, des
+							<hi rend="spaced">Jupiters</hi>, des
 							<hi rend="spaced">Saturns</hi> sich gegeneinander
 						wie 400, 94½ und 64
 						verhalten; so wäre es ungereimt die
@@ -6255,13 +6221,13 @@
       		 <head rend="head_06">in sich enthält.</head>
                <milestone unit="section" rend="line"/>
                <cit>
-               	<quote rend="intented">
+               	<quote rend="indented">
                         <ref type="editorialNote" target="#en34907" xml:id="en34907P01" next="#en34907P02">
                   Wer das Verhältniß aller Welten, von einem Theil zum andern weis,<lb/>
                Wer aller Sonnen Menge kennet, und jeglichen Planetenkreis:<lb/>
-                  <hi rend="spaced">Wer die verschiedenen Bewohner von einem jeden Stern erkennet,</hi>
+                  <hi rend="spaced">Wer die verschiedenen Bewohner von einem jeden Stern erkennet</hi>,
                             <lb/>
-               Dem ist allein, <hi rend="spaced">warum die Dinge so seyn, als wie sie seyn,</hi> vergönnet,<lb/>
+               Dem ist allein, <hi rend="spaced">warum die Dinge so seyn, als wie sie seyn</hi>, vergönnet,<lb/>
                		Zu fassen, und uns zu erklären.</ref>
                		</quote>
                	<bibl rend="right">
@@ -6374,7 +6340,7 @@
 						aller Weltkörper, auf der lächerlichen Seite vorzustellen
 							wuste, kan nicht anders, <pb ed="firstPrint" n="177" xml:id="B01S0353Z14fp"/>als
 						gebilliget werden. „Diejenigen Creaturen,“
-							<hi rend="spaced">sprichter,</hi> „welche die Wälder auf dem Kopfe eines
+							<hi rend="spaced">sprichter</hi>, „welche die Wälder auf dem Kopfe eines
 						Bettlers bewohnen, hatten schon lange ihren Aufenthalt vor
 						eine unermeßliche Kugel, und sich selber, als das
 						Meisterstück der Schöpfung, angesehen, als einer unter
@@ -6476,7 +6442,7 @@
 					der Bewegung der Materie, zwischen dem vernünftigen Geiste, und dem Körper, anzutreffen ist, so ist
 					es doch gewiß, daß der Mensch, der alle seine
 					Begriffe und Vorstellungen von <ref type="critApp" xml:id="app35519">dem Eindrucke her hat, den</ref> das
-						<hi rend="spaced">Universum,</hi> vermittelst des
+						<hi rend="spaced">Universum</hi>, vermittelst des
 						Körpers, in seiner Seele erreget, sowohl in Ansehung der
 					Deutlichkeit derselben, als auch der Fertigkeit, dieselbe zu
 					verbinden und zu vergleichen, welche man das Vermögen zu
@@ -6634,7 +6600,7 @@
 						bestehen, welche sowohl durch die 
                   <pb ed="oldAA" n="359" xml:id="B01S0359"/>Rechnungen des
 							<hi rend="spaced">
-                     <persName key="newton_isaac">Newton</persName>,</hi> als auch
+                     <persName key="newton_isaac">Newton</persName></hi>, als auch
 					durch die Gründe der Cosmogonie ausgemacht sind, <ref type="critApp" xml:id="app35902a">dieselbe</ref> bestätigen, nach
 						<ref type="critApp" xml:id="app35902b">welchen</ref> der Stoff,
 						woraus die Himmelskörper gebildet sind</ref>, bey den entfernetern
@@ -6643,7 +6609,7 @@
 					unterhalten, ein gleiches Verhältniß nach sich ziehen
 					muß.</p>
                <p rend="indent">Wir haben eine
-					Vergleichung zwischen der Beschaffenheit der <hi rend="spaced">Materie,</hi> damit die vernünftigen Geschöpfe auf den
+					Vergleichung zwischen der Beschaffenheit der <hi rend="spaced">Materie</hi>, damit die vernünftigen Geschöpfe auf den
 					Planeten wesentlich vereinigt
 					seyn, ausgemacht: und es läst sich auch nach der
 						Einleitung dieser Betrachtung
@@ -6689,7 +6655,7 @@
 					andern Seite andere, die diesen als einen Affen
 					bewundern.</p>
                <cit>
-               	<quote rend="intented">
+               	<quote rend="indented">
                         <ref type="editorialNote" target="#en36004" xml:id="en36004P01" next="#en36004P02">
                   <pb ed="firstPrint" n="188" xml:id="B01S0360Z04fp"/>
                   Da jüngst die obern Weisen sahn,<lb/>
@@ -6948,7 +6914,7 @@
 					deutlich offenbaret, und sind nicht weniger herrlich in den
 					niedrigsten Classen, als in den erhabnern.</p>
                <cit>
-               	<quote rend="intented">
+               	<quote rend="indented">
                         <ref type="editorialNote" target="#en36515" xml:id="en36515P01" next="en36515P02">
                   Welch eine Kette die von GOtt den Anfang nimmt, was vor Naturen<lb/>
                Von himmlischen und irrdischen, von Engeln, Menschen bis zum Vieh,<lb/>
@@ -6975,7 +6941,7 @@
 					ausübe, oder ob die Tugend allein ihr Regiment daselbst
 					aufgeschlagen.</p>
                <cit>
-               	<quote rend="intented">
+               	<quote rend="indented">
                         <ref type="editorialNote" target="#en36530" xml:id="en36530P01" next="#en36530P02">
                   Die Sterne sind vielleicht ein Sitz verklärter Geister,<lb/>
                Wie hier das Laster herrscht, ist dort die Tugend Meister.<lb/>

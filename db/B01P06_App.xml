@@ -405,14 +405,12 @@
                </app>
                <app from="#app40632">
                   <lem><hi rend="antiqua">eos</hi></lem>
-                  <rdg wit="#Ti #A">
-					mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">eas</hi>
+                  <rdg wit="#Ti #A">mit <wit wit="#Ti">Ti</wit> zu <wit wit="#A">A</wit>: <hi rend="antiqua">eas</hi>
                   </rdg>
                </app>
                <app from="#app40633">
                   <lem><hi rend="antiqua">qui</hi></lem>
-                  <rdg wit="#Ha2 #A">
-					mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>:
+                  <rdg wit="#Ha2 #A">mit <wit wit="#Ha2">Ha2</wit> zu <wit wit="#A">A</wit>:
                      <hi rend="antiqua">quae</hi>
                   </rdg>
                </app>

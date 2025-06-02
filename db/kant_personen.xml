@@ -116,7 +116,7 @@
          <date type="publication">2023</date>
          <availability>
             <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
-                Commons Attribution-ShareAlike 4.0 International (CC BY 4.0)</licence>
+               Commons Attribution-ShareAlike 4.0 International (CC BY 4.0)</licence>
          </availability>
       </publicationStmt>
           <sourceDesc>
@@ -125,6 +125,7 @@
           </sourceDesc>
       </fileDesc>
       <revisionDesc>
+         <change when="2025-03-20" who="#EF">Corrected</change>
           <change when="2024-10-23" who="#EF">Corrected</change>
          <change when="2023-12-14" who="#GN">Converted</change>
       </revisionDesc>
@@ -157,7 +158,7 @@
                <note>Biblischer Stammvater Israels (AT, Genesis).</note>
             </person>
             <person xml:id="abubekr">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118859323</idno>
                <persName type="reg">Abubeker</persName>
                <birth>ca. 573–634</birth>
                <death>ca. 573–634</death>
@@ -165,15 +166,16 @@
                <note>Abū Bakr ʿAbdallāh ibn Abī Quhāfa as-Siddīq; früher Anhänger und Schwiegervater Mohammeds, nach dessen Tod erster Kalif.</note>
             </person>
             <person xml:id="achenwall_gottfried">
-               <idno type="uri">http://d-nb.info/gnd/118643657</idno>
+               <idno type="uri">https://d-nb.info/gnd/118643657</idno>
                <persName type="reg">Achenwall, Gottfried</persName>
                <birth>1719–1772</birth>
                <death>1719–1772</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Historiker und Jurist, Professor der Philosophie in Göttingen.</note>
             </person> 
             <person xml:id="achilles">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118500384</idno>
                <persName type="reg">Achilles</persName>
                <birth/>
                <death/>
@@ -181,15 +183,16 @@
                <note>Kämpfer aus der griechischen Mythologie, steht für Unverwundbarkeit.</note>
             </person>
             <person xml:id="adam">
-               <idno type="uri">http://d-nb.info/gnd/118646877</idno>
+               <idno type="uri">https://d-nb.info/gnd/118646877</idno>
                <persName type="reg">Adam</persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Nach Genesis (AT) der erste Mann und Urvater.</note>
             </person>
             <person xml:id="addison_joseph">
-               <idno type="uri">http://d-nb.info/gnd/118500619</idno>
+               <idno type="uri">https://d-nb.info/gnd/118500619</idno>
                <persName type="reg">Addison, Joseph<addName>Addisson</addName>
                </persName>
                <birth>1672–1719</birth>
@@ -199,7 +202,7 @@
                <note>Englischer Schriftsteller, Politiker und Journalist, London.</note>
             </person>
             <person xml:id="adrast">
-               <idno type="uri"/>
+               <idno type="uri">http://id.loc.gov/authorities/names/no2014083510</idno>
                <persName type="reg">Adrast</persName>
                <birth/>
                <death/>
@@ -223,7 +226,7 @@
                <note>Figur aus der römischen und griechischen Mythologie. Stammvater der Römer.</note>
             </person>
             <person xml:id="aeon">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118920871</idno>
                <persName type="reg">Aeon</persName>
                <birth/>
                <death/>
@@ -231,7 +234,7 @@
                <note>Als Gott personifizierte Ewigkeit in der griechischen Mythologie.</note>
             </person>
             <person xml:id="aepinus_franz_ulrich_theodor">
-               <idno type="uri">http://d-nb.info/gnd/100006132</idno>
+               <idno type="uri">https://d-nb.info/gnd/100006132</idno>
                <persName type="reg">Aepinus, Franz Ulrich Theodor</persName>
                <birth>1724–1802</birth>
                <death>1724–1802</death>
@@ -239,7 +242,7 @@
                <note>Deutscher Physiker und Naturphilosoph, Professor in St. Petersburg.</note>
             </person> 
             <person xml:id="aeschylus">
-               <idno type="uri">http://d-nb.info/gnd/118500856</idno>
+               <idno type="uri">https://d-nb.info/gnd/118500856</idno>
                <persName type="reg">Aeschylus</persName>
                <birth>525–456 v. Chr.</birth>
                <death>525–456 v. Chr.</death>
@@ -247,7 +250,7 @@
                <note>Antiker griechischer Tragödiendichter.</note>
             </person>
             <person xml:id="aesculap">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118500864</idno>
                <persName type="reg">Aesculap</persName>
                <birth/>
                <death/>
@@ -255,7 +258,7 @@
                <note>Römischer Gott der Heilkunst.</note>
             </person>
             <person xml:id="aesop">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118647180</idno>
                <persName type="reg">Aesopicus</persName>
                <birth>ca. 6. Jh. v. Chr.</birth>
                <death>ca. 6. Jh. v. Chr.</death>
@@ -264,7 +267,7 @@
                <note>Aesop; antiker griechischer Fabeldichter.</note>
             </person>
             <person xml:id="ahasverus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/4140424-5</idno>
                <persName type="reg">Ahasverus</persName>
                <birth/>
                <death/>
@@ -277,6 +280,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="diect" target="6"/>
                <note>Prinzip des Bösen im Zoroastrismus.</note>
             </person>
             <person xml:id="aischa">
@@ -296,7 +300,7 @@
                <note>Portugiesischer Militär und Seefahrer.</note>
             </person>
             <person xml:id="alcest">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118829203</idno>
                <persName type="reg">Alcest</persName>
                <birth/>
                <death/>
@@ -305,7 +309,7 @@
             Mythologie für aufopfernde Liebe.</note>
             </person>
             <person xml:id="alcides">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118639552</idno>
                <persName type="reg">Alcides</persName>
                <birth/>
                <death/>
@@ -313,7 +317,7 @@
                <note>Siehe Hercules.</note>
             </person>
             <person xml:id="alexander_der_groe">
-               <idno type="uri">http://d-nb.info/gnd/118501828</idno>
+               <idno type="uri">https://d-nb.info/gnd/118501828</idno>
                <persName type="reg">Alexander</persName>
                <birth>356–323 v. Chr.</birth>
                <death>356–323 v. Chr.</death>
@@ -331,7 +335,7 @@
             II.</note>
             </person>
             <person xml:id="all_ihn_abi_talib">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118846582</idno>
                <persName type="reg">Aly</persName>
                <birth>ca. 600–661</birth>
                <death>ca. 600–661</death>
@@ -366,7 +370,7 @@
                <note>Französischer Physiker und Erfinder, Lille/Paris.</note>
             </person>
             <person xml:id="anacharsis">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118649000</idno>
                <persName type="reg">Anacharsis</persName>
                <birth/>
                <death/>
@@ -399,7 +403,7 @@
                <note>Britischer Marineadmiral.</note>
             </person>
             <person xml:id="antonin">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118577468</idno>
                <persName type="reg">Antonin</persName>
                <birth/>
                <death/>
@@ -473,7 +477,7 @@
                <note>Italienischer Humanist, Militär und Schriftsteller der Renaissance.</note>
             </person>
             <person xml:id="aristides_v_athen">
-               <idno type="uri">https://d-nb.info/gnd/118645749</idno>
+               <idno type="uri">https://d-nb.info/gnd/118650106</idno>
                <persName type="reg">Aristides von Athen</persName>
                <birth>ca. 550–ca. 467 v. Chr.</birth>
                <death>ca. 550–ca. 467 v. Chr.</death>
@@ -487,10 +491,11 @@
                <death>384–322 v. Chr.</death>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker griechischer Philosoph, Naturforscher und Universalgelehrter, Athen.</note>
             </person>
             <person xml:id="arkesilaus">
-               <idno type="uri">https://d-nb.info/gnd/1275629253</idno>
+               <idno type="uri">https://d-nb.info/gnd/119557592</idno>
                <persName type="reg">Arkesilaus</persName>
                <birth>315–241 oder 240 v. Chr.</birth>
                <death>315–241 oder 240 v. Chr.</death>
@@ -528,6 +533,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Verkörperung der Gerechtigkeit in der griechischen und römischen Mythologie.</note>
             </person>
             <person xml:id="attakakullakulla">
@@ -539,7 +545,7 @@
                <note>Oberhaupt der Cherokee.</note>
             </person>
             <person xml:id="august_knig_v_sachsen">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118505084</idno>
                <persName type="reg">August der Starke</persName>
                <birth>1670–1733</birth>
                <death>1670–1733</death>
@@ -565,7 +571,7 @@
                <note>Augustus; erster römischer Kaiser.</note>
             </person>
             <person xml:id="aurengzeb">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118651161</idno>
                <persName type="reg">Aurengzeb</persName>
                <birth>1618–1707</birth>
                <death>1618–1707</death>
@@ -604,6 +610,7 @@
                <birth>1740–1792</birth>
                <death>1740–1792</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Aufklärer und evangelischer Theologe, Professor in Gießen.</note>
             </person>
             <person xml:id="balduin">
@@ -622,12 +629,13 @@
                <ptr type="general" target="0"/>
                <note>Schottischer Mediziner, lebte und forschte in Indien.</note>
             </person>
-            <person xml:id="balmerino_arthur_6_lord_baimerino">
+            <person xml:id="balmerino_arthur_6_lord_balmerino">
                <idno type="uri">https://d-nb.info/gnd/1023820846</idno>
                <persName type="reg">Balmerino, Arthur</persName>
                <birth>1688–1746</birth>
                <death>1688–1746</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Schottischer Adliger und Offizier.</note>
             </person>
             <person xml:id="porta_baptista">
@@ -735,6 +743,7 @@
                <birth>1738–1794</birth>
                <death>1738–1794</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Italienischer Rechtsphilosoph und Strafrechtsreformer.</note>
             </person>
             <person xml:id="beccaria_giacomo_battista">
@@ -763,7 +772,7 @@
                <note>Ungarischer Historiker und evangelischer Theologe.</note>
             </person>
             <person xml:id="belisar">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118655108</idno>
                <persName type="reg">Belisar</persName>
                <birth>ca. 500–565</birth>
                <death>ca. 500–565</death>
@@ -838,7 +847,7 @@
                <note>Schweizer Mathematiker und Arzt, Professor in Groningen und Basel.</note>
             </person>
             <person xml:id="bernoulli_johann_2">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/117589136</idno>
                <persName type="reg">Bernoulli, Johann [II]</persName>
                <birth>1744–1807</birth>
                <death>1744–1807</death>
@@ -942,7 +951,7 @@
                <note>Deutscher Mediziner, Professor in Königsberg.</note>
             </person>
             <person xml:id="boleyn_anna_von_bolen">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118649442</idno>
                <persName type="reg">Bolen, Anna von</persName>
                <birth>1501/07–1536</birth>
                <death>1501/07–1536</death>
@@ -1054,6 +1063,16 @@
                <ptr type="direct" target="1"/>
                <note>Englischer Geistlicher und Astronom, Professor der Astronomie in Oxford.</note>
             </person>
+            <person xml:id="brahma">
+               <idno type="uri">https://d-nb.info/gnd/119056119</idno>
+               <persName type="reg">Bra(h)ma</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Eine der höchsten Gottheiten des Hinduismus; Verkörperung des Prinzips der
+                  Schöpfung.</note>
+            </person>
             <person xml:id="tycho_brahe">
                <idno type="uri">https://d-nb.info/gnd/118514237</idno>
                <persName type="reg">Brahe, Tycho (de)<addName>Ticho</addName>
@@ -1110,6 +1129,7 @@
                <birth>1735–1788</birth>
                <death>1735–1788</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Schottischer Arzt und Neurophysiologe, Edinburgh/London.</note>
             </person>
             <person xml:id="browne_william_g">
@@ -1163,7 +1183,7 @@
                <note>Buache; französischer Geograph, Paris.</note>
             </person>
             <person xml:id="buddha_fo">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118664417</idno>
                <persName type="reg">Budda</persName>
                <birth>ca. 5.–4. Jh. v. Chr.</birth>
                <death>ca. 5.–4. Jh. v. Chr.</death>
@@ -1237,6 +1257,7 @@
                <birth>1724–1793</birth>
                <death>1724–1793</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher evangelischer Theologe und Geograph, Professor der Philosophie in
             Göttingen.</note>
             </person>
@@ -1250,7 +1271,7 @@
                <note>Englischer Dichter, London.</note>
             </person>
             <person xml:id="chadidscha">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118638335</idno>
                <persName type="reg">Cadigha</persName>
                <birth>ca. 555–ca. 619</birth>
                <death>ca. 555–ca. 619</death>
@@ -1281,6 +1302,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Kain; nach Altem Testament ältester Sohn von Adam und Eva, Bruder Abels.</note>
             </person>
             <person xml:id="campe_joachim">
@@ -1301,7 +1323,7 @@
             Groningen.</note>
             </person>
             <person xml:id="candide">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/4284773-4</idno>
                <persName type="reg">Candide</persName>
                <birth/>
                <death/>
@@ -1309,7 +1331,7 @@
                <note>Protagonist im gleichnamigen Roman Voltaires.</note>
             </person>
             <person xml:id="canzler_ferdinand_gottlieb">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/116447117</idno>
                <persName type="reg">Canzler, Ferdinand Gottlieb</persName>
                <birth>1764–1811</birth>
                <death>1764–1811</death>
@@ -1339,6 +1361,7 @@
                <birth>1600–1649</birth>
                <death>1600–1649</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>König von England, Schottland und Irland.</note>
             </person>
             <person xml:id="karl_ii_knig_v_england_schottland_u_irland">
@@ -1392,7 +1415,7 @@
                <note>Englischer Seefahrer und Entdecker.</note>
             </person>
             <person xml:id="cartes">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118524844</idno>
                <persName type="reg">Cartes/Cartesen/Cartesius</persName>
                <birth/>
                <death/>
@@ -1421,7 +1444,7 @@
                <note>Französischer Astronom.</note>
             </person>
             <person xml:id="catelan_abbe_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/115669146X</idno>
                <persName type="reg">Catelan, Abbé François de</persName>
                <birth>† n. 1719</birth>
                <death>† n. 1719</death>
@@ -1435,10 +1458,11 @@
                <birth>234–149 v. Chr.</birth>
                <death>234–149 v. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Römischer Politiker, Feldherr und Schriftsteller.</note>
             </person>
             <person xml:id="cavalieri_bonaventura">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118872621</idno>
                <persName type="reg">Cavalierius, Bonaventura</persName>
                <birth>1598–1647</birth>
                <death>1598–1647</death>
@@ -1464,7 +1488,7 @@
             Pahcio).</note>
             </person>
             <person xml:id="cham">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/120339994</idno>
                <persName type="reg">Cham</persName>
                <birth/>
                <death/>
@@ -1477,6 +1501,7 @@
                <birth>1682–1761</birth>
                <death>1682–1761</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Französischer Reisender, Historiker und Philosoph.</note>
             </person>
             <person xml:id="charpentier_johann_friedrich_wilhelm_v">
@@ -1510,10 +1535,11 @@
                <birth>1694–1773</birth>
                <death>1694–1773</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Englischer Politiker und Schriftsteller, London.</note>
             </person>
             <person xml:id="chingeskan">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118527576</idno>
                <persName type="reg">Chingeskan</persName>
                <birth/>
                <death/>
@@ -1526,6 +1552,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Figur bei Terenz, z. B. in Heautontimorumenos; ein alter Geizhals.</note>
             </person>
             <person xml:id="christina_v_schweden">
@@ -1542,6 +1569,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Siehe Jesus Christus.</note>
             </person>
             <person xml:id="chrysipp">
@@ -1560,10 +1588,11 @@
                <birth>106–43 v. Chr.</birth>
                <death>106–43 v. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker römischer Politiker, Konsul, Schriftsteller und Philosoph.</note>
             </person>
             <person xml:id="claproth">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118723367</idno>
                <persName type="reg">Claproth, Martin Heinrich</persName>
                <birth>1743–1817</birth>
                <death>1743–1817</death>
@@ -1571,7 +1600,7 @@
                <note>Auch Klaproth, deutscher Chemiker, Professor in Berlin.</note>
             </person>
             <person xml:id="clarissa">
-               <idno type="uri"/>
+               <idno type="uri">´https://d-nb.info/gnd/4138842-2</idno>
                <persName type="reg">Clarissa</persName>
                <birth/>
                <death/>
@@ -1609,6 +1638,7 @@
                <birth>1718–1779</birth>
                <death>1718–1779</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Philosoph, Königsberg/Potsdam.</note>
             </person>
             <person xml:id="columbus_christoph">
@@ -1661,7 +1691,7 @@
                <note>Schweizer Schriftsteller, Politiker und Staatstheoretiker.</note>
             </person>
             <person xml:id="constantin_copronymus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119178265</idno>
                <persName type="reg">Constantin Copronomus</persName>
                <birth>718–775</birth>
                <death>718–775</death>
@@ -1772,10 +1802,11 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Nach einer Volkssage römischer Soldat, der 362 v. Chr. den Opfertod starb.</note>
             </person>
             <person xml:id="cineas">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/102384924</idno>
                <persName type="reg">Cyneas</persName>
                <birth>ca. 350–nach 278 v. Chr.</birth>
                <death>ca. 350–nach 278 v. Chr.</death>
@@ -1799,7 +1830,7 @@
                <note>Französischer Mathematiker, Physiker und Philosoph der Aufklärung, Paris.</note>
             </person>
             <person xml:id="dalrymple_alexander">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/116017562</idno>
                <persName type="reg">Dalrympel, Alexander</persName>
                <birth>1737–1808</birth>
                <death>1737–1808</death>
@@ -1841,6 +1872,15 @@
                <death>ca. 380–330 v. Chr.</death>
                <ptr type="general" target="0"/>
                <note>Persischer König, Gegenspieler Alexanders des Großen.</note>
+            </person>
+            <person xml:id="david">
+               <idno type="uri">https://d-nb.info/gnd/118523929</idno>
+               <persName type="reg">David</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Biblischer König von Juda und Israel (AT).</note>
             </person>
             <person xml:id="demanet_abbe">
                <idno type="uri">https://d-nb.info/gnd/124329578</idno>
@@ -1903,7 +1943,7 @@
                <note>Französischer Philosoph und Mathematiker.</note>
             </person>
             <person xml:id="guignes_josef_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/124343481</idno>
                <persName type="reg">Desguignes, Josef</persName>
                <birth>1721–1800</birth>
                <death>1721–1800</death>
@@ -1986,7 +2026,7 @@
             Bibliothekar der Universität Leiden.</note>
             </person>
             <person xml:id="dschingischan">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118527576</idno>
                <persName type="reg">Dschingiskan</persName>
                <birth>† 1227</birth>
                <death>† 1227</death>
@@ -1994,7 +2034,7 @@
                <note>Dschingis Khan; Khan der Mongolen und Begründer des mongolischen Reichs.</note>
             </person>
             <person xml:id="ebeling_christof_daniel">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118681508</idno>
                <persName type="reg">Ebeling, Christof Daniel</persName>
                <birth>1741–1817</birth>
                <death>1741–1817</death>
@@ -2036,7 +2076,7 @@
                <note>Deutscher Pädagoge und Philosoph, Professor der Philosophie in Kiel.</note>
             </person>
             <person xml:id="elia">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118529811</idno>
                <persName type="reg">Elia</persName>
                <birth/>
                <death/>
@@ -2053,7 +2093,7 @@
             Scotia.</note>
             </person>
             <person xml:id="emile">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/4192551-8</idno>
                <persName type="reg">Emile<addName>Emil</addName>
                </persName>
                <birth/>
@@ -2094,6 +2134,7 @@
                <death>ca. 341–271/270 v. Chr.</death>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker griechischer Philosoph, Athen.</note>
             </person>
             <person xml:id="erhard_johann_benjamin">
@@ -2192,7 +2233,7 @@
                <note>Deutscher Physiker und Erfinder, Den Haag.</note>
             </person>
             <person xml:id="falstaff_john">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11909715X</idno>
                <persName type="reg">Falstaff, John</persName>
                <birth/>
                <death/>
@@ -2240,7 +2281,7 @@
                <note>Deutscher Historiker und Sprachforscher.</note>
             </person>
             <person xml:id="flarnmsteed_john">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119325748</idno>
                <persName type="reg">Flammsteed, John</persName>
                <birth>1692–1762</birth>
                <death>1692–1762</death>
@@ -2257,7 +2298,7 @@
                <note>Deutscher evangelischer Theologe und Philosoph, Professor in Tübingen.</note>
             </person>
             <person xml:id="fo_s_buddha">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118664417</idno>
                <persName type="reg">Fo</persName>
                <birth/>
                <death/>
@@ -2265,7 +2306,7 @@
                <note>Siehe Budda.</note>
             </person>
             <person xml:id="fontana_felice_abt">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/117519669</idno>
                <persName type="reg">Fontana, Felice Abt</persName>
                <birth>1730–1805</birth>
                <death>1730–1805</death>
@@ -2362,11 +2403,12 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Göttin der Liebe und Ehe in nordischen Mythologien.</note>
             </person>
             <person xml:id="friedrich_ii_der_groe">
                <idno type="uri">https://d-nb.info/gnd/118535749</idno>
-               <persName type="reg">Friederich<addName>Fridericus</addName>
+               <persName type="reg">Friedrich<addName>Friederich, Fridericus</addName>
                </persName>
                <birth>1712–1786</birth>
                <death>1712–1786</death>
@@ -2374,8 +2416,16 @@
                <ptr type="direct" target="1"/>
                <note>Friedrich II. (der Große), König von Preußen.</note>
             </person>
+            <person xml:id="friedrich_wilhelm_i">
+               <idno type="uri">https://d-nb.info/gnd/11853596X</idno>
+               <persName type="reg">Friedrich Wilhelm</persName>
+               <birth>1620–1688</birth>
+               <death>1620–1688</death>
+               <ptr type="general" target="0"/>
+               <note>„Der Große Kurfürst“ von Brandenburg und Herzog in Preußen.</note>
+            </person>
             <person xml:id="friedrich_wilhelm_ii">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11869362X</idno>
                <persName type="reg">Friedrich Wilhelm II.</persName>
                <birth>1744–1797</birth>
                <death>1744–1797</death>
@@ -2406,8 +2456,16 @@
                <ptr type="general" target="0"/>
                <note>Sohn von Agnes Elisabeth v. Funk, studierte bei Kant.</note>
             </person>
-            <person xml:id="gabriel">
+            <person xml:id="funk_wilhelm_ernst_v">
                <idno type="uri"/>
+               <persName type="reg">Funk, Wilhelm Ernst von</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <note>Bruder von Johann Friedrich von Funk.</note>
+            </person>
+            <person xml:id="gabriel">
+               <idno type="uri">https://d-nb.info/gnd/119372207</idno>
                <persName type="reg">Gabriel</persName>
                <birth/>
                <death/>
@@ -2429,6 +2487,7 @@
                <birth>1564–1642</birth>
                <death>1564–1642</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Italienischer Universalgelehrter, Professor der Mathematik in Padua.</note>
             </person>
             <person xml:id="galvani_luigi">
@@ -2445,6 +2504,7 @@
                <birth>1742–1798</birth>
                <death>1742–1798</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Mathematiker und Philosoph der Aufklärung, Leipzig/Breslau.</note>
             </person>
             <person xml:id="gaspari_adam_christian">
@@ -2466,7 +2526,7 @@
             Philosophie in Aix-en-Provence.</note>
             </person>
             <person xml:id="gassner_johann_josef">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/116450274</idno>
                <persName type="reg">Gassner, Johann Josef</persName>
                <birth>1727–1779</birth>
                <death>1727–1779</death>
@@ -2550,11 +2610,12 @@
                <note>Deutscher Geograph und Chemiker, Professor der Chemie in St. Petersburg.</note>
             </person>
             <person xml:id="georgius_frater_augustinus_antonius">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/100044794</idno>
                <persName type="reg">Georgius, Frater Augustinus Antonius</persName>
                <birth>1711–1797</birth>
                <death>1711–1797</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Italienischer Orientalist, Rom.</note>
             </person>
             <person xml:id="gerstner_professor_in_prag">
@@ -2587,7 +2648,7 @@
                <birth>1709–1755</birth>
                <death>1709–1755</death>
                <ptr type="general" target="0"/>
-               <note>Deutscher Botaniker und Forschungsreisender, Professor in St .Petersburg und
+               <note>Deutscher Botaniker und Forschungsreisender, Professor in St. Petersburg und
             Göttingen.</note>
             </person>
             <person xml:id="gschen_georg_joachim">
@@ -2599,7 +2660,7 @@
                <note>Deutscher Verleger, Leipzig.</note>
             </person>
             <person xml:id="guettard">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/117576425</idno>
                <persName type="reg">Gotthard, Jean-Étienne</persName>
                <birth>1715–1786</birth>
                <death>1715–1786</death>
@@ -2631,6 +2692,16 @@
                <death/>
                <ptr type="general" target="0"/>
                <note>Sir Charles Grandison, Titelfigur einer Erzählung von Samuel Richardson (1753).</note>
+            </person>
+            <person xml:id="grazien">
+               <idno type="uri">https://d-nb.info/gnd/118702335</idno>
+               <persName type="reg">Grazien</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>In der römischen Mythologie drei Töchter (Euphrosyne, Thalia, Aglaia) des Jupiter;
+                  Göttinnen der Anmut, Schönheit und Lebensfreude.</note>
             </person>
             <person xml:id="gren_friedrich_albrecht_karl">
                <idno type="uri">https://d-nb.info/gnd/119301008</idno>
@@ -2726,6 +2797,7 @@
                <death>1708–1777</death>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Schweizer Mediziner, Naturforscher, Dichter und Staatsmann, Professor der Anatomie,
             Botanik und Chirurgie in Göttingen.</note>
             </person>
@@ -2739,7 +2811,7 @@
                <note>Englischer Astronom und Mathematiker, Professor der Geometrie in Oxford.</note>
             </person>
             <person xml:id="ham">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/120339994</idno>
                <persName type="reg">Ham</persName>
                <birth/>
                <death/>
@@ -2781,7 +2853,7 @@
                <note>Karthagischer Stratege und Feldherr.</note>
             </person>
             <person xml:id="hanuman">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11889675X</idno>
                <persName type="reg">Hanumann</persName>
                <birth/>
                <death/>
@@ -2830,7 +2902,7 @@
                <note>Deutscher Orientalist, Professor in Marburg.</note>
             </person>
             <person xml:id="hartscker_nikolaus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/124799361</idno>
                <persName type="reg">Hartsöcker, Johannes Nikolaus</persName>
                <birth>1656–1725</birth>
                <death>1656–1725</death>
@@ -2869,6 +2941,7 @@
                <birth>1693–1743</birth>
                <death>1693–1743</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Mathematiker, Professor in Leipzig.</note>
             </person>
             <person xml:id="hearne_samuel">
@@ -2877,6 +2950,7 @@
                <birth>1745–1792</birth>
                <death>1745–1792</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Englischer Entdecker und Naturforscher.</note>
             </person>
             <person xml:id="hechtel_verleger">
@@ -2888,7 +2962,7 @@
                <note>Deutscher Verleger, Frankfurt (Main).</note>
             </person>
             <person xml:id="hecuba">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/142076430</idno>
                <persName type="reg">Hecuba</persName>
                <birth/>
                <death/>
@@ -2896,7 +2970,7 @@
                <note>Nach Homers Illias Gattin des Priamos und letzte Königin von Troja.</note>
             </person>
             <person xml:id="heemskerk">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/138842728</idno>
                <persName type="reg">Hemskerk, Jacob v.</persName>
                <birth>1567–1607</birth>
                <death>1567–1607</death>
@@ -2960,12 +3034,13 @@
                <note>Antiker griechischer Philosoph, Ephesos.</note>
             </person>
             <person xml:id="hercules">
-               <idno type="uri"/>
-               <persName type="reg">Hercules<addName>Herkules</addName>
+               <idno type="uri">https://d-nb.info/gnd/118639552</idno>
+               <persName type="reg">Herkules<addName>Hercules</addName>
                </persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Halbgott der griechischen Mythologie, Verkörperung von Kraft und Tugend.</note>
             </person>
             <person xml:id="herder_johann_gottfried">
@@ -2977,7 +3052,7 @@
                <note>Deutscher evangelischer Theologe, Dichter und Philosoph, Weimar.</note>
             </person>
             <person xml:id="hermann_jacob">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119112450</idno>
                <persName type="reg">Herrmann, Jacob</persName>
                <birth>1678–1733</birth>
                <death>1678–1733</death>
@@ -3020,7 +3095,7 @@
                <note>Herz; Arzt und Philosoph in Berlin, Schüler Kants.</note>
             </person>
             <person xml:id="liselotte_von_der_pfalz_herzogin_v_orleans">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118529935</idno>
                <persName type="reg">Herzogin von Orléans, geborene Pfälzgräfin</persName>
                <birth>1652–1722</birth>
                <death>1652–1722</death>
@@ -3028,7 +3103,7 @@
                <note>Liselotte von der Pfalz, Schwägerin Ludwigs XIV. von Frankreich.</note>
             </person>
             <person xml:id="hesychius">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11877431X</idno>
                <persName type="reg">Hesychius</persName>
                <birth>4./5. Jh.</birth>
                <death>4./5. Jh.</death>
@@ -3061,7 +3136,7 @@
                <note>Englischer Botaniker und Mediziner, London.</note>
             </person>
             <person xml:id="hiob">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118551353</idno>
                <persName type="reg">Hiob</persName>
                <birth/>
                <death/>
@@ -3090,6 +3165,7 @@
                <birth>1588–1679</birth>
                <death>1588–1679</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Englischer Philosoph, Staatstheoretiker und Mathematiker.</note>
             </person>
             <person xml:id="hoffmann_friedrich">
@@ -3143,7 +3219,7 @@
             Edinburgh.</note>
             </person>
             <person xml:id="homer">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11855333X</idno>
                <persName type="reg">Homer</persName>
                <birth>8./7. Jh. v. Chr.</birth>
                <death>8./7. Jh. v. Chr.</death>
@@ -3168,7 +3244,7 @@
                <note>Deutscher Jurist, Professor in Kassel und Gießen.</note>
             </person>
             <person xml:id="horatius_pater_franciscus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/121662489</idno>
                <persName type="reg">Horatius, Pater Franciscus</persName>
                <birth>1680–ca. 1745</birth>
                <death>1680–ca. 1745</death>
@@ -3183,6 +3259,7 @@
                <death>65–8 v. Chr.</death>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker römischer Dichter.</note>
             </person>
             <person xml:id="hornemann_friedrich_konrad">
@@ -3304,12 +3381,20 @@
             und Absturz mit künstlichen Flügeln.</note>
             </person>
             <person xml:id="iovis">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118558897</idno>
                <persName type="reg">Iovis</persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
                <note>Jupiter; oberster Gott der römischen Mythologie.</note>
+            </person>
+            <person xml:id="isaak">
+               <idno type="uri">https://d-nb.info/gnd/118555898</idno>
+               <persName type="reg">Isaak</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <note>Biblischer Sohn des Abraham (AT).</note>
             </person>
             <person xml:id="isis">
                <idno type="uri">https://d-nb.info/gnd/118932640</idno>
@@ -3328,7 +3413,7 @@
                <note>Antiker griechischer Rhetor und Schriftsteller, Athen.</note>
             </person>
             <person xml:id="iuvenal_decimus_iunius">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118556126</idno>
                <persName type="reg">Iuvenal</persName>
                <birth/>
                <death/>
@@ -3336,7 +3421,7 @@
                <note>Siehe Juvenal.</note>
             </person>
             <person xml:id="ives_edward">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/1157512879</idno>
                <persName type="reg">Ives, Edward</persName>
                <birth>nicht ermittelt</birth>
                <death>nicht ermittelt</death>
@@ -3352,7 +3437,7 @@
                <note>Deutscher Theologe und Pädagoge, Königsberg und Thorn; Schüler und Biograph Kants.</note>
             </person>
             <person xml:id="jakob_l_knig_v_england">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118639889</idno>
                <persName type="reg">Jacob I.</persName>
                <birth>1566–1625</birth>
                <death>1566–1625</death>
@@ -3410,7 +3495,7 @@
                <note>Held der griechischen Mythologie, Führer der Argonauten.</note>
             </person>
             <person xml:id="jean_francois">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/105535316X</idno>
                <persName type="reg">Jean François</persName>
                <birth>1586–1668</birth>
                <death>1586–1668</death>
@@ -3419,23 +3504,25 @@
             über Geographie.</note>
             </person>
             <person xml:id="jehovah">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118556703</idno>
                <persName type="reg">Jehovah</persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Name Gottes in der Hebräischen Bibel.</note>
             </person>
             <person xml:id="jesus_christus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118557513</idno>
                <persName type="reg">Jesus Christus</persName>
                <birth>zw. 7 u. 4 v. Chr.–30/31 n. Chr.</birth>
                <death>zw. 7 u. 4 v. Chr.–30/31 n. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Religionsstifter, nach christlicher Lehre Messias und Gottessohn.</note>
             </person>
             <person xml:id="johann_abessin_priester">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/1157574300</idno>
                <persName type="reg">Johann</persName>
                <birth>† 1570</birth>
                <death>† 1570</death>
@@ -3498,6 +3585,17 @@
                <ptr type="general" target="0"/>
                <note>Römischer Kaiser.</note>
             </person>
+            <person xml:id="juenger">
+               <idno type="uri">https://d-nb.info/gnd/4002455-6</idno>
+               <persName type="reg">Jünger</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Nach NT die zwölf Apostel Jesu: Petrus, Andreas, Jakobus der Ältere, Jakobus der
+                  Jüngere, Johannes, Philippus, Bartholomäus, Thomas, Matthäus, Judas, Simon Zelotes,
+                  Judas Iskariot.</note>
+            </person>
             <person xml:id="juno">
                <idno type="uri">https://d-nb.info/gnd/118800574</idno>
                <persName type="reg">Juno</persName>
@@ -3505,6 +3603,15 @@
                <death/>
                <ptr type="general" target="0"/>
                <note>Römische Göttin der Geburt, Ehe und Fürsorge.</note>
+            </person>
+            <person xml:id="jupiter">
+               <idno type="uri">https://d-nb.info/gnd/118558897</idno>
+               <persName type="reg">Jupiter</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Oberste Gottheit in der römischen Mythologie, Himmelsvater.</note>
             </person>
             <person xml:id="jurin_james">
                <idno type="uri">https://d-nb.info/gnd/119507978</idno>
@@ -3522,6 +3629,7 @@
                <birth>ca. 60–nach 127</birth>
                <death>ca. 60–nach 127</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker römischer Rhetor und Satiriker.</note>
             </person>
             <person xml:id="kaestnerus">
@@ -3542,7 +3650,7 @@
                <note>Buchhändler in Königsberg.</note>
             </person>
             <person xml:id="kartesius">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118524844</idno>
                <persName type="reg">Kartesius</persName>
                <birth/>
                <death/>
@@ -3587,7 +3695,7 @@
                <note>Deutscher Reiseschriftsteller und Archäologe, Pionier der Frühgeschichtsforschung.</note>
             </person>
             <person xml:id="kindermann_ferdinand">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/122913051</idno>
                <persName type="reg">Kindermann, Ferdinand</persName>
                <birth>1740–1801</birth>
                <death>1740–1801</death>
@@ -3620,6 +3728,16 @@
                <death>1724–1803</death>
                <ptr type="general" target="0"/>
                <note>Deutscher Dichter der Empfindsamkeit.</note>
+            </person>
+            <person xml:id="kneph">
+               <idno type="uri"/>
+               <persName type="reg">Kneph</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="general" target="6"/>
+               <note>Schöpfergott der altägyptischen Mythologie, aus dessen Mund des Weltei hervorgegangen
+                  ist.</note>
             </person>
             <person xml:id="knutzen_martin">
                <idno type="uri">https://d-nb.info/gnd/118723898</idno>
@@ -3700,7 +3818,7 @@
                <note>Costens; evangelischer Theologe und Prediger, Leipzig.</note>
             </person>
             <person xml:id="la_hire_philippe_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/117573752</idno>
                <persName type="reg">La Hire, Philippe de</persName>
                <birth>1640–1718</birth>
                <death>1640–1718</death>
@@ -3717,9 +3835,8 @@
                <ptr type="direct" target="1"/>
                <note>Französischer Mathematiker und Architekt, Paris.</note>
             </person>
-            
             <person xml:id="laloubere_simon_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/124436641</idno>
                <persName type="reg">La Laubere, Simon de</persName>
                <birth>1642–1729</birth>
                <death>1642–1729</death>
@@ -3743,7 +3860,7 @@
                <note>Französischer Orientalist und Bibliothekar, Professor der Philosophie in Berlin.</note>
             </person>
             <person xml:id="lalande_joseph_jerome_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/104234059</idno>
                <persName type="reg">La Lande, Joseph Jérôme de</persName>
                <birth>1732–1807</birth>
                <death>1732–1807</death>
@@ -3767,7 +3884,7 @@
                <note>Italienischer Chemiker, Physiker und Meteorologe.</note>
             </person>
             <person xml:id="langhanns_daniel">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/14049104X</idno>
                <persName type="reg">Langhanns, Daniel</persName>
                <birth>† 1813</birth>
                <death>† 1813</death>
@@ -3775,7 +3892,7 @@
                <note>Schweizer Arzt und Naturforscher.</note>
             </person>
             <person xml:id="laokiun_lao-tsz">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118569678</idno>
                <persName type="reg">Laokiun</persName>
                <birth>ca. 6. Jh. v. Chr.</birth>
                <death>ca. 6. Jh. v. Chr.</death>
@@ -3804,6 +3921,7 @@
                <birth>1741–1801</birth>
                <death>1741–1801</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Schweizer evangelischer Theologe, Philosoph und Schriftsteller, Zürich.</note>
             </person>
             <person xml:id="lavoisier_antoine_laurent">
@@ -3812,6 +3930,7 @@
                <birth>1743–1794</birth>
                <death>1743–1794</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Französischer Chemiker, Paris.</note>
             </person>
             <person xml:id="le_maire">
@@ -3823,7 +3942,7 @@
                <note>Französischer Reiseschriftsteller.</note>
             </person>
             <person xml:id="le_sueur">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/100185258</idno>
                <persName type="reg">Le Sueur, Thomas</persName>
                <birth>1703–1770</birth>
                <death>1703–1770</death>
@@ -4064,6 +4183,7 @@
                <birth>1754–1793</birth>
                <death>1754–1793</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>König von Frankreich.</note>
             </person>
             <person xml:id="ludwig_ch_f">
@@ -4150,7 +4270,7 @@
                <note>Magliabecchi; italienischer Gelehrter und Bibliothekar, Florenz.</note>
             </person>
             <person xml:id="mahomed">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118583158</idno>
                <persName type="reg">Mahomed</persName>
                <birth/>
                <death/>
@@ -4174,6 +4294,7 @@
                <death>1638–1715</death>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Französischer Philosoph und Geistlicher, Professor der Mathematik in Paris.</note>
             </person>
             <person xml:id="mallet_du_pan_jacques">
@@ -4193,7 +4314,7 @@
                <note>Schwedischer Astronom, Professor der Mathematik in Uppsala.</note>
             </person>
             <person xml:id="mallin">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11903705X</idno>
                <persName type="reg">Mallin</persName>
                <birth/>
                <death/>
@@ -4228,7 +4349,7 @@
             München.</note>
             </person>
             <person xml:id="maraldi_giacomo_filippo">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/117541613</idno>
                <persName type="reg">Maraldus, Giacomo Filippo</persName>
                <birth>1665–1729</birth>
                <death>1665–1729</death>
@@ -4243,6 +4364,14 @@
                <death>1353–1412</death>
                <ptr type="general" target="0"/>
                <note>Margarethe I.; Königin von Norwegen, Dänemark und Schweden.</note>
+            </person>
+            <person xml:id="maria">
+               <idno type="uri">https://d-nb.info/gnd/118640909</idno>
+               <persName type="reg">Maria</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <note>Biblische Mutter Jesu Christi (NT).</note>
             </person>
             <person xml:id="mariotte_edme">
                <idno type="uri">https://d-nb.info/gnd/117551988</idno>
@@ -4276,6 +4405,7 @@
                <birth>1754–1836</birth>
                <death>1754–1836</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Englischer Forschungsreisender und Orientalist.</note>
             </person>
             <person xml:id="marsigh_louis_ferdinand_comte_de">
@@ -4303,16 +4433,7 @@
                <ptr type="general" target="0"/>
                <note>Preußischer Jurist und Beamter, Geheimer Staats- und Justizminister.</note>
             </person>
-            <person xml:id="maty_matthieu">
-               <idno type="uri">https://d-nb.info/gnd/10103024X</idno>
-               <persName type="reg">Maty Matthieu</persName>
-               <birth>1718–1776</birth>
-               <death>1718–1776</death>
-               <ptr type="general" target="0"/>
-               <ptr type="direct" target="1"/>
-               <note>Französisch-niederländischer Schriftsteller und Journalist.</note>
-            </person>
-            <person xml:id="maupertuis_pierre_louis_moreau_de">
+           <person xml:id="maupertuis_pierre_louis_moreau_de">
                <idno type="uri">https://d-nb.info/gnd/118731998</idno>
                <persName type="reg">Maupertuis, Pierre Louis Moreau de</persName>
                <birth>1698–1759</birth>
@@ -4331,8 +4452,8 @@
                <note>Deutscher Astronom, Mathematiker und Physiker, Professor der Ökonomie in Göttingen.</note>
             </person>
             <person xml:id="meier_georg_friedrich">
-               <idno type="uri"/>
-               <persName type="reg">Meier, Georg(e) Friedrich<addName>Meyer</addName>
+               <idno type="uri">https://d-nb.info/gnd/118580051</idno>
+               <persName type="reg">Meier, Georg Friedrich<addName>Meyer</addName>
                </persName>
                <birth>1718–1777</birth>
                <death>1718–1777</death>
@@ -4346,6 +4467,7 @@
                <birth>1729–1786</birth>
                <death>1729–1786</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Philosoph der Aufklärung, Berlin.</note>
             </person>
             <person xml:id="mengs_raphael">
@@ -4365,7 +4487,7 @@
                <note>Französischer Kartograph und Geograph, Professor in Paris.</note>
             </person>
             <person xml:id="merou_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11931035X</idno>
                <persName type="reg">Merou, de</persName>
                <birth/>
                <death/>
@@ -4387,6 +4509,7 @@
                <birth>1717–1791</birth>
                <death>1717–1791</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Orientalist und evangelischer Theologe, Professor in Göttingen.</note>
             </person>
             <person xml:id="mielche_christian_gottlieb">
@@ -4419,6 +4542,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="diect" target="6"/>
                <note>Gott des Bundes, des Eides und der Wahrheit im Zoroastrismus.</note>
             </person>
             <person xml:id="mitterpacher_ludwig">
@@ -4436,6 +4560,7 @@
                <birth>ca. 570–632</birth>
                <death>ca. 570–632</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Arabischer Prophet und Religionsstifter des Islam.</note>
             </person>
             <person xml:id="molire_jean_baptiste_poquelin">
@@ -4457,7 +4582,7 @@
             Friedrichsburg, später in Schmoditten.</note>
             </person>
             <person xml:id="momus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119346842</idno>
                <persName type="reg">Momus</persName>
                <birth/>
                <death/>
@@ -4482,7 +4607,7 @@
                <note>Französischer Mathematiker und Physiker, Professor in Mézières und Paris.</note>
             </person>
             <person xml:id="monnier_s_le_monnier">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/117636150</idno>
                <persName type="reg">Monnierus</persName>
                <birth>1717–1799</birth>
                <death>1717–1799</death>
@@ -4499,7 +4624,7 @@
                <note>Französischer Philosoph und Moralist, Begründer der Essayistik.</note>
             </person>
             <person xml:id="montanga_antonio_ruiz_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119155753</idno>
                <persName type="reg">Montanga, Antonio Ruiz de</persName>
                <birth>1585–1652</birth>
                <death>1585–1652</death>
@@ -4523,12 +4648,13 @@
                <note>Französischer Mathematiker und Wissenschaftshistoriker, Paris.</note>
             </person>
             <person xml:id="moore_francis">
-               <idno type="uri"/>
-               <persName type="reg">Moore, Francis</persName>
-               <birth>getauft 1708; † ca. 1756</birth>
-               <death>getauft 1708; † ca. 1756</death>
+               <idno type="uri">https://d-nb.info/gnd/1013550226</idno>
+               <persName type="reg">Moore, John</persName>
+               <birth>1729–1802</birth>
+               <death>1729–1802</death>
                <ptr type="general" target="0"/>
-               <note>Englischer Autor von Reiseberichten über Innerafrika und Georgia.</note>
+               <ptr type="direct" target="6"/>
+               <note>Schottischer Arzt und Reiseschriftsteller.</note>
             </person>
             <person xml:id="mordaunt_charles_3_earl_of_peterborough_and_monmouth">
                <idno type="uri">https://d-nb.info/gnd/119524309</idno>
@@ -4624,15 +4750,24 @@
                <note>Schah von Persien.</note>
             </person>
             <person xml:id="nebukadnezar_ii">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118586718</idno>
                <persName type="reg">Nebucad-Nezar</persName>
                <birth>ca. 604–562 v. Chr.</birth>
                <death>ca. 604–562 v. Chr.</death>
                <ptr type="general" target="0"/>
                <note>Nebukadnezar II.; neubabylonischer König.</note>
             </person>
+            <person xml:id="neith">
+               <idno type="uri">https://d-nb.info/gnd/1067432582</idno>
+               <persName type="reg">Neith</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Schöpfergöttin der altägyptischen Mythologie, Schutzgöttin der Stadt Sais.</note>
+            </person>
             <person xml:id="neptun">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11952354X</idno>
                <persName type="reg">Neptun</persName>
                <birth/>
                <death/>
@@ -4646,6 +4781,7 @@
                <birth>37–68</birth>
                <death>37–68</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Römischer Kaiser.</note>
             </person>
             <person xml:id="nestor">
@@ -4665,6 +4801,7 @@
                <death>1643–1727</death>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Englischer Physiker, Mathematiker und Astronom, Professor der Mathematik in
             Cambridge.</note>
             </person>
@@ -4674,6 +4811,7 @@
                <birth>1733–1811</birth>
                <death>1733–1811</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Schriftsteller, Kritiker und Verleger, Berlin.</note>
             </person>
             <person xml:id="niebuhr_garsten">
@@ -4732,6 +4870,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Oberster Gott, Gott des Todes und des Krieges in der nordischen Mythologie.</note>
             </person>
             <person xml:id="olivier_l_heinr_ferd">
@@ -4756,6 +4895,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Muttermörder in der griechischen Mythologie, Sohn des Agamemnon und der
             Klytaimnestra.</note>
             </person>
@@ -4773,10 +4913,11 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Schöpfergott, Prinzip des Guten und des Lichts im Zoroastrismus.</note>
             </person>
             <person xml:id="orpheus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118590278</idno>
                <persName type="reg">Orpheus</persName>
                <birth/>
                <death/>
@@ -4785,7 +4926,7 @@
             Eurydike aus dem Hades zurück ins Leben zu holen.</note>
             </person>
             <person xml:id="osman">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119073765</idno>
                <persName type="reg">Osman</persName>
                <birth>574–656</birth>
                <death>574–656</death>
@@ -4810,7 +4951,7 @@
                <note>Schottischer Theologe und Philosoph.</note>
             </person>
             <person xml:id="otto_j_f_w">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/100972926</idno>
                <persName type="reg">Otto, Johann Friedrich Wilhelm</persName>
                <birth>1743–1814</birth>
                <death>1743–1814</death>
@@ -4869,7 +5010,7 @@
                <note>Französischer Mathematiker und Physiker, Professor in Marburg.</note>
             </person>
             <person xml:id="park_mungo">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118591746</idno>
                <persName type="reg">Parck, Mungo</persName>
                <birth>1771–1806</birth>
                <death>1771–1806</death>
@@ -4892,6 +5033,15 @@
                <ptr type="general" target="0"/>
                <note>Johann von Schwaben; Neffe und Mörder Albrechts I. von Österreich.</note>
             </person>
+            <person xml:id="parzen">
+               <idno type="uri">https://d-nb.info/gnd/11893208X</idno>
+               <persName type="reg">Parzen</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <note>Schicksalsgöttinnen aus der römischen Mythologie: Nona, Decima und Parca bzw.
+                  Morta.</note>
+            </person>
             <person xml:id="pascal_blaise">
                <idno type="uri">https://d-nb.info/gnd/118591843</idno>
                <persName type="reg">Pascal, Blaise</persName>
@@ -4901,7 +5051,7 @@
                <note>Französischer Mathematiker und Philosoph.</note>
             </person>
             <person xml:id="paulinus_frater">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/100829694</idno>
                <persName type="reg">Paulinus a Sancto Bartolomaeo</persName>
                <birth>1748–1806</birth>
                <death>1748–1806</death>
@@ -4926,7 +5076,7 @@
                <note>Deutscher evangelischer Theologe, Professor in Jena, Würzburg und Heidelberg.</note>
             </person>
             <person xml:id="peirescius_nicolas_claude_fabri_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118739840</idno>
                <persName type="reg">Peiresc(ius), Nicolas Claude Fabri de</persName>
                <birth>1580–1637</birth>
                <death>1580–1637</death>
@@ -4943,7 +5093,7 @@
                <note>Französischer Literat, Paris.</note>
             </person>
             <person xml:id="peravet">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118950312</idno>
                <persName type="reg">Peravet</persName>
                <birth/>
                <death/>
@@ -4992,7 +5142,7 @@
                <note>Schweizer Pädagoge, Schul- und Sozialreformer, Zürich.</note>
             </person>
             <person xml:id="petau_pater_denis">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118592920</idno>
                <persName type="reg">Petau, Pater Denis</persName>
                <birth>1583–1652</birth>
                <death>1583–1652</death>
@@ -5013,10 +5163,11 @@
                <birth>1747 – 1792</birth>
                <death>1747 – 1792</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Schweizer evangelischer Theologe und Pfarrer, Zürich.</note>
             </person>
             <person xml:id="phaedon">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118740946</idno>
                <persName type="reg">Phädon</persName>
                <birth/>
                <death/>
@@ -5029,6 +5180,7 @@
                <birth>1. Jh. n. Chr.</birth>
                <death>1. Jh. n. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Phaedrus; römischer Fabeldichter.</note>
             </person>
             <person xml:id="phalaris_von_agrigent">
@@ -5037,6 +5189,7 @@
                <birth>6. Jh. v. Chr.</birth>
                <death>6. Jh. v. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Griechischer Tyrann auf Syrakus.</note>
             </person>
             <person xml:id="pherekydes">
@@ -5064,7 +5217,7 @@
                <note>Britischer Marineoffizier, erster Gouverneur von New South Wales.</note>
             </person>
             <person xml:id="philipp_v_bethsaida">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119067692</idno>
                <persName type="reg">Philipp von Bethsaida</persName>
                <birth>† ca. 81 n. Chr.</birth>
                <death>† ca. 81 n. Chr.</death>
@@ -5090,7 +5243,7 @@
             dort einen radikalen Skeptizismus.</note>
             </person>
             <person xml:id="philostratus_flavius">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118594044</idno>
                <persName type="reg">Philostrat(us), Flavius</persName>
                <birth>ca. 165–ca. 245</birth>
                <death>ca. 165–ca. 245</death>
@@ -5098,13 +5251,22 @@
                <note>Antiker griechischer Schriftsteller und Sophist, Rom/Athen.</note>
             </person>
             <person xml:id="phoenix">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/4174313-1</idno>
                <persName type="reg">Phönix</persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
                <note>Vogel aus der ägyptischen und griechischen Mythologie, stirbt und ersteht neu aus
             seiner Asche.</note>
+            </person>
+            <person xml:id="phta">
+               <idno type="uri">https://d-nb.info/gnd/119054221</idno>
+               <persName type="reg">Phta</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Ptah; Schöpfergott der altägyptischen Mythologie, Schutzgott der Stadt Memphis.</note>
             </person>
             <person xml:id="piazzi_guiseppe">
                <idno type="uri">https://d-nb.info/gnd/117685798</idno>
@@ -5121,11 +5283,12 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Perithous; Gestalt der griechischen Mythologie, hier Bezug auf die Sage um die
             Freundschaft zwischen Perithous und Theseus.</note>
             </person>
             <person xml:id="pitt_thomas">
-               <idno type="uri"/>
+               <idno type="uri">http://id.loc.gov/authorities/names/nr98039809</idno>
                <persName type="reg">Pitt, Thomas</persName>
                <birth>1653–1726</birth>
                <death>1653–1726</death>
@@ -5185,7 +5348,7 @@
                <note>Griechischer Historiker und Biograph.</note>
             </person>
             <person xml:id="plutus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/1064777732</idno>
                <persName type="reg">Plutus</persName>
                <birth/>
                <death/>
@@ -5235,7 +5398,7 @@
                <note>Antiker griechischer Historiker.</note>
             </person>
             <person xml:id="polyklet">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118741438</idno>
                <persName type="reg">Polyklet</persName>
                <birth>5. Jh. v. Chr.</birth>
                <death>5. Jh. v. Chr.</death>
@@ -5243,7 +5406,7 @@
                <note>Antiker griechischer Bildhauer.</note>
             </person>
             <person xml:id="pommereul_franois_rene_jean_de">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/115438637</idno>
                <persName type="reg">Pommerewil, François Réné Jean de</persName>
                <birth>1745–1823</birth>
                <death>1745–1823</death>
@@ -5285,7 +5448,7 @@
             Universalgelehrter.</note>
             </person>
             <person xml:id="postel_guilleaume">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118793004</idno>
                <persName type="reg">Postell, Guilleaume<addName>Postellus</addName>
                </persName>
                <birth>1510–1581</birth>
@@ -5294,7 +5457,6 @@
                <note>Postel; französischer Humanist und Universalgelehrter, Professor für alte Sprachen in
             Paris.</note>
             </person>
-
             <person xml:id="pound_james">
                <idno type="uri">https://d-nb.info/gnd/140781021</idno>
                <persName type="reg">Pound, James</persName>
@@ -5336,6 +5498,7 @@
                <birth>ca. 485–ca. 415 v. Chr.</birth>
                <death>ca. 485–ca. 415 v. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker griechischer Philosoph und Sophist.</note>
             </person>
             <person xml:id="proteus">
@@ -5345,6 +5508,7 @@
                <death/>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Gott des Meeres in der griechischen Mythologie.</note>
             </person>
             <person xml:id="ptolomaeus_claudius">
@@ -5367,11 +5531,12 @@
             Heidelberg und Lund (Schweden).</note>
             </person>
             <person xml:id="pylades">
-               <idno type="uri"/>
+               <idno type="uri">http://viaf.org/viaf/316449885</idno>
                <persName type="reg">Pylades</persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Gestalt der griechischen Mythologie; hier Bezug auf die enge Freundschaft zwischen ihm
             und Orestes.</note>
             </person>
@@ -5384,7 +5549,7 @@
                <note>Antiker griechischer Philosoph, Gründer der skeptischen Schule.</note>
             </person>
             <person xml:id="pyrrhus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118743058</idno>
                <persName type="reg">Pyrrhus</persName>
                <birth>319/318–272 v. Chr.</birth>
                <death>319/318–272 v. Chr.</death>
@@ -5430,6 +5595,7 @@
                <birth>ca. 35–ca. 100</birth>
                <death>ca. 35–ca. 100</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker römischer Redner und Rhetoriklehrer.</note>
             </person>
             <person xml:id="ray_john">
@@ -5442,7 +5608,7 @@
                <note>Ray; englischer Theologe und Naturforscher, Braintree.</note>
             </person>
             <person xml:id="raleigh_sir_walter">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118641859</idno>
                <persName type="reg">Raleigk, Walter</persName>
                <birth>1552/1554–1618</birth>
                <death>1552/1554–1618</death>
@@ -5516,7 +5682,7 @@
                <note>Deutscher Abenteurer, Diplomat und Arzt.</note>
             </person>
             <person xml:id="reinhard_adolf_friedrich">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/104125187</idno>
                <persName type="reg">Reinhard, Adolf Friedrich</persName>
                <birth>1726–1783</birth>
                <death>1726–1783</death>
@@ -5538,6 +5704,7 @@
                <birth>1676–1718</birth>
                <death>1676–1718</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Niederländischer Orientalist, Professor in Utrecht.</note>
             </person>
             <person xml:id="renneil_james">
@@ -5557,7 +5724,7 @@
                <note>Deutscher evangelischer Theologe und Philosoph, Professor der Philosophie in Jena.</note>
             </person>
             <person xml:id="rhoden_v">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/103753877</idno>
                <persName type="reg">Rhoden, Johann Christian von</persName>
                <birth>1713–1786</birth>
                <death>1713–1786</death>
@@ -5656,6 +5823,7 @@
                <birth>1712–1778</birth>
                <death>1712–1778</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Genfer Philosoph, Pädagoge, Komponist und Naturforscher.</note>
             </person>
             <person xml:id="rssel_alex">
@@ -5666,8 +5834,17 @@
                <ptr type="general" target="0"/>
                <note>Schottischer Arzt und Naturkundler, London.</note>
             </person>
+            <person xml:id="ruttren">
+               <idno type="uri">https://d-nb.info/gnd/118750186</idno>
+               <persName type="reg">Ruttren</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Rudra; im Hinduismus Gott der Zerstörung; Vorläufer von Shiva.</note>
+            </person>
             <person xml:id="rytschkow_staatsrat">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119266849</idno>
                <persName type="reg">Rytschkow, Pjotr Iwanowitsch</persName>
                <birth>1712–1777</birth>
                <death>1712–1777</death>
@@ -5683,7 +5860,7 @@
                <note>Schah von Persien.</note>
             </person>
             <person xml:id="sagromoso_graf">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11947428X</idno>
                <persName type="reg">Sagramoso, Michele Enrico</persName>
                <birth>1720–1791</birth>
                <death>1720–1791</death>
@@ -5715,13 +5892,13 @@
                <note>Salmon; englischer Historiker, Verfasser von Reiseberichten.</note>
             </person>
             <person xml:id="salomon">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118605100</idno>
                <persName type="reg">Salomon<addName>Salomo</addName>
                </persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
-               <note>Der Bibel nach vierter und letzter König vor der Teilung Israels (10. Jh. v. Chr.).</note>
+               <note>Der Bibel nach dritter und letzter König vor der Teilung Israels (10. Jh. v. Chr.).</note>
             </person>
             <person xml:id="salzmann_christian_gotthilf">
                <idno type="uri">https://d-nb.info/gnd/118605232</idno>
@@ -5790,7 +5967,7 @@
                <note>Deutscher Arzt, Vertreter der romantischen Medizin, Regensburg.</note>
             </person>
             <person xml:id="sharp_samuel">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/1017120684</idno>
                <persName type="reg">Scharp, Samuel</persName>
                <birth>1709–1778</birth>
                <death>1709–1778</death>
@@ -5820,6 +5997,7 @@
                <birth>1759–1805</birth>
                <death>1759–1805</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Dichter, Philosoph und Historiker, Professor der Philosophie in Jena.</note>
             </person>
             <person xml:id="schlettwein_johann_august">
@@ -5911,7 +6089,7 @@
                <note>Deutscher evangelischer Pfarrer, Freigeist und Religionskritiker.</note>
             </person>
             <person xml:id="schulz">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/100265278</idno>
                <persName type="reg">Schulz, Walter</persName>
                <birth>1638–1704</birth>
                <death>1638–1704</death>
@@ -5936,7 +6114,7 @@
             Schwarzpulvers.</note>
             </person>
             <person xml:id="secondat_jean_baptiste">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/11765454X</idno>
                <persName type="reg">Secondat, Jean-Baptiste de<addName>Secondatus</addName>
                </persName>
                <birth>1716–1796</birth>
@@ -5975,6 +6153,7 @@
                <death>ca. 4 v. Chr–65 n. Chr.</death>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker römischer Philosoph der Stoa, Naturforscher und Politiker.</note>
             </person>
             <person xml:id="sextus_empiricus">
@@ -6001,6 +6180,7 @@
                <birth>1671–1713</birth>
                <death>1671–1713</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Shaftesbury; englischer Philosoph der Aufklärung, Schriftsteller und Politiker.</note>
             </person>
             <person xml:id="shakespeare_william">
@@ -6012,12 +6192,23 @@
                <note>Englischer Dramatiker und Lyriker.</note>
             </person>
             <person xml:id="sievers_johann">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/122086104</idno>
                <persName type="reg">Sievers, Johann August Carl</persName>
                <birth>1762–1795</birth>
                <death>1762–1795</death>
                <ptr type="general" target="0"/>
                <note>Deutscher Botaniker, Forschungsreisender in Russland und Asien.</note>
+            </person>
+            <person xml:id="siewen">
+               <idno type="uri">https://d-nb.info/gnd/118755218</idno>
+               <persName type="reg">Siewen
+               </persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Shiva; eine der höchsten Gottheiten des Hinduismus; Verkörperung des Prinzips der
+                  Zerstörung.</note>
             </person>
             <person xml:id="silberschlag_johann">
                <idno type="uri">https://d-nb.info/gnd/115360166</idno>
@@ -6028,7 +6219,7 @@
                <note>Deutscher evangelischer Prediger und Naturforscher, Magdeburg.</note>
             </person>
             <person xml:id="simonides">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/1073522962</idno>
                <persName type="reg">Simonides</persName>
                <birth>556–468 v. Chr.</birth>
                <death>556–468 v. Chr.</death>
@@ -6051,16 +6242,18 @@
                <birth>1723–1790</birth>
                <death>1723–1790</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Schottischer Moralphilosoph, Aufklärer und Wegbereiter der Nationalökonomie, Professor
             in Glasgow.</note>
             </person>
-            <person xml:id="Sokrates">
+            <person xml:id="sokrates">
                <idno type="uri">https://d-nb.info/gnd/118615270</idno>
                <persName type="reg">Sokrates<addName>Socrates</addName>
                </persName>
                <birth>ca. 470- 399 v. Chr.</birth>
                <death>ca. 470- 399 v. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker griechischer Philosoph, Lehrer Platos, Athen.</note>
             </person>
             <person xml:id="solon">
@@ -6082,7 +6275,7 @@
             Mainz.</note>
             </person>
             <person xml:id="sommona_cadam_bettelmnch">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118664417</idno>
                <persName type="reg">Sommona Cadam</persName>
                <birth/>
                <death/>
@@ -6148,7 +6341,7 @@
             Halle.</note>
             </person>
             <person xml:id="stagirit_s_aristoteles">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118650130</idno>
                <persName type="reg">Stagirit<addName>Stagyrit</addName>
                </persName>
                <birth/>
@@ -6219,14 +6412,16 @@
                <birth>1749–1821</birth>
                <death>1749–1821</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Chemiker, Mediziner und Botaniker, Professor in Tübingen.</note>
             </person>
             <person xml:id="sybille_v_marpessos">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/4220923-7</idno>
                <persName type="reg">Sybille von Marpessos</persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Sibylle; Prophetin der griechischen Mythologie, der Sage nach Schöpferin der ältesten
             Orakelsammlung.</note>
             </person>
@@ -6273,7 +6468,7 @@
                <note>Irischer Schriftsteller und Satiriker, Dublin.</note>
             </person>
             <person xml:id="symes_michael">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/137615175</idno>
                <persName type="reg">Symes, Michael</persName>
                <birth>1761–1809</birth>
                <death>1761–1809</death>
@@ -6286,6 +6481,7 @@
                <birth>ca. 195–ca. 159 v. Chr.</birth>
                <death>ca. 195–ca. 159 v. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker römischer Komödiendichter.</note>
             </person>
             <person xml:id="terrasson_jean">
@@ -6307,7 +6503,7 @@
             Königsberger Universität, Lehrer Kants beim Erwerb von dessen Magistergrad.</note>
             </person>
             <person xml:id="thaies_v_milet">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/1089126948</idno>
                <persName type="reg">Thales von Milet</persName>
                <birth>ca. 624–ca. 545 v. Chr.</birth>
                <death>ca. 624–ca. 545 v. Chr.</death>
@@ -6329,6 +6525,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Held der griechischen Mythologie, König von Athen.</note>
             </person>
             <person xml:id="thevenot_jean_de">
@@ -6366,7 +6563,7 @@
             Philosophie in Halle.</note>
             </person>
             <person xml:id="timoleon_von_syrakus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118802283</idno>
                <persName type="reg">Timoleon von Syrakus</persName>
                <birth>ca. 411–ca. 337 v. Chr.</birth>
                <death>ca. 411–ca. 337 v. Chr.</death>
@@ -6384,7 +6581,7 @@
             hinaus (evtl. 5. Jh. v. Chr.) als Typus überliefert.</note>
             </person>
             <person xml:id="tiresias">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118801562</idno>
                <persName type="reg">Tiresias</persName>
                <birth/>
                <death/>
@@ -6417,12 +6614,21 @@
                <note>Italienischer Physiker, Astronom und katholischer Priester, Padua.</note>
             </person>
             <person xml:id="toby">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/1079550798</idno>
                <persName type="reg">Toby</persName>
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
                <note>Figur in Laurence Sternes Tristram Shandy.</note>
+            </person>
+            <person xml:id="tor">
+               <idno type="uri">https://d-nb.info/gnd/119192748</idno>
+               <persName type="reg">Tor</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Thor; Wetter- und Vegetationsgott in der nordischen Mythologie.</note>
             </person>
             <person xml:id="torre_giovanni_maria_della">
                <idno type="uri">https://d-nb.info/gnd/122861531</idno>
@@ -6503,6 +6709,7 @@
                <birth>ca. 170–ca. 223</birth>
                <death>ca. 170–ca. 223</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Antiker römischer Jurist und Staatsbeamter.</note>
             </person>
             <person xml:id="ulrich_johann_august_heinrich">
@@ -6514,7 +6721,7 @@
                <note>Deutscher Philosoph, Professor in Jena.</note>
             </person>
             <person xml:id="usbeck">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/119506165</idno>
                <persName type="reg">Usbeck</persName>
                <birth>1282–1341/42</birth>
                <death>1282–1341/42</death>
@@ -6557,7 +6764,7 @@
                <note>Französischer Ingenieur und Erfinder, Paris.</note>
             </person>
             <person xml:id="vitruv_pollio">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118627252</idno>
                <persName type="reg">Venturini</persName>
                <birth>1. Jh. v. Chr.</birth>
                <death>1. Jh. v. Chr.</death>
@@ -6570,6 +6777,7 @@
                <birth/>
                <death/>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Spirituelle/geistige Erscheinungsform der römischen Liebesgöttin Venus.</note>
             </person>
             <person xml:id="veri_graf">
@@ -6581,7 +6789,7 @@
                <note>Verri; italienischer Volkswirt, Philosoph und Historiker, Mailand.</note>
             </person>
             <person xml:id="baco_v_verulam">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118505696</idno>
                <persName type="reg">Verulam, Baco von<addName>Bako v. Verulamio</addName>
                </persName>
                <birth/>
@@ -6683,7 +6891,7 @@
                <note>Dichter und Übersetzer, Gründer des Göttinger Hainbundes.</note>
             </person>
             <person xml:id="vulkanus">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118770462</idno>
                <persName type="reg">Vulkan</persName>
                <birth/>
                <death/>
@@ -6692,7 +6900,7 @@
                <note>Vulcanus; Gott des Feuers und der Schmiedekunst in der römischen Mythologie.</note>
             </person>
             <person xml:id="wagner_friedrich_david_buchhndler">
-               <idno type="uri">https://d-nb.info/gnd/1052833500</idno>
+               <idno type="uri"/>
                <persName type="reg">Wagner, Friedrich David</persName>
                <birth>nicht ermittelt</birth>
                <death>nicht ermittelt</death>
@@ -6825,6 +7033,16 @@
                <ptr type="general" target="0"/>
                <note>Windisch-Graetz; deutscher Schriftsteller und Philosoph, Böhmen.</note>
             </person>
+            <person xml:id="wischnu">
+               <idno type="uri">https://d-nb.info/gnd/118769529</idno>
+               <persName type="reg">Wischnu</persName>
+               <birth/>
+               <death/>
+               <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
+               <note>Vishnu; eine der höchsten Gottheiten des Hinduismus; versinnbildlicht das Prinzip der
+                  Erhaltung.</note>
+            </person>
             <person xml:id="wizenmann_thomas">
                <idno type="uri">https://d-nb.info/gnd/117446122</idno>
                <persName type="reg">Wizenmann, Thomas</persName>
@@ -6849,6 +7067,7 @@
                <death>1679–1754</death>
                <ptr type="general" target="0"/>
                <ptr type="direct" target="1"/>
+               <ptr type="direct" target="6"/>
                <note>Deutscher Philosoph, Naturrechtler, Mathematiker und Universalgelehrter, Professor der
             Mathematik und Philosophie in Halle.</note>
             </person>
@@ -6917,6 +7136,7 @@
                <birth>1731–1793</birth>
                <death>1731–1793</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Preußischer Staats- und Justizminister, Vorgänger von Woellner.</note>
             </person>
             <person xml:id="zenon_der_eleate">
@@ -6928,7 +7148,7 @@
                <note>Zenon; antiker griechischer Philosoph.</note>
             </person>
             <person xml:id="zenon_der_stoiker">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118636510</idno>
                <persName type="reg">Zeno von Kition</persName>
                <birth>ca. 333–ca. 262 v. Chr.</birth>
                <death>ca. 333–ca. 262 v. Chr.</death>
@@ -6936,7 +7156,7 @@
                <note>Zenon; antiker griechischer Philosoph, Begründer der Stoa.</note>
             </person>
             <person xml:id="zerduscht">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118636227</idno>
                <persName type="reg">Zerduscht</persName>
                <birth/>
                <death/>
@@ -6968,11 +7188,12 @@
                <note>Deutscher evangelischer Pfarrer und Pädagoge, Berlin.</note>
             </person>
             <person xml:id="zoroaster_zarathustra">
-               <idno type="uri"/>
+               <idno type="uri">https://d-nb.info/gnd/118636227</idno>
                <persName type="reg">Zoroaster</persName>
                <birth>2. Jahrtausend v. Chr.</birth>
                <death>2. Jahrtausend v. Chr.</death>
                <ptr type="general" target="0"/>
+               <ptr type="direct" target="6"/>
                <note>Auch Zarathustra, iranischer Religionsstifter, Priester und Philosoph.</note>
             </person>
          </listPerson>
