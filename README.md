@@ -10,6 +10,7 @@ The data was created and edited in the DFG-funded project „Neuedition der Abte
 
 * kant-digital: TEI-XML-files of the digital edition (published on [kant-digital.bbaw.de](kant-digital.bbaw.de))
 * Schemata: rng-schema for the TEI-XML-files of the digital edition
+* Current version is 1.5
 
 ## Citations
 
